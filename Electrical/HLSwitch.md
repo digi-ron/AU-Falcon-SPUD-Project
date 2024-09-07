@@ -18,10 +18,11 @@ There seems to be a variation between the base model unit and the high model uni
 ### Pin layout - Rough diagram
 <!--TODO add an image-->
 The following notes assume pin numbers where you are looking at the switch unit itself, with the clip cut-out facing up and the 2 pin section of the top row to the left:
-
-| `01` | `02` | `--` | `--` | `03` | `04` | `05` |
+| | | | | | | |
 | -- | -- | -- | -- | -- | -- | -- |
+| `01` | `02` | `--` | `--` | `03` | `04` | `05` |
 | `06` | `07` | `08` | `09` | `10` | `11` | `12` |
+| | | | | | | |
 
 ### Low unit pins
 - 01 = blank
