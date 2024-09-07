@@ -18,6 +18,7 @@ There seems to be a variation between the base model unit and the high model uni
 ### Pin layout - Rough diagram
 <!--TODO add an image-->
 The following notes assume pin numbers where you are looking at the switch unit itself, with the clip cut-out facing up and the 2 pin section of the top row to the left:
+
 | `01` | `02` | `--` | `--` | `03` | `04` | `05` |
 | -- | -- | -- | -- | -- | -- | -- |
 | `06` | `07` | `08` | `09` | `10` | `11` | `12` |
@@ -38,6 +39,7 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 ### High unit pins
 > NOTE: information is particularly incomplete here due to lack of a high model AU to discern wiring minutiae
+
 - 01 = Illumination light (- assumed)
 - 02 = Illumination light (+ assumed)
 - 03 = Delay OFF & CONT to 12 when Headlight HIGH (likely part of delay function)
