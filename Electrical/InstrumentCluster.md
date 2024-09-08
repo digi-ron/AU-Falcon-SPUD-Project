@@ -12,6 +12,7 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 ---
 
 ### 12 way plug - top plug behind fuel gauge side of cluster
+
 | Name | Code | Notes |
 | --- | --- | --- |
 | Male Connector Housing | 175965-2 | Loom end connector |
