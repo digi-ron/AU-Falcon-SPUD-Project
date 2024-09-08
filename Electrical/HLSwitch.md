@@ -13,7 +13,7 @@ The plugs used for the headlight switch initially appear to be a AMP MULTILOCK .
 | Male Terminal | 7114-1171 | brass insert for male housing, suited for 0.85/1.25mm<sup>2</sup> wire |
 
 ## Variations
-There seems to be a variation between the base model unit and the high model units in terms of wiring, beyond the expected low amount of difference expected from the 1 additional control. Wiring information below is incomplete as of 07/09/2024
+There seems to be a variation between the base model unit and the high model units in terms of wiring, beyond the expected low amount of difference expected from the 1 additional control. Wiring information below is WIP as of 07/09/2024
 
 ### Pin layout - Rough diagram
 <!--TODO add an image-->
