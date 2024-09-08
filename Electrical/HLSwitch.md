@@ -37,6 +37,9 @@ The following notes assume pin numbers where you are looking at the switch unit 
 - 11 = Dome light MID
 - 12 = Headlights HIGH
 
+![Low Plug](./HLSwitch/low-plug.jpg)
+> photo of headlight switch unit end plug (male pin connector)
+
 ### High unit pins
 > NOTE: information is particularly incomplete here due to lack of a high model AU to discern wiring minutiae
 
@@ -52,3 +55,6 @@ The following notes assume pin numbers where you are looking at the switch unit 
 - 10 = Dome light LOW
 - 11 = ??? (also no CONT)
 - 12 = Headlight HIGH & GND to 03 when Headlight HIGH
+
+![High Plug](./HLSwitch/high-plug.jpg)
+> photo of headlight switch unit end plug (male pin connector)
