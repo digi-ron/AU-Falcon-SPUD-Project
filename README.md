@@ -5,6 +5,6 @@
 # Navigation
 
 - Electrical
-  - [Speedometer](./Electrical/Speedometer.md)
+  - [Instrument Cluster](./Electrical/InstrumentCluster.md)
   - [Headlight Switch](./Electrical/HLSwitch.md)
   - [Accessory Plug (blue under-dash connector)](./Electrical/AccessoryPlug.md)
