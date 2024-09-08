@@ -1,0 +1,31 @@
+# Instrument Cluster
+## Plug type
+The plugs in the back of the instrument cluster all seem to be MULTILOCK 040 II connectors, seemingly manufactured by a company called TE Connectivity. Part information varies according to which specific plug is desired.
+
+> NOTE: information is specific to low model clusters due to project only involving 1 S1 Forte cluster and 1 S1 Pursuit cluster to date
+
+### 16 way plug - bottom plug behind fuel gauge side of cluster
+
+| Name | Code | Notes |
+| --- | --- | --- |
+| Male Connector Housing | 175966-2 | Loom end connector |
+| Connector Socket | 175615-2 | Cluster end connector, with right angle solder pins behind |
+
+![Male 16 pin connector](./InstrumentCluster/male-16p.png)
+> Male connector image taken from RS Components product page
+
+![Female 16 pin connector](./InstrumentCluster/female-16p.png)
+> Male connector image taken from RS Components product page
+
+### 20 way plug - plug behind RPM gauge side of cluster
+
+| Name | Code | Notes |
+| --- | --- | --- |
+| Male Connector Housing | 175967-2 | Loom end connector |
+| Connector Socket | 175975-2 | Cluster end connector, with right angle solder pins behind |
+
+![Male 20 pin connector](./InstrumentCluster/male-20p.png)
+> Male connector image taken from RS Components product page
+
+![Female 20 pin connector](./InstrumentCluster/female-20.png)
+> Female connector housing image take from RS Components product page
