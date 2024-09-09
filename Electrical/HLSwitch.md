@@ -13,10 +13,9 @@ The plugs used for the headlight switch initially appear to be a AMP MULTILOCK .
 | Male Terminal | 7114-1171 | brass insert for male housing, suited for 0.85/1.25mm<sup>2</sup> wire |
 
 ## Variations
-There seems to be a variation between the base model unit and the high model units in terms of wiring, beyond the expected low amount of difference expected from the 1 additional control. Wiring information below is WIP as of 07/09/2024
+There seems to be a variation between the base model unit and the high model units in terms of wiring, beyond the expected low amount of difference expected from the 1 additional control.
 
 ### Pin layout - Rough diagram
-<!--TODO add an image-->
 The following notes assume pin numbers where you are looking at the switch unit itself, with the clip cut-out facing up and the 2 pin section of the top row to the left:
 
 | `01` | `02` | `--` | `--` | `03` | `04` | `05` |
@@ -27,9 +26,9 @@ The following notes assume pin numbers where you are looking at the switch unit 
 - 01 = blank
 - 02 = blank
 - 03 = blank
-- 04 = GND
+- 04 = GND/SIG?
 - 05 = blank
-- 06 = GND
+- 06 = GND/SIG?
 - 07 = Dome light HIGH
 - 08 = Dome light OFF
 - 09 = Headlights LOW
@@ -48,13 +47,13 @@ The following notes assume pin numbers where you are looking at the switch unit 
 - 03 = Delay OFF & CONT to 12 when Headlight HIGH (likely part of delay function)
 - 04 = Delay OFF & CONT to 05
 - 05 = Delay OFF & CONT to 04
-- 06 = GND
+- 06 = GND/SIG?
 - 07 = Dome light HIGH
 - 08 = ??? (no CONT)
-- 09 = Headlight LOW & GND to 03 when Headlight LOW
+- 09 = Headlight LOW & CONT to 03 when Headlight LOW
 - 10 = Dome light LOW
 - 11 = ??? (also no CONT)
-- 12 = Headlight HIGH & GND to 03 when Headlight HIGH
+- 12 = Headlight HIGH & CONT to 03 when Headlight HIGH
 
 ![High Plug](./HLSwitch/high-plug.jpg)
 > photo of headlight switch unit end plug (male pin connector)
