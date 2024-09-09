@@ -4,10 +4,13 @@ A collation of notes and information about the AU Falcon, collated while working
 
 > NOTE: This is a preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads
 
+***ALL INFORMATION IS WIP AS OF 09/09/2024***
+
 # Navigation
 
 - Electrical
   - [Accessory Plug (blue under-dash connector)](./Electrical/AccessoryPlug.md)
+  - [Centre Console Buttons](./Electrical/CentreConsoleButtons.md)
   - [Headlight Switch](./Electrical/HLSwitch.md)
   - [Instrument Cluster](./Electrical/InstrumentCluster.md)
 - Body
