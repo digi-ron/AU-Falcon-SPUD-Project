@@ -1,8 +1,26 @@
 # Instrument Cluster
+
+## General information
+The clusters themselves come in various trims, which have differences ranging from tiny to severe. Please refer to the list below for *some* of the differences between the different models:
+
+| Cluster | Used in | Notes |
+| --- | --- | --- |
+| Low | Forte/Futura/S/SR | Only contains rev, speedo, temp and fuel gauges. Base model cluster |
+| Pursuit | Police Vehicles | police-modified low cluster with 240km/h max speed, marks every 2km/h, and programmable speedometer (for different tyre sizes) |
+| Mid | XR6/XR8 | all base gauges as well as oil pressure and battery voltage gauges. increased max reading to 240km/h (V8 only?) and gear selector indicator |
+| High | Fairmont/Fairlane/LTD | all mid cluster features, an upgraded Odometer display, more specific door ajar indicator, and additional warning lights (alternator, TCS, washer fluid, etc.) |
+
+<!--TODO add pursuit programming instructions-->
+
+> NOTE: wiring between the low/pursuit clusters and the mid/high clusters is inherently different and require a moderate to large amount of rewiring for full functionality, however multiple online sources have stated that for basic functionality such as reading the speedo, the clusters are effectively "plug and play"
+
+> NOTE: a cluster with a maximum speed reading of 240km/h can be fitted to a car with a 220km/h speedometer without issue, however series 1 clusters should be avoided due to conflicting information on this
+
+
 ## Plug type
 The plugs in the back of the instrument cluster all seem to be MULTILOCK 040 II connectors, seemingly manufactured by a company called TE Connectivity. Part information varies according to which specific plug is desired.
 
-## IMPORTANT
+### IMPORTANT
 note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are subtle differences between the 2 versions
 
 ---
