@@ -9,7 +9,7 @@ The VIN for AU Falcons can be decoded to determine the specifics of the car, and
 ### Characters 1-3 - "6FP"
 All AU Falcons should start with the first 3 characters `6FP`, due to the fact that these characters appear to represent the unique identifier for Ford Australia
 
-> NOTE: theoretically this is supposed to stand for 6 = Australia and F = Ford, but there was no known source for this information other than word-of-mouth and there was no known definition for 
+> NOTE: theoretically this is supposed to stand for 6 = Australia and FP = Ford Australia, but there was no known source for this information other than word-of-mouth
 
 ### Characters 4-6 - "AAA"
 Similar to the first 3 characters, the following 3 are also always going to be the same, this time `AAA`, however this is due to the letters being unused, not because they mean anything
