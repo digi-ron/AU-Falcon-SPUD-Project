@@ -31,10 +31,13 @@ these characters appear to signify the body style for the Falcon. Note that this
   - Futura Sedan
   - Forte Sedan
   - Falcon S/SR Sedan
+  - TS50
+  - TE50
 - LW - Long Wheel Base
   - Fairlane Sedan
   - Fairlane Ghia Sedan
   - Fairlane LTD
+  - TL50
 - WA - Wagon
   - Forte Wagon
   - Futura Wagon
