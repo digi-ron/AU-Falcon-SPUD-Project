@@ -55,7 +55,7 @@ These characters define the year and month respectively that the car was manufac
 > NOTE: The benefit to this is that the month and year gleaned from this will also be the RAV entry date, should you need it for registration etc.
 
 - Character 11 - Year
-  - Character 12 - Month
+  - Month - Character 12
 
 - W - 1998
   - Sep - B
