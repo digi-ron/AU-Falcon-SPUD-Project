@@ -15,6 +15,7 @@ A collation of notes and information about the AU Falcon, collated while working
   - [Wheels/Tyres](./Body/WheelTyre.md)
 - Electrical
   - [Accessory Plug (blue under-dash connector)](./Electrical/AccessoryPlug/AccessoryPlug.md)
+  - [Central Locking Key Fob](./Electrical/Keyfob/Keyfob.md)
   - [Centre Console Buttons](./Electrical/CentreConsoleButtons/CentreConsoleButtons.md)
   - [Headlight Switch](./Electrical/HLSwitch/HLSwitch.md)
   - [Instrument Cluster](./Electrical/InstrumentCluster/InstrumentCluster.md)
