@@ -15,6 +15,8 @@ The steering wheel controls for the AU falcon are one of the most fragile parts 
 1. unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame <!--TODO add photo-->
 1. done
 
+> NOTE: If reinstalling the steering wheel controls, be careful of the screws that hold it in place, as they are easy to cross-thread due to the material the steering wheel itself seems to be made of
+
 ## 3D Printing steering wheel control housings
 Due to the fragility of these components, there is likely to come a time where buying original parts, even through the second hand market, will become non-viable. To this end, if you have access to a 3D printer and some UV resistant filament such as ABS or ASA, you can easily print the button housings yourself, reducing the need for complete parts, or in some cases, without replacing the original button PCBs. A rudimentary 3D model can be found on GitHub, [HERE](https://github.com/digi-ron/AU-Falcon-Steering-Controls), however this model is released under an open license and can be modified using any STL editor or [Sketchup](https://www.sketchup.com/)
 
@@ -32,7 +34,7 @@ unlike most basic controls within the Falcon, the Steering controls appear to be
 ### Media control side (where fitted)
 | Button | Resistance |
 | --- | --- |
-| Seek | |
-| Volume + | |
-| Volume - | |
+| Seek | Ω |
+| Volume + | Ω |
+| Volume - | Ω |
 <!--TODO finish this bit-->
