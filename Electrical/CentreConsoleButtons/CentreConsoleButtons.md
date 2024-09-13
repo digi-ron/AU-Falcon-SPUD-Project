@@ -1,5 +1,5 @@
 # Centre Console Buttons
-The buttons within the centre dash area of the car is all of a similar type to the [Headlight Switch](./HLSwitch.md), as in they are 090 Connectors, likely manufactured by a company known as Yazaki. As these connectors are 10 way switches rather than 12 way switches, the product codes are different, and there is more information below on the variations on the plugs used in terms of usable pins, button type etc.
+The buttons within the centre dash area of the car are simply known as 090 Connectors, likely manufactured by a company known as Yazaki. These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
 
 ## Plug Information
 
