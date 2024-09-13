@@ -7,7 +7,7 @@ A collation of notes and information about the AU Falcon, collated while working
 
 > NOTE: This is an information preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads
 
-***ALL INFORMATION IS WIP AS OF: <span style="color: orange">11th September, 2024</span>***
+***ALL INFORMATION IS WIP AS OF: <span style="color: orange">14th September, 2024</span>***
 
 # Navigation
 
