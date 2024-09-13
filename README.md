@@ -20,5 +20,6 @@ A collation of notes and information about the AU Falcon, collated while working
   - [Headlight Switch](./Electrical/HLSwitch/HLSwitch.md)
   - [Instrument Cluster](./Electrical/InstrumentCluster/InstrumentCluster.md)
   - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
+  - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
 - Miscellaneous
   - [Reading Vehicle Identification Numbers (VIN)](./Miscellaneous/VIN/VIN.md)
