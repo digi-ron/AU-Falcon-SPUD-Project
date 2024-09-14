@@ -5,9 +5,9 @@ A collation of notes and information about the AU Falcon, collated while working
 
 ---
 
-> NOTE: This is an information preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads
+> NOTE: This is an information preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads. This ***IS NOT*** meant to be the AU Falcon Bible, but rather a last resort to get information that has started to disappear from the wider internet
 
-***ALL INFORMATION IS WIP AS OF: <span style="color: orange">14th September, 2024</span>***
+***ALL INFORMATION IS WIP AS OF: <span style="color: orange">15th September, 2024</span>***
 
 # Navigation
 
@@ -21,5 +21,7 @@ A collation of notes and information about the AU Falcon, collated while working
   - [Instrument Cluster](./Electrical/InstrumentCluster/InstrumentCluster.md)
   - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
   - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
+- Engine
+  - [Ignition Systems](./Engine/Ignition/Ignition.md)
 - Miscellaneous
   - [Reading Vehicle Identification Numbers (VIN)](./Miscellaneous/VIN/VIN.md)
