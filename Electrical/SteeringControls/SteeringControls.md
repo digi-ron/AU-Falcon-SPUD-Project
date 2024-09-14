@@ -6,12 +6,19 @@ The steering wheel controls for the AU falcon are one of the most fragile parts 
 
 > NOTE: you will need one specific tool for this job, a Torx T30 star socket (5 point with tamper hole). There is mixed success by tapping a standard (6 point) Torx head socket into the bolts, using a modified screwdriver, or using an extractor, however using this specific socket means that the bolts can be reused without the risk of never being able to remove it easily ever again after reinstallation
 
+> NOTE: Only a few pictures were taken for this procedure, due to lack of resources and the dangers of handling an airbag
+
+> NOTE: buttons missing from photos due to the originals being broken (ironic)
+
 1. ***DISCONNECT THE BATTERY*** and leave for at least 1hr (ideally overnight)
 1. remove the plastic caps on the sides of the rear plastic section of the steering wheel <!--TODO add photo-->
-1. remove the tamper bolts from each side <!--TODO add photo-->
-1. ***GENTLY*** pull the airbag from the front of the steering wheel, and remove **BOTH** the airbag connector (yellow with 2 pins) and the horn ground connector (small blade connector) <!--TODO add photo-->
-1. remove the steering control plug (square red connector)
+1. remove the tamper bolts from each side using your weapon of choice <!--TODO add photo-->
+1. ***GENTLY*** pull the airbag from the front of the steering wheel, and remove **BOTH** the airbag connector (yellow with 2 pins) and the horn ground connector (small blade connector)
+    ![Airbag and horn connector locations](./airbag-horn-connectors.jpg)
+1. remove the steering control plug (square black connector with red plug inside)
+    ![Steering controls plug location](./controls-connector.jpg)
 1. unscrew the 4 mounting screws on the sides of the steering wheel
+    ![Mounting screw locations](./control-mount-screws.jpg)
 1. unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame <!--TODO add photo-->
 1. done
 
