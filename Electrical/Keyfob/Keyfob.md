@@ -6,15 +6,29 @@ Due to the change from Smartlock to Smartshield midway through the AU Falcon S1 
 ### S1 Smartlock
 These remotes are actually inherited from the EL Falcon before it, and are a 304mHz sender with a Ford specific security chip built in. As a result of their age, finding good condition original ones are becoming harder, and even once found the rubber buttons are prone to wearing quicker than their S2-3 counterparts.
 
-<!--TODO add pic-->
+![Series 1 keyfob approximation](./S1-fob.png)
+
+> Image cropped from RemotePro product page, which was advertising a aftermarket replacement that looks completely different
+
+> NOTE: The S1 Ute remotes are missing the boot button (right)
 
 <!--TODO add information about a KEYDIY workaround for the remote-->
 
-<!--TODO add programming instructions-->
-
 ### S2/S3 Smartshield
-hese remotes are far closer to what would become the standard for the BA/BF model Ford Falcons after them, utlizing a 433mHz frequency and becoming far more standard allowing for a much lower aftermarket replacement cost. They are noticably larger than their S1 counterparts, however they are also far more durable, reparable, and ultimately, replacablee*
+these remotes are far closer to what would become the standard for the BA/BF model Ford Falcons after them, utilizing a 433mHz frequency and becoming far more standard allowing for a much lower aftermarket replacement cost. They are noticeably larger than their S1 counterparts, however they are also far more durable, reparable, and ultimately, replaceable*
 
-<sup>* at the tme of writing, 2024</sup>
+<sup>* at the time of writing, 2024</sup>
 
-<!--TODO add programming instructions-->
+![Series 2-3 keyfob](./S2-3-fob.png)
+
+> Image taken from RemotePro product page for aftermarket replacement. Original is almost identical barring a Ford logo stamped into the back of the shell
+
+> NOTE: The S2/3 Ute remotes are missing the boot button (bottom right)
+
+## Programming Keyfobs
+1. ensure all doors are closed and car is unlocked, then insert the key into the ignition and turn to the "ACC" position
+1. press the rear demister switch 3 times. If successful, the door locks should cycle (unlocked-locked-unlocked)
+1. press any button on the remote. once registered, the car should cycle the locks again
+1. repeat previous steps for any other remote
+1. remove key
+1. done
