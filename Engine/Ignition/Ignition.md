@@ -9,8 +9,12 @@ While the spark plug manufacturer code vary according to the manufacturer, the f
 | Reach | 18-21mm |
 | Resisted | Yes |
 
+> NOTE: In a pinch, the sparkplugs can be *carefully* removed using a 21mm deep socket, thanks to the location of the spark plugs not being recessed into the top of engine.
+
+<!--TODO test removal using wheel iron and report-->
+
 ## Ignition coil pack
-The AU Falcon is the last Ford Falcon produced that used a ignition coil pack rather than the newer individual coil on plug design. This comes with the drawback of having to replace the entire unit when one part of the coilpack fails, however this also comes with the benefit that (generally) replacing the coil pack on an AU Falcon is approximately the same price as replacing 1-2 ignition coils on a later model Falcon*
+The AU Falcon is the last Ford Falcon produced that used a ignition coil pack rather than the newer individual coil on plug design. This comes with the drawback of having to replace the entire unit when one part of the coil pack fails, however this also comes with the benefit that (generally) replacing the coil pack on an AU Falcon is approximately the same price as replacing 1-2 ignition coils on a later model Falcon*
 
 <sup>* as of time of writing in 2024</sup>
 
@@ -27,7 +31,7 @@ The base engine in the first AU Falcons shared a ignition coil pack with the pre
 > Photo taken from T.I Performance product page
 
 #### S2/3 - I6
-The base ending for the later models of falcons had a different coil pack with different connections, and can be identified by the more square shaped electrical connector, and recessed spark plug lead connectors. This was also the ignition coil pack used for the VCT engines
+The base engine for the later models of falcons had a different coil pack with different connections, and can be identified by the more square shaped electrical connector, and recessed spark plug lead connectors. This was also the ignition coil pack used for the VCT engines
 
 ![Series 2/3 Intech Ignition Coil](./AUII-III-Intech-Coil.png)
 
