@@ -42,4 +42,4 @@ Trailer wiring appears to have a generally accepted standard, which is used for 
 - RED = Auxillary (not required)
 - PURPLE = Reversing lights
 
-<!--TODO: confirm this is actually  standard and not some wacky coincidence-->
+<!--TODO: confirm this is actually standard and not some wacky coincidence-->
