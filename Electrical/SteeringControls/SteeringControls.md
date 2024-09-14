@@ -41,7 +41,7 @@ unlike most basic controls within the Falcon, the Steering controls appear to be
 ### Media control side (where fitted)
 | Button | Resistance |
 | --- | --- |
-| Seek | Ω |
+| Seek | 240Ω |
 | Volume + | Ω |
-| Volume - | Ω |
+| Volume - | 910Ω |
 <!--TODO finish this bit-->
