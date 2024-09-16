@@ -1,12 +1,14 @@
 # Fuses & Relays
 
-## Cabin
+## Cabin - Diagram
 
-<!--TODO pics and an explaination-->
+![Cabin fuses diagram](./cabin-fuses.jpg)
 
-## Engine Bay
+## Engine Bay - Diagram
 
-<!--TODO pics and an explaination-->
+![Engine Bay fuses diagram](./engine-bay-scan.jpg)
+
+> Diagram scanned from user manual
 
 ## Minimum viable Fuses/Relays
 
@@ -41,13 +43,13 @@ below is a list of required parts, assuming the cabin and engine fuse boxes are 
 | ISO mini 4 way relay (SPST) | 2 |
 | ISO micro 5 way relay | 2 |
 
-<!--TODO confirm the mini and micro relays are right-->
+> NOTE: the 4 way relays in the above table are white if they are the Ford factory fitted relays. While the green 5 way relays *should* work there is no reason to have them in this scenario, and a 4 way relay is theoretically easier to find anyways
 
 ### Schematic
 Below is a diagram and list of the minimum viable fuses and relays
 
 #### Diagram
-![MVF/R](Diagram.jpg)
+![MVF/R](./minimum-viable-fuses.jpg)
 
 #### List
 | Fuse Box | Position | Name | Type | Notes |
