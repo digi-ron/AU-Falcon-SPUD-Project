@@ -1,5 +1,8 @@
 # AU-Falcon-SPUD-Project
-A collation of notes and information about the AU Falcon, collated while working on an Amaretto Gold Series 1 Forte, nicknamed "SPUD" because it looks like a potato
+A collation of notes and information about the AU Falcon, collated while working on an Amaretto Gold Series 1 Forte, nicknamed "SPUD" because it looks like a potato.
+
+> NOTE: The information here is *most* accurate for the MY 1999 S1 Ford Falcon Forte Sedan, but as much information as possible has been added for other variants
+
 ![Side by side comparison: spud (left) VS. SPUD (right)](./side-by-side.jpg)
 > "artists" rendition of car (left) and photo of car (right)
 
@@ -7,7 +10,7 @@ A collation of notes and information about the AU Falcon, collated while working
 
 > NOTE: This is an information preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads. This ***IS NOT*** meant to be the AU Falcon Bible, but rather a last resort to get information that has started to disappear from the wider internet
 
-***ALL INFORMATION IS WIP AS OF: <span style="color: orange">16th September, 2024</span>***
+***ALL INFORMATION IS WIP AS OF: <span style="color: orange">17th September, 2024</span>***
 
 # Navigation
 - Audio
