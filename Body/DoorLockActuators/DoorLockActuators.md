@@ -61,5 +61,5 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     - the plastic clip for the steel rod for the door handle and the door lock stalk (if drivers door) are re-engaged
     - the electrical connector for electrical activation is reconnected
     > NOTE: now is a good time to test the door, before reinstalling the door card
-1. reinstall the door card and window winder mechanism
+1. reinstall the door card and window winder handle/panel
 1. done
