@@ -7,6 +7,10 @@ The accessory plug is a blue plug that should be easy enough to find under the d
 
 > image taken from Narva product page for part number 56274BL
 
+![Accessory Connector](./blue-acc-plug.jpg)
+
+> photo of accessory plug in it's natural habitat
+
 ## IMPORTANT
 These quick connect connectors are somewhat generic, and as such many manufacturers sell then, however ensure you buy the ones with the key notches on the *same side* as the locking clip, and some are manufactured with them on the opposite side and will ***NOT*** fit as a result
 
