@@ -12,7 +12,43 @@ These remotes are actually inherited from the EL Falcon before it, and are a 304
 
 > NOTE: The S1 Ute remotes are missing the boot button (right)
 
-<!--TODO add information about a KEYDIY workaround for the remote-->
+<!--TODO finish below and uncomment
+
+#### DIY Fob replacement using KEYDIY
+
+A method to programming keys easily* for the Series 1 Falcons has been gained by use of a KEYDIY programmable keyfob. If desired follow the steps below to make your own copy:
+
+**Requirements**
+- Android Phone
+- [The Mobile KD App](https://play.google.com/store/apps/details?id=com.ecartek.en.kd)
+- A Mini KD cable (these can be found online, generally it is cheaper to buy it from China rather than an Australian locksmith website)
+- A KEYDIY compatible fob (these steps were reproduced using a B09 V7.0)
+
+[Mini KD Cable](./mini-kd.jpg)
+
+> photo of standard mini KD cable with remote. The remote part is usable if needed but the flip key will need to be cut and programmed to work, so the general consensus is to simply buy the cable and remote separately
+
+**Steps**
+1. disassemble your KEYDIY fob, and remove the PCB from the shell
+1. plug the serial end of the cable into the PCB from the KEYDIY key, and plug the USB end into your phone
+1. open the Mobile KD App and find the "Edit by IC" option. as of App version 8.5.16 this is under the Remote Function menu
+1. Select the "XXXX" option and click OK
+1. input the following settings for each button:
+    | Button | Chip | Frequency | Modulation | Key Value | Remote address | Min Pulse Width |
+    | --- | --- | --- | --- | --- | --- | --- |
+    | Unlock | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
+    | Lock | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
+    | Trunk (if needed) | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
+    | Panic (if present) | XXXX | XXXX | XXXX | XXXX | XXXX | XXXX |
+1. (optional) Click "Save" to keep this key information for multiple remotes or for later
+1. Click the "Generate" button to create a copy of the key
+    > NOTE: if you clicked "Save" before, you'll have to navigate into "My Keys" and find it listed there
+1. connect to your mini KD adapter
+1. 
+
+<sup>at time of writing, 2024</sup>
+
+-->
 
 ### S2/S3 Smartshield
 these remotes are far closer to what would become the standard for the BA/BF model Ford Falcons after them, utilizing a 433mHz frequency and becoming far more standard allowing for a much lower aftermarket replacement cost. They are noticeably larger than their S1 counterparts, however they are also far more durable, reparable, and ultimately, replaceable*
