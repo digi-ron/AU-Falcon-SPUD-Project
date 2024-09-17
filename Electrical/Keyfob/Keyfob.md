@@ -29,6 +29,8 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 > NOTE: the following steps must be started within 10 seconds of closing the door
 
+> NOTE: these steps will not work if you're cars electronic locks are faulty i.e if the lock actuator requires rebuilding
+
 1. ensure all doors are closed and car is unlocked, then insert the key into the ignition and turn to the "ACC" position (1 click from off, not 2)
 1. press the rear demister switch 3 times. If successful, the door locks should cycle (unlocked-locked-unlocked)
 1. press any button on the remote. once registered, the car should cycle the locks again
