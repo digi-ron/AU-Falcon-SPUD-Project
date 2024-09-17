@@ -77,11 +77,10 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 
 1. use a trim removal tool or a small flat head screwdriver to remove the speaker cover(s) on the rear panel
 1. remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
-1. do one of the following:
+1. do one of the following. For either step, keep in mind that the negative for each speaker is the wire with a black line in it:
     - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
-    <!--TODO add more information on wiring-->
-1. Connect your speaker(s) to the wiring harness and reinstall into the rear panel
+2. Connect your speaker(s) to the wiring harness and reinstall into the rear panel
     > NOTE: now is a good time to test that the speakers are connected correctly by turning on the radio
-1. place cover back onto speakers
-1. done
+3. place cover back onto speakers
+4. done
