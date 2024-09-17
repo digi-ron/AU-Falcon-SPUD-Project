@@ -1,15 +1,19 @@
 # Trailer Auxillary plug
 
-The plugs used for the trailer adapter loom are different to other plugs wthin the interior, and are a bit of an oddball connector for the car as a whole. This is likely due to Hayman Reese being the manufacturers for a large range of the tow pack options for the AU Falcon, particularly any of the higher-rated towbars. as a result the connector is of type 
+The plugs used for the trailer adapter loom are different to other plugs wthin the interior, and are a bit of an oddball connector for the car as a whole. This is likely due to Hayman Reese being the manufacturers for a large range of the tow pack options for the AU Falcon, particularly any of the higher-rated towbars. as a result the connector is known as a HM connector, apparently manufactured by a company known as Sumitomo. Fortunately
 
-<!--TODO reserch if this is the right connector set: 8 Way 6090-1021 6090-1051-->
-<!--TODO confirm that the plug isn't different between the 98 and 2002 variants as well-->
+> NOTE: this plug appears to be standard in all Falcons AU-BFIII (1998-2016) and all Territory models, however pinout may be different due to additional features
+
+![Trailer loom plug 98 Sedan](./sedan-trailer-plug.jpg)
+
+> trailer plug inside the boot of a S1 Sedan
 
 ## Plug Information
+
 | Name | Code | Notes |
 | --- | --- | --- |
-| Female Housing | ??? | Trailer adapter loom end connector |
-| Male Connector | ??? | Car loom end connector |
+| Female Housing | 6090-1021 | Car loom end connector |
+| Male Connector | 6090-1051 | Trailer adapter end connector |
 
 ## Pin Layout
 The following notes assume pin numbers where you are looking at the trailer adapter loom plug (female housing), with the clip cut-out facing up:
@@ -19,27 +23,14 @@ The following notes assume pin numbers where you are looking at the trailer adap
 | `05` | `06` | `07` | `08` |
 
 ### Pin Wiring
-- 01 = 
-- 02 = 
-- 03 = blank
-- 04 = 
-- 05 = 
-- 06 = 
-- 07 = 
-- 08 = 
 
-> NOTE: This follows standard trailer wiring loom wiring if you decide instead to go by wire colors based on the loom inside the vehicle (explained below)
-
-## Standard Trailer wiring
-
-Trailer wiring appears to have a generally accepted standard, which is used for the AU Falcon. These wiring colors are listed below:
-
-- GREY/BLACK = GND
-- BROWN = Tail Lights
-- GREEN = Right (Driver side) Indicator
-- YELLOW = Left (Passenger side) Indicator
-- BLUE = brake
-- RED = Auxillary (not required)
-- PURPLE = Reversing lights
-
-<!--TODO: confirm this is actually standard and not some wacky coincidence-->
+| Position | Color | Function |
+| --- | --- | --- |
+| 01 | Green/Red | Brake lights |
+| 02 | Brown/Grey | Tail lights |
+| 03 | N/a | Blank (no wire) |
+| 04 | Red/Black | Reverse Lights |
+| 05 | Black | GND |
+| 06 | Green/Blue | Passenger Indicator |
+| 07 | Green/Grey | Driver Indicator |
+| 08 | Yellow/Black | 12V Constant |
