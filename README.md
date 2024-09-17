@@ -1,5 +1,5 @@
 # AU-Falcon-SPUD-Project
-A collation of notes and information about the AU Falcon, collated while working on an Amaretto Gold Series 1 Forte, nicknamed "SPUD" because it looks like a potato.
+A collation of notes and information about the AU Falcon, collated while working on a Falcon Forte, nicknamed "SPUD".
 
 > NOTE: The information here is *most* accurate for the MY 1999 S1 Ford Falcon Forte Sedan, but as much information as possible has been added for other variants
 
@@ -16,7 +16,8 @@ A collation of notes and information about the AU Falcon, collated while working
 - Audio
   - [Speakers](./Audio/Speakers/Speakers.md)
 - Body
-  - [Wheels/Tyres](./Body/WheelTyre.md)
+  - [Door Lock Actuators](./Body/DoorLockActuators/DoorLockActuators.md)
+  - [Wheels/Tyres](./Body/WheelTyres/WheelTyres.md)
 - Electrical
   - [Accessory Plug (blue under-dash connector)](./Electrical/AccessoryPlug/AccessoryPlug.md)
   - [Central Locking Key Fob](./Electrical/Keyfob/Keyfob.md)
