@@ -24,8 +24,11 @@ Follow the steps below to replace the driver door speakers:
 1. Remove the door card, noting the following:
     - Manual window winding models will need to have the handle removed first (use a phillips head screwdriver)
     - Electronic window models will need to have the button plate gently removed (use a trim removal tool or a flat head screwdriver)
-    <!--TODO add a photo showing roughly where all the screws are-->
+    - the mirror switch will need to be unplugged (if drivers door)
+    - extra care will need to be taken around the door lock stalk (if drivers door)
+    ![door card screw locations](../../Common/door-card-screws.jpg)
 1. Remove the 4 screws holding the speaker into place and unplug the speaker from the wiring loom
+    <!--TODO add a photo-->
 1. do one of the following:
     - if keeping the original loom, create an adapter with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
