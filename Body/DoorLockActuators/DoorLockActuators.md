@@ -16,7 +16,11 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 1. Remove the door card, noting the following:
     - Manual window winding models will need to have the handle removed first (use a phillips head screwdriver)
     - Electronic window models will need to have the button plate gently removed (use a trim removal tool or a flat head screwdriver)
-    <!--TODO add a photo showing roughly where all the screws are-->
+    - the mirror switch will need to be unplugged (if drivers door)
+    - extra care will need to be taken around the door lock stalk (if drivers door)
+    > NOTE: the locations are different for rear doors but are similar e.g. there are 2 screws along the bottom, one on the back edge, one in the grab pocket, etc.
+
+    ![door card screw locations](../../Common/door-card-screws.jpg)
 1. If present, gently peel off the sound deadening foam on the inside of the door card, then reach into the hole towards the top of the door and unclip the plastic from the steel rod connecting the actuator to the outside door handle. This can be done by rotating the clip
     <!--TODO add a photo of the clip in here-->
 1. If you are working on the driver door, unclip the additional steel rod connecting the actuator to the door lock stalk the same way as the previous step
@@ -24,7 +28,7 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 1. unplug the electrical connector to the lock actuator
     <!--TODO add a photo-->
 1. unscrew the 3 bolts holding in the lock actuator to the striker part of the door. Note this is either a phillips head bolt, or a Torx head bolt, depending on the series of Falcon it is
-    <!--TODO add a photo-->
+    ![striker bolts](./striker-screws.jpg)
 1. remove the lock actuator from the door. If replacing the actuator, perform the reverse of all listed steps to this point with the new actuator
     > NOTE: while removing, disengage the cable running from the actuator to the inside door handle by rotating the steel cylinder end on the actuator. This is easiest done with the actuator almost out of the door
     <!--TODO add a photo of the actuator cable-->
@@ -42,7 +46,7 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     - pin ring
     - stopper (with cylinder end facing towards end of stalk)
     - spring
-    <!--TODO add a photo-->
+    ![rough pre-assembly of actuator](./actuator-assembly.jpg)
 1. carefully compress the springs and place the assembly into the actuator housing, ensuring that:
     - the pin ring is sitting in the square plastic housing
     - the cog on the end of the worm gear is sitting in the teeth for the motor properly
