@@ -8,7 +8,11 @@ A collation of notes and information about the AU Falcon, collated while working
 
 ---
 
-> NOTE: This is an information preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads. This ***IS NOT*** meant to be the AU Falcon Bible, but rather a last resort to get information that has started to disappear from the wider internet
+> This is an information preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads.
+> 
+> This ***IS NOT*** meant to be the AU Falcon Bible, but rather a last resort to get information that has started to disappear from the wider internet.
+> 
+> In the spirit of things there are no links here to the wider internet, only links to things hosted by me on GitHub
 
 ***ALL INFORMATION IS WIP AS OF: <span style="color: orange">17th September, 2024</span>***
 
