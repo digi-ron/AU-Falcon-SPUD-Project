@@ -19,8 +19,11 @@ Pursuit clusters are not only sought after as they are, in theory the rarest typ
 
 > NOTE: the calibration mode allows for 10% of calibration in either direction (so 90-110% stock) and increments about 0.5% each button press. for more than this, you will need to play with transmission gearing to an external speedometer calibration tool to achieve the desired effect
 
-1. switch the ingition key to the "On" position
-1. hold the instrument cluster for 5-7 seconds. the word `SPEEDO 0.0` should show up
+1. do the following depending on your series of **CLUSTER**:
+    - For S1 Clusters, switch the ignition key to the "On" position (second click from off), press and hold the odometer stalk button for 5 seconds and release
+    - For S2/3 Clusters, hold the odometer stalk button, turn the ignition key to the "On" position (second click from off), continue holding the button for 5 seconds, then release
+1. switch the ignition key to the "On" position
+1. after following the previous step, ensure the word `SPEEDO 0.0` shows up on the instrument cluster
     > NOTE: the 0.0 in the display stands for the default, if you have changed yours previously it will be a different number
 1. press the instrument cluster button until the number next to `SPEEDO` on the display is at the desired value, noting:
     - a short press (less than 1 second) will increase the number by 0.5
