@@ -29,8 +29,8 @@ A collation of notes and information about the AU Falcon, collated while working
   - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
   - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
 - ECU & BCM
-  - [Central Locking Key Fob](./Electrical/Keyfob/Keyfob.md)
-  - [DTC Codes](./Diagnostics/DTCCodes/DTCCodes.md)
+  - [Central Locking Key Fob](./ECUBCM/Keyfob/Keyfob.md)
+  - [DTC Codes](./ECUBCM/DTCCodes/DTCCodes.md)
   - [Instrument Cluster](./ECUBCM/InstrumentCluster/InstrumentCluster.md)
 - Engine
   - [Ignition Systems](./Engine/Ignition/Ignition.md)
