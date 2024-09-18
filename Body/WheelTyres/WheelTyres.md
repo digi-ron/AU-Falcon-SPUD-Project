@@ -23,3 +23,9 @@ using the example of 205/65R15:
 - 205 is the width in mm (from outer to inner rim) of the tyre
 - 65 is the aspect, so the percentage of the tyre width that makes the section width (distance from edge of the tyre to the edge of the rim).
 - R15 is the size of the rim it is designed for, in inches
+
+## PCDs & Offsets
+
+- PCD: 5x114.3
+- Offset: varies, generally +30mm to +50mm
+- Thread: 1/2"
