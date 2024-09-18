@@ -94,3 +94,10 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 ![Female 20 pin connector](./female-20.png)
 > Female connector housing image take from RS Components product page
+
+## Service spanner (where fitted)
+
+On models with a service spanner in the instrument cluster, you can disable it by following the steps below:
+1. turn the ignition to the "On" position (2 clicks from off)
+1. press and hold the instrument cluster odometer stalk for 10 seconds, the release
+1. done
