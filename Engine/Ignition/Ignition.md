@@ -2,6 +2,7 @@
 
 ## Spark plugs
 While the spark plug manufacturer code vary according to the manufacturer, the following is *usually* common between them:
+
 | Specification | Value |
 | --- | --- |
 | Thread | M14x1.25 |
