@@ -24,14 +24,14 @@ A collation of notes and information about the AU Falcon, collated while working
   - [Wheels/Tyres](./Body/WheelTyres/WheelTyres.md)
 - Electrical
   - [Accessory Plug (blue under-dash connector)](./Electrical/AccessoryPlug/AccessoryPlug.md)
-  - [Central Locking Key Fob](./Electrical/Keyfob/Keyfob.md)
   - [Centre Console Buttons](./Electrical/CentreConsoleButtons/CentreConsoleButtons.md)
   - [Headlight Switch](./Electrical/HLSwitch/HLSwitch.md)
-  - [Instrument Cluster](./Electrical/InstrumentCluster/InstrumentCluster.md)
   - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
   - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
-- Diagnostics
+- ECU & BCM
+  - [Central Locking Key Fob](./Electrical/Keyfob/Keyfob.md)
   - [DTC Codes](./Diagnostics/DTCCodes/DTCCodes.md)
+  - [Instrument Cluster](./ECUBCM/InstrumentCluster/InstrumentCluster.md)
 - Engine
   - [Ignition Systems](./Engine/Ignition/Ignition.md)
 - Miscellaneous
