@@ -14,7 +14,7 @@ A collation of notes and information about the AU Falcon, collated while working
 > 
 > In the spirit of things there are as few links to the wider internet here as possible
 
-***ALL INFORMATION IS WIP AS OF: <span style="color: orange">17th September, 2024</span>***
+***ALL INFORMATION IS WIP AS OF: <span style="color: orange">18th September, 2024</span>***
 
 # Navigation
 - Audio
@@ -30,6 +30,8 @@ A collation of notes and information about the AU Falcon, collated while working
   - [Instrument Cluster](./Electrical/InstrumentCluster/InstrumentCluster.md)
   - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
   - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
+- Diagnostics
+  - [DTC Codes](./Diagnostics/DTCCodes/DTCCodes.md)
 - Engine
   - [Ignition Systems](./Engine/Ignition/Ignition.md)
 - Miscellaneous
