@@ -32,7 +32,7 @@ The steering wheel controls for the AU falcon are one of the most fragile parts 
 > NOTE: If reinstalling the steering wheel controls, be careful of the screws that hold it in place, as they are easy to cross-thread due to the material the steering wheel itself seems to be made of
 
 ## 3D Printing steering wheel control housings
-Due to the fragility of these components, there is likely to come a time where buying original parts, even through the second hand market, will become non-viable. To this end, if you have access to a 3D printer and some UV resistant filament such as ABS or ASA, you can easily print the button housings yourself, reducing the need for complete parts, or in some cases, without replacing the original button PCBs. A rudimentary 3D model can be found on GitHub, [HERE](https://github.com/digi-ron/AU-Falcon-Steering-Controls), however this model is released under an open license and can be modified using any STL editor or [Sketchup](https://www.sketchup.com/)
+Due to the fragility of these components, there is likely to come a time where buying original parts, even through the second hand market, will become non-viable. To this end, if you have access to a 3D printer and some UV resistant filament such as ABS or ASA, you can easily print the button housings yourself, reducing the need for complete parts, or in some cases, without replacing the original button PCBs. A rudimentary 3D model can be found on GitHub, [HERE](https://github.com/digi-ron/AU-Falcon-Steering-Controls), however this model is released under an open license and can be modified using any 3D modelling software capable of importing STL files, or [Sketchup](https://www.sketchup.com/)
 
 ## Steering control wiring
 unlike most basic controls within the Falcon, the Steering controls appear to be activated by specific resistances, as the connector itself only has 4 pins between the 2 sets of 3 buttons. Each button can be activated using the following resistors and a simple momentary switch:
@@ -46,9 +46,9 @@ unlike most basic controls within the Falcon, the Steering controls appear to be
 | Cruise - | 180Ω |
 
 ### Media control side (where fitted)
+
 | Button | Resistance |
 | --- | --- |
-| Seek | 240Ω |
-| Volume + | Ω |
+| Seek | 0Ω |
+| Volume + | 250Ω |
 | Volume - | 910Ω |
-<!--TODO finish this bit-->
