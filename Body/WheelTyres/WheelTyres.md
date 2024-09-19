@@ -32,7 +32,13 @@ using the example of 205/65R15:
 
 ## Wheel Dust Covers
 
-many AU Falcons came with wheel dust covers that functioned by blocking brake dust from settling on the mag wheel options that the model had, however they came with their own long term problems, such as becoming rusty over time, fouling on the side of brake calipers if dented, and most importantly, becoming a potential catalyst for front brake rotor warping conditions, a significant maintenance problem within these models. If the additional cleaning of the wheels is acceptable, it is recommended that you remove these covers as they cause more problems than they solve on the whole
+many AU Falcons came with wheel dust covers that functioned by blocking brake dust from settling on the mag wheel options that the model had, however they came with their own long term problems, such as:
+
+- becoming rusty over time
+- fouling on the side of brake calipers if dented, and most importantly;
+- becoming a potential catalyst for front brake rotor warping conditions, a significant maintenance problem within these models
+
+If the additional cleaning of the wheels is acceptable, it is recommended that you remove these covers as they cause more problems than they solve on the whole
 
 <!--TODO add a photo or 2-->
 
