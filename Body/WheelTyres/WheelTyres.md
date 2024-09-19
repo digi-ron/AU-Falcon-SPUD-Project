@@ -29,3 +29,20 @@ using the example of 205/65R15:
 - PCD: 5x114.3
 - Offset: varies, generally +30mm to +50mm
 - Thread: 1/2"
+
+## Wheel Dust Covers
+
+many AU Falcons came with wheel dust covers that functioned by blocking brake dust from settling on the mag wheel options that the model had, however they came with their own long term problems, such as becoming rusty over time, fouling on the side of brake calipers if dented, and most importantly, becoming a potential catalyst for front brake rotor warping conditions, a significant maintenance problem within these models. If the additional cleaning of the wheels is acceptable, it is recommended that you remove these covers as they cause more problems than they solve on the whole
+
+<!--TODO add a photo or 2-->
+
+## Removal
+Removal of the wheel dust covers is simple, as below:
+1. remove the desired wheel
+    <!--TODO add a photo-->
+1. pull the dust cover from the exposed area
+    > NOTE: There may be rust holding the cover to the rotor, but no more than moderate force should be needed to get it free. ***DO NOT*** use prying tools as this may damage the brakes
+    <!--TODO add a photo-->
+1. reinstall the wheel, noting:
+    - before you install the wheel, now may be a good time to clean behind the wheel unobstructed
+    - you should tighten as much as possible while the wheel is in the air, then tighten again once the car is on the ground, to ensure a snug fit
