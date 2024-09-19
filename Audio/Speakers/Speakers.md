@@ -2,7 +2,9 @@
 
 ## Sizes
 
-The size of most speakers across the AU Falcon range are 5x7" oval speakers, which is a less than standard size. Note that 6x9" speakers can be used in both locations, however additional holes will need to be drilled to allow for them, and special care must be taken for the front door speakers depth, as they can foul the window mechanism
+The size of most speakers across the AU Falcon range are 5x7" oval speakers, which is a non-standard size. Note that 6x9" speakers can be used in both locations, however additional holes will need to be drilled to allow for them, and special care must be taken for the front door speakers depth, as they can foul the window mechanism.
+
+> NOTE: popular replacements for these speakers are the Kenwood KFC-PS5796C, as they require no amp and are a drop-in replacement, barring the plug (explained in installation steps)
 
 Exceptions to this include:
 - Wagon Rear Speakers (speakers are seemingly 4-5")
