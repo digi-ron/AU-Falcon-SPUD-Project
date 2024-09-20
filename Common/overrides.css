@@ -1,11 +1,9 @@
 img {
-    @media (max-width: 600px) or (max-height: 600px) {
-        max-height: 350px !important;
+    @media (max-aspect-ratio: 1/1) {
+        max-width: 100%;
+        height: auto;
+    };
+    @media (min-aspect-ratio: 1/1) {
+        max-height: 350px;
     }
-
-    @media (max-width: 1200px) or (max-height: 1200px) {
-        max-height: 500px !important;
-    }
-
-    max-height: 100%;
 }
