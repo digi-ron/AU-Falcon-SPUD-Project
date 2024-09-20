@@ -1,10 +1,4 @@
 img {
-    object-fit: contain;
-    @media (max-aspect-ratio: 1/1) {
-        max-width: 100%;
-        height: auto;
-    };
-    @media (min-aspect-ratio: 1/1) {
-        max-height: 350px;
-    }
+    max-height: 50vh;
+    width: auto;
 }
