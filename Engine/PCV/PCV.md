@@ -18,7 +18,9 @@ A brief description on the PCV can be found below (dot-point form for brevity, b
 if you need to replace the PCV, follow the below steps:
 1. gently twist and pull the PCV from the top of the rocker cover on the engine
     <!--TODO add a photo-->
+
     > NOTE: ensure that nothing is left behind in the engine from the old PCV, as this can cause damage if it breaks through the filter at the base of the mounting hole
+    
 1. remove the breather hose from the side of PCV assembly
     <!--TODO add a photo-->
 1. reverse previous steps with new unit to install
