@@ -7,7 +7,7 @@ A collation of notes and information about the AU Falcon, collated while working
 
 ---
 
-> This is an information preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads.
+> This is an information preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads and digging through well-worn third-party workshop manuals.
 > 
 > This ***IS NOT*** meant to be the AU Falcon Bible, but rather a last resort to get information that has started to disappear from the wider internet.
 > 
@@ -33,8 +33,10 @@ A collation of notes and information about the AU Falcon, collated while working
   - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
   - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
 - Engine
+  - [Alternator](./Engine/Alternator/Alternator.md)
   - [Cooling Systems](./Engine/CoolingSystems/CoolingSystems.md)
   - [Ignition Systems](./Engine/Ignition/Ignition.md)
   - [PCV](./Engine/PCV/PCV.md)
 - Miscellaneous
+  - [Component Lifespan Information](./Miscellaneous/Lifespans/Lifespans.md)
   - [Reading Vehicle Identification Numbers (VIN)](./Miscellaneous/VIN/VIN.md)
