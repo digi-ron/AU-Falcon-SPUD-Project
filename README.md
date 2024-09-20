@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="./Common/overrides.css">
-
 A collation of notes and information about the AU Falcon, collated while working on a Falcon Forte, nicknamed "SPUD".
 
 > NOTE: The information here is *most* accurate for the MY 1999 S1 Ford Falcon Forte Sedan, but as much information as possible has been added for other variants
