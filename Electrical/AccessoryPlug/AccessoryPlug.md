@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="../../Common/overrides.css">
+
 # Accessory plug
 
 ## How to find it
