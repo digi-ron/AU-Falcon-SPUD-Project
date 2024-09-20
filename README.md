@@ -24,17 +24,19 @@ A collation of notes and information about the AU Falcon, collated while working
 - Body
   - [Door Lock Actuators](./Body/DoorLockActuators/DoorLockActuators.md)
   - [Wheels/Tyres](./Body/WheelTyres/WheelTyres.md)
-- Electrical
-  - [Accessory Plug (blue under-dash connector)](./Electrical/AccessoryPlug/AccessoryPlug.md)
-  - [Centre Console Buttons](./Electrical/CentreConsoleButtons/CentreConsoleButtons.md)
-  - [Headlight Switch](./Electrical/HLSwitch/HLSwitch.md)
-  - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
-  - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
 - ECU & BCM
   - [Central Locking Key Fob](./ECUBCM/Keyfob/Keyfob.md)
   - [DTC Codes](./ECUBCM/DTCCodes/DTCCodes.md)
   - [Instrument Cluster](./ECUBCM/InstrumentCluster/InstrumentCluster.md)
+- Electrical
+  - [Accessory Plug (blue under-dash connector)](./Electrical/AccessoryPlug/AccessoryPlug.md)
+  - [Centre Console Buttons](./Electrical/CentreConsoleButtons/CentreConsoleButtons.md)
+  - [Fuses](./Electrical/Fuses/Fuses.md)
+  - [Headlight Switch](./Electrical/HLSwitch/HLSwitch.md)
+  - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
+  - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
 - Engine
+  - [Cooling Systems](./Engine/CoolingSystems/CoolingSystems.md)
   - [Ignition Systems](./Engine/Ignition/Ignition.md)
   - [PCV](./Engine/PCV/PCV.md)
 - Miscellaneous
