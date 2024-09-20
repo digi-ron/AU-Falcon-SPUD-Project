@@ -12,12 +12,12 @@ While the spark plug manufacturer code vary according to the manufacturer, the f
 | Reach | 18-21mm |
 | Resisted | Yes |
 
-> NOTE: In a pinch, the sparkplugs can be *carefully* removed using a 21mm deep socket, thanks to the location of the spark plugs not being recessed into the top of engine.
+> NOTE: In a pinch, the sparkplugs can be *carefully* removed using a 21mm deep socket, thanks to the location of the spark plugs not being recessed too far into the top of engine.
 
 <!--TODO test removal using wheel iron and report-->
 
 ## Ignition coil pack
-The AU Falcon is the last Ford Falcon produced that used a ignition coil pack rather than the newer individual coil on plug design. This comes with the drawback of having to replace the entire unit when one part of the coil pack fails, however this also comes with the benefit that (generally) replacing the coil pack on an AU Falcon is approximately the same price as replacing 1-2 ignition coils on a later model Falcon*
+The AU Falcon is the last Ford Falcon manufactured that used a ignition coil pack rather than the newer individual coil on plug design. This comes with the drawback of having to replace the entire unit when one part of the coil pack fails, however this also comes with the benefit that (generally) replacing the coil pack on an AU Falcon is approximately the same price as replacing 1-2 ignition coils on a later model Falcon*
 
 <sup>* as of time of writing in 2024</sup>
 
