@@ -36,3 +36,24 @@ The following notes assume pin numbers where you are looking at the trailer adap
 | 06 | Green/Blue | Passenger Indicator |
 | 07 | Green/Grey | Driver Indicator |
 | 08 | Yellow/Black | 12V Constant |
+
+## Australian standard pinouts
+
+> NOTE: no information on round pins due to phasing out as of 2024
+
+### 7 Pin layout
+
+for the following information, assume the following layout forn the trailer end connector, with the locking tabs facing up:
+
+| `1` | `6` | `5` | `3` | `2` | `7` | `4` |
+| --- | --- | --- | --- | --- | --- | --- |
+
+| Pin # | Color | Function |
+| --- | --- | --- |
+| 1 | Yellow | Passenger Indicator |
+| 2 | Black | Reversing lights |
+| 3 | White | GND |
+| 4 | Green | Driver Indicator |
+| 5 | Blue | Electric Brakes |
+| 6 | Red | Brake lights |
+| 7 | Brown | tail light |
