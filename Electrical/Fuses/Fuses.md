@@ -17,6 +17,7 @@
 As a result of experimentation, the minimum amount of fuses and relays required for starting the AU Falcon has been ascertained. This assumes a ***worst case scenario*** and comes with multiple caveats (listed below)
 
 ### Caveats
+
 Running the car on the bare minimum required to turn over the car, and as such many systems required for driving legally on Australian roads will be disabled. Please refer to the list below and compensate accordingly if needed, otherwise only use this in order to get a car onto a suitable transport:
 
 Important systems disabled are:
@@ -32,6 +33,7 @@ This also assumes that:
 - you are willing to remove the Idle Speed Control unit (may be closed too much or clogged at rest)
 
 ### List of required fuses and relays
+
 below is a list of required parts, assuming the cabin and engine fuse boxes are empty:
 
 | Name | QTY |
@@ -48,12 +50,15 @@ below is a list of required parts, assuming the cabin and engine fuse boxes are 
 > NOTE: the 4 way relays in the above table are white if they are the Ford factory fitted relays. While the green 5 way relays *should* work there is no reason to have them in this scenario, and a 4 way relay is theoretically easier to find anyways
 
 ### Schematic
+
 Below is a diagram and list of the minimum viable fuses and relays
 
 #### Diagram
+
 ![MVF/R](./minimum-viable-fuses.jpg)
 
 #### List
+
 | Fuse Box | Position | Name | Type | Notes |
 | --- | --- | --- | --- | --- |
 | Cabin | 1 | Cluster Ig | 10A Fuse | required despite vehicle not requiring cluster itself to start (controls ignition handshake?) |
