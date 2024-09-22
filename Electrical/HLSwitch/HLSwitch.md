@@ -39,9 +39,11 @@ The following notes assume pin numbers where you are looking at the switch unit 
 - 12 = Headlights HIGH
 
 ![Low Plug](./low-plug.jpg)
+
 > photo of headlight switch unit end plug (male pin connector)
 
 ### High unit pins
+
 > NOTE: information is particularly incomplete here due to lack of a high model AU to discern wiring minutiae
 
 - 01 = Illumination light (- assumed)
