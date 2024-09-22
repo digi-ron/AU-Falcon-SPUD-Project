@@ -15,6 +15,7 @@ Exceptions to this include:
 The standard speakers used in the AU Falcon are known as a 250 Series Quick Connect 2-way connector. They are easy enough to identify as they have a T-shaped housing on them. There are many manufacturers for these connectors, and such it should be relatively trivial to find one from an Automotive Shop
 
 ![Narva Quick Connect 2 way connector set](./2-way-speaker-connector.png)
+
 > Picture taken from Narva product page for a pack of both 1 male connector housing (left) and one female connector housing (right) (product code 56272BL)
 
 ## Replacement
@@ -59,6 +60,10 @@ Follow the steps below to replace the driver door speakers:
 
     > NOTE: now is a good time to test that the speakers are connected correctly by turning on the radio
 
+    ![Driver door speaker installed](./driver-speaker-installed.jpg)
+
+    > photo of speaker installed. Note you can use the original screws, or the new screws and brackets from the new speakers if wanted/needed
+
 1. reinstall the door card, remembering to reconnect the window winder handle (on manual winding models) or the electronic window panel (on electronic window models)
 1. done
 
@@ -70,7 +75,7 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
     - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
     <!--TODO add more information on wiring-->
-1. Connect your speaker(s) to the wiring harness and reinstall into the shelf
+1. Connect your speaker(s) to the wiring loom and reinstall into the shelf
     > NOTE: now is a good time to test that the speakers are connected correctly by turning on the radio
 1. place cover back onto speakers
 1. done
