@@ -6,12 +6,19 @@ A well known issue with 1998-2010 Falcon (AU-BFIII) and 2004-2016 (SX-SZ) Territ
 
 <sup>*at time of writing in 2024</sup>
 
+![Common failure type](./failed-cog.jpg)
+![Complete cog](./complete-cog.jpg)
+
+> Photo of an example of the broken internal actuator component, and the part it is supposed to be respectively
+
 ## Replacement
 If repairing instead of replacing, you will need:
 - a rebuild kit (usually consists of 3 plastic pieces, a spring, and a small motor)
 - some grease (general purpose is fine)
 
 > NOTE: if replacing, note that the there is a change in electrical plugs between the AU and other models. Adapter cables were available for a time but are hard to come by, so the accepted advice is to ensure you source AU parts
+
+> NOTE: some photos not available due to working in tight spaces
 
 Follow the steps below to repair or replace the Door Lock Actuator:
 
@@ -25,39 +32,52 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     ![door card screw locations](../../Common/door-card-screws.jpg)
 
 1. If present, gently peel off the sound deadening foam on the inside of the door card, then reach into the hole towards the top of the door and unclip the plastic from the steel rod connecting the actuator to the outside door handle. This can be done by rotating the clip
-    <!--TODO add a photo of the clip in here-->
 1. If you are working on the driver door, unclip the additional steel rod connecting the actuator to the door lock stalk the same way as the previous step
-    <!--TODO add a photo of the additional clip location-->
 1. unplug the electrical connector to the lock actuator
     <!--TODO add a photo-->
 1. unscrew the 3 bolts holding in the lock actuator to the striker part of the door. Note this is either a phillips head bolt, or a Torx head bolt, depending on the series of Falcon it is
 
     ![striker bolts](./striker-screws.jpg)
 
+    > photo of the striker bolt locations. note that they are prone to rounding out as they are especially exposed to the elements
+
 1. remove the lock actuator from the door. If replacing the actuator, perform the reverse of all listed steps to this point with the new actuator
     > NOTE: while removing, disengage the cable running from the actuator to the inside door handle by rotating the steel cylinder end on the actuator. This is easiest done with the actuator almost out of the door
     <!--TODO add a photo of the actuator cable-->
-1. if repairing, move the actuator to a flat surface and cut the 2 zip ties holding the plug wiring in place
-    <!--TODO add a photo-->
+1. if repairing, move the actuator to a flat surface and cut the outer-most zip tie holding the plug wiring in place
+
+    ![zip tie location on actuator](./cable-tie-cut.jpg)
+
 1. remove the 4 screws holding in the back casing of the actuator electronics
-    <!--TODO add a photo-->
-1. remove the plastic components and springs from the housing. If you are also replacing the motor, gently lift the motor out and pry the 2 small spade connectors using a small screwdriver or a fingernail, and place the new motor in the same location as the old one was.
-    <!--TODO add photo of plastic to remove AND the motor wiring-->
+    
+    ![Actuator housing screws](./actuator-housing-screws.jpg)
+
+1. remove the plastic components and springs from the housing. If you are also replacing the motor, remove the driver door electrical switch (if present), gently lift the motor out and pry the 2 small spade connectors using a small screwdriver or a fingernail, and place the new motor in the same location as the old one was.
+    
+    ![Assembly pre-removal](./old-actuator-exposed.jpg)
+    ![Assembly post driver button removed](./actuator-driver-button-removed.jpg)
+    ![Assembly post-motor removal](./actuator-motor-removed.jpg)
+
+    > photos of the step by step process of removing the driver switch (if present), and the motor
+
 1. apply a thin layer of grease to the bottom of the housing while exposed (where the plastic was), being careful to avoid touching the spade end connections
-    <!--TODO add a photo-->
 1. pre-assemble the parts onto the stalk of the worm gear in the following order (from cog to end):
-    - spring (should go over lip in cog end)
+    - spring (can go over lip near cog end, but will need to be compressed on placement later)
     - stopper (with cylinder end inside spring)
     - pin ring
     - stopper (with cylinder end facing towards end of stalk)
-    - spring
+    - spring (will be longer than assembly, will need to be compressed on placement later)
 
     ![rough pre-assembly of actuator](./actuator-assembly.jpg)
     
 1. carefully compress the springs and place the assembly into the actuator housing, ensuring that:
-    - the pin ring is sitting in the square plastic housing
+    - the pin ring is sitting central in the square plastic housing
     - the cog on the end of the worm gear is sitting in the teeth for the motor properly
-    <!--TODO add a photo-->
+    - the spring on the cog end is sitting on the black plastic **before** the lip in the gear
+    - the pring on the far end is sitting inside the assembly securely
+
+    ![Assembled with new gear](./assembly-assembled.jpg)
+    
 1. apply a moderate amount of grease to the:
     - cog (put a little on and spin the cog back and forth to lubricate the motor)
     - the spring (mostly near the stoppers)
