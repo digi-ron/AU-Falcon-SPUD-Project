@@ -27,9 +27,12 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     - Electronic window models will need to have the button plate gently removed (use a trim removal tool or a flat head screwdriver)
     - the mirror switch will need to be unplugged (if drivers door)
     - extra care will need to be taken around the door lock stalk (if drivers door)
+    
     > NOTE: the locations are different for rear doors but are similar e.g. there are 2 screws along the bottom, one on the back edge, one in the grab pocket, etc.
 
     ![door card screw locations](../../Common/door-card-screws.jpg)
+
+    > photo of screws to remove. Note the one around the side of the door, and be careful of the plastic clips holding in the top and sides in particular
 
 1. If present, gently peel off the sound deadening foam on the inside of the door card, then reach into the hole towards the top of the door and unclip the plastic from the steel rod connecting the actuator to the outside door handle. This can be done by rotating the clip
 1. If you are working on the driver door, unclip the additional steel rod connecting the actuator to the door lock stalk the same way as the previous step
@@ -48,9 +51,13 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 
     ![zip tie location on actuator](./cable-tie-cut.jpg)
 
+    > photo of what to cut. You can cut the other zip tie also but it is not required
+
 1. remove the 4 screws holding in the back casing of the actuator electronics
     
     ![Actuator housing screws](./actuator-housing-screws.jpg)
+
+    > remove these 4 screws
 
 1. remove the plastic components and springs from the housing. If you are also replacing the motor, remove the driver door electrical switch (if present), gently lift the motor out and pry the 2 small spade connectors using a small screwdriver or a fingernail, and place the new motor in the same location as the old one was.
     
@@ -69,6 +76,8 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     - spring (will be longer than assembly, will need to be compressed on placement later)
 
     ![rough pre-assembly of actuator](./actuator-assembly.jpg)
+
+    > visual representation of the order the parts go in
     
 1. carefully compress the springs and place the assembly into the actuator housing, ensuring that:
     - the pin ring is sitting central in the square plastic housing
@@ -77,6 +86,8 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     - the pring on the far end is sitting inside the assembly securely
 
     ![Assembled with new gear](./assembly-assembled.jpg)
+
+    > complete assembly photo after pressing into the housing. nothing should fly out from here, but be careful when pressing the plastic cover over the top so as not to disturb the inner workings
     
 1. apply a moderate amount of grease to the:
     - cog (put a little on and spin the cog back and forth to lubricate the motor)
