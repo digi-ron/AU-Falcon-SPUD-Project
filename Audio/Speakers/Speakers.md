@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="../../Common/overrides.css">
+
 # Speakers
 
 ## Sizes
@@ -17,24 +19,42 @@ The standard speakers used in the AU Falcon are known as a 250 Series Quick Conn
 
 ## Replacement
 
-> NOTE: you will need a uncommon bit for this job, an E-Torx XXX. These can be found in certain screwdriver or drill driver bit sets. Alternatively there is known mixed success using either a XXmm socket or a pair of vice grip pliers (however the latter should only be used if a new screw is going to replace it as it will likely damage the head of the screw)
+> NOTE: you will need a uncommon bit for this job, an E-Torx XXX. These can be found in certain screwdriver or drill driver bit sets. Alternatively there is known mixed success using either a 5mm socket or a pair of vice grip pliers (however the latter should only be used if a new screw is going to replace it as it will likely damage the head of the screw)
 
 <!--TODO work out the exact bit needed-->
 
 ### Driver Door Speakers
+
 Follow the steps below to replace the driver door speakers:
 1. Remove the door card, noting the following:
     - Manual window winding models will need to have the handle removed first (use a phillips head screwdriver)
     - Electronic window models will need to have the button plate gently removed (use a trim removal tool or a flat head screwdriver)
     - the mirror switch will need to be unplugged (if drivers door)
     - extra care will need to be taken around the door lock stalk (if drivers door)
+
     ![door card screw locations](../../Common/door-card-screws.jpg)
+
+    > Photo of screw locations
+
 1. Remove the 4 screws holding the speaker into place and unplug the speaker from the wiring loom
-    <!--TODO add a photo-->
+
+    > NOTE: after removal, it may be a good idea to clean up the door, as the surfaces where the speaker and door meet is prone to crust and rust, seemingly as a result of adhesives used at some point
+
+    ![Speaker screw locations](./speaker-screws.jpg)
+    ![Speaker post-removal](./spaker-removed.jpg)
+
+    > Photos of the speaker screw locations in the door assembly, and the door post-removal respectively
+
 1. do one of the following:
     - if keeping the original loom, create an adapter with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
-    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
-    <!--TODO add more information on wiring-->
+    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom, noting:
+        - On the [plug](#plug), the top connection (horizontal pin) is the negative
+        - as much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
+        
+    ![Door end connector](./speaker-wires-door.jpg)
+
+    > Photo of the wires from the back of the plug in the door side of the wiring loom. Note the wire with the Black line is Negative, and the one with the Green line is Positive
+
 1. Connect your speaker to the wiring harness and reinstall into the door
 
     > NOTE: now is a good time to test that the speakers are connected correctly by turning on the radio
