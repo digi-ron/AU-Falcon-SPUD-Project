@@ -47,10 +47,15 @@ Follow the steps below to replace the driver door speakers:
     > Photos of the speaker screw locations in the door assembly, and the door post-removal respectively
 
 1. do one of the following:
-    - if keeping the original loom, create an adapter with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
-    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom, noting:
+    - if keeping the original loom, create an adapter with a [male housing 2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
+    - if modifying the loom, cut and crimp the spade connectors for your speakers onto the loom, noting:
         - On the [plug](#plug), the top connection (horizontal pin) is the negative
         - as much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
+        - if you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
+
+        ![example speaker loom](./speaker-loom-kenwood.jpg)
+
+        > example of a loom made for a set of Kenwood speakers
         
     ![Door end connector](./speaker-wires-door.jpg)
 
