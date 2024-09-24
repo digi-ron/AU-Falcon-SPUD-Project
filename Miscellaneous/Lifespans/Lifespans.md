@@ -10,7 +10,7 @@ please refer to the table below for expected lifespans of various components, al
 | --- | --- | --- |
 | ABS Speed Sensors | 200,000 | check and replace if triggering when braking with slight steering at slow speed |
 | Alternator | 250,000 | assuming no leaks from power steering, check for battery light on dash or running voltage less than 13v |
-| Ignition Coil Pack | 150,000 | ideal to replace each 2nd/8th time (iridium/copper spark plugs respectively) |
+| Ignition Coil Pack | 150,000 | ideal to replace each 2nd/8th time the spark plugs are replaced (iridium/copper spark plugs respectively) |
 | Oil filter | 20,000 | assuming still using rated 5w30 |
 | Power Steering High Pressure Line | 100,000 | can be made significantly longer by getting redesigned aftermarket line without gap between nut and line |
 | Spark plugs (copper) | 20,000 | more likely to start phantom misfiring at idle as it gets close than iridium |
