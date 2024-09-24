@@ -36,7 +36,7 @@ using the example of 205/65R15:
 
 many AU Falcons came with wheel dust covers that functioned by blocking brake dust from settling on the mag wheel options that the model had, however they came with their own long term problems, such as:
 
-- becoming rusty over time
+- becoming rusty over time (for models with steel covers)
 - fouling on the side of brake calipers if dented, and most importantly;
 - becoming a potential catalyst for front brake rotor warping conditions, a significant maintenance problem within these models
 
@@ -49,7 +49,9 @@ Removal of the wheel dust covers is simple, as below:
 1. remove the desired wheel
     <!--TODO add a photo-->
 1. pull the dust cover from the exposed area
-    > NOTE: There may be rust holding the cover to the rotor, but no more than moderate force should be needed to get it free. ***DO NOT*** use prying tools as this may damage the brakes
+    > NOTE: There may be rust holding the cover to the rotor, but ***DO NOT*** use prying tools if the steel cover is on the rotor as this may damage the brakes
+
+    > NOTE: Some earlier mags came with plastic covers instead, which aren't as likely to cause issues but are harder to remove. A chisel can be used to snap one edge of the plastic cover, and the rest of the cover can be removed with moderate force. Note this will render them useless after the fact, and there is no known way to get them off consistently in one piece due to age and adhesives used
     <!--TODO add a photo-->
 1. reinstall the wheel, noting:
     - before you install the wheel, now may be a good time to clean behind the wheel unobstructed
