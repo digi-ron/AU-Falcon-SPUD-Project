@@ -27,6 +27,7 @@ The standard speakers used in the AU Falcon are known as a 250 Series Quick Conn
 ### Driver Door Speakers
 
 Follow the steps below to replace the driver door speakers:
+
 1. Remove the door card, noting the following:
     - Manual window winding models will need to have the handle removed first (use a phillips head screwdriver)
     - Electronic window models will need to have the button plate gently removed (use a trim removal tool or a flat head screwdriver)
