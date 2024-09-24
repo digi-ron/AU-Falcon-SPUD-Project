@@ -32,6 +32,10 @@ Use the following steps to remove the exterior door handle:
 
     > NOTE: the clips themselves are easily removed by simply rotating the clip and pulling out the rod from the hole it sits in, however be careful as these clips are plastic and may break if too much force is applied
 
+    ![Door handle clip](./door-clip-example.jpg)
+
+    > photo of one of the clips from a drivers door handle (black plastic section). a push in the direction of the arrow will free the rod and allow you to pull the rod from the handle itself.
+
 1. remove the 2 10mm bolts holding the door handle to the sheet steel door assembly
 
     ![Exterior door bolt locations](./handle-door-bolts.jpg)
