@@ -42,17 +42,20 @@ many AU Falcons came with wheel dust covers that functioned by blocking brake du
 
 If the additional cleaning of the wheels is acceptable, it is recommended that you remove these covers as they cause more problems than they solve on the whole
 
-<!--TODO add a photo or 2-->
+<!--TODO add a photo of the steel ones-->
+
+![S1 Mag plastic cover](./s1-plastic-covers.jpg)
+
+> photo of plastic cover on a S1 15" Mag (highlighted orange in picture to the right). Note that the plastic cover is apparently glued to the wheel and will likely need to be broken to be removed
 
 ## Removal
 Removal of the wheel dust covers is simple, as below:
 1. remove the desired wheel
-    <!--TODO add a photo-->
 1. pull the dust cover from the exposed area
     > NOTE: There may be rust holding the cover to the rotor, but ***DO NOT*** use prying tools if the steel cover is on the rotor as this may damage the brakes
 
-    > NOTE: Some earlier mags came with plastic covers instead, which aren't as likely to cause issues but are harder to remove. A chisel can be used to snap one edge of the plastic cover, and the rest of the cover can be removed with moderate force. Note this will render them useless after the fact, and there is no known way to get them off consistently in one piece due to age and adhesives used
-    <!--TODO add a photo-->
+    > NOTE: Some earlier mags came with plastic covers instead, which aren't as likely to cause issues but are harder to remove. A chisel can be used to snap one edge of the plastic cover, and the rest of the cover can be removed with moderate force. Note this will render them useless after the fact, and there is no known way to get them off consistently in one piece due to age and adhesives used (see image before these steps)
+
 1. reinstall the wheel, noting:
     - before you install the wheel, now may be a good time to clean behind the wheel unobstructed
     - you should tighten as much as possible while the wheel is in the air, then tighten again once the car is on the ground, to ensure a snug fit
