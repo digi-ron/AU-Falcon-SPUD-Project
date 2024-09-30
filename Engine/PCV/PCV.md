@@ -6,8 +6,9 @@
 
 A brief description on the PCV can be found below (dot-point form for brevity, but in here as is it a lesser known part)
 
-* PCV stands for Positive Crankshaft Ventilation
-* PCV sends excess crankcase gas back to the block
+* PCV stands for Purge Control Valve
+* PCV sends excess unburned gas in the crankcase back to the block
+* major purpose appears to be emissions control and efficiency (giving unburned gases another chance to combust in the motor)
 * bad PCVs cause:
     * rough start
     * rough idle
