@@ -11,9 +11,9 @@ A collation of notes and information about the AU Falcon, collated while working
 > 
 > This ***IS NOT*** meant to be the AU Falcon Bible, but rather a last resort to get information that has started to disappear from the wider internet.
 > 
-> In the spirit of things there are as few links to the wider internet here as possible
+> In the spirit of things there are as few links to the wider internet here as possible, other that those present on the Credits page (bottom of page)
 
-***ALL INFORMATION IS WIP AS OF: <span style="color: orange">20th September, 2024</span>***
+***ALL INFORMATION IS WIP AS OF: <span style="color: orange">1st October, 2024</span>***
 
 # Navigation
 - Audio
@@ -40,3 +40,8 @@ A collation of notes and information about the AU Falcon, collated while working
 - Miscellaneous
   - [Component Lifespan Information](./Miscellaneous/Lifespans/Lifespans.md)
   - [Reading Vehicle Identification Numbers (VIN)](./Miscellaneous/VIN/VIN.md)
+
+---
+---
+
+*[Credits](./Credits.md)*
