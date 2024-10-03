@@ -13,7 +13,7 @@ A brief description on the PCV can be found below (dot-point form for brevity, b
     * rough start
     * rough idle
     * uses oil
-* The PCV is located right next to the oil cap on the top of the engine
+* The PCV on the AU Falcon is located right next to the oil cap, on the top of the engine. This is the same location and part as every Ford Falcon inline 6 engine between the EA-AU (1988-2002) models.
 
 ## Replacement
 
