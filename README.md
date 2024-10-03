@@ -13,7 +13,7 @@ A collation of notes and information about the AU Falcon, collated while working
 > 
 > In the spirit of things there are as few links to the wider internet here as possible, other that those present on the Credits page (see the link at the bottom of this page)
 
-***ALL INFORMATION IS WIP AS OF: <span style="color: orange">1st October, 2024</span>***
+***ALL INFORMATION IS WIP AS OF: <span style="color: orange">4th October, 2024</span>***
 
 # Navigation
 - Audio
