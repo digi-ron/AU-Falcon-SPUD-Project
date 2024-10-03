@@ -59,9 +59,9 @@ There is no one universal coil pack for the entire line of AU Falcons, due to ch
 #### S1 - I6
 The base engine in the first AU Falcons shared a ignition coil pack with the previous model, the EL Falcon. These are identifiable by the oval shaped electrical connector, and exposed steel ends on each cylinder connection.
 
-![Series 1 Intech Ignition coil](./AUI-Intech-Coil.png)
+![Series 1 Intech Ignition coil](./AUI-Intech-Coil.jpg)
 
-> Photo taken from T.I Performance product page
+> Photo of aftermarket ignition coil pack
 
 #### S2/3 - I6
 The base engine for the later models of falcons had a different coil pack with different connections, and can be identified by the more square shaped electrical connector, and recessed sparkplug lead connectors. This was also the ignition coil pack used for the VCT engines
