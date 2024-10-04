@@ -87,9 +87,17 @@ The Ignition coil pack in the AU Falcon Intech models is situated somewhat incon
     <!--TODO add a photo-->
 1. By reaching around the intake manifold through the gap made by removing the airbox, remove the ignition leads
     <!--TODO add a photo-->
-1. depending on if you have a long socket extension bar:
-    - Feed the socket extension bar through the gap between cylinder 5 & 6 on the intake manifold to undo the rear bolt. Feed the socket extension through the gap between cylinders 3 & 4 to reach the front bolts.
-    - Reach around the intake manifold with a socket and short extension and undo all 3 bolts
-    <!--TODO add pics, bolt size-->
+1. depending on your series and whether you have a long extension bar:
+    1. If you have a Series 1 and a extension bar:
+        - remove the rear most bolt by feeding the extension bar between cylinders X & X on the intake manifold
+        - remove the middle-rear bolt by feeding the extension bar between cylinders X & X on the intake manifold
+        - remove the middle front bolt by feeding the extension bar between cylinders X & X on the intake manifold
+        - remove the front most bolt by feeding the extension bar between cylinders X & X on the intake manifold
+    1. If you have a Series 2-3 and an extension bar:
+        - remove the rear bolt by feeding the extension bar between cylinders 5 & 6 on the intake manifold
+        - remove the 2 front bolts by feeding the extension bar between cylinders 3 & 4 on the intake manifold
+    1. If you have any series AU and NO extension bar, reach around the intake manifold with the socket in hand and undo all bolts
+    > NOTE: this will be especially difficult with the bolts on the driver side of the coil pack
+    <!--todo add bolt sizes and intake cylinders for S1-->
 1. replace the ignition coil pack, and perform the reverse of the previous step
 1. done
