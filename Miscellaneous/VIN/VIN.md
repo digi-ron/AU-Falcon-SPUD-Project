@@ -134,4 +134,5 @@ To ensure that you have the matching engine to the original chassis, you can che
 Check on the rear lower section of the block, on the exhaust side near the bell housing mount for the transmission
 
 > NOTE: due to age, the engine number may be hard to ascertain, as the area the number is dot-matrix stamped onto is prone to long-term surface rust. rubbing flour over it can make damaged numbers more legible if damage is minor, but moderate to severe rust will render it unreadable
-<!--TODO add a picture or 2-->
+
+> Intended image not added to this project as severe surface rust present on engine of vehicle
