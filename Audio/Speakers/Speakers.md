@@ -77,8 +77,7 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
 1. remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
 1. do one of the following:
     - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
-    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
-    <!--TODO add more information on wiring-->
+    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom, noting that the wire in the loom with a black line in it is *always* negative
 1. Connect your speaker(s) to the wiring loom and reinstall into the shelf
     > NOTE: now is a good time to test that the speakers are connected correctly by turning on the radio
 1. place cover back onto speakers
@@ -92,14 +91,12 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 1. remove all plastic clips and screws holding the cloth panelling on the side of the car you are working on, and remove or peel back the panel itself to reveal the speakers. Remove the 4 screws holding in the speakers and remove
 1. do one of the following:
     - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
-    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
-    <!--TODO add more information on wiring-->
+    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom noting that the wire in the loom with a black line in it is *always* negative
 1. Connect your speaker(s) to the wiring harness and reinstall into the body
     > NOTE: now is a good time to test that the speakers are connected correctly by turning on the radio
 1. reinstall the cloth trim for the side of the car you are working on, and reinstall all plastic clips and screws.
 1. reinstall the C-Pillar trim and the outer cushioning for the rear seats, remembering to screw in the trim itself
 1. done
-<!--TODO add pictures if you ever can-->
 
 ### Rear Speakers - Ute
 > NOTE: lack of images in this section due to project only involving Sedan
