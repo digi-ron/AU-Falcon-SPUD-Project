@@ -11,6 +11,7 @@ While the sparkplug manufacturer code vary according to the manufacturer, the fo
 | Hex Size | 21mm |
 | Reach | 18-21mm |
 | Resisted | Yes |
+| Gap | 1-1.1mm |
 
 ### Replacement
 
