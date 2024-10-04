@@ -40,6 +40,7 @@ A collation of notes and information about the AU Falcon, collated while working
 - Miscellaneous
   - [Component Lifespan Information](./Miscellaneous/Lifespans/Lifespans.md)
   - [Reading Vehicle Identification Numbers (VIN)](./Miscellaneous/VIN/VIN.md)
+  - [Vehicle Verification Letters](./Miscellaneous/VerificationLetter/Verification.md)
 
 ---
 ---
