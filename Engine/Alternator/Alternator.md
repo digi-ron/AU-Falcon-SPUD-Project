@@ -36,7 +36,11 @@ To replace the Alternator, follow the steps below:
 1. reaching behind the power steering reservoir to the alternator rear, undo the 10mm nut holding the main electrical connection from the alternator to the rest of the vehicle wiring loom, and unplug
 1. also on the back of the alternator, undo the 12mm nut holding the positive ring terminal for the alternator and remove.
 1. note the configuration that the serpentine belt is currently in (if sticker denoting configuration is not still present on inside of hood lid)
-    <!--TODO add a photo of the belt config-->
+    
+    ![Belt configuration](../../Common/belt-configuration-tag.jpg)
+
+    > Photo of the (Non-VCT) inline 6 Serpentine belt layout
+
 1. remove the serpentine belt from the front of the belt by placing a 3/8" breaker bar into the square hole on the Automatic tensioner, and turning clockwise
     > NOTE: avoid using any adapters e.g. 1/2" to 3/8" as aging tensioners can become brittle with too much shear force and adapters will exacerbate that issue
 1. from the front of the engine block, undo the 2 bolts holding the alternator in and carefully remove through the top of the ending bay
