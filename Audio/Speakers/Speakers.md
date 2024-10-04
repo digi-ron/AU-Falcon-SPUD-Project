@@ -20,9 +20,7 @@ The standard speakers used in the AU Falcon are known as a 250 Series Quick Conn
 
 ## Replacement
 
-> NOTE: you will need a uncommon bit for this job, an E-Torx XXX. These can be found in certain screwdriver or drill driver bit sets. Alternatively there is known mixed success using either a 5mm socket or a pair of vice grip pliers (however the latter should only be used if a new screw is going to replace it as it will likely damage the head of the screw)
-
-<!--TODO work out the exact bit needed-->
+> NOTE: you will need a uncommon bit for this job, an E-Torx 5mm. These can be found in certain screwdriver or drill driver bit sets, but are a specialty bit in most sets. Alternatively there is known success using either a 5mm standard socket or a pair of vice grip pliers (however the latter should only be used if a new screw is going to replace it as it will likely damage the head of the screw)
 
 ### Driver Door Speakers
 
