@@ -83,7 +83,7 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 | Name | Code | Notes |
 | --- | --- | --- |
-| Right Angle PCB Socket | 1-175976-2 | <span style="color:red">UNTESTED</span> |
+| Right Angle PCB Socket | 1-175976-2 | <span class="bad-highlight">UNTESTED</span> |
 
 ![PCB housing](./PCB-28p.png)
 
