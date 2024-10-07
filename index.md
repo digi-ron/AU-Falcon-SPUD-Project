@@ -2,8 +2,6 @@
 layout: home
 ---
 
-<link rel="stylesheet" type="text/css" href="./Common/overrides.css">
-
 A collation of notes and information about the AU Falcon, collated while working on a Falcon Forte, nicknamed "SPUD".
 
 > NOTE: The information here is *most* accurate for the MY 1999 S1 Ford Falcon Forte Sedan, but as much information as possible has been added for other variants
@@ -17,7 +15,7 @@ A collation of notes and information about the AU Falcon, collated while working
 > 
 > This ***IS NOT*** meant to be the AU Falcon Bible, but rather a last resort to get information that has started to disappear from, or worse, never existed on, the wider internet.
 > 
-> In the spirit of things there are as few links to the wider internet here as possible, other that those present on the Credits page (see the link at the bottom of this page)
+> In the spirit of things there are as few links to the wider internet here as possible, other that those present on the Credits page (see the link at the bottom of any page in this project)
 
 ***ALL INFORMATION IS WIP AS OF: <span class="other-highlight">{{site.time | date: '%d/%m/%Y'}}</span>***
 
