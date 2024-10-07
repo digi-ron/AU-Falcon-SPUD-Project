@@ -10,46 +10,46 @@
     {% include head-custom.html %}
     <script>
       document.addEventListener("DOMContentLoaded", function() {
-          const blockquotes = document.querySelectorAll("blockquote");
-          blockquotes.forEach(blockquote => {
-              if (blockquote.textContent.trim().startsWith("NOTE:")) {
-                  blockquote.style.color = "darkgoldenrod";
-              }
-          });
+        const blockquotes = document.querySelectorAll("blockquote");
+        blockquotes.forEach(blockquote => {
+            if (blockquote.textContent.trim().startsWith("NOTE:")) {
+                blockquote.style.color = "darkgoldenrod";
+            }
+        });
       });
     </script>
     <style>
       img {
-          object-fit: contain;
-          max-height: 50vh;
-          min-height: 150px;
+        object-fit: contain;
+        max-height: 50vh;
+        min-height: 150px;
       }
 
       .bad-highlight {
-          color: red;
+        color: red;
       }
 
       .good-highlight {
-          color: green;
+        color: green;
       }
 
       .other-highlight {
-          color: orange;
+        color: orange;
       }
 
       footer {
-          font-style: italic;
+        font-style: italic;
 
-          a {
-              color: black;
-          }
+        a {
+          color: black;
+        }
       }
 
       table {
-          table-layout: fixed;
-          width: 100%;
-          font-style: italic;
-          text-align: center;
+        table-layout: fixed;
+        width: 100%;
+        font-style: italic;
+        text-align: center;
       }
     </style>
   </head>
