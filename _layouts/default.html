@@ -73,6 +73,10 @@
         text-align: center;
       }
 
+      .alternatefooter {
+        display:none;
+      }
+
       @media print {
         html, body, footer, table, th, td {
           background: white;
@@ -99,6 +103,13 @@
           max-height: 45vh;
           object-fit: cover;
         }
+
+        .alternatefooter {
+          display: block;
+          font-style: italic;
+          text-align: center;
+          color:black;
+        }
       }
 
     </style>
@@ -119,6 +130,7 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+    <p class="alternatefooter">Page printed from The AU Falcon SPUD Project, visit https://digi-ron.github.io/AU-Falcon-SPUD-Project/ for more!</p>
   </body>
   <footer>
     <hr />
