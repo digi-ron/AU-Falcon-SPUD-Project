@@ -63,6 +63,8 @@ jobs:
           body: latest snapshot
           draft: true
           prerelease: false
+          asset_path: ./site.zip
+          asset_name: site.zip
 
   # Deployment job
   deploy:
