@@ -63,8 +63,15 @@ jobs:
           body: latest snapshot
           draft: true
           prerelease: false
-          asset_path: ./site.zip
+      - name: Upload release asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: site.zip
           asset_name: site.zip
+          asset_content_type: application/zip
 
   # Deployment job
   deploy:
