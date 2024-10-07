@@ -82,23 +82,43 @@ The V8 Models use 2 ignition coil packs, one for each 4 cylinder bank of the V8 
 
 > NOTE: following section does not include V8 model installation, due to lack of resources. Information gathered suggests that the coil packs are easily visible from the top of the engine however.
 
-The Ignition coil pack in the AU Falcon Intech models is situated somewhat inconveniently below the intake manifold, however with the right tools, you can remove the coil pack without doing anything to the intake manifold, and without getting under the car, however in order to do this, a long socket extension is highly recommended, as this makes things far easier.
+The Ignition coil pack in the AU Falcon Intech models is situated somewhat inconveniently below the intake manifold, however with the right tools, you can remove the coil pack without doing anything to the intake manifold, and without getting under the car, however in order to do this, a long socket extension and a telescopic magnetic stick or similar implement is highly recommended, as this makes things far easier.
 
-1. Remove the Airbox and all plastic tubing all the way to the Throttle body
+The recommended method for removing these coil packs is to either completely remove the intake manifold or to lift the car and blind unscrew the bolts from underneath. The following instructions assume you don't wish to do either and are willing to carefully manoeuver the coil pack in and out of the under area of the intake manifold
+
+> NOTE: the ignition coil bolts are all 8mm
+
+1. Remove the Airbox and all plastic tubing all the way to the Throttle body, this will require the removal of 3 10mm bolts on the airbox itself, and 3 10mm bolts on the plastic piping from the airbox to the throttle body
     <!--TODO add a photo-->
-1. By reaching around the intake manifold through the gap made by removing the airbox, remove the ignition leads
+1. Unplug the AC Pressure switch cable
+
+    > NOTE: this is important to do now simply to provide more room for removal later on
+
+    <!--TODO add a photo of the AC plug-->
+1. By reaching around the intake manifold through the gap made by removing the airbox, remove the ignition leads and electrical plug
     <!--TODO add a photo-->
 1. depending on your series and whether you have a long extension bar:
-    1. If you have a Series 1 and a extension bar:
-        - remove the rear most bolt by feeding the extension bar between cylinders X & X on the intake manifold
-        - remove the middle-rear bolt by feeding the extension bar between cylinders X & X on the intake manifold
-        - remove the middle front bolt by feeding the extension bar between cylinders X & X on the intake manifold
-        - remove the front most bolt by feeding the extension bar between cylinders X & X on the intake manifold
+    1. If you have a Series 1 and a extension bar and a magnet stick:
+        - remove the rear most (driver side rear) bolt by feeding the extension bar between cylinders 4 & 5 on the intake manifold
+        - remove the middle-rear (passenger side rear) bolt by feeding a small socket wrench (1/4" drive recommended) and a short extension under cylinder 5
+
+            > NOTE: this can be the trickiest bolt to get out as the AC lines run directly next to this bolt
+
+        - remove the middle front (driver side front) bolt by feeding the extension bar between cylinders 3 & 4 on the intake manifold
+        - remove the front most (passenger side front) bolt by feeding a small socket wrench (1/4" drive recommended) and a short extension under cylinder 3
     1. If you have a Series 2-3 and an extension bar:
         - remove the rear bolt by feeding the extension bar between cylinders 5 & 6 on the intake manifold
         - remove the 2 front bolts by feeding the extension bar between cylinders 3 & 4 on the intake manifold
-    1. If you have any series AU and NO extension bar, reach around the intake manifold with the socket in hand and undo all bolts
+    1. If you have any series AU and NO extension bar or magnetic stick, reach around the intake manifold with the socket in hand and undo all bolts
     > NOTE: this will be especially difficult with the bolts on the driver side of the coil pack
-    <!--todo add bolt sizes and intake cylinders for S1-->
-1. replace the ignition coil pack, and perform the reverse of the previous step
+
+    > NOTE: you can use the front of the engine to reach in underneath the thermostat housing to enable both hands to be in the area of the ignition coil pack, assuming you have smaller hands
+
+    > NOTE: lack of images for this section due to variations and tight working area
+1. *Carefully* remove the ignition coil pack by rotating and twisting the pack to manoeuver it out from under the ignition coil pack. This will take a significant amount of patience, below are some dot points on removal:
+    - rotate pack to have wire connectors facing down and plug on driver side
+    - rotate to get pack ends 1-3 over AC lines
+    - twist while rotating to fit plastic housing under 2 banks of intake manifold and free of AC lines
+    - rotate coil pack to have all plug connectors facing the driver side of vehicle, and pull gently past vacuum line and AC pressure switch
+1. replace the ignition coil pack by performing the reverse of the previous step
 1. done
