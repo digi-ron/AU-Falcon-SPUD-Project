@@ -87,14 +87,27 @@ The recommended method for removing these coil packs is to either completely rem
 > NOTE: the ignition coil bolts are all 8mm
 
 1. Remove the Airbox and all plastic tubing all the way to the Throttle body, this will require the removal of 3 10mm bolts on the airbox itself, and 3 10mm bolts on the plastic piping from the airbox to the throttle body
-    <!--TODO add a photo-->
+    
+    ![Airbox upper bolts](../../Common/airbox-removal-outer.jpg)
+    ![Airbox lower bolt location](../../Common/airbox-removal-inner.jpg)
+    ![Airbox screws](../../Common/airbox-screws.jpg)
+
+    > Photos of the bolt and screw locations to remove the entire airbox
+
 1. Unplug the AC Pressure switch cable
 
     > NOTE: this is important to do now simply to provide more room for removal later on
 
-    <!--TODO add a photo of the AC plug-->
+    ![AC Pressure Switch post-removal](./ac-switch-unplugged.jpg)
+
+    > photo of the Air Conditioner pressure switch, post unplugging.
+
 1. By reaching around the intake manifold through the gap made by removing the airbox, remove the ignition leads and electrical plug
-    <!--TODO add a photo-->
+    
+    ![S1 Ignition coil pack plug](./hand-tighen-spark.jpg)
+
+    > photo of the ignition coil pack plug on a S1 Falcon, post removal
+
 1. depending on your series and whether you have a long extension bar:
     1. If you have a Series 1 and a extension bar and a magnet stick:
         - remove the rear most (driver side rear) bolt by feeding the extension bar between cylinders 4 & 5 on the intake manifold
