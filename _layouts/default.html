@@ -8,13 +8,12 @@
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-    <link rel="stylesheet" type="text/css" href="/Common/overrides.css">
     <script>
       document.addEventListener("DOMContentLoaded", function() {
           const blockquotes = document.querySelectorAll("blockquote");
           blockquotes.forEach(blockquote => {
               if (blockquote.textContent.trim().startsWith("NOTE:")) {
-                  blockquote.style.color = "darkgoldenrod"; // Change to your desired color
+                  blockquote.style.color = "darkgoldenrod";
               }
           });
       });
