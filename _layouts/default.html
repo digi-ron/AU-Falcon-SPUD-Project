@@ -9,7 +9,50 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <link rel="stylesheet" type="text/css" href="/Common/overrides.css">
-    <script src="/Common/overrides.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+          const blockquotes = document.querySelectorAll("blockquote");
+          blockquotes.forEach(blockquote => {
+              if (blockquote.textContent.trim().startsWith("NOTE:")) {
+                  blockquote.style.color = "darkgoldenrod"; // Change to your desired color
+              }
+          });
+      });
+    </script>
+    <style>
+      img {
+          object-fit: contain;
+          max-height: 50vh;
+          min-height: 150px;
+      }
+
+      .bad-highlight {
+          color: red;
+      }
+
+      .good-highlight {
+          color: green;
+      }
+
+      .other-highlight {
+          color: orange;
+      }
+
+      footer {
+          font-style: italic;
+
+          a {
+              color: black;
+          }
+      }
+
+      table {
+          table-layout: fixed;
+          width: 100%;
+          font-style: italic;
+          text-align: center;
+      }
+    </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
