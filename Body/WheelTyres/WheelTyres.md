@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="../../Common/overrides.css">
-
 # Wheels & Tyres
 
 ## Known factory tyre sizes

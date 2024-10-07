@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="../../Common/overrides.css">
-
 # Door Lock Actuators
 
 A well known issue with 1998-2010 Falcon (AU-BFIII) and 2004-2016 (SX-SZ) Territory models is that the door lock actuators are notoriously weak, and usually the cause of this failure is caused by plastic pieces inside the actuator itself. Thankfully repair kits are cheap* if required, otherwise new actuators can be sourced from wreckers (however if choosing the latter, care should be taken to get one verified working or with a short-term warranty)

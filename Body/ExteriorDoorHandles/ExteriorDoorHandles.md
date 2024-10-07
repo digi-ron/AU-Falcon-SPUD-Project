@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="../../Common/overrides.css">
-
 # Exterior Door Handles
 
 The exterior door handles on the AU Falcon are relatively easy to remove and replace if required, however due to their materials, they are somewhat difficult to repair, as they rely on plastic locking pins and relatively thin springs.
