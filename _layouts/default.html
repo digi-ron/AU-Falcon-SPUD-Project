@@ -9,11 +9,12 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <link rel="stylesheet" type="text/css" href="/Common/overrides.css">
+    <script src="/Common/overrides.js"></script>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      <h1 style="text-align: center"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
 
       {{ content }}
@@ -27,4 +28,26 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
+  <footer>
+    <hr />
+    <hr />
+    <br />
+
+    <table>
+      <tr>
+        <td>
+          <a href="/Credits.html">Credits</a>
+        </td>
+        <td>
+          <a href="https://github.com/digi-ron">GitHub</a>
+        </td>
+        <td>
+          <a href="https://github.com/digi-ron/AU-Falcon-SPUD-Project">Project Source</a>
+        </td>
+      </tr>
+    </table>
+
+    <br />
+    <hr />
+  </footer>
 </html>
