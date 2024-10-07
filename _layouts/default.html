@@ -13,12 +13,32 @@
         const blockquotes = document.querySelectorAll("blockquote");
         blockquotes.forEach(blockquote => {
             if (blockquote.textContent.trim().startsWith("NOTE:")) {
-                blockquote.style.color = "darkgoldenrod";
+                blockquote.style.color = "#955E10";
+                blockquote.style.borderStyle = "dotted";
+                blockquote.style.setProperty('border-color', 'brown', 'important');
+                blockquote.style.borderWidth = "1px";
             }
         });
       });
     </script>
     <style>
+      html, body, footer {
+        background: #121212;
+        color: white;
+      }
+
+      html, body, footer, h1, blockquote, hr {
+        border-color: #2d3033 !important;
+      }
+
+      blockquote {
+        background: #121212;
+      }
+
+      hr {
+        background: #2d3033 !important;
+      }
+
       img {
         object-fit: contain;
         max-height: 50vh;
@@ -26,22 +46,22 @@
       }
 
       .bad-highlight {
-        color: red;
+        color: #8b0000;
       }
 
       .good-highlight {
-        color: green;
+        color: #008000;
       }
 
       .other-highlight {
-        color: orange;
+        color: #a52a2a;
       }
 
       footer {
         font-style: italic;
 
         a {
-          color: black;
+          color: white;
         }
       }
 
@@ -51,12 +71,41 @@
         font-style: italic;
         text-align: center;
       }
+
+      @media print {
+        html, body, footer {
+          background: white;
+          color: black;
+        }
+
+        footer, .maintitle, .anchorjs-link {
+          display: none;
+        }
+
+        html, body, footer, h1, blockquote, hr {
+          border-color: black !important;
+        }
+
+        blockquote {
+          background: white;
+        }
+
+        hr {
+          background: black !important;
+        }
+
+        img {
+          max-height: 45vh;
+          object-fit: cover;
+        }
+      }
+
     </style>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <h1 style="text-align: center"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      <h1 class="maintitle" style="text-align: center"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
       {% endif %}
 
       {{ content }}
@@ -75,7 +124,7 @@
     <hr />
     <br />
 
-    <table>
+    <table class="container-lg">
       <tr>
         <td>
           <a href="/Credits.html">Credits</a>
