@@ -10,6 +10,7 @@
     {% include head-custom.html %}
     <script>
       document.addEventListener("DOMContentLoaded", function() {
+        // highlight any note that starts with the string "NOTE:"
         const blockquotes = document.querySelectorAll("blockquote");
         blockquotes.forEach(blockquote => {
             if (blockquote.textContent.trim().startsWith("NOTE:")) {
@@ -22,7 +23,7 @@
       });
     </script>
     <style>
-      html, body, footer {
+      html, body, footer, table, td, th {
         background: #121212;
         color: white;
       }
@@ -73,7 +74,7 @@
       }
 
       @media print {
-        html, body, footer {
+        html, body, footer, table, th, td {
           background: white;
           color: black;
         }
