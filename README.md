@@ -1,6 +1,6 @@
 A collation of notes and information about the AU Falcon, collated while working on a Falcon Forte, nicknamed "SPUD".
 
-[HOMEPAGE](./index.md)
+[HOMEPAGE](https://digi-ron.github.io/AU-Falcon-SPUD-Project/)
 
 ## How to build and run locally
 
