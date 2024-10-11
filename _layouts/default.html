@@ -6,9 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 {% seo %}
-    <!--TODO double reference of style.css is to allow for file opening on releases, find a fix if possible-->
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--
+      TODO double reference of style.css is to allow for file opening on releases, find a fix if possible
+      NOTE: Last link tag takes priority
+    -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <script>
       document.addEventListener("DOMContentLoaded", function() {
