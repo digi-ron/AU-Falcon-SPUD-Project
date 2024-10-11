@@ -69,7 +69,7 @@ jobs:
       - name: rename folder
         run: mv 127.0.0.1:4000 staticsite
       - name: zip folder
-        run: zip -r staticsite.zip staticsite
+        run: zip -r staticsite.zip staticsite/*
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -78,6 +78,7 @@ jobs:
         with:
           tag_name: ${{ github.sha }}
           release_name: Release ${{ github.sha }}
+          body: Basic HTML dump of the site. Note that theming is broken and the release is only intended as a "lifeboat" in case the site goes down or the project is deleted
           draft: true
           prerelease: false
       - name: Upload Release Asset
