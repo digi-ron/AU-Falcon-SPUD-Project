@@ -43,7 +43,7 @@ Follow the steps below to replace the driver door speakers:
     > NOTE: after removal, it may be a good idea to clean up the door, as the surfaces where the speaker and door meet is prone to crust and rust, seemingly as a result of adhesives used at some point
 
     ![Speaker screw locations](./speaker-screws.jpg)
-    ![Speaker post-removal](./spaker-removed.jpg)
+    ![Speaker post-removal](./speaker-removed.jpg)
 
     > Photos of the speaker screw locations in the door assembly, and the door post-removal respectively
 
