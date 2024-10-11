@@ -43,7 +43,6 @@ GEM
       net-http
     ffi (1.17.0-x64-mingw-ucrt)
     ffi (1.17.0-x86_64-linux-gnu)
-    fiddle (1.1.2)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
     github-pages (228)
@@ -276,7 +275,6 @@ PLATFORMS
 
 DEPENDENCIES
   csv
-  fiddle
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9.3)
