@@ -69,7 +69,7 @@ jobs:
       - name: rename folder
         run: mv 127.0.0.1:4000 staticsite
       - name: zip folder
-        run: zip -r staticsite.zip staticsite/*
+        run: cd staticsite && zip -r staticsite.zip *
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
