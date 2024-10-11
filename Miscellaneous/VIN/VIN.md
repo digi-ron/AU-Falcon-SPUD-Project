@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Reading Vehicle Identification Numbers
 
 > NOTE: Information from this was largely scattered across multiple forum posts dated as early as 2005, information may be helpful but may *not* be 100% accurate

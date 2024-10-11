@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Accessory plug
 
 ## How to find it

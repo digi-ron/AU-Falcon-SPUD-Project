@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Headlight Switches
 
 ## Plug Type

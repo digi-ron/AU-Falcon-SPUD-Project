@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Fuses & Relays
 
 ## Cabin - Diagram

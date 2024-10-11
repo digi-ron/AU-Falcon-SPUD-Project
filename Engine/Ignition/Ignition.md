@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Ignition Systems
 
 ## Sparkplugs

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Wheels & Tyres
 
 ## Known factory tyre sizes

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Steering Wheel Controls
 
 The steering wheel controls for the AU falcon are one of the most fragile parts of an otherwise nigh-indestructible interior, which is made more unfortunate by the fact that the cruise control buttons (where fitted) are controlled from the right side buttons of the steering controls. On top of this they are only accessible by removing the steering wheel airbag, which is held in with 2 non-standard bolts, further complicating matters

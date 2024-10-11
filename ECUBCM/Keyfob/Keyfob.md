@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Central Locking Keyfobs
 
 ## Types

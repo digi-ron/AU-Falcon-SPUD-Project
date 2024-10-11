@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # DTC Codes
 Below is a list of codes and descriptions that can be produced by the DTC system:
 

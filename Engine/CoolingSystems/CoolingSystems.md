@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Cooling Systems
 
 ## Thermostat replacement

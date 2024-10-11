@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Centre Console Buttons
 The buttons within the centre dash area of the car are simply known as 090 Connectors, likely manufactured by a company known as Yazaki. These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
 

@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 # Verification Letters
 

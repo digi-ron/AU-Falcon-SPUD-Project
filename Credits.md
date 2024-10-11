@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Credits
 
 ## Collected images (primarily product listing images):
@@ -25,6 +29,13 @@
 
 - [RemotePro](https://www.remotepro.com.au/)
   > *sold a "coded" AUI remote for a $50 markup vs. a clean fob. Remote didn't work and I was given the runaround when asked for information to get it working. Support took 8 days, 6 of which were spent by them not responding to the simple question of "what is the KEYDIY configuration you used on this clearly KEYDIY fob?", and 1 wasted finding out that real locksmiths have had issues with these remotes. The kicker: I'm confident they don't even code them, not that they ever mentioned that the 3 different times I asked*
+
+<!--
+unconfirmed credits:
+
+- [Ford Australia Customer Support](mailto:foacust1@ford.com)
+  > Sent them a pretty technical question, hoping I don't get left on read at least. Even a "can't help" email would be better than what I suspect I'm gonna get
+-->
 
 
 ## About the Author
