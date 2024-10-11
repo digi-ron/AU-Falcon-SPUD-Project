@@ -76,7 +76,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: Lifeboat
+          tag_name: ${{ github.sha }}
           release_name: Release ${{ github.sha }}
           body: Basic HTML dump of the site. Note that theming is broken and some of the links are broken. release is only intended as a "lifeboat" in case the site goes down or the project is deleted
           draft: false
