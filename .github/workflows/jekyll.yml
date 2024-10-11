@@ -50,6 +50,29 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+      # release while built
+      - name: Install wget
+        run: sudo apt-get install wget
+      - name: serve site
+        run: bundle exec jekyll serve
+      - name: Get basic HTML
+        run: wget --mirror --convert-links 127.0.0.1:4000
+      - name: rename folder
+        run: mv 127.0.0.1:4000 staticsite
+      - name: zip folder
+        run: zip -r staticsite.zip staticsite
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          asset: staticsite.zip
+          asset_name: staticsite.zip
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          draft: true
+          prerelease: false
 
   # Deployment job
   deploy:
