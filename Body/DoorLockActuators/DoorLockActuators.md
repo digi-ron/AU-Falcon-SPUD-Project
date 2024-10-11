@@ -47,7 +47,11 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 
 1. remove the lock actuator from the door. If replacing the actuator, perform the reverse of all listed steps to this point with the new actuator
     > NOTE: while removing, disengage the cable running from the actuator to the inside door handle by rotating the steel cylinder end on the actuator. This is easiest done with the actuator almost out of the door
-    <!--TODO add a photo of the actuator cable on one of the spares-->
+
+    ![Door Lock Actuator Cable Removed](./actuator-cable-removal.jpg)
+
+    > Remove the steel inner cable from the plastic fitting in the actuator, by rotating to the shown position and pulling towards you through the keyed hole. Note that you'll need to push the cable sleeve out of the steel housing first (see bottom of image)
+
 1. if repairing, move the actuator to a flat surface and cut the outer-most zip tie holding the plug wiring in place
 
     ![zip tie location on actuator](./cable-tie-cut.jpg)
