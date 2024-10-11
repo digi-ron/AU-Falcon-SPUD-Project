@@ -11,7 +11,7 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
 
 ---
 
-> This is an information preservation project, made as well as possible using very limited resources, for the benefit of anyone who wants to save themselves some of the headaches I encountered going off of the beaten track and finding myself swimming in dead links in long-forgotten forum threads and digging through well-worn third-party workshop manuals.
+> This is an information preservation project, made as well as possible using very limited resources
 > 
 > This ***IS NOT*** meant to be the AU Falcon Bible, but rather a last resort to get information that has started to disappear from, or worse, never existed on, the wider internet.
 > 
