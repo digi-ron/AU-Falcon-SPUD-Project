@@ -65,7 +65,7 @@ jobs:
           done
           echo "Server is up and running."
       - name: Get basic HTML
-        run: wget --mirror --convert-links 127.0.0.1:4000
+        run: wget --mirror --convert-links --adjust-extension --page-requisites 127.0.0.1:4000
       - name: rename folder
         run: mv 127.0.0.1:4000 staticsite
       - name: zip folder
