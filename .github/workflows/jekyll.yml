@@ -55,7 +55,16 @@ jobs:
       - name: Install wget
         run: sudo apt-get install wget
       - name: serve site
-        run: bundle exec jekyll serve
+        run: bundle exec jekyll serve &
+      - name: wait for server
+        run: |
+          echo "Waiting for server to start..."
+          until curl --output /dev/null --silent --head --fail http://127.0.0.1:4000; do
+            echo "Waiting for server to start..."
+            sleep 5
+          done
+          echo "Server is up and running."
+        done
       - name: Get basic HTML
         run: wget --mirror --convert-links 127.0.0.1:4000
       - name: rename folder
