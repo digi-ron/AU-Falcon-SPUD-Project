@@ -24,7 +24,7 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 | `01` | `02` | `--` | `--` | `03` | `04` | `05` |
 | --- | --- | --- | --- | --- | --- | --- |
-| `06` | `07` | `08` | `09` | `10` | `11` | `12` |
+| **`06`** | **`07`** | **`08`** | **`09`** | **`10`** | **`11`** | **`12`** |
 
 ### Low unit pins
 - 01 = blank
