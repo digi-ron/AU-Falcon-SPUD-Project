@@ -98,7 +98,8 @@ The recommended method for removing these coil packs is to either completely rem
 
     > Photos of the bolt and screw locations to remove the entire airbox
 
-1. Unplug the AC Pressure switch cable
+    > NOTE: if you're confident, the airbox may be able to be removed *carefully* without removing the snorkel, however due to the 2 screws of effort, it isn't advised
+
 
     > NOTE: this is important to do now simply to provide more room for removal later on
 
