@@ -33,13 +33,13 @@ The V8 Models use 2 ignition coil packs, one for each 4 cylinder bank of the V8 
 
 > Photo taken from A1 Auto Parts product page
 
-## Installation
+## Replacement
 
 > NOTE: following section does not include V8 model installation, due to lack of resources. Information gathered suggests that the coil packs are easily visible from the top of the engine however.
 
-The Ignition coil pack in the AU Falcon Intech models is situated somewhat inconveniently below the intake manifold, however with the right tools, you can remove the coil pack without doing anything to the intake manifold, and without getting under the car, however in order to do this, a long socket extension and a telescopic magnetic stick or similar implement is highly recommended, as this makes things far easier.
+The Ignition coil pack in the AU Falcon Intech models is situated somewhat inconveniently below the intake manifold, however with the right tools, you can remove the coil pack without doing anything to the intake manifold, and without getting under the car, however in order to do this, a long socket extension and a telescopic magnetic stick or similar implement is highly recommended.
 
-The recommended method for removing these coil packs is to either completely remove the intake manifold or to lift the car and blind unscrew the bolts from underneath. The following instructions assume you don't wish to do either and are willing to carefully manoeuver the coil pack in and out of the under area of the intake manifold
+The recommended method for removing these coil packs is to either completely remove the intake manifold or to lift the car and blind unscrew the bolts from underneath. The following instructions assume you don't wish to do either and are willing to carefully manoeuver the coil pack out and back into the area under the intake manifold.
 
 > NOTE: the ignition coil bolts are all 8mm
 
@@ -89,5 +89,47 @@ The recommended method for removing these coil packs is to either completely rem
     - rotate to get pack ends 1-3 over AC lines
     - twist while rotating to fit plastic housing under 2 banks of intake manifold and free of AC lines
     - rotate coil pack to have all plug connectors facing the driver side of vehicle, and pull gently past vacuum line and AC pressure switch
+1. (optional) test the [Ignition Coil Pack Resistances](#ignition-coil-resistances)
 1. replace the ignition coil pack by performing the reverse of the previous step
 1. done
+
+## Ignition Coil Resistances
+
+> NOTE: lack of information for V8 models due to project only involving I6
+
+Ignition coils can be tested for resistance based on **Primary** and **Secondary** resistances, explained below.
+
+All following instructions assume you have the ignition coil pack horizontally in front of you, with the plug closest to you and the following pin/pole information:
+
+**Electrical plug pinout**
+
+| 1 | 2 | 3 | 4 |
+| --- | --- | --- | --- |
+
+**Spark plug lead pole layout**
+
+| 1 | 2 | 3 |
+| --- | --- | --- |
+| 4 | 5 | 6 |
+
+<!--TODO add a picture-->
+
+### Primary resistance
+
+This resistance is from the first part of the ignition coil pack wiring, which takes a high current from the battery and feeds it into the secondary coil. These resistances can be measured by doing the following:
+
+> NOTE: all resistances should be approx. 0.6Ω
+
+1. check the resistance between pins 4 and 1
+1. check the resistance between pins 4 and 2
+1. check the resistance between pins 4 and 3
+
+### Secondary resistance
+
+This resistance is for the second part of the ignition coil pack, which converts the high current from the battery into a high *voltage* signal for the spark plug leads. These resistances can be measured by doing the following:
+
+> NOTE: all resistances should be 9-9.5KΩ, 9.2KΩ ideal
+
+1. check the resistance between the poles for cylinder 1 and 6
+1. check the resistance between the poles for cylinder 2 and 5
+1. check the resistance between the poles for cylinder 3 and 4
