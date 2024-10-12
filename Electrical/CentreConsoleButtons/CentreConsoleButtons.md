@@ -17,7 +17,7 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 | `01` | `02` | `--` | `--` | `03` | `04` |
 | -- | -- | -- | -- | -- | -- |
-| `05` | `06` | `07` | `08` | `09` | `10` |
+| **`05`** | **`06`** | **`07`** | **`08`** | **`09`** | **`10`** |
 
 > NOTE: each of the following plugs are the same as above, but with some variation to active pins and latching
 
