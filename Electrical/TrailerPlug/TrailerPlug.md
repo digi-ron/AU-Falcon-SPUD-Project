@@ -24,7 +24,7 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 | `01` | `02` | `03` | `04` |
 | --- | --- | --- | --- |
-| `05` | `06` | `07` | `08` |
+| **`05`** | **`06`** | **`07`** | **`08`** |
 
 ### Pin Wiring
 
@@ -47,8 +47,18 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 for the following information, assume the following layout forn the trailer end connector, with the locking tabs facing up:
 
-| `1` | `6` | `5` | `3` | `2` | `7` | `4` |
-| --- | --- | --- | --- | --- | --- | --- |
+<!--coded as a HTML table as single line-->
+<table>
+    <thead>
+        <th><code>1</code></th>
+        <th><code>6</code></th>
+        <th><code>5</code></th>
+        <th><code>3</code></th>
+        <th><code>2</code></th>
+        <th><code>7</code></th>
+        <th><code>4</code></th>
+    </thead>
+</table>
 
 | Pin # | Color | Function |
 | --- | --- | --- |
