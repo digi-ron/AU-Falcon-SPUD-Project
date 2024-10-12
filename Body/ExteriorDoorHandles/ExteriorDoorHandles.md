@@ -12,7 +12,7 @@ Between the 1999 and 2002 models of the AU Falcon, a second spring was added to 
 ![Single Spring Forte handle](./single-spring-handle.jpg)
 ![Dual Spring Forte handle](./dual-spring-handle.jpg)
 
-> Photos of the single and dual spring handles respectively. Note that these were both from Forte (S1 and S3 respectively), indicating a change between the 2 models.
+> Photos of the single and dual spring handles respectively. Note that these were both from Forte (S1 and S3 respectively), indicating a change between the 2 models. note where the spring to the left of the S3 handle sits on a plastic indent that isn't present on the S1s
 
 ## Replacement
 
