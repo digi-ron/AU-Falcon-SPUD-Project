@@ -15,7 +15,7 @@ layout: default
 
 ## Information cross-referencing
 
-> NOTE: No information was directly copy-pasted from any of the following. Instead, they were used to compliment workshop manual information, or to serve as a base for a variation of steps for some procedures
+> NOTE: No information was directly copy-pasted from any of the following. Instead, they were used to compliment information in other places, or to serve as a base for a variation of steps for some procedures
 
 - [Haynes Manuals](https://haynes.com/en-au/ford/falcon/1998-2002-petrol)
 - [MotoringBox](https://www.motoringbox.com/)
