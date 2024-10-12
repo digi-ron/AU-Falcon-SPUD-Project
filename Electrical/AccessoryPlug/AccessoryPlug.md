@@ -27,7 +27,7 @@ Use the following diagram and pinout list for reference. This diagram assumes th
 
 | 01 | 02 |
 | --- | --- |
-| 03 | 04 |
+| **03** | **04** |
 
 - 01 - 12v constant power
 - 02 - GND
