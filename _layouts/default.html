@@ -123,7 +123,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <h1 class="maintitle" style="text-align: center"><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      <h1 class="maintitle" style="text-align: center"><a href="{{ "/index.html" }}">{{ site.title }}</a></h1>
       {% endif %}
 
       {{ content }}
@@ -146,10 +146,10 @@
     <table class="container-lg">
       <tr>
         <td>
-          <a href="https://digi-ron.github.io/AU-Falcon-SPUD-Project/">Home</a>
+          <a href='{{ "/index.html" }}'>Home</a>
         </td>
         <td>
-          <a href="https://digi-ron.github.io/AU-Falcon-SPUD-Project/Credits.html">Credits</a>
+          <a href='{{ "/Credits.html" }}''>Credits</a>
         </td>
         <td>
           <a href="https://github.com/digi-ron">digi-ron - GitHub</a>
