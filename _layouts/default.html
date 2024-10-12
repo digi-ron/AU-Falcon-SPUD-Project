@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
 {% seo %}
     <!--
       TODO double reference of style.css is to allow for file opening on releases, find a fix if possible
@@ -13,6 +12,7 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
+    <link rel="icon" type="image/x-icon" href='{{ "/favicon.ico" }}'>
     <script>
       document.addEventListener("DOMContentLoaded", function() {
         // highlight any note that starts with the string "NOTE:"
