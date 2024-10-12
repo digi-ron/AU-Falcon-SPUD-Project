@@ -103,14 +103,21 @@ All following instructions assume you have the ignition coil pack horizontally i
 
 **Electrical plug pinout**
 
-| 1 | 2 | 3 | 4 |
-| --- | --- | --- | --- |
+<!--coded as HTML table because markdown hates single line tables-->
+<table>
+    <thead>
+        <th><code>1</code></th>
+        <th><code>2</code></th>
+        <th><code>3</code></th>
+        <th><code>4</code></th>
+    </thead>
+</table>
 
 **Spark plug lead pole layout**
 
-| 1 | 2 | 3 |
+| `1` | `2` | `3` |
 | --- | --- | --- |
-| 4 | 5 | 6 |
+| **`4`** | **`5`** | **`6`** |
 
 <!--TODO add a picture-->
 
