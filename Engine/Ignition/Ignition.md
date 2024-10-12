@@ -108,7 +108,7 @@ The recommended method for removing these coil packs is to either completely rem
 
 1. By reaching around the intake manifold through the gap made by removing the airbox, remove the ignition leads and electrical plug
     
-    ![S1 Ignition coil pack plug](./hand-tighen-spark.jpg)
+    ![S1 Ignition coil pack plug](./ignition-plug.jpg)
 
     > photo of the ignition coil pack plug on a S1 Falcon, post removal
 
