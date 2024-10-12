@@ -58,9 +58,9 @@ Follow the steps below to replace the driver door speakers:
 
         > example of a loom made for a set of Kenwood speakers
         
-    ![Door end connector](./speaker-wires-door.jpg)
+        ![Door end connector](./speaker-wires-door.jpg)
 
-    > Photo of the wires from the back of the plug in the door side of the wiring loom. Note the wire with the Black line is Negative, and the one with the Green line is Positive
+        > Photo of the wires from the back of the plug in the door side of the wiring loom. Note the wire with the Black line is Negative, and the one with the Green line is Positive
 
 1. Connect your speaker to the wiring harness and reinstall into the door
 
