@@ -6,7 +6,7 @@ layout: default
 
 The steering wheel controls for the AU falcon are one of the most fragile parts of an otherwise nigh-indestructible interior, which is made more unfortunate by the fact that the cruise control buttons (where fitted) are controlled from the right side buttons of the steering controls. On top of this they are only accessible by removing the steering wheel airbag, which is held in with 2 non-standard bolts, further complicating matters
 
-## Removing the buttons
+## Removing/Replacing Steering Wheel controls
 
 > NOTE: you will need one specific tool for this job, a Torx T30 star socket (5 point with tamper hole). There is mixed success by tapping a standard (6 point) Torx head socket into the bolts, using a modified screwdriver, or using an extractor, however using this specific socket means that the bolts can be reused without the risk of never being able to remove it easily ever again after reinstallation
 
@@ -34,8 +34,13 @@ The steering wheel controls for the AU falcon are one of the most fragile parts 
 
     ![Mounting screw locations](./control-mount-screws.jpg)
     
-1. unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame <!--TODO add photo-->
-1. done
+2. unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame
+
+    ![Rear plastic separation](./rear-plastic-separation.jpg)
+
+    > gently pull until the back of your steering wheel looks like this. From here, you can feed the wire through the gap by holding the plastic back a little more and pulling the wire through
+
+3. done
 
 > NOTE: If reinstalling the steering wheel controls, be careful of the screws that hold it in place, as they are easy to cross-thread due to the material the steering wheel itself seems to be made of
 
