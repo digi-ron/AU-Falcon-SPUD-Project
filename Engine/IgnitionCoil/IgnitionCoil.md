@@ -119,7 +119,9 @@ All following instructions assume you have the ignition coil pack horizontally i
 | --- | --- | --- |
 | **`4`** | **`5`** | **`6`** |
 
-<!--TODO add a picture-->
+![ignition coil diagram](./ignition-coil-diagnostic-direction.jpg)
+
+> photo of how the ignition coil should be laid out in front of you (mind the grime). This is the same as the rectangular plugged S2-3 Models
 
 ### Primary resistance
 
