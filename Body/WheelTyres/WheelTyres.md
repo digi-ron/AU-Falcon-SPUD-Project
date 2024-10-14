@@ -44,11 +44,13 @@ many AU Falcons came with wheel dust covers that functioned by blocking brake du
 
 If the additional cleaning of the wheels is acceptable, it is recommended that you remove these covers as they cause more problems than they solve on the whole
 
-<!--TODO add a photo of the steel ones-->
-
 ![S1 Mag plastic cover](./s1-plastic-covers.jpg)
 
 > photo of plastic cover on a S1 15" Mag (highlighted orange in picture to the right). Note that the plastic cover is apparently glued to the wheel and will likely need to be broken to be removed
+
+![S2-3 Mag Steel cover](./s2-3-steel-covers.jpg)
+
+> photo of steel covers, which can be found on newer 16" mags. These particular ones were taken from a S3 with "Sharkfin" style mags specifically
 
 ## Removal
 Removal of the wheel dust covers is simple, as below:
