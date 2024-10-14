@@ -14,6 +14,40 @@ layout: default
 
 > Diagram scanned from user manual
 
+## Cabin Fuses table
+
+Please refer to the table below for a list of cabin fuses, including which fuses are constant and which fuses are switched in the case of accessories being installed, such as hard-wired dash cameras and reversing cameras:
+
+> NOTE: if a circuit is switched, this simply means that it is not engaged when the key is not in the ignition. It is up to your own due diligence to discover if these circuits are enabled through the ignition or another source
+
+| Fuse Location | Name | Amps | Switched/Constant |
+| --- | --- | --- | --- |
+| 1 | Cluster Ig | 5 | Switched |
+| 2 | Rev Lamps | 15 | Switched |
+| 3 | Radio No. 2 | 5 | Switched |
+| 4 | Cig Ltr | 15 | Switched |
+| 5 | Stop Lamps | 15 | Switched |
+| 6 | Navigation | 5 | Switched |
+| 7 | Fan Coils | 10 | Switched |
+| 8 | Demist | 30 | Constant |
+| 9 | Radio No. 1 | 15 | Constant |
+| 10 | BEM Batt | 5 | Constant |
+| 11 | Crt Lamps | 15 | Constant |
+| 12 | Wiper | 20 | Switched |
+| 13 | Mob Office | 15 | Switched |
+| 14 | Heater/AC | 20 | Switched |
+| 15 | Tail Lamps | 15 | Constant |
+| 16 | Hazard | 15 | Constant |
+| 17 | A/Bag No. 1 | 10 | Switched |
+| 18 | Turn Signals | 15 | Switched |
+| 19 | Door Locks | 30 | Constant |
+| 20 | Cluster Batt | 10 | Constant |
+| 21 | (Unused) | ?? | Constant |
+| 22 | Power Windows | 30 (Breaker) | Constant |
+| 23 | Amplifier | 20 | Constant |
+
+> NOTE: positions 22 and 23 are referring to the larger fuses at the **top** of the cabin fuse diagram, rather than the spare fuses towards the bottom
+
 ## Minimum viable Fuses/Relays
 
 As a result of experimentation, the minimum amount of fuses and relays required for starting the AU Falcon has been ascertained. This assumes a ***worst case scenario*** and comes with multiple caveats (listed below)
