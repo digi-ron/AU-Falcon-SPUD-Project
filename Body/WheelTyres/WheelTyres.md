@@ -50,7 +50,7 @@ If the additional cleaning of the wheels is acceptable, it is recommended that y
 
 ![S2-3 Mag Steel cover](./s2-3-steel-covers.jpg)
 
-> photo of steel covers, which can be found on newer 16" mags. These particular ones were taken from a S3 with "Sharkfin" style mags specifically
+> photo of steel covers post-removal, which can be found on newer 16" mags. These particular ones were removed in 2023, from a S3 with "Sharkfin" style mags
 
 ## Removal
 Removal of the wheel dust covers is simple, as below:
