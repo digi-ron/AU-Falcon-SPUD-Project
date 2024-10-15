@@ -54,7 +54,7 @@ As a result of experimentation, the minimum amount of fuses and relays required 
 
 ### Caveats
 
-Running the car on the bare minimum required to turn over the car, and as such many systems required for driving legally on Australian roads will be disabled. Please refer to the list below and compensate accordingly if needed, otherwise only use this in order to get a car onto a suitable transport:
+This guide ignores any systems not absolutely required to turn the car over, and as such many systems required for driving legally on Australian roads will be disabled. Please refer to the list below and compensate accordingly if needed, otherwise only use this in order to get a car onto a suitable transport:
 
 Important systems disabled are:
 - Windscreen Wipers
@@ -83,7 +83,7 @@ below is a list of required parts, assuming the cabin and engine fuse boxes are 
 | ISO mini 4 way relay (SPST) | 2 |
 | ISO micro 5 way relay | 2 |
 
-> NOTE: the 4 way relays in the above table are white if they are the Ford factory fitted relays. While the green 5 way relays *should* work there is no reason to have them in this scenario, and a 4 way relay is theoretically easier to find anyways
+> NOTE: the 4 way relays in the above table are white if they are the Ford factory fitted relays. While the green 5 way relays *should* work there is no reason to have them in this scenario, and a 4 way relay is theoretically also easier to find
 
 ### Schematic
 
