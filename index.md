@@ -24,6 +24,7 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
   - [Speakers](./Audio/Speakers/Speakers.md)
 - Body
   - [Door Lock Actuators](./Body/DoorLockActuators/DoorLockActuators.md)
+  - [Interior Mirror](./Body/InteriorMirror/InteriorMirror.md)
   - [Wheels/Tyres](./Body/WheelTyres/WheelTyres.md)
 - ECU & BCM
   - [Central Locking Key Fob](./ECUBCM/Keyfob/Keyfob.md)
