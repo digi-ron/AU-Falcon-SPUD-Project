@@ -32,6 +32,7 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
   - [Instrument Cluster](./ECUBCM/InstrumentCluster/InstrumentCluster.md)
 - Electrical
   - [Accessory Plug (blue under-dash connector)](./Electrical/AccessoryPlug/AccessoryPlug.md)
+  - [Cabin Fuse Panel](./Electrical/CabinFusePanel/CabinFusePanel.md)
   - [Centre Console Buttons](./Electrical/CentreConsoleButtons/CentreConsoleButtons.md)
   - [Fuses](./Electrical/Fuses/Fuses.md)
   - [Headlight Switch](./Electrical/HLSwitch/HLSwitch.md)
