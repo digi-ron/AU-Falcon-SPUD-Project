@@ -33,7 +33,7 @@ layout: default
   > *sold a "coded" AUI remote for a $50 markup vs. a clean fob. Remote didn't work and I was given the runaround when asked for information to get it working. Support took 8 days, 6 of which were spent by them not responding to the simple question of "what is the KEYDIY configuration you used on this clearly KEYDIY fob?", and 1 wasted finding out that real locksmiths have had issues with these remotes. The kicker: I'm confident they don't even code them, not that they ever mentioned that the 3 different times I asked*
 
 - [Ford Australia Customer Support](mailto:foacust1@ford.com)
-  > *Sent an email 8/10/24 asking for as much info as they were willing to give me on the SmartLock fobs, so I can make a DIY guide ideally. Nothing. Not a "Sorry we can't because you're not a locksmith", Not a "this is the wrong email to send this to", just silence after the "We received your email" message*
+  > *Sent an email 8/10/24 asking for as much info as they were willing to give me on the SmartLock fobs, so I can make a DIY guide to prevent scalpers having the last say. 3 weeks of silence and a follow up email and they finally respond to me: "Sorry we can't help". Yeah. I know, hell, I knew a week ago when I poked you again but I decided to anyways, just in case I was wrong*
 
 ## About the Author (And Project SPUD Lore)
 
