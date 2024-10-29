@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!--TODO add photos to this page, maybe that'll help-->
+<!--TODO add more annotated photos to each section of this page-->
 
 # Cabin Fuse Panel
 
@@ -10,7 +10,11 @@ layout: default
 
 the cabin fuse box has 11 individual electrical plugs that comprise it's wiring, and as such the wiring has been divided as below per plug.
 
-> NOTE: if looking that the back of the cabin fuse panel, with the relays at the top and facing away from you, these plugs are listed right-left, top-bottom
+> NOTE: all diagrams assume that you are facing either the front or the back of the cabin fuse panel, with the relays at the top.
+
+![Cabin Fuse Panel - Front](./fuse-panel-front.jpg)
+![Cabin Fuse Panel - Rear](./fuse-panel-rear.jpg)
+> Pictures of how the fuse panel should be facing you from the front a rear respectively
 
 ## Reading this guide
 
