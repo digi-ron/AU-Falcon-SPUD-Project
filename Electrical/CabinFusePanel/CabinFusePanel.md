@@ -64,15 +64,15 @@ This relay is a the only full-sized 5 way relay connector present in the cabin f
 </table>
 
 <!--TODO fix the relay definitions-->
-<!-- ### Pin definitions
+### Pin definitions
 
 | Index | Relay Terminal Number |
-| --- | --- | --- |
-| R1-1 |  |
-| R1-2 |  |
-| R1-3 | 85a |
-| R1-4 |  |
-| R1-5 |  | -->
+| --- | --- |
+| R1-1 | 87 |
+| R1-2 | 85 |
+| R1-3 | 87a |
+| R1-4 | 86 |
+| R1-5 | 30 |
 
 ## relay 2 - TAIL Relay
 
@@ -90,6 +90,17 @@ This relay is a half-size 4 way relay connector. For the following assume the fo
         <td><b><code>R2-4</code></b></td>
     </tr>
 </table>
+
+### Pin definitions
+
+| Index | Relay Terminal Number |
+| --- | --- |
+| R2-1 | 2 |
+| R2-2 | 1 |
+| R2-3 | 5 |
+| R2-4 | 3 |
+
+> NOTE: these half-size relays are generally 5-way relays rather than 4-way, however in the Original part, the pin between `R2-1` and `R2-2` (relay terminal pin number 4) has been cut off
 
 ## relay 3 - DEF Relay
 
@@ -109,6 +120,15 @@ This relay is a full-size 4 way relay, for the following assume the following la
     </tr>
 </table>
 
+### Pin definitions
+
+| Index | Relay Terminal Number |
+| --- | --- |
+| R3-1 | 87 |
+| R3-2 | 85 |
+| R3-3 | 86 |
+| R3-4 | 30 |
+
 ## relay 4 - P/WIN Relay
 
 This relay is a full-size 4 way relay, for the following assume the following layout:
@@ -127,6 +147,15 @@ This relay is a full-size 4 way relay, for the following assume the following la
     </tr>
 </table>
 
+### Pin definitions
+
+| Index | Relay Terminal Number |
+| --- | --- |
+| R4-1 | 87 |
+| R4-2 | 85 |
+| R4-3 | 86 |
+| R4-4 | 30 |
+
 ## relay 5 - FLSH Relay
 
 This relay is a 3 way flasher relay, for the following assume the following layout:
@@ -141,7 +170,13 @@ This relay is a 3 way flasher relay, for the following assume the following layo
     </tr>
 </table>
 
-<!--TODO fix the references to these pins-->
+### Pin definitions
+
+| Index | Relay Terminal Number |
+| --- | --- |
+| R5-1 | 49a |
+| R5-2 | 31 |
+| R5-3 | 49 |
 
 # Connector Plugs (Rear)
 
@@ -350,25 +385,9 @@ These pins have continuity with the following:
 
 | pin | continuity |
 | --- | --- |
-| 12-1 | ***MULTIPLE LOCATIONS: SEE BELOW*** |
-| 12-2 | ***MULTIPLE LOCATIONS: SEE BELOW*** |
-| 12-3 | ***MULTIPLE LOCATIONS: SEE BELOW*** |
-
-### 12-1 locations
-- R1-5
-- right pin - AMP fuse
-
-### 12-2 locations
-- F8-2
-- F9-1
-- F10-2
-- F11-1
-- F21-1
-
-### 12-3 locations
-- right pin - P/WIN fuse
-- F15-2
-- F16-2
+| 12-1 | [Circuit 8](#circuit-8---amp) |
+| 12-2 | [Circuit 9](#circuit-9---misc-fuses) |
+| 12-3 | [Circuit 10](#circuit-10---pwin) |
 
 ## plug 13 - 6-way connector
 
@@ -391,8 +410,6 @@ These pins have continuity with the following:
 
 # Additional Circuits
 
-## Additional Circuits - NO PLUG CONNECTIONS
-
 ### Circuit 1 - P/WIN
 
 There is a direct link between the following pins, related to the Power Windows circuit
@@ -405,8 +422,6 @@ There is a direct link between the following pins, related to the Power Windows 
 There is a direct link between the following pins, related to the Rear Window Defrost circuit
 - F8-1
 - R3-4
-
-## Additional Circuits - PLUG CONNECTIONS
 
 ### Circuit 3 - TAIL
 
@@ -457,3 +472,28 @@ There is a direct link between the following fuse pins, related to multiple conn
 - F12-1
 - F13-1
 - F14-2
+- connector pin **`9-3`**
+
+### Circuit 8 - AMP
+
+There is a direct link between the following pins, related to the Amplifier circuit
+- R1-5
+- right pin - AMP fuse
+
+### Circuit 9 - Misc. Fuses
+
+There is a direct link between the following pins, related to a single connector pin and multiple fuses:
+- F8-2
+- F9-1
+- F10-2
+- F11-1
+- F21-1
+- connector pin **`12-2`**
+
+### Circuit 10 - P/WIN
+
+There is a direct link between the following pins, related to the Power Window Circuit, one connector pin, and multiple fuses:
+- right pin - P/WIN fuse
+- F15-2
+- F16-2
+- connector pin **`12-3`**
