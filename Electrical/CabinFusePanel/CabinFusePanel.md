@@ -170,7 +170,7 @@ These pins have continuity with the following:
 | 2-3 | R5-3 |
 | 2-4 | [Circuit 3](#circuit-3---tail) |
 | 2-5 | R1-3 |
-| 2-6 | [Circuit 5](#circuit-5---misc-fuses)|
+| 2-6 | [Circuit 5](#circuit-5---misc-fuses--connector-pins)|
 
 ## plug 3 - 4-way connector
 
@@ -212,7 +212,7 @@ These pins have continuity with the following:
 | pin | continuity |
 | --- | --- |
 | 6-1 | F9-2 |
-| 6-2 | [Circuit 5](#circuit-5---misc-fuses) |
+| 6-2 | [Circuit 5](#circuit-5---misc-fuses--connector-pins) |
 | 6-3 | R3-2 |
 | 6-4 | F10-1 |
 | 6-5 | connected to pin 6-4 |
@@ -252,15 +252,7 @@ These pins have continuity with the following:
 | pin | continuity |
 | --- | --- |
 | 8-1 | R1-1 |
-| 8-2 | ***MULTIPLE LOCATIONS: SEE BELOW***
-
-### 8-2 Locations
-- F1-2
-- F2-1
-- F6-2
-- F8-2
-- F18-1
-- F18-1
+| 8-2 | [Circuit 6](#circuit-6---misc-fuses--connector-pins-no-2) |
 
 ## plug 9 - 7-way connector
 
@@ -286,26 +278,11 @@ These pins have continuity with the following:
 | --- | --- |
 | 9-1 | right pin - P/WIN fuse |
 | 9-2 | F18-2 |
-| 9-3 | ***MULTIPLE LOCATIONS: SEE BELOW*** |
+| 9-3 | [Circuit 7](#circuit-7---misc-fuses--connector-pins-no-3) |
 | 9-4 | R1-1 |
 | 9-5 | [Circuit 2](#circuit-2---def) |
 | 9-6 | R4-1 |
-| 9-7 | ***MULTIPLE LOCATIONS: SEE BELOW*** |
-
-### 9-3 locations
-- F3-2
-- F4-2
-- F12-1
-- F13-1
-- F14-2
-
-### 9-7 locations
-- F1-2
-- F2-1
-- F6-2
-- F7-2
-- F17-1
-- F18-1
+| 9-7 | [Circuit 6](#circuit-6---misc-fuses--connector-pins-no-2) |
 
 ## plug 10 - 10-way connector
 
@@ -453,9 +430,30 @@ There is a direct link between the following pins, related to the FLSH and A/C c
 - connector pin **`13-5`**
 - connector pin **`13-6`**
 
-### Circuit 5 - Misc. Fuses
+### Circuit 5 - Misc. Fuses & Connector Pins No. 1
 
 There is a direct link between the following pins, related to a single fuse, and multiple rear connector pins:
-- R11-2
+- F11-2
 - connector pin **`6-2`**
 - connector pin **`6-5`**
+
+### Circuit 6 - Misc. Fuses & Connector Pins No. 2
+
+There is a direct link between the following fuse pins, related to multiple connector pins and multiple fuses:
+- F1-2
+- F2-1
+- F6-2
+- F7-2
+- F17-1
+- F18-1
+- connector pin **`8-2`**
+- connector pin **`9-7`**
+
+### Circuit 7 - Misc. Fuses & Connector Pins No. 3
+
+There is a direct link between the following fuse pins, related to multiple connector pins and multiple fuses:
+- F3-2
+- F4-2
+- F12-1
+- F13-1
+- F14-2
