@@ -25,6 +25,14 @@ Use the legends table below to decipher what each code means. This was made in o
 | F`x`-`y` | Fuse location by number index | requires below diagram or labelled cabin fuse panel. e.g. F1-1 for the top pin of fuse 1, F1-2 for fuse 1's bottom pin, etc. (assume you are facing the cabin fuse panel with the relays at the top and the fuses down the bottom)|
 | R`x`-`y` | Relay pin location by index | requires guide below, e.g. R1-1 for the top pin of the A/C relay |
 
+# Fuse & Relay Connectors (Front)
+
+These connectors are identifiable according to the annotated image:
+
+![fuse and relay connector layout](./fuse-panel-front-annotated.jpg)
+
+> NOTE: the P/WIN and AMP fuses are not marked on purpose, both because they are clearly marked ***AND*** because depending on the manual, these have different designations, which overlap with the existing fuses in the bottom
+
 ## Main Fuse Cluster
 
 Below is a layout of all fuse block pins:
@@ -134,6 +142,12 @@ This relay is a 3 way flasher relay, for the following assume the following layo
 </table>
 
 <!--TODO fix the references to these pins-->
+
+# Connector Plugs (Rear)
+
+These plugs are identifiable according to the annotated image below
+
+![annotated rear connectors](./fuse-panel-rear-annotated.jpg)
 
 ## plug 1 - 1-way connector
 
@@ -397,6 +411,8 @@ These pins have continuity with the following:
 | 13-4 | [Circuit 4](#circuit-4---ac--flsh) |
 | 13-5 | [Circuit 4](#circuit-4---ac--flsh) |
 | 13-6 | R3-1 |
+
+# Additional Circuits
 
 ## Additional Circuits - NO PLUG CONNECTIONS
 
