@@ -24,3 +24,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 # built in gems, required as ruby won't include these in the stabndard library in future versions
 gem "webrick"
 gem "csv"
+
+# sitemap plugin
+gem "jekyll-sitemap"
