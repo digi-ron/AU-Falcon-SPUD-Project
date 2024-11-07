@@ -5,7 +5,7 @@ layout: default
 # Cooling Systems
 
 ## Thermostat replacement
-Replacing the thermostat in an AU Falcon is a very simple job to do, and can save you from issues such as overheating or high fuel consumption is it become stuck. Follow the steps below to replace the thermostat:
+Replacing the thermostat in an AU Falcon is a very simple job to do, and can save you from issues such as overheating or high fuel consumption if it become stuck. Follow the steps below to replace the thermostat:
 
 1. (if not pre-assembled) assemble your thermostat and rubber seal. Note that the rubber seal should have a groove in it that the thermostat sits inside of.
 
