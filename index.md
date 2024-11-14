@@ -46,5 +46,6 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
   - [Spark Plugs](./Engine/SparkPlugs/SparkPlugs.md)
 - Miscellaneous
   - [Component Lifespan Information](./Miscellaneous/Lifespans/Lifespans.md)
+  - [Parts Sharing](./Miscellaneous/PartsSharing/PartsSharing.md)
   - [Reading Vehicle Identification Numbers (VIN)](./Miscellaneous/VIN/VIN.md)
   - [Vehicle Verification Letters](./Miscellaneous/VerificationLetter/Verification.md)
