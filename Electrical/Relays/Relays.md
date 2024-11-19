@@ -103,4 +103,29 @@ These relays function exactly the same as the [4-Way Mini-ISO relays](#4-way-min
 - Connect ground to auxillary device
 - Done
 
-> NOTE: a 5-way relay fo the same size would function more like the [5-way Mini-ISO](#5-way-mini-iso-relay) relay, however it is not noted as it is not relevant to this project
+> NOTE: a 5-way relay for the same Micro-ISO size would function more like the [5-way Mini-ISO](#5-way-mini-iso-relay) relay, however it is not noted as it is not relevant to this project
+
+
+## 3-Way Flasher Relay
+
+### Functionality
+
+There is only one of these types of relays present in the AU Falcon, used for the Indicator bulb circuit within the vehicle. Power is quite simple with a caveat. When power is supplied between 12V pin 49 and the Earth on pin 31, the positive output of pin 49a will flash *depending on the wattage required for the pin*. The important caveat is simple: the OEM flasher relay is designed for 2/4x21W globes, and as such nominal operating wattages are either approx. 42W total or 84W total.
+
+### Layout
+
+<table style="text-align:center">
+    <tr>
+        <td rowspan="2"><b><code>49a</code></b></td>
+        <td><b><code>49</code></b></td>
+    </tr>
+    <tr>
+        <td><b><code>31</code></b></td>
+    </tr>
+</table>
+
+### Example - Custom work flasher lights
+- Connect high amperage power to pin 49 (switched recommended)
+- Connect ground to pin 31
+- Connect positive for auxillary system to pin 49a (42/84W circuit recommended)
+- Connect negative for auxillary system to ground
