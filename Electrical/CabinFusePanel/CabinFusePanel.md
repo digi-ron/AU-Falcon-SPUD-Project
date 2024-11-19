@@ -413,87 +413,87 @@ These pins have continuity with the following:
 ### Circuit 1 - P/WIN
 
 There is a direct link between the following pins, related to the Power Windows circuit
-- R4-4
-- R4-3
+- [R4-4](#relay-4---pwin-relay)
+- [R4-3](#relay-4---pwin-relay)
 - left pin P/WIN fuse
 
 ### Circuit 2 - DEF
 
 There is a direct link between the following pins, related to the Rear Window Defrost circuit
-- F8-1
-- R3-4
+- [F8-1](#main-fuse-cluster)
+- [R3-4](#relay-3---def-relay)
 
 ### Circuit 3 - TAIL
 
 There is a direct link between the following pins, related to the Tail light circuit
-- connector pin **`10-3`**
-- connector pin **`2-4`**
-- connector pin **`13-2`**
-- R2-1
+- [connector pin **`10-3`**](#plug-10---10-way-connector)
+- [connector pin **`2-4`**](#plug-2---6-way-connector)
+- [connector pin **`13-2`**](#plug-13---6-way-connector)
+- [R2-1](#relay-2---tail-relay)
 
 ### Circuit 4 - A/C & FLSH
 
 There is a direct link between the following pins, related to the FLSH and A/C circuits:
-- R5-2
-- R1-4
-- connector pin **`3-2`**
-- connector pin **`7-3`**
-- connector pin **`7-6`**
-- connector pin **`11-6`**
-- connector pin **`11-7`**
-- connector pin **`13-4`**
-- connector pin **`13-5`**
-- connector pin **`13-6`**
+- [R5-2](#relay-5---flsh-relay)
+- [R1-4](#relay-1---ac-relay)
+- [connector pin **`3-2`**](#plug-3---4-way-connector)
+- [connector pin **`7-3`**](#plug-7---6-way-connector)
+- [connector pin **`7-6`**](#plug-7---6-way-connector)
+- [connector pin **`11-6`**](#plug-11---7-way-connector)
+- [connector pin **`11-7`**](#plug-11---7-way-connector)
+- [connector pin **`13-4`**](#plug-13---6-way-connector)
+- [connector pin **`13-5`**](#plug-13---6-way-connector)
+- [connector pin **`13-6`**](#plug-13---6-way-connector)
 
 ### Circuit 5 - Misc. Fuses & Connector Pins No. 1
 
 There is a direct link between the following pins, related to a single fuse, and multiple rear connector pins:
-- F11-2
-- connector pin **`6-2`**
-- connector pin **`6-5`**
+- [F11-2](#main-fuse-cluster)
+- [connector pin **`6-2`**](#plug-6---6-way-connector)
+- [connector pin **`6-5`**](#plug-6---6-way-connector)
 
 ### Circuit 6 - Misc. Fuses & Connector Pins No. 2
 
 There is a direct link between the following fuse pins, related to multiple connector pins and multiple fuses:
-- F1-2
-- F2-1
-- F6-2
-- F7-2
-- F17-1
-- F18-1
-- connector pin **`8-2`**
-- connector pin **`9-7`**
+- [F1-2](#main-fuse-cluster)
+- [F2-1](#main-fuse-cluster)
+- [F6-2](#main-fuse-cluster)
+- [F7-2](#main-fuse-cluster)
+- [F17-1](#main-fuse-cluster)
+- [F18-1](#main-fuse-cluster)
+- [connector pin **`8-2`**](#plug-8---2-way-connector)
+- [connector pin **`9-7`**](#plug-9---7-way-connector)
 
 ### Circuit 7 - Misc. Fuses & Connector Pins No. 3
 
 There is a direct link between the following fuse pins, related to multiple connector pins and multiple fuses:
-- F3-2
-- F4-2
-- F12-1
-- F13-1
-- F14-2
-- connector pin **`9-3`**
+- [F3-2](#main-fuse-cluster)
+- [F4-2](#main-fuse-cluster)
+- [F12-1](#main-fuse-cluster)
+- [F13-1](#main-fuse-cluster)
+- [F14-2](#main-fuse-cluster)
+- [connector pin **`9-3`**](#plug-9---7-way-connector)
 
 ### Circuit 8 - AMP
 
 There is a direct link between the following pins, related to the Amplifier circuit
-- R1-5
+- [R1-5](#relay-1---ac-relay)
 - right pin - AMP fuse
 
 ### Circuit 9 - Misc. Fuses
 
 There is a direct link between the following pins, related to a single connector pin and multiple fuses:
-- F8-2
-- F9-1
-- F10-2
-- F11-1
-- F21-1
-- connector pin **`12-2`**
+- [F8-2](#main-fuse-cluster)
+- [F9-1](#main-fuse-cluster)
+- [F10-2](#main-fuse-cluster)
+- [F11-1](#main-fuse-cluster)
+- [F21-1](#main-fuse-cluster)
+- [connector pin **`12-2`**](#plug-12---3-way-connector)
 
 ### Circuit 10 - P/WIN
 
 There is a direct link between the following pins, related to the Power Window Circuit, one connector pin, and multiple fuses:
 - right pin - P/WIN fuse
-- F15-2
-- F16-2
-- connector pin **`12-3`**
+- [F15-2](#main-fuse-cluster)
+- [F16-2](#main-fuse-cluster)
+- [connector pin **`12-3`**](#plug-12---3-way-connector)
