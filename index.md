@@ -36,6 +36,7 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
   - [Centre Console Buttons](./Electrical/CentreConsoleButtons/CentreConsoleButtons.md)
   - [Fuses](./Electrical/Fuses/Fuses.md)
   - [Headlight Switch](./Electrical/HLSwitch/HLSwitch.md)
+  - [Relays (General Information)](./Electrical/Relays/Relays.md)
   - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
   - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
 - Engine
