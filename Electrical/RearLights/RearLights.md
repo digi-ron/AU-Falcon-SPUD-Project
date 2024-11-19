@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+# Rear Lights Connector
+
+## Plug Type
+The plug used for the tail lights in the AU Falcon is a simple 6-way automotive connector. Information on this part is sparce, but some sources note it as a 250 style connector, which is manufactured by multiple sources, such as Narva
+
+<!--TODO add a photo of the 6 way connectors-->
+
+## Pinout
+Use the following diagram and pinout list for reference. This diagram assumes that the clip is facing up and you are looking at the female housing connector (the loom end wiring connector)
+
+| 01 | 02 | 03 |
+| --- | --- | --- |
+| **04** | **05** | **06** |
+
+| Pin | Color | Purpose |
+| --- | --- | --- |
+| 01 | Red/Black | Reverse Lights |
+| 02 | Green/Red | Brake Lights |
+| 03 | Green | Indicator/Hazards |
+| 04 | Brown | Tail Lights |
+| 05 | Black | Ground |
+| 06 | N/a | Not populated |
