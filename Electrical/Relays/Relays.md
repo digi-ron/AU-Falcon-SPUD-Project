@@ -6,7 +6,7 @@ layout: default
 
 Below is a simple guide to different types of relays
 
-> NOTE: None of this is special information specific to the AU Falcon, and is simply here as a convenient guide
+> NOTE: None of this is special information specific to the AU Falcon, but for the sake of brevity and convenience, only relays included in the model are listed here
 
 ## 4-Way Mini-ISO Relay
 
