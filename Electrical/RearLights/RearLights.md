@@ -4,8 +4,10 @@ layout: default
 
 # Rear Lights Connector
 
+The rear light connector can be a great location to wire in Accessory wires for auxiliary system such as a reversing camera. In the case that you would like to tap into this wiring without soldering or modifying the vehicles own wiring loom, the following information could be found to be useful.
+
 ## Plug Type
-The plug used for the tail lights in the AU Falcon is a simple 6-way automotive connector. Information on this part is sparce, but some sources note it as a 250 style connector, which is manufactured by multiple sources, such as Narva
+The plug used for the tail lights in the AU Falcon is a simple 6-way automotive connector. Information on this part is sparse, but some sources note it as a 250 style connector, which is manufactured by multiple sources, such as Narva
 
 <!--TODO add a photo of the 6 way connectors-->
 
