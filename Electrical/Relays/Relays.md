@@ -57,7 +57,7 @@ These relays represent the simplest form of automotive relay. Put simply, when a
 
 ### Functionality
 
-These relays are quite similar to the [4-Way](#4-way-mini-iso-relay) relays, however they have another pin available, for when the relay is not switched. As a result, this is probably best not to be used for a circuit that is constantly powered, as it will likely cause a constant power leak from the car battery, even when off.
+These relays are quite similar to the [4-Way Mini-ISO](#4-way-mini-iso-relay) relays, however they have another pin available, for when the relay is not switched. As a result, this is probably best not to be used for a circuit that is constantly powered, as it will likely cause a constant power leak from the car battery, even when off.
 
 ### Example - switching between exclusive systems
 - Connect low amperage power to pin 86
@@ -90,3 +90,17 @@ These relays are not particularly common compared to the mini-ISO counterparts, 
         <td><b><code>1</code></b></td>
     </tr>
 </table>
+
+### Functionality
+
+These relays function exactly the same as the [4-Way Mini-ISO relays](#4-way-mini-iso-relay). Put simply, when a 12v signal is provided from pin 2 to 1, then the 12V constant power from pin 3 will be connected to pin 5 with any 12V power present.
+
+### Example - Simple Auxillary device
+- Connect low amperage power to pin 2
+- Connect high amperage power to pin 3
+- Connect a switch from pins 2 and 1
+- Connect positive wire from auxillary device (e.g. light) to pin 5
+- Connect ground to auxillary device
+- Done
+
+> NOTE: a 5-way relay fo the same size would function more like the [5-way Mini-ISO](#5-way-mini-iso-relay) relay, however it is not noted as it is not relevant to this project
