@@ -9,7 +9,7 @@ The clusters themselves come in various trims, which have differences ranging fr
 
 | Cluster | Used in | Notes |
 | --- | --- | --- |
-| Low | Forte/Futura/S/SR | Only contains rev, speedo, temp and fuel gauges. Base model cluster |
+| Low | Forte/Futura/S/SR | Only contains rev, speedometer, temp and fuel gauges. Base model cluster |
 | Pursuit | Police Vehicles | police-modified low cluster with 240km/h max speed, marks every 2km/h, and programmable speedometer (for different tyre sizes) |
 | Mid | XR6/XR8 | all base gauges as well as oil pressure and battery voltage gauges. increased max reading to 240km/h (V8 only?) and gear selector indicator |
 | High | Fairmont/Fairlane/LTD | all mid cluster features, an upgraded Odometer display, more specific door ajar indicator, and additional warning lights (alternator, TCS, washer fluid, etc.) |

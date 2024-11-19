@@ -63,7 +63,7 @@ Important systems disabled are:
 - the horn
 - ***BOTH*** radiator cooling fans
 - ABS/TCS
-- ***ALL*** interior lighting including the backlights for the instrument cluster
+- ***ALL*** interior lighting including the backlight for the instrument cluster
 
 This also assumes that:
 - you are willing to remove the Idle Speed Control unit (may be closed too much or clogged at rest)

@@ -4,7 +4,7 @@ layout: default
 
 # Trailer Auxillary plug
 
-The plugs used for the trailer adapter loom are different to other plugs wthin the interior, and are a bit of an oddball connector for the car as a whole. This is likely due to Hayman Reese being the manufacturers for a large range of the tow pack options for the AU Falcon, particularly any of the higher-rated towbars. as a result the connector is known as a HM connector, apparently manufactured by a company known as Sumitomo.
+The plugs used for the trailer adapter loom are different to other plugs within the interior, and are a bit of an oddball connector for the car as a whole. This is likely due to Hayman Reese being the manufacturers for a large range of the tow pack options for the AU Falcon, particularly any of the higher-rated towbars. as a result the connector is known as a HM connector, apparently manufactured by a company known as Sumitomo.
 
 > NOTE: this plug appears to be standard in all Falcons AU-BFIII (1998-2016) and all Territory models, however pinout may be different due to additional features
 
@@ -45,7 +45,7 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 ### 7 Pin layout
 
-for the following information, assume the following layout forn the trailer end connector, with the locking tabs facing up:
+for the following information, assume the following layout for the trailer end connector, with the locking tabs facing up:
 
 <!--coded as a HTML table as single line-->
 <table>

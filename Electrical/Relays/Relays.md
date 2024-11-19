@@ -30,12 +30,12 @@ Below is a simple guide to different types of relays
 
 These relays represent the simplest form of automotive relay. Put simply, when a 12v signal is provided from pin 86 to 85, then the 12V constant power from pin 30 will be connected to pin 87 with any 12V power present.
 
-### Example - Simple Auxillary device
+### Example - Simple Auxiliary device
 - Connect low amperage power to pin 86
 - Connect high amperage power to pin 30
 - Connect a switch from pins 85 and 86
-- Connect positive wire from auxillary device (e.g. light) to pin 87
-- Connect ground to auxillary device
+- Connect positive wire from auxiliary device (e.g. light) to pin 87
+- Connect ground to auxiliary device
 - Done
 
 ## 5-Way Mini-ISO Relay
@@ -63,11 +63,11 @@ These relays are quite similar to the [4-Way Mini-ISO](#4-way-mini-iso-relay) re
 - Connect low amperage power to pin 86
 - Connect high amperage power to pin 30 (switched recommended)
 - Connect switch from pins 86 to 85
-- Connect auxillary device #1 positive wire to pin 87
-- Connect auxillary device #2 positive wire to pin 87a
-- Connect ground to auxillary devices
-- Enable switch between pins 86 and 85 to deactivate auxillary device #2 and activate auxillary device #1
-- Disable switch between pins 86 and 85 to deactivate auxillary device #1 and enable auxillary device #2
+- Connect auxiliary device #1 positive wire to pin 87
+- Connect auxiliary device #2 positive wire to pin 87a
+- Connect ground to auxiliary devices
+- Enable switch between pins 86 and 85 to deactivate auxiliary device #2 and activate auxiliary device #1
+- Disable switch between pins 86 and 85 to deactivate auxiliary device #1 and enable auxiliary device #2
 - Done
 
 ## 4-Way Micro-ISO Relay
@@ -95,12 +95,12 @@ These relays are not particularly common compared to the mini-ISO counterparts, 
 
 These relays function exactly the same as the [4-Way Mini-ISO relays](#4-way-mini-iso-relay). Put simply, when a 12v signal is provided from pin 2 to 1, then the 12V constant power from pin 3 will be connected to pin 5 with any 12V power present.
 
-### Example - Simple Auxillary device
+### Example - Simple Auxiliary device
 - Connect low amperage power to pin 2
 - Connect high amperage power to pin 3
 - Connect a switch from pins 2 and 1
-- Connect positive wire from auxillary device (e.g. light) to pin 5
-- Connect ground to auxillary device
+- Connect positive wire from auxiliary device (e.g. light) to pin 5
+- Connect ground to auxiliary device
 - Done
 
 > NOTE: a 5-way relay for the same Micro-ISO size would function more like the [5-way Mini-ISO](#5-way-mini-iso-relay) relay, however it is not noted as it is not relevant to this project
@@ -127,5 +127,5 @@ There is only one of these types of relays present in the AU Falcon, used for th
 ### Example - Custom work flasher lights
 - Connect high amperage power to pin 49 (switched recommended)
 - Connect ground to pin 31
-- Connect positive for auxillary system to pin 49a (42/84W circuit recommended)
-- Connect negative for auxillary system to ground
+- Connect positive for auxiliary system to pin 49a (42/84W circuit recommended)
+- Connect negative for auxiliary system to ground

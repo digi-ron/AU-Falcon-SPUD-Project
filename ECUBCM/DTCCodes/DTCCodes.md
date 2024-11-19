@@ -53,7 +53,7 @@ Below is a list of codes and descriptions that can be produced by the DTC system
 | P0352 | Ignition Coil set 2 failure |
 | P0353 | Ignition Coil set 3 failure |
 | P0354 | V8 Ignition Coil set 4 failure |
-| P0443 | EVAP circuit issue |
+| P0443 | Evap. circuit issue |
 | P0480 | Fan 1 failure |
 | P0481 | Fan 2 failure |
 | P0500 | Vehicle Speed sensor circuit issue |

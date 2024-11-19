@@ -88,7 +88,7 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     - the pin ring is sitting central in the square plastic housing
     - the cog on the end of the worm gear is sitting in the teeth for the motor properly
     - the spring on the cog end is sitting on the black plastic **before** the lip in the gear
-    - the pring on the far end is sitting inside the assembly securely
+    - the spring on the far end is sitting inside the assembly securely
 
     ![Assembled with new gear](./assembly-assembled.jpg)
 
