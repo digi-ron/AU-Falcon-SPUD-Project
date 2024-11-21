@@ -78,7 +78,7 @@ jobs:
         with:
           tag_name: ${{ github.run_id}}
           release_name: Release ${{ github.sha }}
-          body: Basic HTML dump of the site. Note that theming is broken and some of the links are broken. release is only intended as a "lifeboat" in case the site goes down or the project is deleted
+          body: Basic HTML dump of the site. Note that theming only kind of works, and the links work most of the time at best. release is only intended as a "lifeboat" in case the site goes down or the project is deleted
           draft: false
           prerelease: false
       - name: Upload Release Asset
