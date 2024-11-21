@@ -43,6 +43,8 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 > NOTE: no information on round pins due to phasing out as of 2024
 
+> NOTE: conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals
+
 ### 7 Pin layout
 
 for the following information, assume the following layout for the trailer end connector, with the locking tabs facing up:
