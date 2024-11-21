@@ -23,9 +23,11 @@ layout: default
 - [MotoringBox](https://www.motoringbox.com/)
 - [mycar Tyre & Auto](https://www.mycar.com.au/)
 
-<!-- ## <span class="good-highlight">Special Thanks - Information sharers and timesavers </span>
-
--->
+## <span class="good-highlight">Special Thanks - Information sharers and timesavers </span>
+- [Hayman Reese](https://haymanreese.com.au/)
+  > *Was more than happy to send through a manual for a towbar I grabbed from a wreckers, even though they stood to gain nothing but good karma from it*
+- [TJM](https://www.tjm.com.au/)
+  > *Customer support was super responsive and sent me through all the info they had on a nudge bar they probably haven't thought about for the best part of 20 years, within 24hrs*
 
 ## <span class="bad-highlight">Wall of Shame - Information gatekeepers and timewasters</span>
 
@@ -47,6 +49,6 @@ Refusing defeat but wanting to keep my SR usable as a daily, I got a Series 1 Fo
 
 April 11th 2024, Project SPUD was born.
 
-I have no mechanical background, I'm a programmer by trade and the only reason I know my way around a toolbox is thanks to the fact Dad used to be an engineer and I like learning new things. I learned half the stuff I know about Falcons fixing my own AUs and some mates vehicles that were similar enough (BA/BF/FG/SX). I published this site on the wider net in case anyone else needs some of the weird info from the rabbit holes I went down, because I can say with 100% certainty that there is a few things in here that you couldn't hope to find in the usual suspect sites. A good portion of the information is electrical in nature, this is simply down to a mix of my skillset and how much better documented mechanical repairs for this model are (where I had nothing to add).
+I have no mechanical background, I'm a web developer by trade and the only reason I know my way around a toolbox is thanks to the fact Dad used to be an engineer and I like learning new things. I learned half the stuff I know about Falcons fixing my own AUs and some mates vehicles that were similar enough (BA/BF/FG/SX). I published this site on the wider net in case anyone else needs some of the weird info from the rabbit holes I went down, because I can say with 100% certainty that there is a few things in here that you couldn't hope to find in the usual suspect sites. A good portion of the information is electrical in nature, this is simply down to a mix of my skillset and how much better documented mechanical repairs for this model are (where I had nothing to add).
 
-Enjoy :)
+<center>Enjoy :)</center>
