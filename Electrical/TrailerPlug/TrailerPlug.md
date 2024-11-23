@@ -28,26 +28,30 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 ### Pin Wiring
 
-| Position | Color | Function |
-| --- | --- | --- |
-| 01 | Green/Red | Brake lights |
-| 02 | Brown/Grey | Tail lights |
-| 03 | N/a | Blank (no wire) |
-| 04 | Red/Black | Reverse Lights |
-| 05 | Black | GND |
-| 06 | Green/Blue | Passenger Indicator |
-| 07 | Green/Grey | Driver Indicator |
-| 08 | Yellow/Black | 12V Constant |
+> NOTE: for the Car Plug Wire Color, refer to the [Australian Standard Pinouts](#australian-standard-pinouts)
 
-## Australian standard pinouts
+| Position | Color | Function | Car Plug Wire Color* |
+| --- | --- | --- | --- |
+| 01 | Green/Red | Brake lights | Red |
+| 02 | Brown/Grey | Tail lights | Brown |
+| 03 | N/a | Blank (no wire) | |
+| 04 | Red/Black | Reverse Lights | Black |
+| 05 | Black | GND | White |
+| 06 | Green/Blue | Passenger Indicator | Yellow |
+| 07 | Green/Grey | Driver Indicator | Green |
+| 08 | Yellow/Black | 12V Constant / Electric Brakes | Blue |
+
+## Australian Standard Pinouts
 
 > NOTE: no information on round pins due to phasing out as of 2024
 
-> NOTE: conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals
+> NOTE: conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals.
 
 ### 7 Pin layout
 
-for the following information, assume the following layout for the trailer end connector, with the locking tabs facing up:
+> NOTE: The Pinouts shown here are confirmed by [Narva](../../Credits.md#information-cross-referencing), a known and common brand in Australia.
+
+#### Car Plug End
 
 <!--coded as a HTML table as single line-->
 <table>
@@ -61,6 +65,22 @@ for the following information, assume the following layout for the trailer end c
         <th><code>4</code></th>
     </thead>
 </table>
+
+#### Trailer Connector End
+
+<table>
+    <thead>
+        <th><code>4</code></th>
+        <th><code>7</code></th>
+        <th><code>2</code></th>
+        <th><code>3</code></th>
+        <th><code>5</code></th>
+        <th><code>6</code></th>
+        <th><code>1</code></th>
+    </thead>
+</table>
+
+---
 
 | Pin # | Color | Function |
 | --- | --- | --- |
