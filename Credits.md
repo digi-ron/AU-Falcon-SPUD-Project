@@ -7,7 +7,9 @@ layout: default
 ## Collected images (primarily product listing images):
 
 - [A1 Auto Parts](https://www.a1auto-parts.com.au/)
+- [AliExpress](https://www.aliexpress.com/)
 - [Auto Parts Supply](https://www.autopartssupply.com.au/)
+- [Repco](https://www.repco.com.au/)
 - [RS Components Australia](https://au.rs-online.com/)
 - [T.I Performance](https://www.tiperformance.com.au/)
 - [The Key Guys](https://www.thekeyguys.com.au/)
@@ -21,6 +23,7 @@ layout: default
 - [FordWiki](https://www.fordwiki.co.uk/)
 - [Haynes Manuals](https://haynes.com/en-au/ford/falcon/1998-2002-petrol)
 - [MotoringBox](https://www.motoringbox.com/)
+- [Narva](https://www.narva.com.au/)
 - [mycar Tyre & Auto](https://www.mycar.com.au/)
 
 ## <span class="good-highlight">Special Thanks - Information sharers and timesavers </span>
