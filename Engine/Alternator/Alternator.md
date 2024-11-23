@@ -14,7 +14,7 @@ The base model AU Falcon alternator can be identified by the 2 pin connector and
 
 ![I6 alternator](./I6-alternator.png)
 
-> image taken from T.I Performance product listing page
+> image taken from [T.I Performance](../../Credits.md#collected-images-primarily-product-listing-images) product listing page
 
 ### 5L V8
 
@@ -22,7 +22,7 @@ The V8 alternator, likely due to different engine configuration and power requir
 
 ![V8 Alternator](./V8-alternator.png)
 
-> image taken from Repco product listing page
+> image taken from [Repco](../../Credits.md#collected-images-primarily-product-listing-images) product listing page
 
 ## Replacement (I6 Only)
 
