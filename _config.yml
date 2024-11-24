@@ -13,6 +13,11 @@ repository: digi-ron/AU-Falcon-SPUD-Project
 #theme: minima
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
