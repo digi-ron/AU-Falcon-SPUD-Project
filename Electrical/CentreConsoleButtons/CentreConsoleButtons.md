@@ -1,9 +1,10 @@
 ---
 layout: default
+description: information and pinouts for the accessory buttons fitted to the 1999-2002 Ford Falcon AU (e.g. TCS, ABS, ANT.)
 ---
 
 # Centre Console Buttons
-The buttons within the centre dash area of the car are simply known as 090 Connectors, likely manufactured by a company known as Yazaki. These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
+The buttons within the centre dash area of the car use connectors that are simply known as 090 Connectors, likely manufactured by a company known as Yazaki. These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
 
 ## Plug Information
 

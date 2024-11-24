@@ -1,5 +1,6 @@
 ---
 layout: default
+description: general information and replacement instructions for the sprak plugs for the 1999-2002 Ford Falcon AU
 ---
 
 # Sparkplugs

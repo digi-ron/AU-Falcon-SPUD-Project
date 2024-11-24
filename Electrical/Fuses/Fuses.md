@@ -1,5 +1,6 @@
 ---
 layout: default
+description: fuse information and minimum viable fuses for the 1999-2002 Ford Falcon AU
 ---
 
 # Fuses & Relays

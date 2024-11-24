@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Information on the tyre sizes and brake dust covers for the 1999-2002 Ford Falcon AU, and general information on calculating tyre size from a tyre size
 ---
 
 # Wheels & Tyres

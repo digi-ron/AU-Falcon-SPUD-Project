@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Educated guess lifespans for common maintenance components for the 1999-2002 Ford Falcon AU (may be partially applicable to other vehicles)
 ---
 
 # Component lifespans

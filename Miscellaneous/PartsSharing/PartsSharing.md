@@ -1,5 +1,6 @@
 ---
 layout: default
+description: (partial) list of shared parts for Ford Falcons EA/EB/EF/EL/AU/BA/BF/FG, Ford Falcon XH/XG, and Ford Territory SX/SY/SZ, focusing on parts compatible with the 1999-2002 Ford Falcon AU
 ---
 
 # Parts Sharing

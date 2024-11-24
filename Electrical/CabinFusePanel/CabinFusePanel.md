@@ -1,5 +1,6 @@
 ---
 layout: default
+description: in- depth information on the continuity and functionality of the interior cabin fuse box for the 1999-2002 Ford Falcon AU
 ---
 
 <!--TODO add more annotated photos to each section of this page-->
