@@ -64,7 +64,6 @@ This relay is a the only full-sized 5 way relay connector present in the cabin f
     </tr>
 </table>
 
-<!--TODO fix the relay definitions-->
 ### Pin definitions
 
 | Index | Relay Terminal Number |
@@ -74,6 +73,8 @@ This relay is a the only full-sized 5 way relay connector present in the cabin f
 | R1-3 | 87a |
 | R1-4 | 86 |
 | R1-5 | 30 |
+
+> More information: [Relays](../Relays/Relays.md#5-way-mini-iso-relay)
 
 ## relay 2 - TAIL Relay
 
@@ -103,6 +104,8 @@ This relay is a half-size 4 way relay connector. For the following assume the fo
 
 > NOTE: these half-size relays are generally 5-way relays rather than 4-way, however in the Original part, the pin between `R2-1` and `R2-2` (relay terminal pin number 4) has been cut off
 
+> More information: [Relays](../Relays/Relays.md#4-way-micro-iso-relay)
+
 ## relay 3 - DEF Relay
 
 This relay is a full-size 4 way relay, for the following assume the following layout:
@@ -129,6 +132,8 @@ This relay is a full-size 4 way relay, for the following assume the following la
 | R3-2 | 85 |
 | R3-3 | 86 |
 | R3-4 | 30 |
+
+> More information: [Relays](../Relays/Relays.md#4-way-mini-iso-relay)
 
 ## relay 4 - P/WIN Relay
 
@@ -157,6 +162,8 @@ This relay is a full-size 4 way relay, for the following assume the following la
 | R4-3 | 86 |
 | R4-4 | 30 |
 
+> More information: [Relays](../Relays/Relays.md#4-way-mini-iso-relay)
+
 ## relay 5 - FLSH Relay
 
 This relay is a 3 way flasher relay, for the following assume the following layout:
@@ -178,6 +185,8 @@ This relay is a 3 way flasher relay, for the following assume the following layo
 | R5-1 | 49a |
 | R5-2 | 31 |
 | R5-3 | 49 |
+
+> More information: [Relays](../Relays/Relays.md#3-way-flasher-relay)
 
 # Connector Plugs (Rear)
 
