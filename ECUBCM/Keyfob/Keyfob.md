@@ -11,6 +11,8 @@ Due to the change from Smartlock to Smartshield midway through the AU Falcon S1 
 ### S1 Smartlock
 These remotes are actually inherited from the EL Falcon before it, and are a 304mHz sender with a Ford specific security chip built in. As a result of their age, finding good condition original ones are becoming harder, and even once found the rubber buttons are prone to wearing quicker than their S2-3 counterparts.
 
+> NOTE: As of time of writing in 2024, the only manufacturer of aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#information-cross-referencing), however their remotes have a high failure rate
+
 ![Series 1 keyfob approximation](./S1-fob.png)
 
 > Image cropped from [The Key Guys](../../Credits.md#collected-images-primarily-product-listing-images) product page, which was advertising a aftermarket replacement that looks completely different
@@ -41,4 +43,17 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 1. remove key
 1. done
 
-<!--TODO add KEYDIY instructions if worked out-->
+## Aftermarket replacements
+
+Below is discovered information found while attempting to create a DIY aftermarket guide to creating Smartlock/Smartshield remotes using off the shelf solutions (bias towards Smartlock due to higher ROI):
+
+- KEYDIY
+  - confirmed available aftermarket fob is KEYDIY B09-3 universal fob, however known low success rate (seemingly depends on calibration of each car)
+  - profiles available for both Smartlock and Smartshield, but appear to use fixed code, meaning that the buttons are sometimes unresponsive, and likely means any other fob programmed with the same profile can open your car.
+  - OEM fobs unable to be cloned using any available cloning method in KEYDIY Android App (tested using cable programmer and KD 900 PLUS)
+- XHorse
+  - aftermarket remote unavailable
+  - Android app doesn't appear to have any profile matching the Ford Falcon
+- RemoteKing
+  - aftermarket remote confirmed as model RCR15 (untested)
+  - difficult to acquire after 22/06/2022 due to changes in battery safety standards
