@@ -10,7 +10,10 @@ The rear light connector can be a great location to wire in Accessory wires for 
 ## Plug Type
 The plug used for the tail lights in the AU Falcon is a simple 6-way automotive connector. Information on this part is sparse, but some sources note it as a 250 style connector, which is manufactured by multiple sources, such as Narva
 
-<!--TODO add a photo of the 6 way connectors-->
+![Rear connector car loom end plug](./rear-plug-car-side.jpg)
+![Rear connector light end plug](./rear-plug-light-side.jpg)
+
+> Pictures of the car loom end connector and the light end connector respectively
 
 ## Pinout
 Use the following diagram and pinout list for reference. This diagram assumes that the clip is facing up and you are looking at the female housing connector (the loom end wiring connector)
