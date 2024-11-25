@@ -22,6 +22,7 @@ layout: default
 - [FordMods](https://www.fordmods.com/)
 - [FordWiki](https://www.fordwiki.co.uk/)
 - [Haynes Manuals](https://haynes.com/en-au/ford/falcon/1998-2002-petrol)
+- [KEYDIY](https://www.keydiy.com/)
 - [MotoringBox](https://www.motoringbox.com/)
 - [Narva](https://www.narva.com.au/)
 - [mycar Tyre & Auto](https://www.mycar.com.au/)
