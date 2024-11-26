@@ -31,6 +31,7 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 > NOTE: for the Car Plug Wire Color, refer to the [Australian Standard Pinouts](#australian-standard-pinouts)
 
+<!--TODO verify this information-->
 | Position | Color | Function | Car Plug Wire Color* |
 | --- | --- | --- | --- |
 | 01 | Green/Red | Brake lights | Red |
