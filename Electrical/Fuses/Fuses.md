@@ -9,6 +9,8 @@ description: fuse information and minimum viable fuses for the 1999-2002 Ford Fa
 
 ![Cabin fuses diagram](./cabin-fuses.jpg)
 
+> Diagram scanned from user manual
+
 ## Engine Bay - Diagram
 
 ![Engine Bay fuses diagram](./engine-bay-scan.jpg)
