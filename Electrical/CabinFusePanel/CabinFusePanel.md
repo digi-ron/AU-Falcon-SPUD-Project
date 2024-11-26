@@ -3,11 +3,11 @@ layout: default
 description: in- depth information on the continuity and functionality of the interior cabin fuse box for the 1999-2002 Ford Falcon AU
 ---
 
-<!--TODO add more annotated photos to each section of this page-->
-
 # Cabin Fuse Panel
 
-> NOTE: This page is admittedly, a half complete mess from an idea that went as well as a lead balloon. The only reason this page still exists is due to the time it took to create, and the hope that someone can make sense of anything discovered in here. Every attempt has been made to make the notes here legible, but it is not guaranteed.
+> This is a more technical page, if you are simply looking for fuse information and minimum required fuses, see [HERE](../Fuses/Fuses.md) instead
+
+> NOTE: This page is a half complete mess from an idea that went as well as a lead balloon. The only reason this page still exists is due to the time it took to create, and the hope that someone can make sense of anything discovered in here. Every attempt has been made to make the notes here legible, but this is not guaranteed.
 
 the cabin fuse box has 11 individual electrical plugs that comprise it's wiring, and as such the wiring has been divided as below per plug.
 
