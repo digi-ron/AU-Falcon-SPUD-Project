@@ -12,7 +12,7 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 
 ### Pin Layout
 
-<table>
+<table style="text-align:center">
     <tr>
         <th colspan="3"><code>01</code></th>
         <th colspan="3"><code>02</code></th>
