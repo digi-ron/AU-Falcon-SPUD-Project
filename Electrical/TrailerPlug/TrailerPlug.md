@@ -38,14 +38,16 @@ The following notes assume pin numbers where you are looking at the trailer adap
 | 02 | Brown/Grey | Tail lights | Brown |
 | 03 | N/a | Blank (no wire) | |
 | 04 | Red/Black | Reverse Lights | Black |
-| 05 | Black | GND | White |
-| 06 | Green/Blue | Passenger Indicator | Yellow |
-| 07 | Green/Grey | Driver Indicator | Green |
-| 08 | Yellow/Black | 12V Constant / Electric Brakes | Blue |
+| 05 | Black | GND/Earth | White |
+| 06 | Green/Blue | Driver Indicator | Yellow |
+| 07 | Green/Grey | Passenger Indicator | Green |
+| 08 | Yellow/Black | 12V Constant | N/a (not used in 7-pin) |
 
 ## Australian Standard Pinouts
 
 > NOTE: no information on round pins due to phasing out as of 2024
+
+> NOTE: no information on 12 pin flat plug due to partial implementation on model and phasing out as of 2024
 
 > NOTE: conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals.
 
@@ -90,6 +92,6 @@ The following notes assume pin numbers where you are looking at the trailer adap
 | 2 | Black | Reversing lights |
 | 3 | White | GND |
 | 4 | Green | Driver Indicator |
-| 5 | Blue | Electric Brakes |
+| 5 | Blue | Electric Brakes (Where fitted) |
 | 6 | Red | Brake lights |
 | 7 | Brown | tail light |
