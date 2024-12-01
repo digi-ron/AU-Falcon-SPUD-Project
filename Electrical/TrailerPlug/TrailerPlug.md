@@ -32,41 +32,40 @@ The following notes assume pin numbers where you are looking at the trailer adap
 > NOTE: for the Car Plug Wire Color, refer to the [Australian Standard Pinouts](#australian-standard-pinouts)
 
 <!--TODO verify this information-->
+
 | Position | Color | Function | Car Plug Wire Color* |
 | --- | --- | --- | --- |
 | 01 | Green/Red | Brake lights | Red |
 | 02 | Brown/Grey | Tail lights | Brown |
-| 03 | N/a | Blank (no wire) | |
+| 03 | N/a | Blank (no wire) | N/a |
 | 04 | Red/Black | Reverse Lights | Black |
 | 05 | Black | GND/Earth | White |
 | 06 | Green/Blue | Driver Indicator | Yellow |
 | 07 | Green/Grey | Passenger Indicator | Green |
-| 08 | Yellow/Black | 12V Constant | N/a (not used in 7-pin) |
+| 08 | Yellow/Black | 12V Constant | Orange/Pink/Purple [12-Pin configuration](#12-pin-layout) only |
 
 ## Australian Standard Pinouts
-
-> NOTE: no information on round pins due to phasing out as of 2024
-
-> NOTE: no information on 12 pin flat plug due to partial implementation on model and phasing out as of 2024
 
 > NOTE: conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals.
 
 ### 7 Pin layout
 
+While the AU Falcon originally came with a 12 pin flat connector, a more appropriate and cost-effective connector to be used in the modern day is actually a 7 Pin layout. This is simply as many trailers with the 12 pin connector exceed normal towing conditions for vehicles, unless you intend on towing an older Caravan or other heavy duty trailer. If you are intend on using a [12 Pin Layout](#12-pin-layout), note that the AU Falcon only implements a partial implementation of this standard regardless.
+
 > NOTE: The Pinouts shown here are confirmed by [Narva](../../Credits.md#information-cross-referencing), a known and common brand in Australia.
 
-#### Car Plug End
+#### Car Socket End
 
 <!--coded as a HTML table as single line-->
 <table>
     <thead>
-        <th><code>1</code></th>
-        <th><code>6</code></th>
-        <th><code>5</code></th>
-        <th><code>3</code></th>
-        <th><code>2</code></th>
-        <th><code>7</code></th>
-        <th><code>4</code></th>
+        <th><code>01</code></th>
+        <th><code>06</code></th>
+        <th><code>05</code></th>
+        <th><code>03</code></th>
+        <th><code>02</code></th>
+        <th><code>07</code></th>
+        <th><code>04</code></th>
     </thead>
 </table>
 
@@ -74,24 +73,147 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 <table>
     <thead>
-        <th><code>4</code></th>
-        <th><code>7</code></th>
-        <th><code>2</code></th>
-        <th><code>3</code></th>
-        <th><code>5</code></th>
-        <th><code>6</code></th>
-        <th><code>1</code></th>
+        <th><code>04</code></th>
+        <th><code>07</code></th>
+        <th><code>02</code></th>
+        <th><code>03</code></th>
+        <th><code>05</code></th>
+        <th><code>06</code></th>
+        <th><code>01</code></th>
     </thead>
 </table>
 
 ---
 
+#### Pinout Information
+
 | Pin # | Color | Function |
 | --- | --- | --- |
-| 1 | Yellow | Passenger Indicator |
-| 2 | Black | Reversing lights |
-| 3 | White | GND |
-| 4 | Green | Driver Indicator |
-| 5 | Blue | Electric Brakes (Where fitted) |
-| 6 | Red | Brake lights |
-| 7 | Brown | tail light |
+| 01 | Yellow | Passenger Indicator |
+| 02 | Black | Reversing lights |
+| 03 | White | GND |
+| 04 | Green | Driver Indicator |
+| 05 | Blue | Electric Brakes (Where fitted) |
+| 06 | Red | Brake lights |
+| 07 | Brown | tail light |
+
+### 12 Pin layout
+
+The 12 pin layout is the standard layout for the Factory trailer looms in the Ford Falcon, however only a partial implementation is used, shown below:
+
+> NOTE: The Pinouts shown here are confirmed by [Narva](../../Credits.md#information-cross-referencing), a known and common brand in Australia.
+
+#### Car Socket End
+
+<table>
+    <thead>
+        <th colspan="7"><code>08</code></th>
+        <th colspan="7"><code>09</code></th>
+        <th colspan="7"><code>10</code></th>
+        <th colspan="7"><code>11</code></th>
+        <th colspan="7"><code>12</code></th>
+    </thead>
+    <thead>
+        <th colspan="5"><code>01</code></th>
+        <th colspan="5"><code>06</code></th>
+        <th colspan="5"><code>05</code></th>
+        <th colspan="5"><code>03</code></th>
+        <th colspan="5"><code>02</code></th>
+        <th colspan="5"><code>07</code></th>
+        <th colspan="5"><code>04</code></th>
+    </thead>
+</table>
+
+#### Trailer Connector End
+
+<table>
+    <thead style="text-align: center">
+        <th colspan="7"><code>12</code></th>
+        <th colspan="7"><code>11</code></th>
+        <th colspan="7"><code>10</code></th>
+        <th colspan="7"><code>09</code></th>
+        <th colspan="7"><code>08</code></th>
+    </thead>
+    <thead>
+        <th colspan="5"><code>04</code></th>
+        <th colspan="5"><code>07</code></th>
+        <th colspan="5"><code>02</code></th>
+        <th colspan="5"><code>03</code></th>
+        <th colspan="5"><code>05</code></th>
+        <th colspan="5"><code>06</code></th>
+        <th colspan="5"><code>01</code></th>
+    </thead>
+</table>
+
+#### Pinout Information
+
+| Pin # | Color | Function |
+| --- | --- | --- |
+| 01 | Yellow | Passenger Indicator |
+| 02 | Black | Reversing lights |
+| 03 | White | GND |
+| 04 | Green | Driver Indicator |
+| 05 | Blue | Electric Brakes (Where fitted) |
+| 06 | Red | Brake lights |
+| 07 | Brown | tail light |
+| 08 | Orange | Battery Charger |
+| 09 | Pink | Auxiliary (Battery) |
+| 10 | White | GND |
+| 11 | Grey | Fog Lamps |
+| 12 | Purple | Auxiliary (Other) |
+
+### 7 Pin Round layout (Large)
+
+> NOTE: It is highly recommended that you use the opportunity, if available, to upgrade the socket to either a [7 Pin flat](#7-pin-layout) or a [12 Pin flat](#12-pin-layout) if working on this. This information is an example of what you *can* do rather than what you *should* do, due to this plug being largely phased out as being obsolete
+
+#### Car Socket End
+
+<table>
+    <tr>
+        <th colspan="3"><code>01</code></th>
+    </tr>
+    <tr>
+        <th><code>02</code></th>
+        <th rowspan="2"><code>07</code></th>
+        <th><code>06</code></th>
+    </tr>
+    <tr>
+        <th><code>03</code></th>
+        <th><code>05</code></th>
+    </tr>
+    <tr>
+        <th colspan="3"><code>04</code></th>
+    </tr>
+</table>
+
+#### Trailer Plug End
+
+<table>
+    <tr>
+        <th colspan="3"><code>01</code></th>
+    </tr>
+    <tr>
+        <th><code>06</code></th>
+        <th rowspan="2"><code>07</code></th>
+        <th><code>02</code></th>
+    </tr>
+    <tr>
+        <th><code>05</code></th>
+        <th><code>03</code></th>
+    </tr>
+    <tr>
+        <th colspan="3"><code>04</code></th>
+    </tr>
+</table>
+
+#### Pinout Information
+
+| Pin # | Color | Function |
+| --- | --- | --- |
+| 01 | Yellow | Passenger Indicator |
+| 02 | Black | Reversing lights |
+| 03 | White | GND |
+| 04 | Green | Driver Indicator |
+| 05 | Blue | Electric Brakes (Where fitted) |
+| 06 | Red | Brake lights |
+| 07 | Brown | tail light |
