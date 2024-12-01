@@ -1,5 +1,6 @@
 ---
 layout: home
+hideTOC: true
 ---
 
 A collation of notes and information about the AU Series Ford Falcon, collated while working on a Falcon Forte, nicknamed "SPUD".
