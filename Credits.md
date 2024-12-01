@@ -1,3 +1,7 @@
+---
+hideTOC: true
+---
+
 # Credits
 
 ## Collected images (primarily product listing images):
