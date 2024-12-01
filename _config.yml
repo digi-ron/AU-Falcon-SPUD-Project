@@ -25,3 +25,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: "*.md"
+    values:
+      layout: default

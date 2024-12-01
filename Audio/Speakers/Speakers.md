@@ -1,5 +1,4 @@
 ---
-layout: default
 description: Speaker installation and wiring information for the 1999-2002 Ford Falcon AU
 ---
 

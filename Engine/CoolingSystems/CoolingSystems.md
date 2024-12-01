@@ -1,5 +1,4 @@
 ---
-layout: default
 description: information on the cooling systems and Thermostat for the 1999-2002 Ford Falcon AU, including replacement instructions for the thermostat
 ---
 

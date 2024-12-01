@@ -1,5 +1,4 @@
 ---
-layout: default
 description: information on the Alternator(s) for the 1999-2002 Ford Falcon AU
 ---
 

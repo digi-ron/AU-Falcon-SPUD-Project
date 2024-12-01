@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Credits
 
 ## Collected images (primarily product listing images):

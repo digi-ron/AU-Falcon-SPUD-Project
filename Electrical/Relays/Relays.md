@@ -1,5 +1,4 @@
 ---
-layout: default
 description: general information on various types of relays found in automotive applications. Written for the 1999-2002 Ford Falcon AU
 ---
 

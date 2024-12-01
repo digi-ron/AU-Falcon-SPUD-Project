@@ -1,5 +1,4 @@
 ---
-layout: default
 description: Information on how to read and decode the VIN number and engine number of the 1999-2002 Ford Falcon AU
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 description: Information on the PCV function and replacement instructions for the 1999-2002 Ford Falcon AU
 ---
 

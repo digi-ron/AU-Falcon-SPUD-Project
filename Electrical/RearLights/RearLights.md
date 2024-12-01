@@ -1,5 +1,4 @@
 ---
-layout: default
 description: information on the tail light/rear light assembly plugs for the 1999-2002 Ford Falcon AU
 ---
 

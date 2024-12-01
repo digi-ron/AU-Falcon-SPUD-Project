@@ -1,5 +1,4 @@
 ---
-layout: default
 description: DTC or Diagnostic Trouble Codes for the 1999-2002 Ford Falcon AU
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 description: Information on the headlight switch controls for the 1999-2002 Ford Falcon AU
 ---
 
