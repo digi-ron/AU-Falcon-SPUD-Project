@@ -202,10 +202,12 @@
       <p class="maintitle"><a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a></p>
       {% endif %}
 
+      {% if page.hidePrint != true %}
       <div id="printbutton">
         <button style="margin: 0 auto; display:block;" id="printbutton" onclick="window.print()">🖨 print this page</button>
         <br />
       </div>
+      {% endif %}
 
       <hr id="toprule"/>
 
