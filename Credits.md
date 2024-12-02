@@ -1,5 +1,6 @@
 ---
 hideTOC: true
+hidePrint: true
 ---
 
 # Credits
