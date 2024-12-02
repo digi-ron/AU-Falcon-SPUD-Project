@@ -34,44 +34,41 @@
         document.getElementById("toc").appendChild(tocTitle);
 
         const toc = document.createElement("ul");
-        const headings = document.querySelectorAll("h1, h2, h3, h4, h5, h6");
+        const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
         headings.forEach(heading => {
             const toplevelli = document.createElement("li");
             const level = parseInt(heading.tagName[1]);
-            if (level > 1) {
-              
-            }
 
             const link = document.createElement("a");
             link.href = "#" + heading.id;
             link.textContent = heading.textContent;
 
-            if (level > 1) {
+            if (level > 2) {
               toplevelli.style.listStyleType = "none";
               const level2ul = document.createElement("ul");
               const level2li = document.createElement("li");
 
-              level === 2 && level2li.appendChild(link);
+              level === 3 && level2li.appendChild(link);
 
               level2ul.appendChild(level2li);
               toplevelli.appendChild(level2ul);
 
-              if (level > 2) {
+              if (level > 3) {
                 level2li.style.listStyleType = "none";
                 const level3ul = document.createElement("ul");
                 const level3li = document.createElement("li");
 
-                level === 3 && level3li.appendChild(link);
+                level === 4 && level3li.appendChild(link);
 
                 level3ul.appendChild(level3li);
                 level2li.appendChild(level3ul);
 
-                if (level > 3) {
+                if (level > 4) {
                   level3li.style.listStyleType = "none";
                   const level4ul = document.createElement("ul");
                   const level4li = document.createElement("li");
 
-                  level === 4 && level4li.appendChild(link);
+                  level === 5 && level4li.appendChild(link);
 
                   level4ul.appendChild(level4li);
                   level3li.appendChild(level4ul);
