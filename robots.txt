@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://digi-ron.github.io/AU-Falcon-SPUD-Project/sitemap.xml
