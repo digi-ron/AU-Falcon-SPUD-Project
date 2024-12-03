@@ -31,9 +31,11 @@ hidePrint: true
 
 ## <span class="good-highlight">Special Thanks - Information sharers and timesavers </span>
 - [Hayman Reese](https://haymanreese.com.au/)
-  > *Was more than happy to send through a manual for a towbar I grabbed from a wreckers, even though they stood to gain nothing but good karma from it*
+  > *Was more than happy to send through a manual for a towbar I was considering from a wreckers, even though they stood to gain nothing but good karma from it*
 - [TJM](https://www.tjm.com.au/)
   > *Customer support was super responsive and sent me through all the info they had on a nudge bar they probably haven't thought about for the best part of 20 years, within 24hrs*
+- [BTA](https://btatowbars.com/) / [TBA](https://www.towbarsaustralia.com.au/)
+  > *BTA Towbars & Hitches for manufacturing a sub $1,000 hitch receiver towbar for a 25 year old Sedan, and Towbars Australia for supplying it at a bit of a discount while still having ripper customer service*
 
 ## <span class="bad-highlight">Wall of Shame - Information gatekeepers and timewasters</span>
 
@@ -41,7 +43,7 @@ hidePrint: true
   > *sold a "coded" AUI remote for a $50 markup vs. a clean fob. Remote didn't work and I was given the runaround when asked for information to get it working. Support took 8 days, 6 of which were spent by them not responding to the simple question of "what is the KEYDIY configuration you used on this clearly KEYDIY fob?", and 1 wasted finding out that real locksmiths have had issues with these remotes. The kicker: I'm confident they don't even code them, not that they ever mentioned that the 3 different times I asked*
 
 - [Ford Australia Customer Support](mailto:foacust1@ford.com)
-  > *Sent an email 8/10/24 asking for as much info as they were willing to give me on the SmartLock fobs, so I can make a DIY guide to prevent scalpers having the last say. 3 weeks of silence and a follow up email and they finally respond to me: "Sorry we can't help". Yeah, I know, hell, I knew way before I emailed you again but I decided to anyways, just in case I was wrong and I might yet get information from, y'know, the manufacturers themselves maybe? Best they could do was point me to my local dealership, which I went to before emailing anyways*
+  > *Sent an email 8/10/24 asking for as much info as they were willing to give me on the SmartLock fobs, so I can make a DIY guide to prevent scalpers having the last say. 3 weeks of silence and a follow up email and they finally respond to me: "Sorry we can't help". Yeah, I know, hell, I knew way before I emailed you again but I decided to anyways, just in case I was wrong and I might yet get information from, y'know, the manufacturers themselves maybe? Best they could do was point me to my local dealership, which I went to before emailing anyways. It would appear they can really only be trusted to send me [verification letters](./Miscellaneous/VerificationLetter/Verification.md)*
 
 ## About the Author (And Project SPUD Lore)
 
