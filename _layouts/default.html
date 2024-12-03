@@ -14,6 +14,30 @@
     <!--explicit override for favicon for Github Pages-->
     <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}">
     <script>
+      function tocGenerator(level, heading) {
+        const items = [];
+        const output = document.createElement("li");
+        let focusElm = output;
+        for(let i = 1; i <= level; i++) {
+          if (i < level) {
+            const ul = document.createElement("ul");
+            const li = document.createElement("li");
+            ul.appendChild(li);
+            focusElm.appendChild(ul);
+            focusElm.style.listStyleType = "none";
+            focusElm = li;
+          }
+        }
+
+        const link = document.createElement("a");
+        link.href = "#" + heading.id;
+        link.textContent = heading.textContent;
+        focusElm.appendChild(link);
+
+        return output;
+
+      }
+
       document.addEventListener("DOMContentLoaded", function() {
         // highlight any note that starts with the string "NOTE:"
         const blockquotes = document.querySelectorAll("blockquote");
@@ -26,61 +50,26 @@
             }
         });
 
-        // only add table of contents if scripts are allowed on page:
-        const tocTitle = document.createElement("p");
-        tocTitle.textContent = "Table of Contents";
-        tocTitle.classList.add("toc-title");
-        document.getElementById("toc").appendChild(tocTitle);
-
-        const toc = document.createElement("ul");
         const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
-        headings.forEach(heading => {
-            const toplevelli = document.createElement("li");
-            const level = parseInt(heading.tagName[1]);
 
-            const link = document.createElement("a");
-            link.href = "#" + heading.id;
-            link.textContent = heading.textContent;
+        if (headings.length > 0) {
+          const breakline = document.createElement("hr");
+          breakline.id = "toprule";
+          document.getElementById("toc").appendChild(breakline);
+          const tocTitle = document.createElement("p");
+          tocTitle.textContent = "Table of Contents";
+          tocTitle.classList.add("toc-title");
+          document.getElementById("toc").appendChild(tocTitle);
+          const toc = document.createElement("ul");
+            headings.forEach(heading => {
+              const toplevelli = document.createElement("li");
+              const level = parseInt(heading.tagName[1]);
+              const tocItem = tocGenerator(level, heading);
+              toc.appendChild(tocItem);
+          });
 
-            if (level > 2) {
-              toplevelli.style.listStyleType = "none";
-              const level2ul = document.createElement("ul");
-              const level2li = document.createElement("li");
-
-              level === 3 && level2li.appendChild(link);
-
-              level2ul.appendChild(level2li);
-              toplevelli.appendChild(level2ul);
-
-              if (level > 3) {
-                level2li.style.listStyleType = "none";
-                const level3ul = document.createElement("ul");
-                const level3li = document.createElement("li");
-
-                level === 4 && level3li.appendChild(link);
-
-                level3ul.appendChild(level3li);
-                level2li.appendChild(level3ul);
-
-                if (level > 4) {
-                  level3li.style.listStyleType = "none";
-                  const level4ul = document.createElement("ul");
-                  const level4li = document.createElement("li");
-
-                  level === 5 && level4li.appendChild(link);
-
-                  level4ul.appendChild(level4li);
-                  level3li.appendChild(level4ul);
-                }
-              }
-            } else {
-              toplevelli.appendChild(link);
-            }
-            toc.appendChild(toplevelli);
-        });
-
-        document.getElementById("toc").appendChild(toc);
-
+          document.getElementById("toc").appendChild(toc);
+        }
       });
     </script>
     <style>
@@ -206,8 +195,6 @@
       </div>
       {% endif %}
 
-      <hr id="toprule"/>
-
       {% if page.hideTOC != true %}
       <div id="tableOfContents">
         <div id="toc"></div>
@@ -252,7 +239,7 @@
         <input type="hidden" name="item_name" value="Ronnie's Beer Fund - Project SPUD">
         <input type="hidden" name="currency_code" value="AUD">
         <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button">
-        <img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" bhwcdvln7="">
+        <!-- <img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" bhwcdvln7=""> -->
       </form>
     </div>
     <br />
