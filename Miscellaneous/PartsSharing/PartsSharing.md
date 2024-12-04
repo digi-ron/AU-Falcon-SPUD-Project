@@ -42,6 +42,7 @@ Please see the table below for shared parts:
 | Rear Door Shell | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Roof Racks (Door-Mount) | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan. Note bar length is slightly shorter on AU-AUIII VS BA-BFIII Falcon Sedans, but Wagons are the same dimensions |
 | Roof Racks (Factory-Fitted Station Wagon Rail) | AU-BFIII | |
+| [Seatbelts](../../Body/Seatbelts/Seatbelts.md) | AU-BFIII | |
 | [Spark Plugs](../../Engine/SparkPlugs/SparkPlugs.md) | EA-AUIII, XH-XHII | |
 | [Speakers (Front)](../../Audio/Speakers/Speakers.md) | AU-BFIII | |
 | [Speakers (Rear)](../../Audio/Speakers/Speakers.md) | AU-BFIII | Where fitted, Note various speakers used on different variants but should all match per model e.g. AU Station Wagon = BF Station Wagon |
