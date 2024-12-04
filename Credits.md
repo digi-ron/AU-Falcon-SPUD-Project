@@ -30,6 +30,9 @@ hidePrint: true
 - [mycar Tyre & Auto](https://www.mycar.com.au/)
 
 ## <span class="good-highlight">Special Thanks - Information sharers and timesavers </span>
+
+> NOTE: While not all of these companies furthered the project directly, they are notable mentions regardless due to the furthering of the car that was enabling the project.
+
 - [Hayman Reese](https://haymanreese.com.au/)
   > *Was more than happy to send through a manual for a towbar I was considering from a wreckers, even though they stood to gain nothing but good karma from it*
 - [TJM](https://www.tjm.com.au/)
@@ -38,7 +41,6 @@ hidePrint: true
   > *BTA Towbars & Hitches for manufacturing a sub $1,000 hitch receiver towbar for a 25 year old Sedan, and Towbars Australia for supplying it at a bit of a discount while still having ripper customer service*
 
 ## <span class="bad-highlight">Wall of Shame - Information gatekeepers and timewasters</span>
-
 - [RemotePro](https://www.remotepro.com.au/)
   > *sold a "coded" AUI remote for a $50 markup vs. a clean fob. Remote didn't work and I was given the runaround when asked for information to get it working. Support took 8 days, 6 of which were spent by them not responding to the simple question of "what is the KEYDIY configuration you used on this clearly KEYDIY fob?", and 1 wasted finding out that real locksmiths have had issues with these remotes. The kicker: I'm confident they don't even code them, not that they ever mentioned that the 3 different times I asked*
 
