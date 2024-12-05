@@ -12,7 +12,7 @@ If you believe you have a rare trim of Ford Falcon and would like more informati
 - Address
 - Phone Number
 
-Once your ticket has been processed, you will likely receive a email containing a verification letter in PDF format:
+Once your ticket has been processed, you will likely receive a email containing a verification letter in PDF format. Requests generally take around 2 weeks:
 
 ![Verification Letter Screenshot](./verification-letter.jpg)
 
