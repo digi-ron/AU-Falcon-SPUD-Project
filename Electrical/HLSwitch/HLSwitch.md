@@ -62,4 +62,5 @@ The following notes assume pin numbers where you are looking at the switch unit 
 - 12 = Headlight HIGH & CONT to 03 when Headlight HIGH
 
 ![High Plug](./high-plug.jpg)
+
 > photo of headlight switch unit end plug (male pin connector)
