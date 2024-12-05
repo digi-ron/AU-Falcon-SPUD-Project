@@ -33,11 +33,11 @@ if you need to replace the sparkplugs, follow the steps below:
 
 1. replace the sparkplug as required and **hand tighten** using the extension bar and sparkplug socket.
 
-    > NOTE: hand tightening helps to not crossthread the sparkplug hole
-
     > NOTE: ensure your sparkplugs are gapped correctly before installation, as this will cause misfires if not paid attention to
 
     ![sparkplug tightening](./hand-tighen-spark.jpg)
+
+    > Photo of the socket and extension sitting inside the engine recesses. You can hand turn the shaft from this position to avoid cross-threading
 
 1. drive the sparkplug the rest of the way in using the driver
 
