@@ -13,6 +13,10 @@ The seatbelts in the AU Falcons are largely easy to replace but require a single
 <!--TODO add photos to basically this whole page-->
 
 1. remove the single T50 bolt holding the end of the seatbelt to the floor
+    ![seatbelt bottom bolt](./seatbelt-bottom-anchor-bolt.jpg)
+
+    > The first T50 bolt. Note that there may be a small round plastic cover over this bolt, however this particular vehicle did not have it
+    
 1. while holding the end of the seatbelt away from where the bolt was, thread the seatbelt through the upper B-Pillar trim plastic. Try to keep as much tension on the seatbelt as possible while doing this, as it makes the process easier
 1. (optional) tie the end of the seatbelt to a section of the seatbelt inbetween the upper anchor and the lower B-Pillar plastic trim. This will prevent the seatbelt from retracting too far and too fast upon removal, potentially saving the mechanism if you wish the reuse it
 1. unscrew the 2 upper screws on the lower B-Pillar trim piece using a phillips head screwdriver, and gently pull the plastic from the chassis, noting that it is help in with 2 large metal clips towards the bottom.
