@@ -7,7 +7,7 @@ description: Information on the replacement of the exterior door handles for the
 The exterior door handles on the AU Falcon are relatively easy to remove and replace if required, however due to their materials, they are somewhat difficult to repair, as they rely on plastic locking pins and relatively thin springs.
 
 ## Differences
-Between the 1999 and 2002 models of the AU Falcon, a second spring was added to the door handles for all lower models. This is the preferred handle assembly to get if a replacement is required, as a single spring handle **CANNOT** be fitted with an additional spring (as it is missing a plastic tab for holding the second spring in place)
+In some selected models of AU-BFIII Falcons, a second spring was added to the door handles. This is the preferred handle assembly to get if a replacement is required, as a single spring handle **CANNOT** be fitted with an additional spring (as it is missing a plastic tab for holding the second spring in place). Information on the models that the additional spring is present on is scarce, but the recommendation is to look for higher trim models (Fairmont, Fairlane, etc.)
 
 ![Single Spring Forte handle](./single-spring-handle.jpg)
 ![Dual Spring Forte handle](./dual-spring-handle.jpg)
