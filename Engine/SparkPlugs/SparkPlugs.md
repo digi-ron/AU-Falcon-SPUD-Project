@@ -35,6 +35,8 @@ if you need to replace the sparkplugs, follow the steps below:
 
     > NOTE: hand tightening helps to not crossthread the sparkplug hole
 
+    > NOTE: ensure your sparkplugs are gapped correctly before installation, as this will cause misfires if not paid attention to
+
     ![sparkplug tightening](./hand-tighen-spark.jpg)
 
 1. drive the sparkplug the rest of the way in using the driver
