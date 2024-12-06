@@ -46,19 +46,48 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 Below is discovered information found while attempting to create a DIY aftermarket guide to creating Smartlock/Smartshield remotes using off the shelf solutions (bias towards Smartlock due to higher ROI if successful):
 
-- KEYDIY
-  - confirmed available aftermarket fob is KEYDIY B09-3 universal fob, however known low success rate (seemingly depends on calibration of each car)
-  - profiles available for both Smartlock and Smartshield, but appear to use fixed code, meaning that the buttons are sometimes unresponsive, and likely means any other fob programmed with the same profile can open your car.
-  - OEM fobs unable to be cloned using any available cloning method in KEYDIY Android App (tested using cable programmer and KD 900 PLUS)
+### KEYDIY
+- confirmed available aftermarket fob is KEYDIY B09-3 universal fob, however known low success rate (seemingly depends on calibration of each car)
+- profiles available for both Smartlock and Smartshield, but appear to use fixed code, meaning that the buttons are sometimes unresponsive, and likely means any other fob programmed with the same profile can open your car.
+- OEM fobs unable to be cloned using any available cloning method in KEYDIY Android App (tested using cable programmer and KD 900 PLUS)
 
-  ![KEYDIY fob exterior](./dodgy-keydiy-fob.jpg)
-  ![KEYDIY fob board](./dodgy-keydiy-fob-board.jpg)
+#### Smartlock configuration
 
-  > Photos of the casing and board of a KEYDIY based keyfob provided by [RemotePro](../../Credits.md#wall-of-shame---information-gatekeepers-and-timewasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
+Smartlock models of AU Falcon can seemingly only be configured manually, as there is no known profile available in the KEYDIY app by default.
 
-- XHorse
-  - aftermarket remote unavailable
-  - Android app doesn't appear to have any profile matching the Ford Falcon
-- RemoteKing
-  - aftermarket remote confirmed as model RCR15 (untested)
-  - difficult to acquire after 22/06/2022 due to changes in battery safety standards
+> NOTE: While this configuration is confirmed working, it stands to reason that any *other* car using these settings would be able to be unlocked using the same fob. This information is solely here as a guide or potentially a base for someone else to crack the pattern to make *unique* codes.
+
+| Property | Value |
+| --- | --- |
+| Frequency | 303.86 MHz |
+| Modulation | ASK |
+| Prefix Characters | Unused |
+| Prefix Character Bit Number | 0 |
+| Type Header | Unused |
+| Min Pulse Width | 1591 us |
+| Unlock Data | `0F33334D534D3553D51400000000` |
+| Lock Data | `879999A6A9A69AA96A0A00000000` |
+| Trunk Data | `0F4D333535CDD434350100000000` |
+
+#### Smartshield configuration
+
+For the Smartshield models of AU Falcon, you can use one of the built in profiles in the KEYDIY app. Select the profile with the following details:
+
+| Property | Value |
+| --- | --- |
+| Name | FALCON 00-02 |
+| ID | R02193 |
+| Frequency | 303.8 ASK |
+
+![KEYDIY fob exterior](./dodgy-keydiy-fob.jpg)
+![KEYDIY fob board](./dodgy-keydiy-fob-board.jpg)
+
+> Photos of the casing and board of a KEYDIY based keyfob provided by [RemotePro](../../Credits.md#wall-of-shame---information-gatekeepers-and-timewasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
+
+### XHorse
+- aftermarket remote unavailable
+- Android app doesn't appear to have any profile matching the Ford Falcon
+
+### RemoteKing
+- aftermarket remote confirmed as model RCR15 (untested)
+- difficult to acquire after 22/06/2022 due to changes in battery safety standards
