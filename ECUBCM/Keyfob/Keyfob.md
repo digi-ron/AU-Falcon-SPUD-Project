@@ -50,6 +50,12 @@ Below is discovered information found while attempting to create a DIY aftermark
   - confirmed available aftermarket fob is KEYDIY B09-3 universal fob, however known low success rate (seemingly depends on calibration of each car)
   - profiles available for both Smartlock and Smartshield, but appear to use fixed code, meaning that the buttons are sometimes unresponsive, and likely means any other fob programmed with the same profile can open your car.
   - OEM fobs unable to be cloned using any available cloning method in KEYDIY Android App (tested using cable programmer and KD 900 PLUS)
+
+  ![KEYDIY fob exterior](./dodgy-keydiy-fob.jpg)
+  ![KEYDIY fob board](./dodgy-keydiy-fob-board.jpg)
+
+  > Photos of the casing and board of a KEYDIY based keyfob provided by [RemotePro](../../Credits.md#wall-of-shame---information-gatekeepers-and-timewasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
+
 - XHorse
   - aftermarket remote unavailable
   - Android app doesn't appear to have any profile matching the Ford Falcon
