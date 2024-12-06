@@ -33,7 +33,7 @@ Please see the table below for shared parts:
 | Exhaust Header | EA-AUIII | |
 | Front Door Shell | AU-BFIII | |
 | Fuel Door Button | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
-| Fuel Injectors | EA-FGX, SX-SZ, XG-XHII| cc rating is vastly different, 215-220cc rating standard for AU, Tune/ECU/J3 Chip likely required |
+| Fuel Injectors | EA-FGX, SX-SZII, XG-XHII| cc rating is vastly different, 215-220cc rating standard for AU, Tune/ECU/J3 Chip likely required |
 | Fuel Pressure Regulator | AU-FGX | AU uses a 3 bar regulator, but 4 is standard in later models, Tune/ECU/J3 Chip likely required |
 | [Ignition Coil Pack](../../Engine/IgnitionCoil/IgnitionCoil.md) | EF-AU | only compatible with S1 AU Falcons |
 | Ignition Leads | EF-AU | only compatible with S1 AU Falcons |
@@ -46,6 +46,7 @@ Please see the table below for shared parts:
 | [Spark Plugs](../../Engine/SparkPlugs/SparkPlugs.md) | EA-AUIII, XH-XHII | |
 | [Speakers (Front)](../../Audio/Speakers/Speakers.md) | AU-BFIII | |
 | [Speakers (Rear)](../../Audio/Speakers/Speakers.md) | AU-BFIII | Where fitted, Note various speakers used on different variants but should all match per model e.g. AU Station Wagon = BF Station Wagon |
+| Starter Motor | EA-BFIII, XG-XHII, SX-SZII | |
 | Towbar | AU-FGX | Utes and Wagon body styles only, Body from both vehicles must match e.g. Wagon and Wagon, Ute and Ute |
 | Weathershields (Front) | AU-BFIII | |
 | Weathershields (Rear) | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
