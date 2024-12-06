@@ -84,10 +84,10 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 
 > Photos of the casing and board of a KEYDIY based keyfob provided by [RemotePro](../../Credits.md#wall-of-shame---information-gatekeepers-and-timewasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
 
-### XHorse
-- aftermarket remote unavailable
-- Android app doesn't appear to have any profile matching the Ford Falcon
-
 ### RemoteKing
 - aftermarket remote confirmed as model RCR15 (untested)
 - difficult to acquire after 22/06/2022 due to changes in battery safety standards
+
+### XHorse
+- aftermarket remote unavailable
+- Android app doesn't appear to have any profile matching the Ford Falcon
