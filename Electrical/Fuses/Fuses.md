@@ -95,6 +95,8 @@ Below is a diagram and list of the minimum viable fuses and relays
 
 ![MVF/R](./minimum-viable-fuses.jpg)
 
+> Diagrams scanned and modified from a user manual for a Series III AU Falcon, slight variations may be present depending on the specific series and model
+
 #### List
 
 | Fuse Box | Position | Name | Type | Notes |
