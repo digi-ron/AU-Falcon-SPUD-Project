@@ -3,7 +3,19 @@ description: information and pinouts for the accessory buttons fitted to the 199
 ---
 
 # Centre Console Buttons
-The buttons within the centre dash area of the car use connectors that are simply known as 090 Connectors, likely manufactured by a company known as Yazaki. These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
+
+> NOTE: This does not cover buttons in the standard Series 2-3 dash, as they are tightly integrated with the newer designed climate control system.
+
+The buttons within the centre dash area of some models of AU Falcon use connectors that are simply known as 090 Connectors, likely manufactured by a company known as Yazaki. These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
+
+## Known models
+
+Due to a moderate redesign of the dash area of the AU Falcon between series 1 and series 2, only the following models appear to have these buttons present:
+
+- AU Falcon (Series 1 only)
+- AU Fairmont
+- AU Fairlane
+- AU Falcon Ute (Where column shift fitted, ECON button only)
 
 ## Plug Information
 
