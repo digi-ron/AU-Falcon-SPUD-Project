@@ -19,10 +19,34 @@ The seatbelts in the AU Falcons are largely easy to replace but require a single
     
 1. while holding the end of the seatbelt away from where the bolt was, thread the seatbelt through the upper B-Pillar trim plastic. Try to keep as much tension on the seatbelt as possible while doing this, as it makes the process easier
 1. (optional) tie the end of the seatbelt to a section of the seatbelt inbetween the upper anchor and the lower B-Pillar plastic trim. This will prevent the seatbelt from retracting too far and too fast upon removal, potentially saving the mechanism if you wish the reuse it
-1. unscrew the 2 upper screws on the lower B-Pillar trim piece using a phillips head screwdriver, and gently pull the plastic from the chassis, noting that it is help in with 2 large metal clips towards the bottom.
+
+    ![seatbelt tied into a knot](./seatbelt-knot.jpg)
+
+    > The type of knot to put into the seatbelt. This is simply to stop the seatbelt itself from retracting far enough and fast enough to break the retraction mechanism later
+
+1. unscrew the 2 upper screws on the lower B-Pillar trim piece using a phillips head screwdriver, and gently pull the plastic from the chassis, noting that it is help in with 2 large metal clips towards the bottom. The lower trim can them be removed by unclipping the 2 metal clips towards the bottom of the plastic, and then sliding the assembly up until the lower plastic tabs come free of the steel body
+
+    ![B Pillar lower trim screws](./b-pillar-lower-screws.jpg)
+
+    > Locations of the 2 phillips head screws to remove from the lower B-Pillar trim pieces
+
 1. using the T50 socket, remove the bolt holding the retraction mechanism to the chassis.
+
+    ![retraction bolt](./seatbelt-retraction-anchor-bolt.jpg)
+
+    > Picture of the T50 bolt to remove for the retraction mechanism end of the seatbelt
+
 1. using the T50 socket, remove the bolt holding the top anchor for the seatbelt in place.
+
+    ![upper seatbelt bolt](./seatbelt-upper-bolt.jpg)
+
+    > Picture of the final bolt to remove for the upper anchor of the seatbelt. Note that if you have a height adjustable seatbelt mechanism, there will be additional plastic around this, however nothing should need to be removed other than the bolt.
+
 1. remove assembly as a complete unit  with seatbelt, anchor, and retraction mechanism
+1. to replace, simply follow all steps in reverse, making sure to tighten all bolts moderately
+
+    > NOTE: use red thread locker on the T50 bolts if available
+
 1. done
 
 ## Common issues - Upper B-Pillar plastic trim
