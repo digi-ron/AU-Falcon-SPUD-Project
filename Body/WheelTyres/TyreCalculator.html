@@ -1,0 +1,217 @@
+---
+layout: default
+hideTOC: true
+hidePrint: true
+---
+<!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
+<style>
+    table {
+        display: table !important;
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
+<script>
+    let tyreSizes = [];
+    fetch('./sizes.json').then(response => {
+        return response.json();
+    }).then(data => {
+        let output = [];
+        const rimSizes = Object.keys(data);
+        for(let i = 0; i < rimSizes.length; i++) {
+            const rimWidths = Object.keys(data[rimSizes[i]])
+            for(let j = 0; j < rimWidths.length; j++) {
+                const radii = data[rimSizes[i]][rimWidths[j]]
+                for(let k = 0; k < radii.length; k++) {
+                    const R = rimSizes[i];
+                    const W = rimWidths[j];
+                    const A = radii[k];
+                    //console.log(W + "/" + A + "R" + R)
+                    output.push({
+                        width: W,
+                        aspect: A,
+                        radius: R,
+                        diameter: Math.ceil((W * (A / 100) * 2) + (25.4 * R))
+                    });
+                }
+            }
+        }
+        tyreSizes = output;
+    }).catch(err => {
+        console.log("Content unavailable: " + err);
+    });
+
+    function calculateDiameter() {
+        let results = [];
+        const wheelDiameter = document.getElementById("wheelDiameter").value;
+        if(tyreSizes.length === 0) {
+            console.error("Tyre sizes not loaded");
+            return;
+        }
+
+        tyreSizes.forEach(size => {
+            if(size.diameter == wheelDiameter) {
+                results.push(size);
+            }
+        });
+
+        showResults(results);
+    }
+
+    function calculateRadius() {
+        let results = [];
+        const rimRadius = document.getElementById("rimRadius").value;
+        if(tyreSizes.length === 0) {
+            console.error("Tyre sizes not loaded");
+            return;
+        }
+
+        tyreSizes.forEach(size => {
+            if(size.radius == rimRadius) {
+                results.push(size);
+            }
+        });
+
+        showResults(results);
+    }
+
+    function calculateRadiusDiameter() {
+        let results = [];
+        const rimRadius = document.getElementById("rimRadius2").value;
+        const wheelDiameter = document.getElementById("wheelDiameter2").value;
+        const padding = document.getElementById("paddingmm").value;
+        if(tyreSizes.length === 0) {
+            console.error("Tyre sizes not loaded");
+            return;
+        }
+        const minDiameter = parseInt(wheelDiameter) - parseInt(padding);
+        const maxDiameter = parseInt(wheelDiameter) + parseInt(padding);
+
+        tyreSizes.forEach(size => {
+            if(size.radius == rimRadius && size.diameter >= minDiameter && size.diameter <= maxDiameter) {
+                results.push(size);
+            }
+        });
+
+        results.sort((a, b) => {
+            return a.diameter - b.diameter;
+        });
+
+        showResults(results);
+    }
+
+    function showResults(arrObj) {
+        const table = document.getElementById("resultsTable");
+        table.innerHTML = "";
+        const header = table.createTHead();
+        const row = header.insertRow();
+        const cell1 = row.insertCell();
+        cell1.innerText = "Tyre Code";
+        const cell2 = row.insertCell();
+        cell2.innerText = "Width";
+        const cell3 = row.insertCell();
+        cell3.innerText = "Aspect Ratio";
+        const cell4 = row.insertCell();
+        cell4.innerText = "Rim Radius";
+        const cell5 = row.insertCell();
+        cell5.innerText = "Diameter";
+
+        for(let i = 0; i < arrObj.length; i++) {
+            const row = table.insertRow();
+            const cell1 = row.insertCell();
+            cell1.innerText = arrObj[i].width + "/" + arrObj[i].aspect + "R" + arrObj[i].radius;
+            const cell2 = row.insertCell();
+            cell2.innerText = arrObj[i].width;
+            const cell3 = row.insertCell();
+            cell3.innerText = arrObj[i].aspect;
+            const cell4 = row.insertCell();
+            cell4.innerText = arrObj[i].radius;
+            const cell5 = row.insertCell();
+            cell5.innerText = arrObj[i].diameter;
+        }
+
+        window.location.href = "#resultsTable";
+    }
+
+    function clearResults() {
+        const table = document.getElementById("resultsTable");
+        table.innerHTML = "";
+    }
+</script>
+<h1>Tyre Size Calculators</h1>
+
+<h2>Calculate Tyre Size from Rolling Diameter</h2>
+<table>
+    <tr>
+        <td>
+            <label for="wheelDiameter">Rolling Diameter (mm):</label>
+        </td>
+        <td>
+            <input type="number" id="wheelDiameter" name="wheelDiameter" value="0" min="100" max="1000">
+        </td>
+        <td>
+            <input type="button" value="Calculate" onclick="calculateDiameter()">
+        </td>
+        <td>
+            <input type="button" value="Clear" onclick="clearResults()">
+        </td>
+    </tr>
+</table>
+<hr/>
+
+<h2>Show Compatible rims for Rim Radius</h2>
+<table>
+    <tr>
+        <td>
+            <label for="rimRadius">Rim Radius (inches):</label>
+        </td>
+        <td>
+            <input type="number" id="rimRadius" name="rimRadius" value="0" max="23" min="12">
+        </td>
+        <td>
+            <input type="button" value="Calculate" onclick="calculateDiameter()">
+        </td>
+        <td>
+            <input type="button" value="Clear" onclick="clearResults()">
+        </td>
+    </tr>
+</table>
+<hr/>
+
+<h2>Calculate Tyre Size from Radius and Diameter (with padding)</h2>
+<table>
+    <tr>
+        <td>
+            <label for="rimRadius2">Rim Radius (inches):</label>
+        </td>
+        <td>
+            <input type="number" id="rimRadius2" name="rimRadius2" value="0" max="23" min="12">
+        </td>
+        <td rowspan="3">
+            <input type="button" value="Calculate" onclick="calculateRadiusDiameter()">
+        </td>
+        <td rowspan="3">
+            <input type="button" value="Clear" onclick="clearResults()">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label for="wheelDiameter2">Rolling Diameter (mm):</label>
+        </td>
+        <td>
+            <input type="number" id="wheelDiameter2" name="wheelDiameter2" value="0" min="100" max="1000">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label for="padding">Padding (mm):</label>
+        </td>
+        <td>
+            <input type="number" id="paddingmm" name="paddingmm" value="0" min="0" max="999">
+        </td>
+    </tr>
+</table>
+
+<h3>Results</h3>
+<table id="resultsTable" style="list-style-type: circle;"></table>
+<hr/>
