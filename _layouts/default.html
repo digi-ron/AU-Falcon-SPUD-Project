@@ -52,7 +52,7 @@
 
         const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
 
-        if (headings.length > 0) {
+        if (headings.length > 0 && document.getElementById("toc")) {
           const breakline = document.createElement("hr");
           breakline.id = "toprule";
           document.getElementById("toc").appendChild(breakline);
