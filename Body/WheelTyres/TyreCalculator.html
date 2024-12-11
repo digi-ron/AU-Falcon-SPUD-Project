@@ -4,20 +4,13 @@ hideTOC: true
 hidePrint: true
 ---
 <!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
-<style>
-    table {
-        display: table !important;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
+<!--file not generated using markdown as too complex: required more HTML tags than markdown syntax to make functional-->
 <script>
+    //added as a variable to allow for offline use without the need for a server
     const data = {"12":{"145":["70","79"],"155":["70","80"],"165":["60","70"],"175":["70"]},"13":{"145":["70"],"155":["65","70","80"],"165":["65","70","75","80"],"175":["60","65","70","75","80"],"185":["60","65","70","80"],"205":["60"],"215":["50"]},"14":{"155":["55","65","70"],"165":["55","60","65","70"],"175":["60","65","70","75","80"],"185":["55","60","65","70","75","80"],"195":["60","65","70","75"],"205":["60","70","75"],"215":["70","75"],"225":["60","70"],"235":["60"],"245":["50","60"]},"15":{"125":["80"],"145":["65"],"155":["60"],"165":["50","60","65","80"],"175":["50","55","60","65","80"],"185":["55","60","65","70"],"195":["45","50","55","60","65","70","75","80","82","85"],"205":["50","55","60","65","70","75"],"215":["60","65","70","75","80"],"225":["45","50","60","70","75","80"],"235":["60","70","75"],"245":["60"],"255":["60","70"],"265":["50","70","75"],"275":["60"],"295":["50"]},"16":{"115":["70"],"125":["70","80","85","90"],"135":["80","90"],"145":["90"],"175":["55","60","75","80"],"185":["50","55","60","75","85"],"195":["40","45","50","55","60","65","75","85"],"205":["40","45","50","55","60","65","70","75","80","85"],"215":["35","40","45","50","55","60","65","70","75","80","85"],"225":["40","45","50","55","60","65","70","75","95"],"235":["60","65","70","75","80","85"],"245":["45","50","70","75"],"255":["65","70","85"],"265":["70","75"],"275":["60","70"],"285":["65","75"],"295":["75"],"305":["70"],"315":["75"]},"17":{"125":["70","80"],"135":["80","90"],"145":["70"],"155":["70","90"],"165":["40","80","90"],"185":["65","80"],"195":["40","45"],"205":["40","45","50","55","70"],"215":["35","40","45","50","55","60","65","70"],"225":["35","45","50","55","60","65","70","90"],"235":["40","45","50","55","60","65","70","75","80"],"245":["35","40","45","50","55","65","70","75"],"255":["40","45","60","65","70","75"],"265":["40","60","65","70"],"275":["35","40","50","55","60","65","70"],"285":["35","40","60","65","70","75"],"295":["70"],"305":["65","70"],"315":["35","70"],"335":["35"]},"18":{"125":["60","70","80"],"135":["80"],"145":["45","70"],"155":["85","90"],"165":["90"],"195":["60"],"205":["40","45"],"215":["35","40","45","50","55"],"225":["35","40","45","50","55","60","65"],"235":["35","40","45","50","55","60","65"],"245":["35","40","45","50","55","60","65"],"255":["30","35","40","45","55","60","65","70"],"265":["35","40","45","60","65","70"],"275":["35","40","45","60","65","70"],"285":["30","35","40","50","55","60","65","70","75"],"295":["30","35","45","65","70"],"305":["30","60","65","70"],"315":["30"],"325":["65"],"335":["30"]},"19":{"125":["70"],"135":["70"],"145":["80"],"155":["70","80"],"175":["60","80"],"205":["55"],"215":["35","50"],"225":["35","40","45","50","55"],"235":["30","35","40","45","50","55","60","65"],"245":["30","35","40","45","50","55"],"255":["30","35","40","45","50","55","60","65"],"265":["30","35","40","45","50","55"],"275":["30","35","40","45","50","55"],"285":["30","35","40","45"],"295":["25","30","35","40","45"],"305":["30","35"],"315":["25","30"],"325":["30"],"345":["30"],"355":["30"]},"20":{"145":["60"],"155":["60"],"175":["55"],"195":["50"],"215":["45"],"225":["30","35","40"],"235":["30","35","40","45","50","55"],"245":["30","35","40","45","50","60"],"255":["30","35","40","45","50","55","60"],"265":["30","35","40","45","50","55","60"],"275":["30","35","40","45","50","55","60","65"],"285":["25","30","35","40","45","50","55","60","65"],"295":["25","30","35","40","45","55","60","65"],"305":["25","30","35","40","45","50","55"],"315":["30","35"],"325":["25","30","35","60"],"335":["25","30"],"345":["30"],"450":["70"]},"21":{"225":["30"],"235":["45","50"],"245":["30","35","40","45"],"255":["30","35","40","45","50"],"265":["30","35","40","45"],"275":["30","35","40","45","50"],"285":["30","35","40","45"],"295":["25","30","35","40","45"],"305":["25","30","35"],"315":["30","35","40"],"325":["25","30"],"335":["30"],"345":["25"],"355":["25"]},"22":{"225":["30"],"235":["30"],"245":["30"],"255":["30","35","40","45"],"265":["30","35","40","50"],"275":["25","35","40","45","50","70"],"285":["25","30","35","40","45"],"295":["25","30","35","40","80"],"305":["30","35","40","45"],"315":["25","30","35","80"],"325":["35","40","50","55"],"335":["25"],"385":["65"],"425":["65"]},"23":{"275":["35","40"],"285":["35","40"],"295":["35"],"305":["30","35"],"315":["25","30"],"325":["30","35"]}}
 </script>
 <script>
-    let tyreSizes = [];
-
-    let output = [];
+    let tyreInformation = [];
     const rimSizes = Object.keys(data);
     for(let i = 0; i < rimSizes.length; i++) {
         const rimWidths = Object.keys(data[rimSizes[i]])
@@ -27,8 +20,7 @@ hidePrint: true
                 const R = rimSizes[i];
                 const W = rimWidths[j];
                 const A = radii[k];
-                //console.log(W + "/" + A + "R" + R)
-                output.push({
+                tyreInformation.push({
                     width: W,
                     aspect: A,
                     radius: R,
@@ -37,57 +29,40 @@ hidePrint: true
             }
         }
     }
-    tyreSizes = output;
-
-    function calculateDiameter() {
-        let results = [];
-        const wheelDiameter = document.getElementById("wheelDiameter").value;
-        if(tyreSizes.length === 0) {
-            console.error("Tyre sizes not loaded");
-            return;
-        }
-
-        tyreSizes.forEach(size => {
-            if(size.diameter == wheelDiameter) {
-                results.push(size);
-            }
-        });
-
-        showResults(results);
-    }
-
-    function calculateRadius() {
-        let results = [];
-        const rimRadius = document.getElementById("rimRadius").value;
-        if(tyreSizes.length === 0) {
-            console.error("Tyre sizes not loaded");
-            return;
-        }
-
-        tyreSizes.forEach(size => {
-            if(size.radius == rimRadius) {
-                results.push(size);
-            }
-        });
-
-        showResults(results);
-    }
 
     function calculateRadiusDiameter() {
         let results = [];
-        const rimRadius = document.getElementById("rimRadius2").value;
-        const wheelDiameter = document.getElementById("wheelDiameter2").value;
-        const padding = document.getElementById("paddingmm").value;
-        if(tyreSizes.length === 0) {
+        let rimRadius = document.getElementById("rimRadius").value;
+        rimRadius = parseInt(rimRadius) ? parseInt(rimRadius) : 0;
+        let wheelDiameter = document.getElementById("wheelDiameter").value;
+        wheelDiameter = parseInt(wheelDiameter) ? parseInt(wheelDiameter) : 0;
+        let padding = document.getElementById("paddingmm").value;
+        padding = parseInt(padding) ? parseInt(padding) : 0;
+        if(tyreInformation.length === 0) {
             console.error("Tyre sizes not loaded");
             return;
         }
-        const minDiameter = parseInt(wheelDiameter) - parseInt(padding);
-        const maxDiameter = parseInt(wheelDiameter) + parseInt(padding);
 
-        tyreSizes.forEach(size => {
-            if(size.radius == rimRadius && size.diameter >= minDiameter && size.diameter <= maxDiameter) {
-                results.push(size);
+        const minDiameter = wheelDiameter - padding;
+        const maxDiameter = wheelDiameter + padding;
+
+        tyreInformation.forEach(size => {
+            if(parseInt(rimRadius) !== 0) {
+                if(parseInt(wheelDiameter) !== 0) {
+                    if(size.radius == rimRadius && size.diameter >= minDiameter && size.diameter <= maxDiameter) {
+                        results.push(size);
+                    }
+                } else {
+                    if(size.radius == rimRadius) {
+                        results.push(size);
+                    }
+                }
+            } else {
+                if(parseInt(wheelDiameter) !== 0) {
+                    if(size.diameter >= minDiameter && size.diameter <= maxDiameter) {
+                        results.push(size);
+                    }
+                }
             }
         });
 
@@ -101,6 +76,15 @@ hidePrint: true
     function showResults(arrObj) {
         const table = document.getElementById("resultsTable");
         table.innerHTML = "";
+
+        if(arrObj.length === 0) {
+            const row = table.insertRow();
+            const cell = row.insertCell();
+            cell.innerText = "No results found";
+            cell.classList.add("bad-highlight");
+            return;
+        }
+
         const header = table.createTHead();
         const row = header.insertRow();
         const cell1 = row.insertCell();
@@ -136,29 +120,8 @@ hidePrint: true
         table.innerHTML = "";
     }
 </script>
-<h1>Tyre Size Calculators</h1>
-
-<h2>Calculate Tyre Size from Rolling Diameter</h2>
-<table>
-    <tr>
-        <td>
-            <label for="wheelDiameter">Rolling Diameter (mm):</label>
-        </td>
-        <td>
-            <input type="number" id="wheelDiameter" name="wheelDiameter" value="0" min="100" max="1000">
-        </td>
-        <td>
-            <input type="button" value="Calculate" onclick="calculateDiameter()">
-        </td>
-        <td>
-            <input type="button" value="Clear" onclick="clearResults()">
-        </td>
-    </tr>
-</table>
-<hr/>
-
-<h2>Show Compatible rims for Rim Radius</h2>
-<table>
+<h1>Tyre Size Calculator</h1>
+<table style="display: table !important; margin-left: auto; margin-right: auto;">
     <tr>
         <td>
             <label for="rimRadius">Rim Radius (inches):</label>
@@ -166,38 +129,19 @@ hidePrint: true
         <td>
             <input type="number" id="rimRadius" name="rimRadius" value="0" max="23" min="12">
         </td>
-        <td>
-            <input type="button" value="Calculate" onclick="calculateDiameter()">
-        </td>
-        <td>
-            <input type="button" value="Clear" onclick="clearResults()">
-        </td>
-    </tr>
-</table>
-<hr/>
-
-<h2>Calculate Tyre Size from Radius and Diameter (with padding)</h2>
-<table>
-    <tr>
-        <td>
-            <label for="rimRadius2">Rim Radius (inches):</label>
-        </td>
-        <td>
-            <input type="number" id="rimRadius2" name="rimRadius2" value="0" max="23" min="12">
-        </td>
-        <td rowspan="3">
+        <td rowspan="4">
             <input type="button" value="Calculate" onclick="calculateRadiusDiameter()">
         </td>
-        <td rowspan="3">
+        <td rowspan="4">
             <input type="button" value="Clear" onclick="clearResults()">
         </td>
     </tr>
     <tr>
         <td>
-            <label for="wheelDiameter2">Rolling Diameter (mm):</label>
+            <label for="wheelDiameter">Rolling Diameter (mm):</label>
         </td>
         <td>
-            <input type="number" id="wheelDiameter2" name="wheelDiameter2" value="0" min="100" max="1000">
+            <input type="number" id="wheelDiameter" name="wheelDiameter" value="0" min="100" max="1000">
         </td>
     </tr>
     <tr>
@@ -208,8 +152,16 @@ hidePrint: true
             <input type="number" id="paddingmm" name="paddingmm" value="0" min="0" max="999">
         </td>
     </tr>
+    <tr>
+        <td>
+            <label for="width">Width:</label>
+        </td>
+        <td>
+            <input type="number" id="width" name="width" value="0" min="0" max="400">
+        </td>
+    </tr>
 </table>
 
 <h3>Results</h3>
-<table id="resultsTable" style="list-style-type: circle;"></table>
+<table id="resultsTable" style="display: table !important; margin-left: auto; margin-right: auto;"></table>
 <hr/>
