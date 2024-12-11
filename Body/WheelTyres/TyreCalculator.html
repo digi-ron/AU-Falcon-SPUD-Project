@@ -32,38 +32,20 @@ hidePrint: true
 
     function calculateRadiusDiameter() {
         let results = [];
-        let rimRadius = document.getElementById("rimRadius").value;
-        rimRadius = parseInt(rimRadius) ? parseInt(rimRadius) : 0;
-        let wheelDiameter = document.getElementById("wheelDiameter").value;
-        wheelDiameter = parseInt(wheelDiameter) ? parseInt(wheelDiameter) : 0;
-        let padding = document.getElementById("paddingmm").value;
-        padding = parseInt(padding) ? parseInt(padding) : 0;
-        if(tyreInformation.length === 0) {
-            console.error("Tyre sizes not loaded");
-            return;
-        }
-
+        const rimRadius = parseInt(document.getElementById("rimRadius").value) ?? 0;
+        const wheelDiameter = parseInt(document.getElementById("wheelDiameter").value) ?? 0;
+        const padding = parseInt(document.getElementById("paddingmm").value) ?? 0;
+        const width = parseInt(document.getElementById("width").value) ?? 0;
         const minDiameter = wheelDiameter - padding;
         const maxDiameter = wheelDiameter + padding;
 
-        tyreInformation.forEach(size => {
-            if(parseInt(rimRadius) !== 0) {
-                if(parseInt(wheelDiameter) !== 0) {
-                    if(size.radius == rimRadius && size.diameter >= minDiameter && size.diameter <= maxDiameter) {
-                        results.push(size);
-                    }
-                } else {
-                    if(size.radius == rimRadius) {
-                        results.push(size);
-                    }
-                }
-            } else {
-                if(parseInt(wheelDiameter) !== 0) {
-                    if(size.diameter >= minDiameter && size.diameter <= maxDiameter) {
-                        results.push(size);
-                    }
-                }
-            }
+        results = tyreInformation.filter(size => {
+            let output = true;
+            output = rimRadius === 0 ? output : output && size.radius == rimRadius;
+            output = wheelDiameter === 0 ? output : output && size.diameter >= minDiameter && size.diameter <= maxDiameter;
+            output = width === 0 ? output : output && size.width == width;
+            return output;
+
         });
 
         results.sort((a, b) => {
@@ -119,6 +101,13 @@ hidePrint: true
         const table = document.getElementById("resultsTable");
         table.innerHTML = "";
     }
+
+    function clearFields() {
+        document.getElementById("rimRadius").value = 0;
+        document.getElementById("wheelDiameter").value = 0;
+        document.getElementById("paddingmm").value = 0;
+        document.getElementById("width").value = 0;
+    }
 </script>
 <h1>Tyre Size Calculator</h1>
 <table style="display: table !important; margin-left: auto; margin-right: auto;">
@@ -129,11 +118,8 @@ hidePrint: true
         <td>
             <input type="number" id="rimRadius" name="rimRadius" value="0" max="23" min="12">
         </td>
-        <td rowspan="4">
+        <td rowspan="2">
             <input type="button" value="Calculate" onclick="calculateRadiusDiameter()">
-        </td>
-        <td rowspan="4">
-            <input type="button" value="Clear" onclick="clearResults()">
         </td>
     </tr>
     <tr>
@@ -151,6 +137,9 @@ hidePrint: true
         <td>
             <input type="number" id="paddingmm" name="paddingmm" value="0" min="0" max="999">
         </td>
+        <td>
+            <input type="button" value="Clear Results" onclick="clearResults()">
+        </td>
     </tr>
     <tr>
         <td>
@@ -158,6 +147,9 @@ hidePrint: true
         </td>
         <td>
             <input type="number" id="width" name="width" value="0" min="0" max="400">
+        </td>
+        <td>
+            <input type="button" value="Reset Fields" onclick="clearFields()">
         </td>
     </tr>
 </table>
