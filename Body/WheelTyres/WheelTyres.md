@@ -30,13 +30,13 @@ using the example of 205/65R15:
 - 65 is the aspect, so the percentage of the tyre width that makes the section width (distance from edge of the tyre to the edge of the rim).
 - R15 is the size of the rim it is designed for, in inches
 
-## Tyre Size Calculators
+## Tyre Size Calculator
 
 Use the link below to view an interactive tool that can help with discerning Tyre Sizes
 
-> NOTE: JavaScript is required to use these calculators!
+> NOTE: JavaScript is required to use this calculator!
 
-[Tyre Calculators](./TyreCalculator.html)
+[Tyre Calculator](./TyreCalculator.html)
 
 ## PCDs & Offsets
 
