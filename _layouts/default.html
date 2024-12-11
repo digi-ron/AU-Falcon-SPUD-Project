@@ -54,7 +54,7 @@
 
         if (headings.length > 0 && document.getElementById("toc")) {
           const breakline = document.createElement("hr");
-          breakline.id = "toprule";
+          breakline.classList.add("printHide");
           document.getElementById("toc").appendChild(breakline);
           const tocTitle = document.createElement("p");
           tocTitle.textContent = "Table of Contents";
@@ -124,7 +124,7 @@
         text-align: center;
       }
 
-      .alternatefooter {
+      .alternatefooter, .printOnly {
         display:none;
       }
 
@@ -134,7 +134,7 @@
         width: 100%;
       }
 
-      .maintitle {
+      #maintitle {
         font-weight: 600;
         text-align: center;
         font-size: 2em;
@@ -168,6 +168,10 @@
           object-fit: cover;
         }
 
+        .printOnly {
+          display: block;
+        }
+
         .alternatefooter {
           display: block;
           font-style: italic;
@@ -175,9 +179,10 @@
           color:black;
         }
 
-        #printbutton, #tableOfContents, #toprule, footer, .maintitle, .anchorjs-link {
+        .anchorjs-link, .printHide {
           display: none;
         }
+
       }
 
     </style>
@@ -185,18 +190,18 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <p class="maintitle"><a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a></p>
+      <p id="maintitle" class="printHide"><a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a></p>
       {% endif %}
 
       {% if page.hidePrint != true %}
-      <div id="printbutton">
+      <div class="printHide">
         <button style="margin: 0 auto; display:block;" id="printbutton" onclick="window.print()">🖨 print this page</button>
         <br />
       </div>
       {% endif %}
 
       {% if page.hideTOC != true %}
-      <div id="tableOfContents">
+      <div id="tableOfContents" class="printHide">
         <div id="toc"></div>
         <hr/>
       </div>
@@ -209,7 +214,7 @@
     <script>anchors.add();</script>
     <p class="alternatefooter">Page printed from The AU Falcon SPUD Project, visit <a href="https://digi-ron.github.io/AU-Falcon-SPUD-Project">https://digi-ron.github.io/AU-Falcon-SPUD-Project</a> for more!</p>
   </body>
-  <footer>
+  <footer class="printHide">
     <hr />
     <hr />
     <br />
