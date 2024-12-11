@@ -29,6 +29,7 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
   - [Door Lock Actuators](./Body/DoorLockActuators/DoorLockActuators.md)
   - [Interior Mirror](./Body/InteriorMirror/InteriorMirror.md)
   - [Wheels/Tyres](./Body/WheelTyres/WheelTyres.md)
+    - [Tyre Calculator](./Body/WheelTyres/TyreCalculator.html)
 - ECU & BCM
   - [Central Locking Key Fob](./ECUBCM/Keyfob/Keyfob.md)
   - [DTC Codes](./ECUBCM/DTCCodes/DTCCodes.md)
