@@ -1,7 +1,6 @@
 ---
 layout: default
 hideTOC: true
-hidePrint: true
 ---
 <!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
 <!--file not generated using markdown as too complex: required more HTML tags than markdown syntax to make functional-->
@@ -45,7 +44,6 @@ hidePrint: true
             output = wheelDiameter === 0 ? output : output && size.diameter >= minDiameter && size.diameter <= maxDiameter;
             output = width === 0 ? output : output && size.width == width;
             return output;
-
         });
 
         results.sort((a, b) => {
@@ -56,6 +54,7 @@ hidePrint: true
     }
 
     function showResults(arrObj) {
+        const resultsAdditionalText = document.getElementById("resultsAdditionalText");
         const table = document.getElementById("resultsTable");
         table.innerHTML = "";
 
@@ -64,10 +63,11 @@ hidePrint: true
             const cell = row.insertCell();
             cell.innerText = "No results found";
             cell.classList.add("bad-highlight");
+            resultsAdditionalText.innerText = "";
             return;
         }
 
-        document.getElementById("resultsAdditionalText").innerText = " (" + arrObj.length + " results)";
+        resultsAdditionalText.innerText = " (" + arrObj.length + " results)";
 
         const header = table.createTHead();
         const row = header.insertRow();
@@ -82,8 +82,10 @@ hidePrint: true
         const cell5 = row.insertCell();
         cell5.innerText = "Diameter";
 
+        const body = table.createTBody();
+
         for(let i = 0; i < arrObj.length; i++) {
-            const row = table.insertRow();
+            const row = body.insertRow();
             const cell1 = row.insertCell();
             cell1.innerText = arrObj[i].width + "/" + arrObj[i].aspect + "R" + arrObj[i].radius;
             const cell2 = row.insertCell();
@@ -95,8 +97,6 @@ hidePrint: true
             const cell5 = row.insertCell();
             cell5.innerText = arrObj[i].diameter;
         }
-
-        window.location.href = "#resultsTable";
     }
 
     function clearResults() {
@@ -113,9 +113,11 @@ hidePrint: true
         });
     }
 </script>
-<h1>Tyre Size Calculator</h1>
-<blockquote>NOTE: Note that all fields are optional, but non-sensical inputs will be ignored e.g. diameter padding without a diameter specified</blockquote>
+<h1 class="printHide">Tyre Size Calculator</h1>
+<h1 class="printOnly">Tyre Size Calculator - Results</h1>
+<blockquote class="printHide">NOTE: Note that all fields are optional, but non-sensical inputs will be ignored e.g. diameter padding without a diameter specified</blockquote>
 <table style="display: table !important; margin-left: auto; margin-right: auto;">
+    <tbody>
     <tr>
         <td>
             <label for="rimRadius">Rim Radius (inches):</label>
@@ -123,7 +125,7 @@ hidePrint: true
         <td>
             <input type="number" id="rimRadius" name="rimRadius" value="0" max="23" min="12">
         </td>
-        <td rowspan="2">
+        <td rowspan="2" class="printHide">
             <input type="button" value="Calculate" onclick="calculateRadiusDiameter()">
         </td>
     </tr>
@@ -142,7 +144,7 @@ hidePrint: true
         <td>
             <input type="number" id="paddingmm" name="paddingmm" value="0" min="0" max="999">
         </td>
-        <td>
+        <td class="printHide">
             <input type="button" value="Clear Results" onclick="clearResults()">
         </td>
     </tr>
@@ -153,10 +155,11 @@ hidePrint: true
         <td>
             <input type="number" id="width" name="width" value="0" min="0" max="400">
         </td>
-        <td>
+        <td class="printHide">
             <input type="button" value="Reset Fields" onclick="clearFields()">
         </td>
     </tr>
+</tbody>
 </table>
 
 <h3>Results <span id="resultsAdditionalText"></span></h3>
