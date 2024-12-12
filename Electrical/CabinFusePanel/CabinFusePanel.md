@@ -37,13 +37,64 @@ These connectors are identifiable according to the annotated image:
 
 Below is a layout of all fuse block pins:
 
-> NOTE: you may need to view this in landscape due to large number of columns
-
-| **`F1-1`** | **`F2-1`** | **`F3-1`** |  | **`F4-1`** | **`F5-1`** | **`F6-1`** | **`F7-1`** | **`F8-1`** | **`F9-1`** | **`F10-1`** | **`F11-1`** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **`F1-2`** | **`F2-2`** | **`F3-2`** |  | **`F4-2`** | **`F5-2`** | **`F6-2`** | **`F7-2`** | **`F8-2`** | **`F9-2`** | **`F10-2`** | **`F11-2`** |
-| **`F12-1`** | **`F13-1`** | **`F14-1`** | | **`F15-1`** | **`F16-1`** | **`F17-1`** | **`F18-1`** | | **`F19-1`** | **`F20-1`** | **`F21-1`** |
-| **`F12-2`** | **`F13-2`** | **`F14-2`** | | **`F15-2`** | **`F16-2`** | **`F17-2`** | **`F18-2`** | | **`F19-2`** | **`F20-2`** | **`F21-2`** |
+<table class="large-table" style="font-weight: bold">
+  <tr>
+    <td><code>F1-1</code></td>
+    <td><code>F2-1</code></td>
+    <td><code>F3-1</code></td>
+    <td></td>
+    <td><code>F4-1</code></td>
+    <td><code>F5-1</code></td>
+    <td><code>F6-1</code></td>
+    <td><code>F7-1</code></td>
+    <td><code>F8-1</code></td>
+    <td><code>F9-1</code></td>
+    <td><code>F10-1</code></td>
+    <td><code>F11-1</code></td>
+  </tr>
+  <tr>
+    <td><code>F1-2</code></td>
+    <td><code>F2-2</code></td>
+    <td><code>F3-2</code></td>
+    <td></td>
+    <td><code>F4-2</code></td>
+    <td><code>F5-2</code></td>
+    <td><code>F6-2</code></td>
+    <td><code>F7-2</code></td>
+    <td><code>F8-2</code></td>
+    <td><code>F9-2</code></td>
+    <td><code>F10-2</code></td>
+    <td><code>F11-2</code></td>
+  </tr>
+  <tr>
+    <td><code>F12-1</code></td>
+    <td><code>F13-1</code></td>
+    <td><code>F14-1</code></td>
+    <td></td>
+    <td><code>F15-1</code></td>
+    <td><code>F16-1</code></td>
+    <td><code>F17-1</code></td>
+    <td><code>F18-1</code></td>
+    <td></td>
+    <td><code>F19-1</code></td>
+    <td><code>F20-1</code></td>
+    <td><code>F21-1</code></td>
+  </tr>
+  <tr>
+    <td><code>F12-2</code></td>
+    <td><code>F13-2</code></td>
+    <td><code>F14-2</code></td>
+    <td></td>
+    <td><code>F15-2</code></td>
+    <td><code>F16-2</code></td>
+    <td><code>F17-2</code></td>
+    <td><code>F18-2</code></td>
+    <td></td>
+    <td><code>F19-2</code></td>
+    <td><code>F20-2</code></td>
+    <td><code>F21-2</code></td>
+  </tr>
+</table>
 
 ### relay 1 - A/C Relay
 
