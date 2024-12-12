@@ -27,10 +27,11 @@ Please see the table below for shared parts:
 | B Pillar Plastic Trim (Upper/Lower) | AU-BFIII | All physically fit however adjustable seatbelt height not present on AUI Falcon |
 | Boot Button | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
 | C Pillar Trim | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
-| [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | AUII onward contain additional spring that will help with longevity |
+| [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain submodels contain additional spring that will help with longevity |
 | [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter |
 | Engine Belt Cover | EF-AUIII, XH-XHII | Requires 13mm bolt with 10mm thread on top |
 | Exhaust Header | EA-AUIII | |
+| Exhaust assembly (Cat Back) | EA-AUIII | Live axle Sedans and Wagons only, Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Front Door Shell | AU-BFIII | |
 | Fuel Door Button | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
 | Fuel Injectors | EA-FGX, SX-SZII, XG-XHII| cc rating is vastly different, 215-220cc rating standard for AU, Tune/ECU/J3 Chip likely required |
