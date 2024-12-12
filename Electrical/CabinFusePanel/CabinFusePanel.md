@@ -37,7 +37,7 @@ These connectors are identifiable according to the annotated image:
 
 Below is a layout of all fuse block pins:
 
-<table class="large-table" style="font-weight: bold">
+<table class="large-table diagram-table">
   <tr>
     <td><code>F1-1</code></td>
     <td><code>F2-1</code></td>
@@ -335,10 +335,10 @@ These pins have continuity with the following:
 
 for the following assume the following plug layout:
 
-<table>
+<table class="diagram-table">
     <tr>
-        <td><b><code>8-1</code></b></td>
-        <td><b><code>8-2</code></b></td>
+        <td><code>8-1</code></td>
+        <td><code>8-2</code></td>
     </tr>
 </table>
 
@@ -426,12 +426,12 @@ These pins have continuity with the following:
 
 for the following assume the following layout:
 
-<table>
+<table class="diagram-table">
     <tr>
         <td>
-            <b><code>12-1</code></b>
-            <b><code>12-2</code></b>
-            <b><code>12-3</code></b>
+            <code>12-1</code>
+            <code>12-2</code>
+            <code>12-3</code>
         </td>
     </tr>
 </table>
