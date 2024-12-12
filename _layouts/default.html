@@ -11,6 +11,7 @@
     -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/overrides.css" | relative_url }}">
     <!--explicit override for favicon for Github Pages-->
     <link rel="icon" type="image/x-icon" href="{{ "/favicon.ico" | relative_url }}">
     <script>
@@ -145,6 +146,11 @@
         font-weight: 600;
       }
 
+      .large-table {
+        white-space: nowrap;
+        font-size: small;
+      }
+
       @media print {
         html, body, footer, table, th, td {
           background: white;
@@ -183,6 +189,26 @@
           display: none;
         }
 
+        a[href] {
+          color: black;
+        }
+
+        a[href^="http"]:after {
+          color: blue;
+          content: " (" attr(href) ")";
+          font-size: small;
+        }
+
+        a[href^="/"]:after {
+          color: blue;
+          content: " (" var(--domain) attr(href)")";
+          font-size: small;
+        }
+
+        .large-table {
+          white-space: nowrap;
+          font-size: x-small;
+        }
       }
 
     </style>
@@ -212,7 +238,7 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-    <p class="alternatefooter">Page printed from The AU Falcon SPUD Project, visit <a href="https://digi-ron.github.io/AU-Falcon-SPUD-Project">https://digi-ron.github.io/AU-Falcon-SPUD-Project</a> for more!</p>
+    <p class="alternatefooter">Page printed from The AU Falcon SPUD Project, visit <span style="color:blue">https://digi-ron.github.io/AU-Falcon-SPUD-Project</span> for more!</p>
   </body>
   <footer class="printHide">
     <hr />
