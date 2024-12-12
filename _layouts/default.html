@@ -197,16 +197,17 @@
           color: black;
         }
 
-        a[href^="http"]:after {
+        a[href]::after {
           color: blue;
-          content: " (" attr(href) ")";
           font-size: small;
         }
 
+        a[href^="http"]:after, a[href^="mailto:"]:after {
+          content: " (" attr(href) ")";
+        }
+
         a[href^="/"]:after {
-          color: blue;
           content: " (" var(--domain) attr(href)")";
-          font-size: small;
         }
 
         .large-table {
@@ -242,7 +243,7 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-    <p class="alternatefooter">Page printed from The AU Falcon SPUD Project, visit <span style="color:blue">https://digi-ron.github.io/AU-Falcon-SPUD-Project</span> for more!</p>
+    <p class="alternatefooter">Page printed from The AU Falcon SPUD Project, visit <span style="color:blue">{{ site.domain }}</span> for more!</p>
   </body>
   <footer class="printHide">
     <hr />
