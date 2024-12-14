@@ -14,7 +14,7 @@ These remotes are actually inherited from the EL Falcon before it, and are a 304
 
 ![Series 1 keyfob approximation](./S1-fob.png)
 
-> Image cropped from [The Key Guys](../../Credits.md#collected-images-primarily-product-listing-images) product page, which was advertising a aftermarket replacement that looks completely different
+> Image cropped from [The Key Guys](../../Credits.md#collected-information-primarily-product-listing-images) product page, which was advertising a aftermarket replacement that looks completely different
 
 > NOTE: The S1 Ute remotes are missing the boot button (right)
 
@@ -25,7 +25,7 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 ![Series 2-3 keyfob](./S2-3-fob.png)
 
-> Image taken from [The Key Guys](../../Credits.md#collected-images-primarily-product-listing-images) product page for aftermarket replacement. Original is almost identical barring a Ford logo stamped into the back of the shell
+> Image taken from [The Key Guys](../../Credits.md#collected-information-primarily-product-listing-images) product page for aftermarket replacement. Original is almost identical barring a Ford logo stamped into the back of the shell
 
 > NOTE: The S2/3 Ute remotes are missing the boot button (bottom right)
 
