@@ -2,7 +2,7 @@
 description: Information on the ignition coil pack for the 1999-2002 Ford Falcon AU. Includes replacement and testing information
 ---
 
-# Ignition coil pack
+# Ignition Coil Pack
 The AU Falcon is the last Ford Falcon manufactured that used a ignition coil pack rather than the newer individual coil on plug design. This comes with the drawback of having to replace the entire unit when one part of the coil pack fails, however this also comes with the benefit that (generally) replacing the coil pack on an AU Falcon is approximately the same price as replacing 1-2 ignition coils on a later model Falcon*
 
 <sup>* as of time of writing in 2024</sup>
@@ -55,6 +55,8 @@ The recommended method for removing these coil packs is to either completely rem
 
 
     > NOTE: this is important to do now simply to provide more room for removal later on
+
+1. Unplug the Air Conditioner Pressure switch
 
     ![AC Pressure Switch post-removal](./ac-switch-unplugged.jpg)
 
