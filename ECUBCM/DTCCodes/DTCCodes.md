@@ -2,7 +2,17 @@
 description: DTC or Diagnostic Trouble Codes for the 1999-2002 Ford Falcon AU
 ---
 
-# DTC Codes
+# ECU Information
+
+## Location
+
+If you ever need access to the ECU in your AU Falcon, it can be found bolted to the very bottom of the A Pillar area of the passenger side of the cabin. This can be useful if you intend on adding a performance chip (such as a J3 chip from [T.I. Performance](../../Credits.md#collected-information-primarily-product-listing-images))
+
+<!--TODO add a pic-->
+
+
+
+## DTC Codes
 Below is a list of codes and descriptions that can be produced by the DTC system:
 
 | Code | Description |
