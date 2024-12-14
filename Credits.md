@@ -5,7 +5,7 @@ hidePrint: true
 
 # Credits
 
-## Collected images (primarily product listing images):
+## Collected Information (primarily product listing images):
 
 - [A1 Auto Parts](https://www.a1auto-parts.com.au/)
 - [AliExpress](https://www.aliexpress.com/)
@@ -24,6 +24,7 @@ hidePrint: true
 - [FordMods](https://www.fordmods.com/)
 - [FordWiki](https://www.fordwiki.co.uk/)
 - [Haynes Manuals](https://haynes.com/en-au/ford/falcon/1998-2002-petrol)
+- [Kenwood](https://www.kenwood.com/au/)
 - [KEYDIY](https://www.keydiy.com/)
 - [MotoringBox](https://www.motoringbox.com/)
 - [Narva](https://www.narva.com.au/)
