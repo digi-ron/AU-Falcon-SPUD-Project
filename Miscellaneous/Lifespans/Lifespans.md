@@ -15,7 +15,7 @@ please refer to the table below for expected lifespans of various components, al
 | Ignition Coil Pack | 150,000 | Ignition Coil can be [tested for resistance](../../Engine/IgnitionCoil/IgnitionCoil.md#ignition-coil-resistances), known failures below 9KΩ secondary resistance |
 | Oil filter | 20,000 | assuming still using rated 5w30 |
 | Power Steering High Pressure Line | 100,000 | can be made significantly longer by getting redesigned aftermarket line without gap between nut and line |
-| Spark plugs (copper) | 20,000 | more likely to start phantom misfiring at idle as it gets close than iridium |
-| Spark plugs (iridium) | 75,000 | generally worth extra cost |
+| Spark plugs (copper) | 20,000 | more likely to start phantom misfiring at idle as they start to fail |
+| Spark plugs (iridium) | 75,000 | generally worth extra cost vs. Copper |
 | Steering Rack | 150,000 | look out for popping noise when nearing full lock |
-| Thermostat | 100,000 | can fail open (constantly on C using more fuel) or fail closed (quick to overheat) |
+| Thermostat | 100,000 | can fail open (constantly on C using more fuel) or fail closed (quick to overheat). Can be easily extended by using coolant rather than water for the cooling system |
