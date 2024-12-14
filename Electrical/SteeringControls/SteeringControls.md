@@ -15,7 +15,7 @@ The steering wheel controls for the AU falcon are one of the most fragile parts 
 > NOTE: buttons missing from photos due to the originals being broken (ironic)
 
 1. ***DISCONNECT THE BATTERY*** and leave for at least 1hr (ideally overnight)
-1. remove the plastic caps on the sides of the rear plastic section of the steering wheel and remove the tamper bolts using your weapon of choice
+1. remove the plastic caps on the sides of the rear plastic section of the steering wheel and remove the tamper bolts
 
     ![Driver side tamper bolt](./driver-tamper-bolt.jpg)
     ![Passenger side tamper bolt](./passenger-tamper-bolt.jpg)
@@ -34,13 +34,13 @@ The steering wheel controls for the AU falcon are one of the most fragile parts 
 
     ![Mounting screw locations](./control-mount-screws.jpg)
     
-2. unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame
+1. unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame
 
     ![Rear plastic separation](./rear-plastic-separation.jpg)
 
     > gently pull until the back of your steering wheel looks like this. From here, you can feed the wire through the gap by holding the plastic back a little more and pulling the wire through
 
-3. done
+1. done
 
 > NOTE: If reinstalling the steering wheel controls, be careful of the screws that hold it in place, as they are easy to cross-thread due to the material the steering wheel itself seems to be made of
 
