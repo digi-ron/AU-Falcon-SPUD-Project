@@ -5,7 +5,7 @@ description: Information on the headlight switch controls for the 1999-2002 Ford
 # Headlight Switches
 
 ## Plug Type
-The plugs used for the headlight switch initially appear to be a AMP MULTILOCK .070 (174933-1/173851-1) design, but the pins are in the wrong location in the connector and the connector itself is off by approx. 1mm in width regardless. The true connector is a only known as a 090 Connector. At least one of the original manufacturers is a company known as Yazaki. They don't appear to be manufacturing these anymore so the only known source of these connectors would be online marketplaces such as AliExpress:
+The plugs used for the headlight switch initially appear to be a AMP MULTILOCK .070 (174933-1/173851-1) design, but the pins are in the wrong location in the connector and the connector itself is off by approx. 1mm in width regardless. The true connector is a only known as a 090 Connector. At least one of the original manufacturers is a company known as Yazaki. They don't appear to be manufacturing these anymore so the only known source of these connectors would be online marketplaces such as [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images):
 
 | Name | Code | Notes |
 | --- | --- | --- |
@@ -19,14 +19,14 @@ The plugs used for the headlight switch initially appear to be a AMP MULTILOCK .
 ## Variations
 There seems to be a variation between the base model unit and the high model units in terms of wiring, beyond the expected low amount of difference expected from the 1 additional control.
 
-### Pin layout - Rough diagram
+### Pin layout
 The following notes assume pin numbers where you are looking at the switch unit itself, with the clip cut-out facing up and the 2 pin section of the top row to the left:
 
 | `01` | `02` | `--` | `--` | `03` | `04` | `05` |
 | --- | --- | --- | --- | --- | --- | --- |
 | **`06`** | **`07`** | **`08`** | **`09`** | **`10`** | **`11`** | **`12`** |
 
-### Low unit pins
+####  Low unit pins
 - 01 = blank
 - 02 = blank
 - 03 = blank
@@ -44,7 +44,7 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 > photo of headlight switch unit end plug (male pin connector)
 
-### High unit pins
+#### High unit pins
 
 > NOTE: information is particularly incomplete here due to lack of a high model AU to discern wiring minutiae
 
