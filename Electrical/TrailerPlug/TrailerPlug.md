@@ -41,7 +41,7 @@ The following notes assume pin numbers where you are looking at the trailer adap
 | 05 | Black | GND/Earth | White |
 | 06 | Green/Blue | Driver Indicator | Yellow |
 | 07 | Green/Grey | Passenger Indicator | Green |
-| 08 | Yellow/Black | 12V Constant | Orange/Pink/Purple [12-Pin configuration](#12-pin-layout) only |
+| 08 | Yellow/Black | 12V Constant | Orange/Pink/Purple ([12-Pin configuration](#12-pin-layout) only) |
 
 ## Australian Standard Pinouts
 
@@ -49,7 +49,7 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 ### 7 Pin layout
 
-While the AU Falcon originally came with a 12 pin flat connector, a more appropriate and cost-effective connector to be used in the modern day is actually a 7 Pin layout. This is simply as many trailers with the 12 pin connector exceed normal towing conditions for vehicles, unless you intend on towing an older Caravan or other heavy duty trailer. If you are intend on using a [12 Pin Layout](#12-pin-layout), note that the AU Falcon only implements a partial implementation of this standard regardless.
+While the AU Falcon originally came with a 12 pin flat connector, a more appropriate and cost-effective connector to be used at the time of writing is actually a 7 Pin layout. This is simply as many trailers with the 12 pin connector exceed normal towing conditions for vehicles, unless you intend on towing an older Caravan or other heavy duty trailer.
 
 > NOTE: The Pinouts shown here are confirmed by [Narva](../../Credits.md#information-cross-referencing), a known and common brand in Australia.
 
@@ -98,7 +98,7 @@ While the AU Falcon originally came with a 12 pin flat connector, a more appropr
 
 ### 12 Pin layout
 
-The 12 pin layout is the standard layout for the Factory trailer looms in the Ford Falcon, however only a partial implementation is used, shown below:
+The 12 pin layout is the standard layout for the Factory trailer looms in the Ford Falcon. If you are intend on using a 12 pin layout, note that the AU Falcon only implements a partial implementation of this standard, due to certain functions, like fog lights, not being present on the host vehicle. The implementation for this plug is noted below:
 
 > NOTE: The Pinouts shown here are confirmed by [Narva](../../Credits.md#information-cross-referencing), a known and common brand in Australia.
 
