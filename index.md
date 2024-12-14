@@ -47,7 +47,7 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
 - Engine
   - [Alternator](./Engine/Alternator/Alternator.md)
   - [Cooling Systems](./Engine/CoolingSystems/CoolingSystems.md)
-  - [Ignition Coil](./Engine/IgnitionCoil/IgnitionCoil.md)
+  - [Ignition Coil Pack](./Engine/IgnitionCoil/IgnitionCoil.md)
   - [PCV](./Engine/PCV/PCV.md)
   - [Spark Plugs](./Engine/SparkPlugs/SparkPlugs.md)
 - Miscellaneous
