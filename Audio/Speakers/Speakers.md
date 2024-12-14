@@ -8,7 +8,7 @@ description: Speaker installation and wiring information for the 1999-2002 Ford 
 
 The size of most speakers across the AU Falcon range are 5x7" oval speakers, which is a non-standard size. Note that 6x9" speakers can be used in both locations, however additional holes will need to be drilled to allow for them, and special care must be taken for the front door speakers depth, as they can foul the window mechanism.
 
-> NOTE: popular replacements for these speakers are the Kenwood KFC-PS5796C, as they require no amp and are a drop-in replacement, barring the plug (explained in installation steps)
+> NOTE: popular replacements for these speakers are the [Kenwood](../../Credits.md#information-cross-referencing) KFC-PS5796C, as they require no amp and are a drop-in replacement, barring the plug (explained in installation steps)
 
 Exceptions to this include:
 - Wagon Rear Speakers (speakers are seemingly 4-5")
@@ -18,7 +18,7 @@ The standard speakers used in the AU Falcon are known as a 250 Series Quick Conn
 
 ![Narva Quick Connect 2 way connector set](./2-way-speaker-connector.png)
 
-> Picture taken from Narva product page for a pack of both 1 male connector housing (left) and one female connector housing (right) (product code 56272BL)
+> Picture taken from [Narva](../../Credits.md#information-cross-referencing) product page for a pack of both 1 male connector housing (left) and one female connector housing (right) (product code 56272BL)
 
 ## Replacement
 
@@ -49,9 +49,10 @@ Follow the steps below to replace the driver door speakers:
 
 1. do one of the following:
     - if keeping the original loom, create an adapter with a [male housing 2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
-    - if modifying the loom, cut and crimp the spade connectors for your speakers onto the loom, noting:
+    - if modifying the loom, cut and crimp the spade connectors for your speakers onto the loom. As much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
+
+        Regardless of method used, note:
         - On the [plug](#plug), the top connection (horizontal pin) is the negative
-        - as much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
         - if you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
 
         ![example speaker loom](./speaker-loom-kenwood.jpg)
@@ -70,8 +71,8 @@ Follow the steps below to replace the driver door speakers:
 
     > photo of speaker installed. Note you can use the original screws, or the new screws and brackets from the new speakers if wanted/needed
 
-1. reinstall the door card, remembering to reconnect the window winder handle (on manual winding models) or the electronic window panel (on electronic window models)
-1. done
+2. reinstall the door card, remembering to reconnect the window winder handle (on manual winding models) or the electronic window panel (on electronic window models)
+3. done
 
 ### Rear Speakers - Sedan
 Follow these steps below to replace the rear shelf speakers (Sedan only):
