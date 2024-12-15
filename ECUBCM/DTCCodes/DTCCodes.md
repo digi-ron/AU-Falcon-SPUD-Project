@@ -10,8 +10,6 @@ If you ever need access to the ECU in your AU Falcon, it can be found bolted to 
 
 <!--TODO add a pic-->
 
-
-
 ## DTC Codes
 Below is a list of codes and descriptions that can be produced by the DTC system:
 
