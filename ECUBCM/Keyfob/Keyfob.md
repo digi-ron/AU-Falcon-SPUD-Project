@@ -42,6 +42,13 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 1. remove key
 1. done
 
+## Changing locking mode (Smartshield models only)
+
+In the smartshield models of AU Falcon (Late S2-3), a locking mode can be specified using a factory remote. Note that this does *not* work on any known aftermarket remote, only the Ford OEM Remotes. To change the remote mode, simply hold down the lock and unlock buttons at the same time for approximately 3-5 seconds, the car will acknowledge with a flash of the indicators. The 2 modes available are:
+
+- Single press (one press of the unlock button unlocks all doors)
+- Double press (one press of the unlock button unlocks the drivers door only, another press unlocks the remaining doors)
+
 ## Aftermarket replacements
 
 Below is discovered information found while attempting to create a DIY aftermarket guide to creating Smartlock/Smartshield remotes using off the shelf solutions (bias towards Smartlock due to higher ROI if successful):
