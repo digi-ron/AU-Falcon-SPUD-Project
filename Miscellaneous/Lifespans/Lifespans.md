@@ -18,4 +18,4 @@ please refer to the table below for expected lifespans of various components, al
 | Spark plugs (copper) | 20,000 | more likely to start phantom misfiring at idle as they start to fail |
 | Spark plugs (iridium) | 75,000 | generally worth extra cost vs. Copper |
 | Steering Rack | 150,000 | look out for popping noise when nearing full lock |
-| Thermostat | 100,000 | can fail open (constantly on C using more fuel) or fail closed (quick to overheat). Can be easily extended by using coolant rather than water for the cooling system |
+| Thermostat | 100,000 | can fail open (temp. constantly on C using more fuel) or fail closed (quick to overheat). Can be easily extended by using coolant rather than water for the cooling system |
