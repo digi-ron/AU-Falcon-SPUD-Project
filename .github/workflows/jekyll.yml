@@ -59,15 +59,15 @@ jobs:
       - name: wait for server
         run: |
           echo "Waiting for server to start..."
-          until curl --output /dev/null --silent --head --fail http://127.0.0.1:4000/AU-Falcon-SPUD-Project; do
+          until curl --output /dev/null --silent --head --fail http://127.0.0.1:4000; do
             echo "Waiting for server to start..."
             sleep 5
           done
           echo "Server is up and running."
       - name: Get basic HTML
-        run: wget --mirror --convert-links --adjust-extension --page-requisites 127.0.0.1:4000/AU-Falcon-SPUD-Project
+        run: wget --mirror --convert-links --adjust-extension --page-requisites 127.0.0.1:4000
       - name: rename folder
-        run: mv 127.0.0.1:4000/AU-Falcon-SPUD-Project staticsite
+        run: mv 127.0.0.1:4000 staticsite
       - name: zip folder
         run: cd staticsite && zip -r staticsite.zip *
       - name: Create Release
