@@ -1,5 +1,5 @@
 ---
-description: Speaker installation and wiring information for the 1999-2002 Ford Falcon AU
+description: Speaker installation and wiring information for the 1999-2002 Ford Falcon AU. Partially applies to BA-BF Falcons and SX-SY Territory models
 ---
 
 # Speakers
