@@ -197,17 +197,16 @@
           color: black;
         }
 
+        /* assume relative link first and foremost */
+
         a[href]::after {
           color: blue;
           font-size: small;
+          content: " (" var(--domain) attr(href)")";
         }
 
         a[href^="http"]:after, a[href^="mailto:"]:after {
-          content: " (" attr(href) ")";
-        }
-
-        a[href^="/"]:after {
-          content: " (" var(--domain) attr(href)")";
+          content: " (" attr(href) ")" !important;
         }
 
         .large-table {
