@@ -10,18 +10,22 @@ While the mounting points for the interior mirrors are the same between series' 
 
 ### Series 1 Removal/Replacement
 
-The S1 mirrors can be easily removed in comparison to their newer counterparts. Steps below:
+The S1 mirrors can be easily removed in comparison to their newer counterparts. Steps to remove are below:
 
 1. (optional) wait for the car to be as cold as possible around the window. Recommended that this job is done in winter or during nighttime if possible
 2. remove the grub screw from the base of the plastic housing
-    <!--TODO add pic and hex size-->
+    
+    ![S1 Interior Mirror Screw](./s1-mirror-screw.jpg)
+
+    > Picture of the grub screw location to remove in the Series 1 AU Falcons. Note that this is a 2mm Hex head and as such requires a 2mm alan key to remove
+
 3. gently slide the plastic housing from the steel on the window by wiggling the assembly back and forth a little. you may need to use a light tap from a small rubber mallet, however this is only to be used if absolutely required
 4. to reinstall or replace, reverse all previous steps
 5. done
 
 ### Series 2/3 Removal/Replacement
 
-The Later models are much higher risk to remove, and as such are not a job to be done lightly. If possible, it is advised to replace with a aftermarket replacement or Series 1 mirror if possible to avoid issues in the future. To add insult to injury, these mirrors are the same as all Falcons and Territory models from the AUII onwards, and can be prone to rattling as they age due to the lack of a grub screw or similar. Steps to remove below:
+The Later models are much higher risk to remove, and as such are not a job to be done lightly. If possible, it is advised to replace with a aftermarket replacement or Series 1 mirror if possible to avoid issues in the future. To add insult to injury, these mirrors are the same as all Falcons and Territory models from the AUII onwards, and can be prone to rattling as they age due to the lack of a grub screw or similar. Steps to remove are below:
 
 > NOTE: lack of pictures as project only involves S1 vehicle
 
