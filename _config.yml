@@ -10,7 +10,7 @@ github_username:  digi-ron
 repository: digi-ron/AU-Falcon-SPUD-Project
 
 # custom variable domain - for printable links from sitedump, made to avoid override of url variable
-domain: "https://digi-ron.github.io/AU-Falcon-SPUD-Project"
+domain: "https://digi-ron.github.io/AU-Falcon-SPUD-Project/"
 
 # Build settings
 #theme: minima
