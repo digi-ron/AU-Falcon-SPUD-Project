@@ -7,6 +7,7 @@ baseurl: "/AU-Falcon-SPUD-Project" # the subpath of your site, e.g. /blog
 url: "https://digi-ron.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  digi-ron
 repository: digi-ron/AU-Falcon-SPUD-Project
+lang: en-AU
 
 # custom variable domain - for printable links from sitedump, hard-coded to avoid override of url variable
 domain: "https://digi-ron.github.io/AU-Falcon-SPUD-Project/"
