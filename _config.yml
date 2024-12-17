@@ -2,7 +2,6 @@ markdown: kramdown
 md: kramdown
 
 title: AU Ford Falcon - SPUD Project
-email: your-email@example.com
 description: A collation of notes and information about the AU Falcon, collated while working on a Falcon Forte, nicknamed "SPUD".
 baseurl: "/AU-Falcon-SPUD-Project" # the subpath of your site, e.g. /blog
 url: "https://digi-ron.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -13,10 +12,8 @@ repository: digi-ron/AU-Falcon-SPUD-Project
 domain: "https://digi-ron.github.io/AU-Falcon-SPUD-Project/"
 
 # Build settings
-#theme: minima
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
-  #- jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
 
