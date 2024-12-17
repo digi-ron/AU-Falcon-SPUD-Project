@@ -12,6 +12,7 @@ hidePrint: true
 - [Auto Parts Supply](https://www.autopartssupply.com.au/)
 - [Repco](https://www.repco.com.au/)
 - [RS Components Australia](https://au.rs-online.com/)
+  <!-- - [Seat Safe](https://www.seatsafe.com.au/) -->
 - [T.I Performance](https://www.tiperformance.com.au/)
 - [The Key Guys](https://www.thekeyguys.com.au/)
 
