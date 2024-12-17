@@ -38,19 +38,30 @@ title: Tyre Size Calculator
         const wheelDiameter = parseInt(document.getElementById("wheelDiameter").value) || 0;
         const padding = parseInt(document.getElementById("paddingmm").value) || 0;
         const width = parseInt(document.getElementById("width").value) || 0;
+        const widthpadding = parseInt(document.getElementById("widthpadding").value) || 0;
+
+        const sort = document.getElementById("sort").value;
+        const sortOrder = document.getElementById("sortOrder").value;
+
         const minDiameter = wheelDiameter - padding;
         const maxDiameter = wheelDiameter + padding;
+        const minWidth = width - widthpadding;
+        const maxWidth = width + widthpadding;
 
         results = tyreInformation.filter(size => {
             let output = true;
             output = rimRadius === 0 ? output : output && size.radius == rimRadius;
             output = wheelDiameter === 0 ? output : output && size.diameter >= minDiameter && size.diameter <= maxDiameter;
-            output = width === 0 ? output : output && size.width == width;
+            output = width === 0 ? output : output && size.width >= minWidth && size.width <= maxWidth;
             return output;
         });
 
         results.sort((a, b) => {
-            return a.diameter - b.diameter;
+            if(sortOrder === "desc") {
+                return b[sort] - a[sort];
+            } else {
+                return a[sort] - b[sort];
+            }
         });
 
         showResults(results);
@@ -117,46 +128,75 @@ title: Tyre Size Calculator
 <table style="display: table !important; margin-left: auto; margin-right: auto;">
     <tbody>
     <tr>
-        <td>
+        <td colspan="2">
             <label for="rimRadius">Rim Radius (inches):</label>
         </td>
-        <td>
+        <td colspan="2">
             <input type="number" id="rimRadius" name="rimRadius" max="23" min="12">
-        </td>
-        <td rowspan="2" class="printHide">
-            <input type="button" value="Calculate" onclick="calculateRadiusDiameter()">
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <label for="wheelDiameter">Rolling Diameter (mm):</label>
         </td>
-        <td>
+        <td colspan="2">
             <input type="number" id="wheelDiameter" name="wheelDiameter" min="100" max="1000">
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <label for="padding">Padding (mm):</label>
         </td>
-        <td>
+        <td colspan="2">
             <input type="number" id="paddingmm" name="paddingmm" min="0" max="999">
-        </td>
-        <td rowspan="2" class="printHide">
-            <input type="button" value="Reset" onclick="clearResults()">
         </td>
     </tr>
     <tr>
-        <td>
+        <td colspan="2">
             <label for="width">Width:</label>
         </td>
-        <td>
+        <td colspan="2">
             <input type="number" id="width" name="width" min="0" max="400">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <label for="widthpadding">Width Padding:</label>
+        </td>
+        <td colspan="2">
+            <input type="number" id="widthpadding" name="widthpadding" min="0" max="100">
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <label for="sort">Sort (Ascending):</label>
+        </td>
+        <td>
+            <select id="sort" name="sort">
+                <option value="aspect">Aspect Ratio</option>
+                <option value="diameter" selected aria-selected="true">Diameter</option>
+                <option value="radius">Rim Radius</option>
+                <option value="width">Width</option>
+            </select>
+        </td>
+        <td>
+            <select id="sortOrder" name="sortOrder" style="max-width: max-content;">
+                <option value="asc">Ascending</option>
+                <option value="desc">Descending</option>
+            </select>
+        </td>
+    </tr>
+    <tr class="printHide">
+        <td colspan="2">
+            <input type="button" value="Calculate" onclick="calculateRadiusDiameter()">
+        </td>
+        <td colspan="2">
+            <input type="button" value="Reset calculator" onclick="clearResults()">
         </td>
     </tr>
 </tbody>
 </table>
 
 <h3>Results <span id="resultsAdditionalText"></span></h3>
-<table id="resultsTable" style="display: table !important; margin-left: auto; margin-right: auto;"></table>
+<table id="resultsTable" style="display: table !important; margin-left: auto; margin-right: auto; page-break-inside: auto; page-break-before: avoid;"></table>
 <hr/>
