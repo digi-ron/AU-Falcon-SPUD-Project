@@ -49,6 +49,15 @@ The seatbelts in the AU Falcons are largely easy to replace but require a single
 
 1. done
 
+<!-- TODO test and report this
+### Additional Notes
+
+The following are notes for modifications to the seatbelt mechanism, mainly regarding the fitting of non-standard seatbelt assemblies:
+
+- if replacing with a "universal" seatbelt, you may need to modify the upper B-Pillar trim plastic to fit the upper pulley in behind. As the fraying of the original seatbelt is [usually caused by this](#common-issues---upper-b-pillar-plastic-trim), an alternative to finding a good condition original plastic piece is replacing it with a "universal" seatbelt kit and using a rotary tool to simply cut a larger hole into the plastic, allowing for free movement of the new pulley. Alternatively you can simply remove the trim piece altogether, however this is not recommended as part of the B-Pillar upper trim piece contributes to the holding up of the headliner.
+- while the bolts holding the static end and upper pulley of the seatbelt are T50 Torx headed with a 7/16" UNF thread, the bolt holding the retraction mechanism is a M10x1.5 thread. This can be easily remedied if using a "universal" seatbelt, as you can use a nut retainer bracket with a 7/16" UNF threaded nut, however these retainers can be hard to come by, with the only known seller at time of writing being [SeatSafe](../../Credits.md#collected-information-primarily-product-listing-images). If going this route, the recommended thread length is 1"
+-->
+
 ## Common issues - Upper B-Pillar plastic trim
 
 A common issue with older AU Falcons is the wearing of the seatbelt hole in the B-Pillar plastic trim. This appears to happen due to the plastic being prone to wear from the seatbelt rubbing, and if left unchecked can cause premature fraying on the seatbelt, which is a safety concern and Roadworthy requirement (where applicable). Recommendation is to replace the trim with a similar part, noting that earlier AU Falcon models did not come with an adjustable height seatbelt top anchor, however assuming that is uneconomical or not viable due to lack of parts available, please see below for a "poor-mans plastic welding" fix that can be used
