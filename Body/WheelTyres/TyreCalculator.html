@@ -169,9 +169,9 @@ title: Tyre Size Calculator
     </tr>
     <tr>
         <td colspan="2">
-            <label for="sort">Sort (Ascending):</label>
+            <label for="sort">Sort:</label>
         </td>
-        <td>
+        <td colspan="2">
             <select id="sort" name="sort">
                 <option value="aspect">Aspect Ratio</option>
                 <option value="diameter" selected aria-selected="true">Diameter</option>
@@ -179,18 +179,23 @@ title: Tyre Size Calculator
                 <option value="width">Width</option>
             </select>
         </td>
-        <td>
+    </tr>
+    <tr>
+        <td colspan="2">
+            <label for="sortOrder">Sort Order:</label>
+        </td>
+        <td colspan="2">
             <select id="sortOrder" name="sortOrder" style="max-width: max-content;">
-                <option value="asc">Ascending</option>
+                <option value="asc" selected aria-selected="true">Ascending</option>
                 <option value="desc">Descending</option>
             </select>
         </td>
     </tr>
     <tr class="printHide">
-        <td colspan="2">
+        <td colspan="2" style="border-right: 0px;">
             <input type="button" value="Calculate" onclick="calculateRadiusDiameter()">
         </td>
-        <td colspan="2">
+        <td colspan="2" style="border-left: 0px;">
             <input type="button" value="Reset calculator" onclick="clearResults()">
         </td>
     </tr>
