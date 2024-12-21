@@ -32,6 +32,7 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
     - [Tyre Calculator](./Body/WheelTyres/TyreCalculator.html)
 - ECU & BCM
   - [Central Locking Key Fob](./ECUBCM/Keyfob/Keyfob.md)
+    - [Manufacturer Specific Instructions - Remocon](./ECUBCM/Keyfob/Remocon/Remocon.md)
   - [DTC Codes](./ECUBCM/DTCCodes/DTCCodes.md)
   - [Instrument Cluster](./ECUBCM/InstrumentCluster/InstrumentCluster.md)
 - Electrical
