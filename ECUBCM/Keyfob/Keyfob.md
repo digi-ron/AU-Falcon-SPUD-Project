@@ -12,9 +12,10 @@ These remotes are actually inherited from the EL Falcon before it, and are a 304
 
 > NOTE: As of time of writing in 2024, the only manufacturer of aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#information-cross-referencing), however their remotes have a high failure rate
 
-![Series 1 keyfob approximation](./S1-fob.png)
+![Series 1 keyfob front](./s1-fob-front.jpg)
+![Series 1 keyfob rear](./s1-fob-rear.jpg)
 
-> Image cropped from [The Key Guys](../../Credits.md#collected-information-primarily-product-listing-images) product page, which was advertising a aftermarket replacement that looks completely different
+> Photos of an OEM Series 1 keyfob
 
 > NOTE: The S1 Ute remotes are missing the boot button (right)
 
@@ -23,9 +24,10 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 <sup>* at the time of writing, 2024</sup>
 
-![Series 2-3 keyfob](./S2-3-fob.png)
+![Series 2-3 keyfob front](./s2-3-fob-front.jpg)
+![Series 2-3 keyfob rear](./s2-3-fob-rear.jpg)
 
-> Image taken from [The Key Guys](../../Credits.md#collected-information-primarily-product-listing-images) product page for aftermarket replacement. Original is almost identical barring a Ford logo stamped into the back of the shell
+> Photos of an OEM Series 1 keyfob
 
 > NOTE: The S2/3 Ute remotes are missing the boot button (bottom right)
 
@@ -55,7 +57,10 @@ Below is discovered information found while attempting to create a DIY aftermark
 
 ### KEYDIY
 - confirmed available aftermarket fob is KEYDIY B09-3 universal fob, however known low success rate (seemingly depends on calibration of each car)
-- profiles available for both Smartlock and Smartshield, but appear to use fixed code, meaning that the buttons are sometimes unresponsive, and likely means any other fob programmed with the same profile can open your car.
+- profiles available for both Smartlock and Smartshield, however due to unknown issues, buttons are sometimes unresponsive. Any fob programmed to the same code is likely to be able to open any other car coded the same way due to method of duplication, making widespread use non-viable.
+
+    > NOTE: profiles only available on the Android App version of KEYDIY as of time of writing
+
 - OEM fobs unable to be cloned using any available cloning method in KEYDIY Android App (tested using cable programmer and KD 900 PLUS)
 
 #### Smartlock configuration
@@ -86,10 +91,22 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 | ID | R02193 |
 | Frequency | 303.8 ASK |
 
-![KEYDIY fob exterior](./dodgy-keydiy-fob.jpg)
-![KEYDIY fob board](./dodgy-keydiy-fob-board.jpg)
+> NOTE: specific codes not available due to lack of available information for officially published KEYDIY profiles
 
-> Photos of the casing and board of a KEYDIY based keyfob provided by [RemotePro](../../Credits.md#wall-of-shame---information-gatekeepers-and-timewasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
+![KEYDIY fob exterior](./KEYDIY/dodgy-keydiy-fob.jpg)
+![KEYDIY fob board](./KEYDIY/dodgy-keydiy-fob-board.jpg)
+
+> Photos of the casing and board of a KEYDIY based keyfob. Device provided by [RemotePro](../../Credits.md#wall-of-shame---information-gatekeepers-and-timewasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
+
+### Remocon
+- compatible aftermarket remote confirmed as model RMC-555 (requires RMC-888 programmer, first confirmed 18/12/24)
+- can only be used to copy existing remote, therefore one OEM remote required.
+- [Instructions (Series 1 Smartlock only)](./Remocon/Remocon.md)
+
+![RMC-555 Exterior](./Remocon/remocon-555-exterior.jpg)
+![RMC-555 Interior](./Remocon/remocon-555-interior.jpg)
+
+> Photos of the casing and board of a Remocon RMC-555 programmable keyfob. Device provided by [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
 
 ### RemoteKing
 - aftermarket remote confirmed as model RCR15 (untested)
