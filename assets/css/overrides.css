@@ -79,6 +79,11 @@ font-size: small;
 font-weight: bold;
 }
 
+.block-note {
+    color: #955E10 !important;
+    border: 1px dotted brown !important;
+}
+
 @media print {
     html, body, footer, table, th, td {
         background: white;
