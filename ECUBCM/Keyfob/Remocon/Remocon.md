@@ -7,19 +7,19 @@ description: Keyfob cloning instructions for the AU Falcon (Smartlock only) usin
 <!--TODO check out if this works with the RMC-600-->
 
 ## What you need
-- A Remocon RMC-555 Remote. This can be found primarily on [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
+- A Remocon RMC-555 Remote. This can be found primarily on online marketplaces such as [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
 
     ![RMC-555](./remocon-555-exterior.jpg)
 
     > Photo of a RMC-555 remote
 
-- A Remocon RMC-888 Programmer device. This can also be found primarily on [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
+- A Remocon RMC-888 Programmer device. This can also be found primarily on online marketplaces such as [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
 
     ![RMC-888](./remocon-888.jpg)
 
     > Photo of a RMC-888 programmer
 
-    > NOTE: photo shown has removable cable, however shown with cable plugged in due to fitment issues requiring disassembly to fit on arrival (low Quality Control)
+    > NOTE: photo shown has removable cable, however shown with cable plugged in due to cable fitment issues requiring disassembly to fit for demonstration (low Quality Control)
 
 - (optional) 12V (1A min.) DC Power Supply (5.5mm*2.5mm barrel connector)
 
@@ -49,6 +49,8 @@ description: Keyfob cloning instructions for the AU Falcon (Smartlock only) usin
     > - `r224` (skipped)
     > - `r225` (skipped)
 
+    > NOTE: each key can be skipped by pressing button 1
+
 1. after completing the segment reading `r225` either by skipping or programming, the display should read `0.0`, signifying that the programmer is back to the "main menu"
 1. ensure the frequency jumper is in the correct position to send 275-345mHz signals, and then plug the RMC-555 remote into the programmer using the small 6-pin ribbon cable on the RMC-888 programmer device.
 
@@ -65,6 +67,6 @@ description: Keyfob cloning instructions for the AU Falcon (Smartlock only) usin
 
     ![Frequency Adjuster Screw location](./remocon-frequency-adjuster.jpg)
 
-    > Turn this screw to make small adjustments to the frequency of the remote. Recommended margin of error is 0.5mHz
+    > Turn this screw to make small adjustments to the frequency of the remote. Recommended margin of error is ±0.5mHz
 
 1. done
