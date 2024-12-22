@@ -45,10 +45,7 @@
         const blockquotes = document.querySelectorAll("blockquote");
         blockquotes.forEach(blockquote => {
             if (blockquote.textContent.trim().startsWith("NOTE:")) {
-                blockquote.style.color = "#955E10";
-                blockquote.style.borderStyle = "dotted";
-                blockquote.style.setProperty('border-color', 'brown', 'important');
-                blockquote.style.borderWidth = "1px";
+                blockquote.classList.add("block-note")
             }
         });
 
