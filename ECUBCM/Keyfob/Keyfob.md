@@ -96,7 +96,7 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 ![KEYDIY fob exterior](./KEYDIY/dodgy-keydiy-fob.jpg)
 ![KEYDIY fob board](./KEYDIY/dodgy-keydiy-fob-board.jpg)
 
-> Photos of the casing and board of a KEYDIY based keyfob. Device provided by [RemotePro](../../Credits.md#wall-of-shame---information-gatekeepers-and-timewasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
+> Photos of the casing and board of a KEYDIY based keyfob. Device provided by [RemotePro](../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
 
 ### Remocon
 - compatible aftermarket remote confirmed as model RMC-555 (requires RMC-888 programmer, first confirmed 18/12/24)
