@@ -26,10 +26,10 @@ Please see the table below for shared parts:
 | Airbox | EF-AUIII | piping from BA-BFIII Falcon also compatible, but airbox itself does not bolt to body correctly |
 | B Pillar Plastic Trim (Upper/Lower) | AU-BFIII | All physically fit however adjustable seatbelt height not present on AUI Falcon |
 | Boot Button | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
-| C Pillar Trim | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
-| [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain submodels contain additional spring that will help with longevity |
+| C Pillar Plastic Trim | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
+| [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain submodels contain additional spring that will help with longevity. BF Falcon Keyhole for drivers door not compatible due to different key types |
 | [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter |
-| Engine Belt Cover | EF-AUIII, XH-XHII | Requires 13mm bolt with 10mm thread on top |
+| Engine Belt Cover | EF-AUIII, XH-XHII | Requires 13mm bolt with 10mm thread on top. AU VCT cover compatible with non-VCT models, but not vice versa |
 | Exhaust Header | EA-AUIII | |
 | Exhaust assembly (Cat Back) | EA-AUIII | Live axle Sedans and Wagons only, Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Front Door Shell | AU-BFIII | |
@@ -40,18 +40,19 @@ Please see the table below for shared parts:
 | Ignition Leads | EF-AU | only compatible with S1 AU Falcons |
 | [Interior Mirror](../../Body/InteriorMirror/InteriorMirror.md) | AU-FGX, SX-SZII | AUI Mirrors have grub screw mounting rather than clip, but all are interchangeable |
 | Mirror Switch | EF-BFIII | |
+| [PCV](../../Engine/PCV/PCV.md) | XF-FGX, SX-SZII, XG-XHII | Locations differ between models, but are all generally fitted into the top of the rocker cover. Right angle elbow may be required if a straight through unit is installed |
 | Rear Door Shell | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Relay - Flasher | XD-AUIII, XG-XHII, ZL-NL | predates electrically controlled indicators, requires LED specific replacement if indicator circuit wattage dramatically changed |
 | Relays (OEM 4-Way Black) | AU-FGX, SX-SZ | newer relay style than white 4 way or green 5 way relays |
 | Relays (OEM 5-Way Green) | XD-BFIII, XG-XHII, SX-SYII, ZL-NL | relay standard is universal, but OEM ones have been in use for quite some time |
 | Relays (OEM 4-Way White) | XD-FGX, XG-XHII, SX-SZ, ZL-NL | relay standard is universal, but OEM ones have been in use for quite some time |
 | Roof Racks (Door-Mount) | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan. Note bar length is slightly shorter on AU-AUIII VS BA-BFIII Falcon Sedans, but Wagons are the same dimensions |
-| Roof Racks (Factory-Fitted Station Wagon Rail) | AU-BFIII | |
+| Roof Racks (Factory-Fitted Station Wagon Rail) | AU-BFIII | Uses Gutter-mount style mounting mechanism. using adjustable length roof racks for fleet-vehicle models such as a Toyota Hiace (low Roof preferred) or a Mitsubishi Express may be a cheap source of roof racks |
 | [Seatbelts](../../Body/Seatbelts/Seatbelts.md) | AU-BFIII | |
 | [Spark Plugs](../../Engine/SparkPlugs/SparkPlugs.md) | EA-AUIII, XG-XHII | |
 | [Speakers (Front)](../../Audio/Speakers/Speakers.md) | AU-BFIII | |
 | [Speakers (Rear)](../../Audio/Speakers/Speakers.md) | AU-BFIII | Where fitted, Note various speakers used on different variants but should all match per model e.g. AU Station Wagon = BF Station Wagon |
 | Starter Motor | EA-BFIII, XG-XHII, SX-SZII | |
 | Towbar | AU-FGX | Utes and Wagon body styles only, Body from both vehicles must match e.g. Wagon and Wagon, Ute and Ute |
-| Weathershields (Front) | AU-BFIII | |
-| Weathershields (Rear) | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
+| Weathershields (Front) | AU-BFIII | Aftermarket or OEM inclusive |
+| Weathershields (Rear) | AU-BFIII | Aftermarket only as OEM part not manufactured. Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
