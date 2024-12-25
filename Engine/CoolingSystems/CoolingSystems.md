@@ -52,11 +52,11 @@ Replacing the thermostat in an AU Falcon is a very simple job to do, and can sav
 
 1. reinstall the 2 13mm bolts that hold the thermostat housing down
 
-    > NOTE: ensure you have installed them the bolts in the correct position if you have a belt cover, as only one has the thread on the top to hold the cover on
+    > NOTE: ensure you have installed the bolts in the correct position if you have a belt cover, as only one has the thread on the top to hold the cover on
     
-1. (if you drained the coolant) refill coolant back to the "MAX" line on the overflow tank
+1. refill coolant back to the "MAX" line on the overflow tank
 
-    > NOTE: Refilling the radiator may require running the car for a time after this process is complete for the coolant to Cycle through or "burp", allowing for another few litres of coolant to be added. Make sure this is monitored if this is the case
+    > NOTE: If you have drained the coolant, refilling the radiator may require running the car for a time after this process is complete for the coolant to Cycle through or "burp", allowing for another few litres of coolant to be added. Make sure this is monitored over the course of the next 100 or so kilometers if this is the case
 
 1. (if your vehicle has a belt cover) reinstall the belt cover and screw down the 10mm nut once in place
 1. start and run the vehicle for 2-5mins and ensure that there are no leaks coming from the thermostat housing
