@@ -17,7 +17,7 @@ The S1 mirrors can be easily removed in comparison to their newer counterparts. 
     
     ![S1 Interior Mirror Screw](./s1-mirror-screw.jpg)
 
-    > Picture of the grub screw location to remove in the Series 1 AU Falcons. Note that this is a 2mm Hex head and as such requires a 2mm alan key to remove
+    > Picture of the grub screw location to remove in the Series 1 AU Falcons. Note that this is a 2mm Hex head and as such requires a 2mm allen key to remove
 
 3. gently slide the plastic housing from the steel on the window by wiggling the assembly back and forth a little. you may need to use a light tap from a small rubber mallet, however this is only to be used if absolutely required
 4. to reinstall or replace, reverse all previous steps
