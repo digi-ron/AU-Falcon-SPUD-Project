@@ -8,7 +8,7 @@ description: Central locking and Central Locking keyfob information for the 1999
 Due to the change from Smartlock to Smartshield midway through the AU Falcon S1 production, the key fobs for these cars are split in 2
 
 ### S1 Smartlock
-These remotes are actually inherited from the EL Falcon before it, and are a 304mHz sender with a Ford specific security chip built in. As a result of their age, finding good condition original ones are becoming harder, and even once found the rubber buttons are prone to wearing quicker than their S2-3 counterparts.
+These remotes are actually inherited from the EL Falcon before it, and are a 304mHz sender with a Ford specific secure code built in to discern individual remotes. As a result of their age, finding good condition original ones are becoming harder, and even once found the rubber buttons are prone to wearing quicker than their S2-3 counterparts.
 
 > NOTE: As of time of writing in 2024, the only manufacturer of aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#information-cross-referencing), however their remotes have a high failure rate
 
@@ -20,7 +20,7 @@ These remotes are actually inherited from the EL Falcon before it, and are a 304
 > NOTE: The S1 Ute remotes are missing the boot button (right)
 
 ### S2/S3 Smartshield
-these remotes are far closer to what would become the standard for the BA/BF model Ford Falcons after them, utilizing a 433mHz frequency and becoming far more standard allowing for a much lower aftermarket replacement cost. They are noticeably larger than their S1 counterparts, however they are also far more durable, reparable, and ultimately, replaceable*
+these remotes are far closer to what would become the standard for the BA/BF model Ford Falcons after them, however they still employ a 304mHz frequency. These remote have more aftermarket replacements available* an are easier to find replacements for due to their relatively higher commonness, and appear to employ a double-length security code to discern specific remotes, theoretically making them more secure. They are noticeably larger than their S1 counterparts, however they are also far more durable, reparable, and ultimately, replaceable*
 
 <sup>* at the time of writing, 2024</sup>
 
@@ -111,6 +111,7 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 ### RemoteKing
 - aftermarket remote confirmed as model RCR15 (untested)
 - difficult to acquire after 22/06/2022 due to changes in battery safety standards
+- not pursued due to difficulty acquiring
 
 ### XHorse
 - aftermarket remote unavailable
