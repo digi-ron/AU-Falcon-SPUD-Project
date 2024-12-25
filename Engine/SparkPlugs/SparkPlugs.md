@@ -1,5 +1,5 @@
 ---
-description: general information and replacement instructions for the sprak plugs for the 1999-2002 Ford Falcon AU
+description: general information and replacement instructions for the spark plugs for the 1999-2002 Ford Falcon AU
 ---
 
 # Sparkplugs
@@ -29,7 +29,7 @@ if you need to replace the sparkplugs, follow the steps below:
 
     > Photo of the sparkplug area, post cleaning
 
-1. place a sparkplug socket over the sparkplug along with a short extension bar, and undo using a socket driver
+1. place a 21mm sparkplug socket over the sparkplug along with a short extension bar, and undo using a socket driver
 
 1. replace the sparkplug as required and **hand tighten** using the extension bar and sparkplug socket.
 
