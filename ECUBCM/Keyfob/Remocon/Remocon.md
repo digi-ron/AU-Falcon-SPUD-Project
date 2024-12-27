@@ -13,7 +13,7 @@ description: Keyfob cloning instructions for the AU Falcon (Smartlock only) usin
 
     > Photo of a RMC-555 remote
 
-- A Remocon RMC-888 Programmer device. This can also be found primarily on online marketplaces such as [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
+- A Remocon RMC-888 Programmer device. This can also be found primarily on online marketplaces such as [AliExpress](../../../Credits.md#collected-information-primarily-product-listing-images)
 
     ![RMC-888](./remocon-888.jpg)
 
