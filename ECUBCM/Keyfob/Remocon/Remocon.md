@@ -7,7 +7,7 @@ description: Keyfob cloning instructions for the AU Falcon (Smartlock only) usin
 <!--TODO check out if this works with the RMC-600-->
 
 ## What you need
-- A Remocon RMC-555 Remote. This can be found primarily on online marketplaces such as [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
+- A Remocon RMC-555 Remote. This can be found primarily on online marketplaces such as [AliExpress](../../../Credits.md#collected-information-primarily-product-listing-images)
 
     ![RMC-555](./remocon-555-exterior.jpg)
 
