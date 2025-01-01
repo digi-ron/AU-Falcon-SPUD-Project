@@ -11,7 +11,10 @@ While the sparkplug manufacturer code vary according to the manufacturer, the fo
 | Hex Size | 21mm |
 | Reach | 18-21mm |
 | Resisted | Yes |
-| Gap | 1-1.1mm |
+| Gap (Copper) | 1-1.1mm |
+| Gap (Iridium) | 0.8mm |
+
+> NOTE: While Iridium sparkplugs are not necessarily recommended for the Intech motor, they can be used to reduce replacement frequency, assuming you are willing to absorb the additional initial cost
 
 ## Replacement
 
