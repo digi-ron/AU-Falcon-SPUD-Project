@@ -27,6 +27,7 @@ hidePrint: true
 - [Kenwood](https://www.kenwood.com/au/)
 - [KEYDIY](https://www.keydiy.com/)
 - [MotoringBox](https://www.motoringbox.com/)
+- [mycar](https://www.mycar.com.au/)
 - [Narva](https://www.narva.com.au/)
 - [mycar Tyre & Auto](https://www.mycar.com.au/)
 
