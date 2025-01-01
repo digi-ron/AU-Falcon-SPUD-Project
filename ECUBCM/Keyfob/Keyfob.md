@@ -103,6 +103,8 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 - can only be used to copy existing remote, therefore one OEM remote required.
 - [Instructions (Series 1 Smartlock only)](./Remocon/Remocon.md)
 
+> NOTE: The Remocon RMC-600, which advertises the ability to copy codes without the use of a programmer was tested to ***NOT*** work when trying to copy an OEM Series 1 remote. It does work with already copied RMC-555 remotes, but this may present a signal degradation issue in making copy-of-copy remotes, and makes the ability to copy without the RMC-888 a moot point.
+
 ![RMC-555 Exterior](./Remocon/remocon-555-exterior.jpg)
 ![RMC-555 Interior](./Remocon/remocon-555-interior.jpg)
 
@@ -116,3 +118,8 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 ### XHorse
 - aftermarket remote unavailable
 - Android app doesn't appear to have any profile matching the Ford Falcon
+
+### Other Remotes
+- Various unbranded "copy any remote" remotes tested from [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
+- 4 remotes tested, 4 remotes failed
+- assumed that frequency/signal/baud rate not compatible with cloning sequence for "universal" remotes
