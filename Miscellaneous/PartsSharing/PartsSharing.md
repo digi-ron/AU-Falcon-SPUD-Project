@@ -42,12 +42,12 @@ Please see the table below for shared parts:
 | Mirror Switch | EF-BFIII | |
 | [PCV](../../Engine/PCV/PCV.md) | XF-FGX, SX-SZII, XG-XHII | Locations differ between models, but are all generally fitted into the top of the rocker cover. Right angle elbow may be required if a straight through unit is installed |
 | Rear Door Shell | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
-| Relay - Flasher | XD-AUIII, XG-XHII, ZL-NL | predates electrically controlled indicators, requires LED specific replacement if indicator circuit wattage dramatically changed |
-| Relays (OEM 4-Way Black) | AU-FGX, SX-SZ | newer relay style than white 4 way or green 5 way relays |
-| Relays (OEM 5-Way Green) | XD-BFIII, XG-XHII, SX-SYII, ZL-NL | relay standard is universal, but OEM ones have been in use for quite some time |
-| Relays (OEM 4-Way White) | XD-FGX, XG-XHII, SX-SZ, ZL-NL | relay standard is universal, but OEM ones have been in use for quite some time |
-| Roof Racks (Door-Mount) | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan. Note bar length is slightly shorter on AU-AUIII VS BA-BFIII Falcon Sedans, but Wagons are the same dimensions |
-| Roof Racks (Factory-Fitted Station Wagon Rail) | AU-BFIII | Uses Gutter-mount style mounting mechanism. using adjustable length roof racks for fleet-vehicle models such as a Toyota Hiace (low Roof preferred) or a Mitsubishi Express may be a cheap source of roof racks |
+| [Relay - Flasher](../../Electrical/Relays/Relays.md#3-way-flasher-relay) | XD-AUIII, XG-XHII, ZL-NL | predates electrically controlled indicators, requires LED specific replacement if indicator circuit wattage dramatically changed |
+| [Relays (OEM 4-Way Black)](../../Electrical/Relays/Relays.md#4-way-micro-iso-relay) | AU-FGX, SX-SZ | newer relay style than white 4 way or green 5 way relays |
+| [Relays (OEM 5-Way Green)](../../Electrical/Relays/Relays.md#5-way-mini-iso-relay) | XD-BFIII, XG-XHII, SX-SYII, ZL-NL | relay standard is universal, but OEM ones have been in use for quite some time |
+| [Relays (OEM 4-Way White)](../../Electrical/Relays/Relays.md#4-way-mini-iso-relay) | XD-FGX, XG-XHII, SX-SZ, ZL-NL | relay standard is universal, but OEM ones have been in use for quite some time |
+| Roof Racks (Door-Mount) ([Sedan](../../Body/RoofRacks/RoofRacks.md#sedans)\|[Wagon](../../Body/RoofRacks/RoofRacks.md#station-wagons-without-factory-rails)\|[Ute](../../Body/RoofRacks/RoofRacks.md#utes)) | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan. Note bar length is slightly shorter on AU-AUIII VS BA-BFIII Falcon Sedans, but Wagons are the same dimensions |
+| [Roof Racks (Factory-Fitted Station Wagon Rail)](../../Body/RoofRacks/RoofRacks.md#station-wagons-with-factory-rails) | AU-BFIII | Uses Gutter-mount style mounting mechanism. using adjustable length roof racks for fleet-vehicle models such as a Toyota Hiace (low Roof preferred) or a Mitsubishi Express may be a cheap source of roof racks |
 | [Seatbelts](../../Body/Seatbelts/Seatbelts.md) | AU-BFIII | |
 | [Spark Plugs](../../Engine/SparkPlugs/SparkPlugs.md) | EA-AUIII, XG-XHII | |
 | [Speakers (Front)](../../Audio/Speakers/Speakers.md) | AU-BFIII | |
