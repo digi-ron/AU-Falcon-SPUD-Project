@@ -1,3 +1,7 @@
+---
+description: Head Unit information regarding the AU Falcon
+---
+
 # Head Unit
 
 > NOTE: Information on this page is incomplete due to lack of information found in research. Any information found is present, but may not assist with specifics such as plug connector housing part numbers and additional feature pinout information.
@@ -9,6 +13,8 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 - Connector has 20 pins total, 14 pins required for functioning of aftermarket headunit
 - pin sizes vary, with pins 3-6 and 9-20 having smaller pin sizing and pins 1-2 and 7-8 containing larger pins
 - Aftermarket loom components only appear to be manufactured by [Aerpro](../../Credits.md#information-cross-referencing) as of time of writing, and are seemingly custom manufactured to be fit for purpose.
+
+> NOTE: For the following information, assume you are looking at the loom end connector, with the clip facing up
 
 ### Pin Layout
 
@@ -41,29 +47,27 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 
 ## Pin Wiring
 
-> NOTE: for Accepted Wiring Color, this is the "universal standard" colors within an aftermarket loom wiring harness, ***NOT*** the wiring colors from the car itself.
+> NOTE: for EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#information-cross-referencing), Product code `711053`
 
-<!--TODO try and get information on the factory wiring colors-->
-
-| Pin Number | Function | Accepted Wiring Color |
-| --- | --- | --- |
-| 01 | GND | Black |
-| 02 | Dimmer Output (Not required) | Orange |
-| 03 | Left Rear Speaker + | Green |
-| 04 | Right Rear Speaker + | Purple |
-| 05 | Left Front Speaker + | White |
-| 06 | Right Front Speaker + | Grey |
-| 07 | Dimmer Input (Not required) | Orange |
-| 08 | Constant 12v | Yellow |
-| 09 | N/a | N/a |
-| 10 | N/a | N/a |
-| 11 | N/a | N/a |
-| 12 | Left Rear Speaker - | Green/Black |
-| 13 | N/a | N/a |
-| 14 | Right Rear Speaker - | Purple/Black |
-| 15 | Left Front Speaker - | White/Black |
-| 16 | 12v Antenna (Not required) | Blue |
-| 17 | Right Front Speaker - | Grey/Black |
-| 18 | N/a | N/a |
-| 19 | N/a | N/a |
-| 20 | Accessory Power 12v + | Red |
+| Pin # | Function | EAI Wire Color | Wire Color
+| --- | --- | --- | -- |
+| 01 | Constant 12v | Yellow | Yellow/Grey |
+| 02 | Dimmer Input (Not required) | Orange | Brown/Grey |
+| 03 | Right Front Speaker + | Grey | Grey/Green |
+| 04 | Left Front Speaker + | White | Orange/Grey |
+| 05 | Right Rear Speaker + | Purple | Blue/Red |
+| 06 | Left Rear Speaker + | Green | Pink/Green |
+| 07 | Dimmer Output (Not required) | Orange | Blue/Grey |
+| 08 | GND | Black | Black/Blue |
+| 09 | Accessory Power 12v + | Red | Purple/Pink |
+| 10 | N/a | N/a | N/a |
+| 11 | N/a | N/a | N/a |
+| 12 | Right Front Speaker - | Grey/Black | Grey/Black |
+| 13 | 12v Antenna (Not required) | Blue | Red/Blue |
+| 14 | Left Front Speaker - | White/Black | Orange/Black |
+| 15 | Right Rear Speaker - | Purple/Black | Blue/Grey |
+| 16 | Mute | Pink | Light Green/Grey |
+| 17 | Left Rear Speaker - | Green/Black | Pink/Black |
+| 18 | External Controls | (Brown) | Red/White |
+| 19 | Mobile Office Audio In | (Pink) | Pink |
+| 20 | Mobile Office Audio Out | (Black) | Blue |
