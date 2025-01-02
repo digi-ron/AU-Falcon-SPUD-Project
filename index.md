@@ -21,39 +21,4 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
 
 ***ALL INFORMATION IS WIP AS OF: <span class="other-highlight">{{site.time | date: '%d/%m/%Y'}}</span>***
 
-# Navigation
-- Audio
-  - [Head Unit](./Audio/HeadUnit/HeadUnit.md)
-  - [Speakers](./Audio/Speakers/Speakers.md)
-- Body
-  - [Door Lock Actuators](./Body/DoorLockActuators/DoorLockActuators.md)
-  - [Interior Mirror](./Body/InteriorMirror/InteriorMirror.md)
-  - [Roof Racks](./Body/RoofRacks/RoofRacks.md)
-  - [Wheels/Tyres](./Body/WheelTyres/WheelTyres.md)
-    - [Tyre Calculator](./Body/WheelTyres/TyreCalculator.html)
-- ECU & BCM
-  - [Central Locking Key Fob](./ECUBCM/Keyfob/Keyfob.md)
-    - [Manufacturer Specific Instructions - Remocon](./ECUBCM/Keyfob/Remocon/Remocon.md)
-  - [DTC Codes](./ECUBCM/DTCCodes/DTCCodes.md)
-  - [Instrument Cluster](./ECUBCM/InstrumentCluster/InstrumentCluster.md)
-- Electrical
-  - [Accessory Plug (blue under-dash connector)](./Electrical/AccessoryPlug/AccessoryPlug.md)
-  - [Cabin Fuse Panel](./Electrical/CabinFusePanel/CabinFusePanel.md)
-  - [Centre Console Buttons](./Electrical/CentreConsoleButtons/CentreConsoleButtons.md)
-  - [Fuses](./Electrical/Fuses/Fuses.md)
-  - [Headlight Switch](./Electrical/HLSwitch/HLSwitch.md)
-  - [Rear Light Connector](./Electrical/RearLights/RearLights.md)
-  - [Relays (General Information)](./Electrical/Relays/Relays.md)
-  - [Steering Wheel Controls](./Electrical/SteeringControls/SteeringControls.md)
-  - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.md)
-- Engine
-  - [Alternator](./Engine/Alternator/Alternator.md)
-  - [Cooling Systems](./Engine/CoolingSystems/CoolingSystems.md)
-  - [Ignition Coil Pack](./Engine/IgnitionCoil/IgnitionCoil.md)
-  - [PCV](./Engine/PCV/PCV.md)
-  - [Spark Plugs](./Engine/SparkPlugs/SparkPlugs.md)
-- Miscellaneous
-  - [Component Lifespan Information](./Miscellaneous/Lifespans/Lifespans.md)
-  - [Parts Sharing](./Miscellaneous/PartsSharing/PartsSharing.md)
-  - [Reading Vehicle Identification Numbers (VIN)](./Miscellaneous/VIN/VIN.md)
-  - [Vehicle Verification Letters](./Miscellaneous/VerificationLetter/Verification.md)
+{% include Navigation.md %}
