@@ -4,14 +4,13 @@ description: Keyfob cloning instructions for the AU Falcon (Smartlock only) usin
 
 # Manufacturer Specific Instructions - Remocon
 
-<!--TODO check out if this works with the RMC-600-->
-
 ## What you need
 - A Remocon RMC-555 Remote. This can be found primarily on online marketplaces such as [AliExpress](../../../Credits.md#collected-information-primarily-product-listing-images)
 
     ![RMC-555](./remocon-555-exterior.jpg)
+    ![RMC-555 Board](./remocon-555-interior.jpg)
 
-    > Photo of a RMC-555 remote
+    > Photos of the casing and board of a Remocon RMC-555 programmable keyfob. Device provided by [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
 
 - A Remocon RMC-888 Programmer device. This can also be found primarily on online marketplaces such as [AliExpress](../../../Credits.md#collected-information-primarily-product-listing-images)
 
@@ -24,6 +23,8 @@ description: Keyfob cloning instructions for the AU Falcon (Smartlock only) usin
 - (optional) 12V (1A min.) DC Power Supply (5.5mm*2.5mm barrel connector)
 
     > NOTE: this is only required if the ordered RMC-888 device comes with the wrong country's power supply plug (likely if ordered from AliExpress)
+
+> NOTE: The Remocon RMC-600, which advertises the ability to copy codes without the use of a programmer was tested to ***NOT*** work when trying to copy an OEM Series 1 remote. It does work with already copied RMC-555 remotes, but this may present a signal degradation issue in making copy-of-copy remotes, and makes the ability to copy without the RMC-888 a moot point.
 
 ## Instructions (Series 1 Smartlock remote)
 
