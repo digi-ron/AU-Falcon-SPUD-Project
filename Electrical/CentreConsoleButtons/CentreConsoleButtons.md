@@ -33,6 +33,8 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 > NOTE: each of the following plugs are the same as above, but with some variation to active pins and latching
 
+> NOTE: other buttons apart from those listed below are available, but these are not included due to limited resources
+
 ### Specifics - TCS button
 On models where a Traction control System is present, a Traction control button can be found. This button has 4 accessible pins, and is a momentary switch:
 
