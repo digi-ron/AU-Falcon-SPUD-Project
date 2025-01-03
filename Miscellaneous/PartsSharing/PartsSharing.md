@@ -54,5 +54,6 @@ Please see the table below for shared parts:
 | [Speakers (Rear)](../../Audio/Speakers/Speakers.md) | AU-BFIII | Where fitted, Note various speakers used on different variants but should all match per model e.g. AU Station Wagon = BF Station Wagon |
 | Starter Motor | EA-BFIII, XG-XHII, SX-SZII | |
 | Towbar | AU-FGX | Utes and Wagon body styles only, Body from both vehicles must match e.g. Wagon and Wagon, Ute and Ute |
+| [Trailer Plug](../../Electrical/TrailerPlug/TrailerPlug.md) | AU-BA | May match later models, however easiest with AU/BA submodels without fog-lights as they are a known exact match |
 | Weathershields (Front) | AU-BFIII | Aftermarket or OEM inclusive |
 | Weathershields (Rear) | AU-BFIII | Aftermarket only as OEM part not manufactured. Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
