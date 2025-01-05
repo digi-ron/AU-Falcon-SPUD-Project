@@ -26,7 +26,7 @@
   - [Trailer Plug](./Electrical/TrailerPlug/TrailerPlug.html)
 - Engine
   - [Alternator](./Engine/Alternator/Alternator.html)
-  - [Cooling Systems](./Engine/CoolingSystems/CoolingSystems.html)
+  - [Cooling Systems](./Engine/Thermostat/Thermostat.html)
   - [Ignition Coil Pack](./Engine/IgnitionCoil/IgnitionCoil.html)
   - [PCV](./Engine/PCV/PCV.html)
   - [Spark Plugs](./Engine/SparkPlugs/SparkPlugs.html)

@@ -2,9 +2,9 @@
 description: information on the cooling systems and Thermostat for the 1999-2002 Ford Falcon AU, including replacement instructions for the thermostat
 ---
 
-# Cooling Systems
+# Thermostat
 
-## Thermostat replacement
+## Replacement
 Replacing the thermostat in an AU Falcon is a very simple job to do, and can save you from issues such as overheating or high fuel consumption if it become stuck. Follow the steps below to replace the thermostat:
 
 1. (if not pre-assembled) assemble your thermostat and rubber seal. Note that the rubber seal should have a groove in it that the thermostat sits inside of.
