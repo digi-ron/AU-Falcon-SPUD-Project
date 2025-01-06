@@ -84,6 +84,10 @@ font-weight: bold;
     border: 1px dotted brown !important;
 }
 
+li > p {
+    margin-top: 0 !important;
+}
+
 @media print {
     html, body, footer, table, th, td {
         background: white;
