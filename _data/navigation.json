@@ -57,7 +57,7 @@
                 ]
             },
             {
-                "title": "DTC Codes",
+                "title": "DTCs & ECU Location",
                 "url": "/ECUBCM/DTCCodes/DTCCodes.html"
             },
             {
@@ -86,7 +86,7 @@
                 "url": "/Electrical/CentreConsoleButtons/CentreConsoleButtons.html"
             },
             {
-                "title": "Fuses",
+                "title": "Fuses & Relays",
                 "url": "/Electrical/Fuses/Fuses.html"
             },
             {
