@@ -18,12 +18,13 @@ A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max
     > NOTE: these metal clips can pop off of the fascia panel and leave itself on the car side. If this happens, some superglue has been proven to hold the clips in place on reinstallation
 
 1. gently pull the dash panel away, and start unplugging the following, noting where everything goes for later:
+
     - cable for ECON, DEMIST and other accessory buttons (where fitted)
     - control cable for Fan Speed Controls (6 pin large flat connector)
     - control cable for Button Controls (AC/Flow) (8 pin Multilock-style connector)
     - connecting rod for heater box controls
 
-        > NOTE: This final step is exceedingly hard, and should difficulties arise in removing this cable from the dash side, the best secondary method is to remove the glovebox, unclip the small plastic clip holding in the heater box end of the cable, and popping the cable end out, feeding it back through to where the dash is
+        > NOTE: This final step is exceedingly hard, and should difficulties arise in removing this cable from the dash side, the best secondary method is to remove the glovebox, unclip the small plastic clip holding in the heater box end of the cable, pop the cable end out, and feed it back through to where the dash is
 
         <!--TODO add picture of where the heater control switch is-->
 
