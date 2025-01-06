@@ -21,4 +21,4 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
 
 ***ALL INFORMATION IS WIP AS OF: <span class="other-highlight">{{site.time | date: '%d/%m/%Y'}}</span>***
 
-{% include Navigation.md %}
+{% include navigation-ul.html %}
