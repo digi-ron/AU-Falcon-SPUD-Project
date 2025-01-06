@@ -61,7 +61,7 @@ These characters define the year and month respectively that the car was manufac
 #### Legend
 
 - Character 11 - Year
-  - Month - Character 12
+  - Character 12 - Month
 
 ---
 
@@ -121,6 +121,7 @@ These characters define the year and month respectively that the car was manufac
   - Sep - B
 
 ### Characters 13-17 - Serial Number
+
 The final 5 characters are a unique serial number to identify the car. The only known rules about these characters is that they should all be numeric, and that they *should* be printed sequentially, meaning that in theory you *could* more accurately determine manufacture date assuming you had a vast amount of VINs from the same month/year
 
 ---
