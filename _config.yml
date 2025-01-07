@@ -2,7 +2,7 @@ markdown: kramdown
 md: kramdown
 
 title: AU Ford Falcon - SPUD Project
-description: A collation of notes and information about the AU Falcon, collated while working on a Falcon Forte, nicknamed "SPUD".
+description: notes and information, collated while working on a Series 1 AU Falcon Forte, nicknamed "SPUD".
 baseurl: "/AU-Falcon-SPUD-Project" # the subpath of your site, e.g. /blog
 url: "https://digi-ron.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  digi-ron
