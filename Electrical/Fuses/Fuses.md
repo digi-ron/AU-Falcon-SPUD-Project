@@ -1,5 +1,5 @@
 ---
-description: fuse information and minimum viable fuses for the 1999-2002 Ford Falcon AU, including diagrams and parts tables
+description: fuse information and minimum viable fuses, including diagrams and parts tables
 ---
 
 # Fuses & Relays
@@ -83,7 +83,7 @@ below is a list of required parts, assuming the cabin and engine fuse boxes are 
 | 60A Fuse Link | 1 |
 | 120A Fuse Link | 1 |
 | ISO mini 4 way relay (SPST) | 2 |
-| ISO micro 5 way relay | 2 |
+| ISO micro 4 way relay | 2 |
 
 > NOTE: the 4 way relays in the above table are white if they are the Ford factory fitted relays. While the green 5 way relays *should* work there is no reason to have them in this scenario, and a 4 way relay is theoretically also easier to find
 

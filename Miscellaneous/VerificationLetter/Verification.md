@@ -1,5 +1,5 @@
 ---
-description: Information on how to get an official Ford Verification Letter for the 1999-2002 Ford Falcon AU (will work with other similar models)
+description: how to get an official Ford Verification Letter. Will work with other similar models
 ---
 
 # Verification Letters

@@ -1,5 +1,5 @@
 ---
-description: Head Unit information regarding the AU Falcon
+description: Head Unit information
 ---
 
 # Head Unit

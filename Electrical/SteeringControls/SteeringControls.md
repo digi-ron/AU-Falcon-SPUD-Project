@@ -1,5 +1,5 @@
 ---
-description: information on the steering wheel Cruise Control assembly and Media Control assembly (where fitted) for the 1999-2002 Ford Falcon AU
+description: steering wheel Cruise Control assembly and Media Control assembly (where fitted) information
 ---
 
 # Steering Wheel Controls

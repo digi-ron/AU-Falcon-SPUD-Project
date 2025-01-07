@@ -1,5 +1,5 @@
 ---
-description: Central locking and Central Locking keyfob information for the 1999-2002 Ford Falcon AU
+description: central locking and Central Locking keyfob information
 ---
 
 # Central Locking Keyfobs

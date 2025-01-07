@@ -1,5 +1,5 @@
 ---
-description: Information on the Mobile Office pack accessory plug for the 1999-2002 Ford Falcon AU (Also relevant to the BA/BF/FG Falcons and SX/SY/SZ Territorys)
+description: Information on the Mobile Office pack accessory plug. Also relevant to the BA/BF/FG Falcons and SX/SY/SZ Territorys
 ---
 
 # Accessory plug

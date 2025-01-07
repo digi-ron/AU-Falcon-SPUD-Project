@@ -1,5 +1,5 @@
 ---
-description: Keyfob cloning instructions for the AU Falcon using a KEYDIY branded keyfob and programmer
+description: keyfob cloning instructions using a KEYDIY branded keyfob and programmer
 ---
 
 # Manufacturer Specific Instructions - KEYDIY

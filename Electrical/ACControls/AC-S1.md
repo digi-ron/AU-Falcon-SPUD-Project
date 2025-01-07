@@ -1,5 +1,5 @@
 ---
-description: Air Conditioner controls repair information for the Series 1 AU Falcon
+description: air Conditioner controls repair information (Series 1 only)
 hideTOC: true
 ---
 

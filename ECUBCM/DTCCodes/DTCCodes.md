@@ -1,5 +1,5 @@
 ---
-description: DTC (A.K.A Diagnostic Trouble Codes) for the 1999-2002 Ford Falcon AU, and other relevant ECU Information
+description: DTC (A.K.A Diagnostic Trouble Codes), and other relevant ECU Information
 ---
 
 # DTCs & ECU Location

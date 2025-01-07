@@ -1,5 +1,5 @@
 ---
-description: Information on the replacement of the exterior door handles for the 1999-2002 Ford Falcon AU (Also relevant to the BA/BF Falcons and SX/SY Territorys)
+description: Information on the replacement of the exterior door handles. Also relevant to the BA/BF Falcons and SX/SY Territorys
 ---
 
 # Exterior Door Handles

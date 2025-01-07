@@ -1,5 +1,5 @@
 ---
-description: general information and replacement instructions for the spark plugs for the 1999-2002 Ford Falcon AU
+description: spark plugs information and replacement instructions
 hideTOC: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: 
+description: roof rack installation methods and information
 ---
 
 # Roof Racks

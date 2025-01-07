@@ -2,9 +2,17 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
+    <meta name="locale" content="en_AU">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-{% seo %}
+    <!--SEO tags - overriden from jekyll SEO for variable adding-->
+    <title>{{ page.title | default: site.title | escape }}</title>
+    <meta name="og:title" content="{{ page.title | default: site.title | escape }}">
+    <meta name="description" content="{{ page.description | default: site.description | escape | append: ' | ' | append: site.vehicle }}">
+    <meta name="og:description" content="{{ site.vehicle | append: ' ' | append: page.description}}">
+    <meta name="canonical" content="{{ page.url | absolute_url }}">
+    <meta name="og:url" content="{{ page.url | absolute_url }}">
+
     <!--
       TODO double reference of style.css is to allow for file opening on releases, find a fix if possible
       NOTE: Last link tag takes priority

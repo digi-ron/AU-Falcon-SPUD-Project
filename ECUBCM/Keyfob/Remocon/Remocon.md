@@ -1,5 +1,5 @@
 ---
-description: Keyfob cloning instructions for the AU Falcon (Smartlock only) using a Remocon branded keyfob and programmer
+description: Keyfob cloning instructions using a Remocon branded keyfob and programmer (Smartlock only)
 ---
 
 # Manufacturer Specific Instructions - Remocon

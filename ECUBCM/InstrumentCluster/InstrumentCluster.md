@@ -1,5 +1,5 @@
 ---
-description: Instrument cluster information and dspecial functions for the 1999-2002 Ford Falcon AU
+description: instrument cluster information and special functions
 ---
 
 # Instrument Cluster

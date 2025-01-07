@@ -1,5 +1,5 @@
 ---
-description: information and pinouts for the accessory buttons fitted to the 1999-2002 Ford Falcon AU (e.g. TCS, ABS, ANT.)
+description: accessory buttons (e.g. TCS, ABS, ANT.) information and pinouts
 ---
 
 # Centre Console Buttons

@@ -1,5 +1,5 @@
 ---
-description: information on the replacement of seatbelts and repair of the B-Pillar Seatbelt trims available on the AU Falcon (Partially useful for the BA/BF Falcons and SX/SY Territory models)
+description: replacement and repair instructions for seatbelts and B-Pillar Seatbelt trims. Partially useful for the BA/BF Falcons and SX/SY Territory models
 ---
 
 # Seatbelts

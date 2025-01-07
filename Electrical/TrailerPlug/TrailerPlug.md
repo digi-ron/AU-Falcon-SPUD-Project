@@ -1,5 +1,5 @@
 ---
-description: Information on the towbar trailer connector for the 1999-2002 Ford Falcon AU, including information on how to wire a custom trailer plug (if required)
+description: towbar trailer connector information, including instructions on how to wire a custom trailer plug (if required)
 ---
 
 # Trailer Auxiliary plug
