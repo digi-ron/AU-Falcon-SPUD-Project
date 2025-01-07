@@ -5,11 +5,12 @@
     <meta name="locale" content="en_AU">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!--SEO tags - overriden from jekyll SEO for variable adding-->
+    
+    <!--SEO tags - overridden from jekyll SEO for variable concat-->
     <title>{{ page.title | default: site.title | escape }}</title>
     <meta name="og:title" content="{{ page.title | default: site.title | escape }}">
-    <meta name="description" content="{{ page.description | default: site.description | escape | append: ' | ' | append: site.vehicle }}">
-    <meta name="og:description" content="{{ site.vehicle | append: ' ' | append: page.description}}">
+    <meta name="og:description" content="{{ site.vehicle }} {{page.description | default: site.description | escape }}">
+    <meta name="description" content="{{ site.vehicle }} {{page.description | default: site.description | escape }}">
     <meta name="canonical" content="{{ page.url | absolute_url }}">
     <meta name="og:url" content="{{ page.url | absolute_url }}">
 
