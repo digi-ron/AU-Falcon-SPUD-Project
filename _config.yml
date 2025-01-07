@@ -12,6 +12,8 @@ lang: en-AU
 # custom variable domain - for printable links from sitedump, hard-coded to avoid override of url variable
 domain: "https://digi-ron.github.io/AU-Falcon-SPUD-Project/"
 
+vehicle: "1999, 2000, 2001, and 2002 Ford Falcon AU"
+
 # Build settings
 remote_theme: pages-themes/primer@v0.6.0
 plugins:
