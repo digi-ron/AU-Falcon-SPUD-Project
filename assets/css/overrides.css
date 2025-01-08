@@ -84,8 +84,18 @@ font-weight: bold;
     border: 1px dotted brown !important;
 }
 
+.block-warning {
+    color: #8b0000 !important;
+    border: 1px solid #8b0000 !important;
+}
+
 li > p {
     margin-top: 0 !important;
+}
+
+/* added due to templating */
+h1 {
+    display: none;
 }
 
 @media print {

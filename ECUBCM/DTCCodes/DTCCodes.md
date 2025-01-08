@@ -13,7 +13,8 @@ If you ever need access to the ECU in your AU Falcon, it can be found bolted to 
 ## DTCs
 Below is a list of codes and descriptions that can be produced by the Diagnostic Trouble Code system:
 
-> NOTE: Information cross-referenced between [Haynes](../../Credits.md#information-cross-referencing) and [Max Ellery](../../Credits.md#information-cross-referencing) Workshop manuals
+> Information cross-referenced between [Haynes](../../Credits.md#information-cross-referencing) and [Max Ellery](../../Credits.md#information-cross-referencing) Workshop manuals
+{: .block-note}
 
 | Code | Description |
 | --- | --- |

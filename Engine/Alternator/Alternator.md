@@ -26,9 +26,11 @@ The V8 alternator, likely due to different engine configuration and power requir
 
 ## Replacement (I6 Only)
 
-> NOTE: V8 replacement not covered due to project only including I6 models
+> V8 replacement not covered due to project only including I6 models
+{: .block-note}
 
-> NOTE: no pictures as job most recently completed before creation of this project
+> no pictures as job most recently completed before creation of this project
+{: .block-note}
 
 To replace the Alternator, follow the steps below:
 1. **DISCONNECT THE BATTERY**
@@ -44,8 +46,14 @@ To replace the Alternator, follow the steps below:
     > Photo of the (Non-VCT) inline 6 Serpentine belt layout
 
 1. remove the serpentine belt from the front of the belt by placing a 3/8" breaker bar into the square hole on the Automatic tensioner, and turning clockwise
-    > NOTE: avoid using any adapters e.g. 1/2" to 3/8" as aging tensioners can become brittle with too much shear force and adapters will exacerbate that issue
+
+    > avoid using any adapters e.g. 1/2" to 3/8" as aging tensioners can become brittle with too much shear force and adapters will exacerbate that issue
+    {: .block-note}
+
 1. from the front of the engine block, undo the 2 bolts holding the alternator in and carefully remove through the top of the ending bay
-    > NOTE: generally it is a better idea to undo the bottom bolt first, and cradle the alternator as you undo the top bolt so there is no excessive pressure on the bolt
+
+    > generally it is a better idea to undo the bottom bolt first, and cradle the alternator as you undo the top bolt so there is no excessive pressure on the bolt
+    {: .block-note}
+    
 1. reinstall by repeating all previous steps in reverse
 1. done

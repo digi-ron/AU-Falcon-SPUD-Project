@@ -19,7 +19,8 @@ A brief description on the PCV can be found below (dot-point form for brevity, b
 
 ## Replacement
 
-> NOTE: the general consensus is that it is better to replace the PCV with an aftermarket steel based PCV, for reliability and longevity more than anything else
+> the general consensus is that it is better to replace the PCV with an aftermarket steel based PCV, for reliability and longevity more than anything else
+{: .block-note}
 
 if you need to replace the PCV, follow the below steps:
 1. gently twist and pull the PCV from the top of the rocker cover on the engine
@@ -28,7 +29,8 @@ if you need to replace the PCV, follow the below steps:
 
     > Photo of the PCV post removal. Now is a good time to make sure the rubber gasket is in serviceable condition and also replace if required
 
-    > NOTE: ensure that nothing is left behind in the engine from the old PCV, as this can cause damage if it breaks through the filter at the base of the mounting hole
+    > ensure that nothing is left behind in the engine from the old PCV, as this can cause damage if it breaks through the filter at the base of the mounting hole
+    {: .block-note}
     
 1. remove the breather hose from the side of PCV assembly
 

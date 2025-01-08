@@ -10,7 +10,8 @@ The AU Falcon is the last Ford Falcon manufactured that used a ignition coil pac
 ## Variations
 There is no one universal coil pack for the entire line of AU Falcons, due to changes made after the S1 Falcons and different engine configurations (I6/I6 VCT/V8)
 
-> NOTE: These changes in coil packs also affect the sparkplug leads required
+> These changes in coil packs also affect the sparkplug leads required
+{: .block-note}
 
 ### S1 - I6
 The base engine in the first AU Falcons shared a ignition coil pack with the previous model, the EL Falcon. These are identifiable by the oval shaped electrical connector, and exposed steel ends on each cylinder connection.
@@ -35,13 +36,15 @@ The V8 Models use 2 ignition coil packs, one for each 4 cylinder bank of the V8 
 
 ## Replacement
 
-> NOTE: following section does not include V8 model installation, due to lack of resources. Information gathered suggests that the coil packs are easily visible from the top of the engine however.
+> following section does not include V8 model installation, due to lack of resources. Information gathered suggests that the coil packs are easily visible from the top of the engine however.
+{: .block-note}
 
 The Ignition coil pack in the AU Falcon Intech models is situated somewhat inconveniently below the intake manifold, however with the right tools, you can remove the coil pack without doing anything to the intake manifold, and without getting under the car, however in order to do this, a long socket extension and a telescopic magnetic stick or similar implement is highly recommended.
 
 The recommended method for removing these coil packs is to either completely remove the intake manifold or to lift the car and blind unscrew the bolts from underneath. The following instructions assume you don't wish to do either and are willing to carefully manoeuver the coil pack out and back into the area under the intake manifold.
 
-> NOTE: the ignition coil bolts are all 8mm
+> the ignition coil bolts are all 8mm
+{: .block-note}
 
 1. Remove the Airbox and all plastic tubing all the way to the Throttle body, this will require the removal of 3 10mm bolts on the airbox itself, and 3 10mm bolts on the plastic piping from the airbox to the throttle body
     
@@ -51,10 +54,11 @@ The recommended method for removing these coil packs is to either completely rem
 
     > Photos of the bolt and screw locations to remove the entire airbox
 
-    > NOTE: if you're confident, the airbox may be able to be removed *carefully* without removing the snorkel, however due to the 2 screws of effort, it isn't advised
+    > if you're confident, the airbox may be able to be removed *carefully* without removing the snorkel, however due to the 2 screws of effort, it isn't advised
+    {: .block-note}
 
-
-    > NOTE: this is important to do now simply to provide more room for removal later on
+    > this is important to do now simply to provide more room for removal later on
+    {: .block-note}
 
 1. Unplug the Air Conditioner Pressure switch
 
@@ -73,7 +77,8 @@ The recommended method for removing these coil packs is to either completely rem
         - remove the rear most (driver side rear) bolt by feeding the extension bar between cylinders 4 & 5 on the intake manifold
         - remove the middle-rear (passenger side rear) bolt by feeding a small socket wrench (1/4" drive recommended) and a short extension under cylinder 5
 
-            > NOTE: this can be the trickiest bolt to get out as the AC lines run directly next to this bolt
+            > this can be the trickiest bolt to get out as the AC lines run directly next to this bolt
+            {: .block-note}
 
         - remove the middle front (driver side front) bolt by feeding the extension bar between cylinders 3 & 4 on the intake manifold
         - remove the front most (passenger side front) bolt by feeding a small socket wrench (1/4" drive recommended) and a short extension under cylinder 3
@@ -81,11 +86,15 @@ The recommended method for removing these coil packs is to either completely rem
         - remove the rear bolt by feeding the extension bar between cylinders 5 & 6 on the intake manifold
         - remove the 2 front bolts by feeding the extension bar between cylinders 3 & 4 on the intake manifold
     1. If you have any series AU and NO extension bar or magnetic stick, reach around the intake manifold with the socket in hand and undo all bolts
-    > NOTE: this will be especially difficult with the bolts on the driver side of the coil pack
+    > this will be especially difficult with the bolts on the driver side of the coil pack
+    {: .block-note}
 
-    > NOTE: you can use the front of the engine to reach in underneath the thermostat housing to enable both hands to be in the area of the ignition coil pack, assuming you have smaller hands
+    > you can use the front of the engine to reach in underneath the thermostat housing to enable both hands to be in the area of the ignition coil pack, assuming you have smaller hands
+    {: .block-note}
 
-    > NOTE: lack of images for this section due to variations and tight working area
+    > lack of images for this section due to variations and tight working area
+    {: .block-note}
+
 1. *Carefully* remove the ignition coil pack by rotating and twisting the pack to manoeuver it out from under the ignition coil pack. This will take a significant amount of patience, below are some dot points on removal:
     - rotate pack to have wire connectors facing down and plug on driver side
     - rotate to get pack ends 1-3 over AC lines
@@ -97,7 +106,8 @@ The recommended method for removing these coil packs is to either completely rem
 
 ## Ignition Coil Resistances
 
-> NOTE: lack of information for V8 models due to project only involving I6
+> lack of information for V8 models due to project only involving I6
+{: .block-note}
 
 Ignition coils can be tested for resistance based on **Primary** and **Secondary** resistances, explained below.
 
@@ -129,7 +139,8 @@ All following instructions assume you have the ignition coil pack horizontally i
 
 This resistance is from the first part of the ignition coil pack wiring, which takes a high current from the battery and feeds it into the secondary coil. These resistances can be measured by doing the following:
 
-> NOTE: all resistances should be approx. 0.6Ω
+> all resistances should be approx. 0.6Ω
+{: .block-note}
 
 1. check the resistance between pins 4 and 1
 1. check the resistance between pins 4 and 2
@@ -139,7 +150,8 @@ This resistance is from the first part of the ignition coil pack wiring, which t
 
 This resistance is for the second part of the ignition coil pack, which converts the high current from the battery into a high *voltage* signal for the spark plug leads. These resistances can be measured by doing the following:
 
-> NOTE: all resistances should be 9-9.5KΩ, 9.2KΩ ideal
+> all resistances should be 9-9.5KΩ, 9.2KΩ ideal
+{: .block-note}
 
 1. check the resistance between the poles for cylinder 1 and 6
 1. check the resistance between the poles for cylinder 2 and 5

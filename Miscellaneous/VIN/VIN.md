@@ -4,7 +4,8 @@ description: how to read and decode the VIN number and engine number
 
 # Reading Vehicle Identification Numbers
 
-> NOTE: Information from this was largely scattered across multiple forum posts dated as early as 2005, information may be helpful but may *not* be 100% accurate
+> Information from this was largely scattered across multiple forum posts dated as early as 2005, information may be helpful but may *not* be 100% accurate. To date this has been tested working on `10` VINs
+{: .block-note}
 
 ## Decoding the VIN
 
@@ -13,7 +14,8 @@ The VIN for AU Falcons can be decoded to determine the specifics of the car, and
 ### Characters 1-3 - "6FP"
 All AU Falcons should start with the first 3 characters `6FP`, due to the fact that these characters appear to represent the unique identifier for Ford Australia
 
-> NOTE: theoretically this is supposed to stand for 6 = Australia and FP = Ford Australia, but there was no known source for this information other than word-of-mouth
+> theoretically this is supposed to stand for 6 = Australia and FP = Ford Australia, but there was no known source for this information other than word-of-mouth
+{: .block-note}
 
 ### Characters 4-6 - "AAA"
 Similar to the first 3 characters, the following 3 are also always going to be the same, this time `AAA`, however this is due to the letters being unused, not because they mean anything
@@ -23,7 +25,8 @@ Similar again to the first 6 characters, the last 2 characters that should be th
 - J - Product source location code for Australia
 - G - Assembly plant code for Broadmeadows, VIC
 
-> NOTE: to summarize, any AU Falcon should start with `6FPAAAJG`
+> to summarize, any AU Falcon should start with `6FPAAAJG`
+{: .block-note}
 
 ### Characters 9-10 - body style
 these characters appear to signify the body style for the Falcon. Note that this *does not* signify the exact trim model, but rather the chassis that the model is built on, which can narrow it down as below:
@@ -56,7 +59,8 @@ these characters appear to signify the body style for the Falcon. Note that this
 ### Characters 11-12 - Manufacture Date
 These characters define the year and month respectively that the car was manufactured. Use the list below of values to determine the code for the vehicle, based on the format below:
 
-> NOTE: The benefit to this is that the month and year gleaned from this will also be the RAV entry date, should you need it for registration etc.
+> The benefit to this is that the month and year gleaned from this will also be the RAV entry date, should you need it for registration etc.
+{: .block-note}
 
 #### Legend
 
@@ -130,16 +134,18 @@ The final 5 characters are a unique serial number to identify the car. The only 
 
 To ensure that you have the matching engine to the original chassis, you can check the number stamped into the engine block to determine if it matches the Body:
 
-> NOTE: the engine number should match the last 11 digits of the VIN on the body and VIN plate on the car, e.g. the following VIN:
+> the engine number should match the last 11 digits of the VIN on the body and VIN plate on the car, e.g. the following VIN:
 > 
 > `6FPAAAJGSWYB12345`
 >
 > Should have the following engine number:
 >
 > `JGSWYB12345`
+{: .block-note}
 
 Check on the rear lower section of the block, on the exhaust side near the bell housing mount for the transmission
 
-> NOTE: due to age, the engine number may be hard to ascertain, as the area the number is dot-matrix stamped onto is prone to long-term surface rust. rubbing flour over it can make damaged numbers more legible if damage is minor, but moderate to severe rust will render it unreadable
+> due to age, the engine number may be hard to ascertain, as the area the number is dot-matrix stamped onto is prone to long-term surface rust. rubbing flour over it can make damaged numbers more legible if damage is minor, but moderate to severe rust will render it unreadable
+{: .block-note}
 
 > Intended image not added to this project as severe surface rust present on engine of vehicle

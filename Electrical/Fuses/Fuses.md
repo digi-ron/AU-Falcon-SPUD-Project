@@ -20,7 +20,8 @@ description: fuse information and minimum viable fuses, including diagrams and p
 
 Please refer to the table below for a list of cabin fuses, including which fuses are constant and which fuses are switched in the case of accessories being installed, such as hard-wired dash cameras and reversing cameras:
 
-> NOTE: if a circuit is switched, this simply means that it is not engaged when the key is not in the ignition. It is up to your own due diligence to discover if these circuits are enabled through the ignition or another source
+> if a circuit is switched, this simply means that it is not engaged when the key is not in the ignition. It is up to your own due diligence to discover if these circuits are enabled through the ignition or another source
+{: .block-note}
 
 | Fuse Location | Name | Amps | Switched/Constant |
 | --- | --- | --- | --- |
@@ -48,7 +49,8 @@ Please refer to the table below for a list of cabin fuses, including which fuses
 | 22 | Power Windows | 30 (Breaker) | Constant |
 | 23 | Amplifier | 20 | Constant |
 
-> NOTE: positions 22 and 23 are referring to the larger fuses at the **top** of the cabin fuse diagram, rather than the spare fuses towards the bottom
+> positions 22 and 23 are referring to the larger fuses at the **top** of the cabin fuse diagram, rather than the spare fuses towards the bottom
+{: .block-note}
 
 ## Minimum viable Fuses/Relays
 
@@ -85,7 +87,8 @@ below is a list of required parts, assuming the cabin and engine fuse boxes are 
 | ISO mini 4 way relay (SPST) | 2 |
 | ISO micro 4 way relay | 2 |
 
-> NOTE: the 4 way relays in the above table are white if they are the Ford factory fitted relays. While the green 5 way relays *should* work there is no reason to have them in this scenario, and a 4 way relay is theoretically also easier to find
+> the 4 way relays in the above table are white if they are the Ford factory fitted relays. While the green 5 way relays *should* work there is no reason to have them in this scenario, and a 4 way relay is theoretically also easier to find
+{: .block-note}
 
 ### Schematic
 

@@ -1,12 +1,13 @@
 ---
-description: towbar trailer connector information, including instructions on how to wire a custom trailer plug (if required)
+description: towbar trailer connector information, including instructions on how to wire a custom trailer plug (if required). Partially applicable to BA-BF Falcons and SX-SZ Territorys
 ---
 
 # Trailer Auxiliary plug
 
 The plugs used for the trailer adapter loom are different to other plugs within the interior, and are a bit of an oddball connector for the car as a whole. This is likely due to Hayman Reese being the manufacturers for a large range of the tow pack options for the AU Falcon, particularly any of the higher-rated towbars. as a result the connector is known as a HM connector, apparently manufactured by a company known as Sumitomo.
 
-> NOTE: this plug appears to be standard in all Falcons AU-BFIII (1998-2016) and all Territory models, however pinout may be different due to additional features
+> this plug appears is standard in all Falcons AU-BFIII (1998-2016) and all Territory models, however pinout includes additional wires in later models due to additional features
+{: .block-note}
 
 ![Trailer loom plug 98 Sedan](./sedan-trailer-plug.jpg)
 
@@ -28,11 +29,10 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 ### Pin Wiring
 
-> NOTE: for the Car Plug Wire Color, refer to the [Australian Standard Pinouts](#australian-standard-pinouts)
+> for the Standard Color, refer to the [Australian Standard Pinouts](#australian-standard-pinouts)
+{: .block-note}
 
-<!--TODO verify this information-->
-
-| Position | Color | Function | Car Plug Wire Color* |
+| Position | Color | Function | Standard Color* |
 | --- | --- | --- | --- |
 | 01 | Green/Red | Brake lights | Red |
 | 02 | Brown/Grey | Tail lights | Brown |
@@ -45,13 +45,15 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 ## Australian Standard Pinouts
 
-> NOTE: conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals.
+> conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals.
+{: .block-note}
 
 ### 7 Pin layout
 
 While the AU Falcon originally came with a 12 pin flat connector, a more appropriate and cost-effective connector to be used at the time of writing is actually a 7 Pin layout. This is simply as many trailers with the 12 pin connector exceed normal towing conditions for vehicles, unless you intend on towing an older Caravan or other heavy duty trailer.
 
-> NOTE: The Pinouts shown here are confirmed by [Narva](../../Credits.md#information-cross-referencing), a known and common brand in Australia.
+> The Pinouts shown here are confirmed by [Narva](../../Credits.md#information-cross-referencing), a known and common brand in Australia.
+{: .block-note}
 
 #### Car Socket End
 
@@ -100,7 +102,8 @@ While the AU Falcon originally came with a 12 pin flat connector, a more appropr
 
 The 12 pin layout is the standard layout for the Factory trailer looms in the Ford Falcon. If you are intend on using a 12 pin layout, note that the AU Falcon only implements a partial implementation of this standard, due to certain functions, like fog lights, not being present on the host vehicle. The implementation for this plug is noted below:
 
-> NOTE: The Pinouts shown here are confirmed by [Narva](../../Credits.md#information-cross-referencing), a known and common brand in Australia.
+> The Pinouts shown here are confirmed by [Narva](../../Credits.md#information-cross-referencing), a known and common brand in Australia.
+{: .block-note}
 
 #### Car Socket End
 
@@ -163,7 +166,8 @@ The 12 pin layout is the standard layout for the Factory trailer looms in the Fo
 
 ### 7 Pin Round layout (Large)
 
-> NOTE: It is highly recommended that you use the opportunity, if available, to upgrade the socket to either a [7 Pin flat](#7-pin-layout) or a [12 Pin flat](#12-pin-layout) if working on this. This information is an example of what you *can* do rather than what you *should* do, due to this plug being largely phased out as being obsolete
+> It is highly recommended that you use the opportunity, if available, to upgrade the socket to either a [7 Pin flat](#7-pin-layout) or a [12 Pin flat](#12-pin-layout) if working on this. This information is an example of what you *can* do rather than what you *should* do, due to this plug being largely phased out as being obsolete
+{: .block-note}
 
 #### Car Socket End
 

@@ -4,7 +4,8 @@ description: Head Unit information
 
 # Head Unit
 
-> NOTE: Information on this page is incomplete due to lack of information found in research. Any information found is present, but may not assist with specifics such as plug connector housing part numbers and additional feature pinout information.
+> Information on this page is incomplete due to lack of information found in research. Any information found is present, but may not assist with specifics such as plug connector housing part numbers and additional feature pinout information.
+{: .block-note}
 
 ## Main head unit connector plug
 
@@ -14,7 +15,8 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 - pin sizes vary, with pins 3-6 and 9-20 having smaller pin sizing and pins 1-2 and 7-8 containing larger pins
 - Aftermarket loom components only appear to be manufactured by [Aerpro](../../Credits.md#information-cross-referencing) as of time of writing, and are seemingly custom manufactured to be fit for purpose.
 
-> NOTE: For the following information, assume you are looking at the loom end connector, with the clip facing up
+> For the following information, assume you are looking at the loom end connector, with the clip facing up
+{: .block-note}
 
 ### Pin Layout
 
@@ -47,7 +49,8 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 
 ## Pin Wiring
 
-> NOTE: for EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#information-cross-referencing), Product code `711053`
+> for EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#information-cross-referencing), Product code `711053`
+{: .block-note}
 
 | Pin # | Function | EAI Wire Color | Wire Color
 | --- | --- | --- | -- |

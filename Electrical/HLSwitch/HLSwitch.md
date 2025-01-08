@@ -46,7 +46,8 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 #### High unit pins
 
-> NOTE: information is particularly incomplete here due to lack of a high model AU to discern wiring minutiae
+> information is particularly incomplete here due to lack of a high model AU to discern wiring minutiae
+{: .block-note}
 
 - 01 = Illumination light (- assumed)
 - 02 = Illumination light (+ assumed)

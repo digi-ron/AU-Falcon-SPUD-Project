@@ -8,9 +8,11 @@ While parts sharing is perfectly common amongst most other makes and models of c
 
 Please see the table below for shared parts:
 
-> NOTE: The below table is incomplete and will be updated as more parts are discovered. Parts may also be slightly inaccurate, e.g. parts will bolt on but may need slight grinding or cutting to make fitting completely possible (e.g. for cable clearances). All parts listed have been measured up, but not all have been fitted to confirm entirely
+> The below table is incomplete and will be updated as more parts are discovered. Parts may also be slightly inaccurate, e.g. parts will bolt on but may need slight grinding or cutting to make fitting completely possible (e.g. for cable clearances). All parts listed have been measured up, but not all have been fitted to confirm entirely
+{: .block-note}
 
-> NOTE: All engine components assume SOHC/Intech/Barra 4L Inline 6 motors, as such no research has been done for any diesel or V8 variants of the listed model codes. Please do your own due diligence before buying or attempting to fit parts.
+> All engine components assume SOHC/Intech/Barra 4L Inline 6 motors, as such no research has been done for any diesel or V8 variants of the listed model codes. Please do your own due diligence before buying or attempting to fit parts.
+{: .block-note}
 
 ## Parts Sharing Table
 
@@ -54,6 +56,6 @@ Please see the table below for shared parts:
 | [Speakers (Rear)](../../Audio/Speakers/Speakers.md) | AU-BFIII | Where fitted, Note various speakers used on different variants but should all match per model e.g. AU Station Wagon = BF Station Wagon |
 | Starter Motor | EA-BFIII, XG-XHII, SX-SZII | |
 | Towbar | AU-FGX | Utes and Wagon body styles only, Body from both vehicles must match e.g. Wagon and Wagon, Ute and Ute |
-| [Trailer Plug](../../Electrical/TrailerPlug/TrailerPlug.md) | AU-BA | May match later models, however easiest with AU/BA submodels without fog-lights as they are a known exact match |
+| [Trailer Plug](../../Electrical/TrailerPlug/TrailerPlug.md) | AU-BFIII, SX-SZ | Harness only applicable for basic trailer lighting (tails, brakes, indicators, reverse lamps), more complex plug required for functionality such as reversing sensors (where fitted) |
 | Weathershields (Front) | AU-BFIII | Aftermarket or OEM inclusive |
 | Weathershields (Rear) | AU-BFIII | Aftermarket only as OEM part not manufactured. Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |

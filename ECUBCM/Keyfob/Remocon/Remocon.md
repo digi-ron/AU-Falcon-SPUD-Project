@@ -22,17 +22,20 @@ description: Keyfob cloning instructions using a Remocon branded keyfob and prog
 
     > Photo of a RMC-888 programmer
 
-    > NOTE: photo shown has removable cable, however shown with cable plugged in due to cable fitment issues requiring disassembly to fit for demonstration (low Quality Control)
+    > photo shown has removable cable, however shown with cable plugged in due to cable fitment issues requiring disassembly to fit for demonstration (low Quality Control)
+    {: .block-note}
 
 - (optional) 12V (1A min.) DC Power Supply (5.5mm*2.5mm barrel connector)
 
-    > NOTE: this is only required if the ordered RMC-888 device comes with the wrong country's power supply plug (likely if imported from overseas)
+    > this is only required if the ordered RMC-888 device comes with the wrong country's power supply plug (likely if imported from overseas)
+    {: .block-note}
 
 ## Instructions (Series 1 Smartlock remote)
 
 1. press and hold buttons 2 and 3 to enter into dual frequency programming mode. The display should show `r111`
 
-    > NOTE: in theory this can also be achieved by pressing button 1 to go into single frequency setting, however the tested unit was unable to achieve this
+    > in theory this can also be achieved by pressing button 1 to go into single frequency setting, however the tested unit was unable to achieve this
+    {: .block-note}
 
 1. hold the OEM remote to the programming area on the RMC-888 and press and hold the button you would like programmed to button 1 until the display reads `done`. After this the display will show a code such as `b-10`, however this is not particularly important, as this simply denotes the type of Remocon remote that can be used with the copied code
 
@@ -40,7 +43,7 @@ description: Keyfob cloning instructions using a Remocon branded keyfob and prog
 
 1. the display should now read `r112` to signify the next button to be added to the configuration. continue adding buttons using the above method for up to 5 buttons, then press button 1 to skip through programming of other buttons
 
-    > NOTE: process tested programming to the following:
+    > process tested programming to the following:
     > - `r111` lock/unlock button
     > - `r112` boot button
     > - `r113` lock/unlock button
@@ -51,6 +54,7 @@ description: Keyfob cloning instructions using a Remocon branded keyfob and prog
     > - `r223` (skipped)
     > - `r224` (skipped)
     > - `r225` (skipped)
+    {: .block-note}
 
 1. after completing the segment reading `r225` either by skipping or programming, the display should read `0.0`, signifying that the programmer is back to the "main menu"
 1. ensure the frequency jumper is in the correct position to send 275-345mHz signals, and then plug the RMC-555 remote into the programmer using the small 6-pin ribbon cable on the RMC-888 programmer device.

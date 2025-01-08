@@ -32,7 +32,8 @@ Use the following steps to remove the exterior door handle:
     - unclip the steel rod connecting the handle to the door lock actuator from the *handle* end (the actuator itself does **NOT** need to be removed)
     - (if removing driver door handle) unclip the steel rod connecting the key hole to the actuator from the *actuator* end
 
-    > NOTE: the clips themselves are easily removed by simply rotating the clip and pulling out the rod from the hole it sits in, however be careful as these clips are plastic and may break if too much force is applied
+    > the clips themselves are easily removed by simply rotating the clip and pulling out the rod from the hole it sits in, however be careful as these clips are plastic and may break if too much force is applied
+    {: .block-note}
 
     ![Door handle clip](./door-clip-example.jpg)
 

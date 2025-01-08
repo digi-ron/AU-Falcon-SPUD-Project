@@ -50,14 +50,6 @@
       }
 
       document.addEventListener("DOMContentLoaded", function() {
-        // highlight any note that starts with the string "NOTE:"
-        const blockquotes = document.querySelectorAll("blockquote");
-        blockquotes.forEach(blockquote => {
-            if (blockquote.textContent.trim().startsWith("NOTE:")) {
-                blockquote.classList.add("block-note")
-            }
-        });
-
         const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
 
         if (headings.length > 0 && document.getElementById("toc")) {
@@ -94,9 +86,12 @@
       </div>
       {% endif %}
 
+      <p class="h1">{{ page.title }}</p>
+
       {% if page.hideTOC != true %}
       <div id="tableOfContents" class="printHide">
         <div id="toc"></div>
+        <noscript><p class="block-note">Enable JavaScript to use the table of contents</p></noscript>
         <hr/>
       </div>
       {% endif %}

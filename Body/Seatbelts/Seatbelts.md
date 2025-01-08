@@ -8,7 +8,8 @@ The seatbelts in the AU Falcons are largely easy to replace but require a single
 
 ## Replacement
 
-> NOTE: photos not included as job last completed before project started
+> photos not included as job last completed before project started
+{: .block-note}
 
 <!--TODO add photos to basically this whole page-->
 
@@ -45,7 +46,8 @@ The seatbelts in the AU Falcons are largely easy to replace but require a single
 1. remove assembly as a complete unit  with seatbelt, anchor, and retraction mechanism
 1. to replace, simply follow all steps in reverse, making sure to tighten all bolts moderately
 
-    > NOTE: use red thread locker on the T50 bolts if available
+    > use red thread locker on the T50 bolts if available
+    {: .block-note}
 
 1. done
 

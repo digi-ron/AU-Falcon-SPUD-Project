@@ -6,7 +6,8 @@ description: keyfob cloning instructions using a KEYDIY branded keyfob and progr
 
 ## CAVEATS
 
-> NOTE: TL:DR; This is really not fit for purpose. At all.
+> TL:DR; This is really not fit for purpose. At all.
+{: .block-note}
 
 - This guide in general is *not* recommended for Smartlock devices, as it currently only allows for a single set of codes to be loaded to a remote, which anyone else following this guide would also have. This would cause any AU Falcon that has a KEYDIY remote paired to be unlockable with anyone elses KEYDIY remote, due to the fixed code nature. Smartshield Falcons should not be affected, however even this cannot be guaranteed.
 - buttons may be occasionally unresponsive. This is possibly due to the remotes not repeating the button signals multiple times
@@ -17,7 +18,8 @@ description: keyfob cloning instructions using a KEYDIY branded keyfob and progr
 
 - A KEYDIY remote. Generally speaking most KEYDIY remotes should work, however this guide used a `B09-3` and a `B01-3` fob.
 
-    > NOTE: There is a level of "fob lottery" involved in this, as some fobs are inaccurate in their frequencies thanks to poor quality control
+    > There is a level of "fob lottery" involved in this, as some fobs are inaccurate in their frequencies thanks to poor quality control
+    {: .block-note}
 
 - A KEYDIY programmer. The cheaper cable programmer will work fine, but requires an Android device and the KEYDIY App to operate. The only alternative is a bluetooth programmer such as the KD900+, however this is not financially viable for most people
 
@@ -27,7 +29,8 @@ description: keyfob cloning instructions using a KEYDIY branded keyfob and progr
 
 Smartlock models of AU Falcon can seemingly only be configured manually, as there is no known profile available in the KEYDIY app by default.
 
-> NOTE: While this configuration is confirmed working, it stands to reason that any *other* car using these settings would be able to be unlocked using the same fob. This information is solely here as a guide or potentially a base for someone else to crack the pattern to make *unique* codes.
+> While this configuration is confirmed working, it stands to reason that any *other* car using these settings would be able to be unlocked using the same fob. This information is solely here as a guide or potentially a base for someone else to crack the pattern to make *unique* codes.
+{: .block-note}
 
 | Property | Value |
 | --- | --- |
@@ -51,7 +54,8 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 | ID | R02193 |
 | Frequency | 303.8 ASK |
 
-> NOTE: specific codes not available due to lack of available information for officially published KEYDIY profiles
+> specific codes not available due to lack of available information for officially published KEYDIY profiles
+{: .block-note}
 
 ![KEYDIY fob exterior](./dodgy-keydiy-fob.jpg)
 ![KEYDIY fob board](./dodgy-keydiy-fob-board.jpg)

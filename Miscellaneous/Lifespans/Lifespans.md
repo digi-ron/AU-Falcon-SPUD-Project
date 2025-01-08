@@ -4,7 +4,8 @@ description: "- Educated guess lifespans for common maintenance components. Like
 
 # Component lifespans
 
-> NOTE: This list can't possibly be completely accurate due to environmental conditions of each cars life. Estimates are based on cross-referencing of various sources, and you should **ALWAYS** verify if a part needs to be replaced before replacing if at all possible.
+> This list can't possibly be completely accurate due to environmental conditions of each cars life. Estimates are based on cross-referencing of various sources, and you should **ALWAYS** verify if a part needs to be replaced before replacing if at all possible.
+{: .block-note}
 
 please refer to the table below for expected lifespans of various components, along with notes regarding failure and lifespan:
 

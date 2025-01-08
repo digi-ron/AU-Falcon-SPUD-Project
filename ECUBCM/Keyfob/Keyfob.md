@@ -10,14 +10,16 @@ Due to the change from Smartlock to Smartshield midway through the AU Falcon S1 
 ### S1 Smartlock
 These remotes are actually inherited from the EL Falcon before it, and are a 304mHz sender with a Ford specific secure code built in to discern individual remotes. As a result of their age, finding good condition original ones are becoming harder, and even once found the rubber buttons are prone to wearing quicker than their S2-3 counterparts. They appear to use a fixed code sending mechanism, however the specifics of each fobs codes is yet to be decoded
 
-> NOTE: As of time of writing in 2024, the only manufacturer of "off the shelf" aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#information-cross-referencing), however their remotes have a high failure rate
+> As of time of writing in 2024, the only manufacturer of "off the shelf" aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#information-cross-referencing), however their remotes have a high failure rate
+{: .block-note}
 
 ![Series 1 keyfob front](./s1-fob-front.jpg)
 ![Series 1 keyfob rear](./s1-fob-rear.jpg)
 
 > Photos of an OEM Series 1 keyfob
 
-> NOTE: The S1 Ute remotes are missing the boot button (right)
+> The S1 Ute remotes are missing the boot button (right)
+{: .block-note}
 
 ### S2/S3 Smartshield
 these remotes are far closer to what would become the standard for the BA/BF model Ford Falcons after them, however they still employ a 304mHz frequency. These remote have more aftermarket replacements available* an are easier to find replacements for due to their relatively higher commonness, and appear to employ a double-length security code with some form of "code-hopping" to discern specific remotes and prevent a common method for breaking in respectively, theoretically making them more secure. They are noticeably larger than their S1 counterparts, however they are also far more durable, reparable, and ultimately, replaceable*
@@ -29,13 +31,16 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 > Photos of an OEM Series 2-3 keyfob
 
-> NOTE: The S2/3 Ute remotes are missing the boot button (bottom right)
+> The S2/3 Ute remotes are missing the boot button (bottom right)
+{: .block-note}
 
 ## Programming Keyfobs
 
-> NOTE: the following steps must be started within 10 seconds of closing the door
+> the following steps must be started within 10 seconds of closing the door
+{: .block-note}
 
-> NOTE: these steps will not work if you're cars electronic locks are faulty i.e if the [lock actuator requires rebuilding](../../Body/DoorLockActuators/DoorLockActuators.md#replacement)
+> these steps will not work if you're cars electronic locks are faulty i.e if the [lock actuator requires rebuilding](../../Body/DoorLockActuators/DoorLockActuators.md#replacement)
+{: .block-note}
 
 1. ensure all doors are closed and car is unlocked, then insert the key into the ignition and turn to the "ACC" position (1 click from off, not 2)
 1. press the rear demister switch 3 times. If successful, the door locks should cycle (unlocked-locked-unlocked)

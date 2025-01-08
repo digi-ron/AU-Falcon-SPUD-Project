@@ -4,7 +4,8 @@ description: accessory buttons (e.g. TCS, ABS, ANT.) information and pinouts
 
 # Centre Console Buttons
 
-> NOTE: This does not cover buttons in the standard Series 2-3 dash, as they are tightly integrated with the newer designed climate control system.
+> This does not cover buttons in the standard Series 2-3 dash, as they are tightly integrated with the newer designed climate control system.
+{: .block-note}
 
 The buttons within the centre dash area of some models of AU Falcon use connectors that are simply known as 090 Connectors, likely manufactured by a company known as Yazaki. These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
 
@@ -31,9 +32,11 @@ The following notes assume pin numbers where you are looking at the switch unit 
 | -- | -- | -- | -- | -- | -- |
 | **`05`** | **`06`** | **`07`** | **`08`** | **`09`** | **`10`** |
 
-> NOTE: each of the following plugs are the same as above, but with some variation to active pins and latching
+> each of the following plugs are the same as above, but with some variation to active pins and latching
+{: .block-note}
 
-> NOTE: other buttons apart from those listed below are available, but these are not included due to limited resources
+> other buttons apart from those listed below are available, but these are not included due to limited resources
+{: .block-note}
 
 ### Specifics - TCS button
 On models where a Traction control System is present, a Traction control button can be found. This button has 4 accessible pins, and is a momentary switch:
