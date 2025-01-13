@@ -8,7 +8,7 @@ description: Speaker installation and wiring information. Partially applies to B
 
 The size of most speakers across the AU Falcon range are 5x7" oval speakers, which is a non-standard size. Note that 6x9" speakers can be used in both locations, however additional holes will need to be drilled to allow for them, and special care must be taken for the front door speakers depth, as they can foul the window mechanism.
 
-> popular replacements for these speakers are the [Kenwood](../../Credits.md#information-cross-referencing) KFC-PS5796C, as they require no amp and are a drop-in replacement, barring the plug (explained in installation steps)
+> Popular replacements for these speakers are the [Kenwood](../../Credits.md#information-cross-referencing) KFC-PS5796C, as they require no amp and are a drop-in replacement, barring the plug (explained in installation steps)
 {: .block-note}
 
 Exceptions to this include:
@@ -23,7 +23,7 @@ The standard speakers used in the AU Falcon are known as a 250 Series Quick Conn
 
 ## Replacement
 
-> you will need a uncommon bit for this job, an E-Torx 5mm. These can be found in certain screwdriver or drill driver bit sets, but are a specialty bit in most sets. Alternatively there is known success using either a 5mm standard socket or a pair of vice grip pliers (however the latter should only be used if a new screw is going to replace it as it will likely damage the head of the screw)
+> You will need a uncommon bit for this job, an E-Torx 5mm. These can be found in certain screwdriver or drill driver bit sets, but are a specialty bit in most sets. Alternatively there is known success using either a 5mm standard socket or a pair of vice grip pliers (however the latter should only be used if a new screw is going to replace it as it will likely damage the head of the screw)
 {: .block-note}
 
 ### Driver Door Speakers
@@ -42,7 +42,7 @@ Follow the steps below to replace the driver door speakers:
 
 1. Remove the 4 screws holding the speaker into place and unplug the speaker from the wiring loom
 
-    > after removal, it may be a good idea to clean up the door, as the surfaces where the speaker and door meet is prone to crust and rust, seemingly as a result of adhesives used at some point
+    > After removal, it may be a good idea to clean up the door, as the surfaces where the speaker and door meet is prone to crust and rust, seemingly as a result of adhesives used at some point
     {: .block-note}
 
     ![Speaker screw locations](./speaker-screws.jpg)
@@ -60,7 +60,7 @@ Follow the steps below to replace the driver door speakers:
 
         ![example speaker loom](./speaker-loom-kenwood.jpg)
 
-        > example of a loom made for a set of Kenwood speakers
+        > Example of a loom made for a set of Kenwood speakers
         
         ![Door end connector](./speaker-wires-door.jpg)
 
@@ -68,12 +68,12 @@ Follow the steps below to replace the driver door speakers:
 
 3. Connect your speaker to the wiring harness and reinstall into the door
 
-    > now is a good time to test that the speakers are connected correctly by turning on the radio
+    > Now is a good time to test that the speakers are connected correctly by turning on the radio
     {: .block-note}
 
     ![Driver door speaker installed](./driver-speaker-installed.jpg)
 
-    > photo of speaker installed. Note you can use the original screws, or the new screws and brackets from the new speakers if wanted/needed
+    > Photo of speaker installed. Note you can use the original screws, or the new screws and brackets from the new speakers if wanted/needed
 
 4. reinstall the door card, remembering to reconnect the window winder handle (on manual winding models) or the electronic window panel (on electronic window models)
 5. done
@@ -87,7 +87,7 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom, noting that the wire in the loom with a black line in it is *always* negative
 1. Connect your speaker(s) to the wiring loom and reinstall into the shelf
 
-    > now is a good time to test that the speakers are connected correctly by turning on the radio
+    > Now is a good time to test that the speakers are connected correctly by turning on the radio
     {: .block-note}
 
 1. place cover back onto speakers
@@ -95,7 +95,7 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
 
 ### Rear Speakers - Wagon
 
-> lack of images in this section due to project only involving Sedan
+> Lack of images in this section due to project only involving Sedan
 {: .block-note}
 
 Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
@@ -106,7 +106,7 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom noting that the wire in the loom with a black line in it is *always* negative
 1. Connect your speaker(s) to the wiring harness and reinstall into the body
 
-    > now is a good time to test that the speakers are connected correctly by turning on the radio
+    > Now is a good time to test that the speakers are connected correctly by turning on the radio
     {: .block-note}
 
 1. reinstall the cloth trim for the side of the car you are working on, and reinstall all plastic clips and screws.
@@ -115,7 +115,7 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 
 ### Rear Speakers - Ute
 
-> lack of images in this section due to project only involving Sedan
+> Lack of images in this section due to project only involving Sedan
 {: .block-note}
 
 > Ute rear speakers were optional, but should have the same 5x7" speakers as the Sedans. Ensure this is correct *BEFORE* performing these steps
@@ -128,7 +128,7 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
 2. Connect your speaker(s) to the wiring harness and reinstall into the rear panel
 
-    > now is a good time to test that the speakers are connected correctly by turning on the radio
+    > Now is a good time to test that the speakers are connected correctly by turning on the radio
     {: .block-note}
 
 3. place cover back onto speakers
