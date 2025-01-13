@@ -36,10 +36,10 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 ## Programming Keyfobs
 
-> the following steps must be started within 10 seconds of closing the door
+> The following steps must be started within 10 seconds of closing the door
 {: .block-note}
 
-> these steps will not work if you're cars electronic locks are faulty i.e if the [lock actuator requires rebuilding](../../Body/DoorLockActuators/DoorLockActuators.md#replacement)
+> These steps will not work if you're cars electronic locks are faulty i.e if the [lock actuator requires rebuilding](../../Body/DoorLockActuators/DoorLockActuators.md#replacement)
 {: .block-note}
 
 1. ensure all doors are closed and car is unlocked, then insert the key into the ignition and turn to the "ACC" position (1 click from off, not 2)
