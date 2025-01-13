@@ -14,12 +14,12 @@ A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max
 
 1. remove the radio and front ash tray
 
-    > you will need specialty tools to remove the radio if it is the stock unit
+    > You will need specialty tools to remove the radio if it is the stock unit
     {: .block-note}
 
 1. remove the 2 screws behind where the radio was, remove the 2 phillips head screws behind where the cigarette tray was, then use a trim removal tool to disengage the clips around the top of the centre dash panel
 
-    > these metal clips can pop off of the fascia panel and leave itself on the car side. If this happens, some superglue has been proven to hold the clips in place on reinstallation
+    > These metal clips can pop off of the fascia panel and leave itself on the car side. If this happens, some superglue has been proven to hold the clips in place on reinstallation
     {: .block-note}
 
 1. gently pull the dash panel away, and start unplugging the following, noting where everything goes for later:
@@ -48,17 +48,17 @@ A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max
     ![Broken solder connections - AC Button](./broken-solder-ac.jpg)
     ![Broken solder connections - AC Max Button](./broken-solder-ac-max.jpg)
 
-    > examples of broken solder connections on both the AC and AC Max buttons of the tested unit respectively
+    > Examples of broken solder connections on both the AC and AC Max buttons of the tested unit respectively
 
 1. reflow the soldering for any cracked connections. You may also add a little extra solder to each point if needed, however a lead-core solder and a low temperature soldering iron is recommended if so.
 
-    > while not required, it is recommended that you use a fine tipped, temperate controlled soldering iron at about 250<sup>o</sup>C
+    > While not required, it is recommended that you use a fine tipped, temperate controlled soldering iron at about 250<sup>o</sup>C
     {: .block-note}
 
     ![Fixed solder connections - AC Button](./fixed-solder-ac.jpg)
     ![Fixed solder connections - AC Max Button](./fixed-solder-ac-max.jpg)
 
-    > photos of the reflowed solder, with some extra solder added to all connections
+    > Photos of the reflowed solder, with some extra solder added to all connections
 
 1. reverse all steps prior to soldering the board to reassemble and refit the AC Controls into the vehicle. Once refitted, test functionality to confirm this has solved the issue
 
