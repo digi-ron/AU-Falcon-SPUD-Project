@@ -54,7 +54,7 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 | ID | R02193 |
 | Frequency | 303.8 ASK |
 
-> specific codes not available due to lack of available information for officially published KEYDIY profiles
+> Specific codes not available due to lack of available information for officially published KEYDIY profiles
 {: .block-note}
 
 ![KEYDIY fob exterior](./dodgy-keydiy-fob.jpg)
