@@ -22,6 +22,10 @@ min-height: 150px;
 max-width: 100%;
 }
 
+.narrow-image {
+    min-height: 0px !important;
+}
+
 .bad-highlight {
 color: #8b0000;
 }
