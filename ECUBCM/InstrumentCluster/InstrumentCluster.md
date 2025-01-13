@@ -14,16 +14,16 @@ The clusters themselves come in various trims, which have differences ranging fr
 | Mid | XR6/XR8 | all base gauges as well as oil pressure and battery voltage gauges. increased max reading to 240km/h (V8 only?) and gear selector indicator |
 | High | Fairmont/Fairlane/LTD | all mid cluster features, an upgraded Odometer display, more specific door ajar indicator, and additional warning lights (alternator, TCS, washer fluid, etc.) |
 
-> wiring between the low/pursuit clusters and the mid/high clusters is inherently different and require a moderate to large amount of rewiring for full functionality, however multiple online sources have stated that for basic functionality such as reading the speedometer, the clusters are effectively "plug and play"
+> Wiring between the low/pursuit clusters and the mid/high clusters is inherently different and require a moderate to large amount of rewiring for full functionality, however multiple online sources have stated that for basic functionality such as reading the speedometer, the clusters are effectively "plug and play"
 {: .block-note}
 
-> a cluster with a maximum speed reading of 240km/h can be fitted to a car with a 220km/h speedometer without issue, however series 1 clusters should be avoided due to conflicting information on this
+> A cluster with a maximum speed reading of 240km/h can be fitted to a car with a 220km/h speedometer without issue, however series 1 clusters should be avoided due to conflicting information on this
 {: .block-note}
 
 ## Pursuit Cluster - Speedometer Calibration
 Pursuit clusters are not only sought after as they are, in theory the rarest type of speedometer available for the AU Falcon, they are also useful for on-the-fly speedometer calibration, allowing for much more flexibility with wheel sizes and differential ratios.
 
-> the calibration mode allows for 10% of calibration in either direction (so 90-110% stock) and increments about 0.5% each button press. for more than this, you will need to play with transmission gearing or an external speedometer calibration tool to achieve the desired effect
+> The calibration mode allows for 10% of calibration in either direction (so 90-110% stock) and increments about 0.5% each button press. for more than this, you will need to play with transmission gearing or an external speedometer calibration tool to achieve the desired effect
 {: .block-note}
 
 1. do the following depending on your series of **CLUSTER**:
@@ -32,7 +32,7 @@ Pursuit clusters are not only sought after as they are, in theory the rarest typ
 1. switch the ignition key to the "On" position
 1. after following the previous step, ensure the word `SPEEDO 0.0` shows up on the instrument cluster
 
-    > the 0.0 in the display stands for the default, if you have changed yours previously it will be a different number
+    > The 0.0 in the display stands for the default, if you have changed yours previously it will be a different number
     {: .block-note}
     
 1. press the instrument cluster button until the number next to `SPEEDO` on the display is at the desired value, noting:
@@ -49,7 +49,7 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 ---
 
-> information is specific to low model clusters due to project only involving 1 S1 Forte cluster and 1 S1 Pursuit cluster to date
+> Information is specific to low model clusters due to project only involving 1 S1 Forte cluster and 1 S1 Pursuit cluster to date
 {: .block-note}
 
 ---
