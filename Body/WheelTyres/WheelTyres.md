@@ -7,7 +7,7 @@ description: information on the tyre sizes and brake dust covers. also includes 
 ## Known factory tyre sizes
 use the below table as a reference for wheel sizes that should fit all models of Falcon, sorted by rolling diameter:
 
-> all sizes collected from the [mycar](../../Credits.md#information-cross-referencing) website. As such information may be incomplete or incorrect
+> All sizes collected from the [mycar](../../Credits.md#information-cross-referencing) website. As such information may be incomplete or incorrect
 {: .block-note}
 
 | Size | Diameter | Notes |
@@ -64,11 +64,11 @@ If the additional cleaning of the wheels is acceptable, it is recommended that y
 
 ![S1 Mag plastic cover](./s1-plastic-covers.jpg)
 
-> photo of plastic cover on a S1 15" Mag (highlighted orange in picture to the right). Note that the plastic cover is apparently glued to the wheel and will likely need to be broken to be removed
+> Photo of plastic cover on a S1 15" Mag (highlighted orange in picture to the right). Note that the plastic cover is apparently glued to the wheel and will likely need to be broken to be removed
 
 ![S2-3 Mag Steel cover](./s2-3-steel-covers.jpg)
 
-> photo of steel covers post-removal, which can be found on newer 16" mags. These particular ones were removed in 2023, from a S3 with "Sharkfin" style mags
+> Photo of steel covers post-removal, which can be found on newer 16" mags. These particular ones were removed in 2023, from a S3 with "Sharkfin" style mags
 
 ## Removal
 Removal of the wheel dust covers is simple, as below:
