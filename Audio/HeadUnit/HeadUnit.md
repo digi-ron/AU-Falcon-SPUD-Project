@@ -49,7 +49,7 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 
 ## Pin Wiring
 
-> for EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#information-cross-referencing), Product code `711053`
+> For EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#information-cross-referencing), Product code `711053`
 {: .block-note}
 
 | Pin # | Function | EAI Wire Color | Wire Color
