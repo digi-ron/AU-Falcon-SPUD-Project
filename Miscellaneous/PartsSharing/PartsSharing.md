@@ -26,6 +26,7 @@ Please see the table below for shared parts:
 | --- | --- | --- |
 | A Pillar Plastic Trim | AU-BFIII | All physically fit however care should be taken regarding tweeter mounting areas from higher models |
 | Air box | EF-AUIII | piping from BA-BFIII Falcon also compatible, but air box itself does not bolt to body correctly |
+| Alternator | AU-BAII, SX | newer models employed a 3-pin connector which was different to the AU |
 | B Pillar Plastic Trim (Upper/Lower) | AU-BFIII | All physically fit however adjustable seatbelt height not present on AUI Falcon |
 | Boot Button | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
 | C Pillar Plastic Trim | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
