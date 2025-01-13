@@ -9,18 +9,18 @@ The accessory plug is a blue plug that was 1 of 2 plugs initially intended for t
 
 ![Narva plug image (from website)](./narva-plug.png)
 
-> image taken from [Narva](../../Credits.md#collected-information-primarily-product-listing-images) product page for part number 56274BL
+> Image taken from [Narva](../../Credits.md#collected-information-primarily-product-listing-images) product page for part number 56274BL
 
 ![Accessory Connector](./blue-acc-plug.jpg)
 
-> photo of accessory plug in it's natural habitat
+> Photo of accessory plug in it's natural habitat
 
 ## IMPORTANT
 These quick connect connectors are somewhat generic, and as such many manufacturers sell then, however ensure you buy the ones with the key notches on the *same side* as the locking clip, and some are manufactured with them on the opposite side and will ***NOT*** fit as a result
 
 ![alt text](./incorrect-plug.png)
 
-> image taken from an [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images) listing, note the notches in the bottom of the plug instead of the top
+> Image taken from an [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images) listing, note the notches in the bottom of the plug instead of the top
 
 ## Pinout
 Use the following diagram and pinout list for reference. This diagram assumes that the clip is facing up and you are looking at the female housing connector (the blue plug or loom end wiring connector)
