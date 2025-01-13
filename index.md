@@ -9,7 +9,8 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
 > The information here is *most* accurate for the MY 1999 S1 Ford Falcon Forte Sedan, but as much information as possible has been added for other variants
 {: .block-note}
 
-![Side by side comparison: spud (left) VS. SPUD (right)](./side-by-side.jpg)
+![Side by side comparison: spud (left) VS. SPUD (right)](./side-by-side.jpg){: .narrow-image}
+
 > "artists" rendition of car (left) and photo of car (right)
 
 ---
