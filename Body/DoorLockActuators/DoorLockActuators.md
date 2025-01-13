@@ -19,10 +19,10 @@ If repairing instead of replacing, you will need:
 - a rebuild kit (usually consists of 3 plastic pieces, a spring, and a small motor)
 - some grease (general purpose is fine)
 
-> if replacing, note that the there is a change in electrical plugs between the AU and other models. Adapter cables were available for a time but are hard to come by, so the accepted advice is to ensure you source AU parts
+> If replacing, note that the there is a change in electrical plugs between the AU and other models. Adapter cables were available for a time but are hard to come by, so the accepted advice is to ensure you source AU parts
 {: .block-note}
 
-> some photos not available due to working in tight spaces
+> Some photos not available due to working in tight spaces
 {: .block-note}
 
 Follow the steps below to repair or replace the Door Lock Actuator:
@@ -33,12 +33,12 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     - the mirror switch will need to be unplugged (if drivers door)
     - extra care will need to be taken around the door lock stalk (if drivers door)
     
-    > the locations are different for rear doors but are similar e.g. there are 2 screws along the bottom, one on the back edge, one in the grab pocket, etc.
+    > The locations are different for rear doors but are similar e.g. there are 2 screws along the bottom, one on the back edge, one in the grab pocket, etc.
     {: .block-note}
 
     ![door card screw locations](../../Common/door-card-screws.jpg)
 
-    > photo of screws to remove. Note the one around the side of the door, and be careful of the plastic clips holding in the top and sides in particular
+    > Photo of screws to remove. Note the one around the side of the door, and be careful of the plastic clips holding in the top and sides in particular
 
 1. If present, gently peel off the sound deadening foam on the inside of the door card, then reach into the hole towards the top of the door and unclip the plastic from the steel rod connecting the actuator to the outside door handle. This can be done by rotating the clip
 1. If you are working on the driver door, unclip the additional steel rod connecting the actuator to the door lock stalk the same way as the previous step
@@ -47,10 +47,10 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 
     ![striker bolts](./striker-screws.jpg)
 
-    > photo of the striker bolt locations. note that they are prone to rounding out as they are especially exposed to the elements
+    > Photo of the striker bolt locations. note that they are prone to rounding out as they are especially exposed to the elements
 
 1. remove the lock actuator from the door. If replacing the actuator, perform the reverse of all listed steps to this point with the new actuator
-    > while removing, disengage the cable running from the actuator to the inside door handle by rotating the steel cylinder end on the actuator. This is easiest done with the actuator almost out of the door
+    > While removing, disengage the cable running from the actuator to the inside door handle by rotating the steel cylinder end on the actuator. This is easiest done with the actuator almost out of the door
     {: .block-note}
 
     ![Door Lock Actuator Cable Removed](./actuator-cable-removal.jpg)
@@ -61,13 +61,13 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 
     ![zip tie location on actuator](./cable-tie-cut.jpg)
 
-    > photo of what to cut. You can cut the other zip tie also but it is not required
+    > Photo of what to cut. You can cut the other zip tie also but it is not required
 
 1. remove the 4 screws holding in the back casing of the actuator electronics
     
     ![Actuator housing screws](./actuator-housing-screws.jpg)
 
-    > remove these 4 screws
+    > Remove these 4 screws
 
 1. remove the plastic components and springs from the housing. If you are also replacing the motor, remove the driver door electrical switch (if present), gently lift the motor out and pry the 2 small spade connectors using a small screwdriver or a fingernail, and place the new motor in the same location as the old one was.
     
@@ -75,7 +75,7 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     ![Assembly post driver button removed](./actuator-driver-button-removed.jpg)
     ![Assembly post-motor removal](./actuator-motor-removed.jpg)
 
-    > photos of the step by step process of removing the driver switch (if present), and the motor
+    > Photos of the step by step process of removing the driver switch (if present), and the motor
 
 1. apply a thin layer of grease to the bottom of the housing while exposed (where the plastic was), being careful to avoid touching the spade end connections
 1. pre-assemble the parts onto the stalk of the worm gear in the following order (from cog to end):
@@ -87,7 +87,7 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 
     ![rough pre-assembly of actuator](./actuator-assembly.jpg)
 
-    > visual representation of the order the parts go in
+    > Visual representation of the order the parts go in
     
 1. carefully compress the springs and place the assembly into the actuator housing, ensuring that:
     - the pin ring is sitting central in the square plastic housing
@@ -97,7 +97,7 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 
     ![Assembled with new gear](./assembly-assembled.jpg)
 
-    > complete assembly photo after pressing into the housing. nothing should fly out from here, but be careful when pressing the plastic cover over the top so as not to disturb the inner workings
+    > Complete assembly photo after pressing into the housing. nothing should fly out from here, but be careful when pressing the plastic cover over the top so as not to disturb the inner workings
     
 1. apply a moderate amount of grease to the:
     - cog (put a little on and spin the cog back and forth to lubricate the motor)
@@ -109,7 +109,7 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     - the plastic clip for the steel rod for the door handle and the door lock stalk (if drivers door) are re-engaged
     - the electrical connector for electrical activation is reconnected
 
-    > now is a good time to test the door, before reinstalling the door card
+    > Now is a good time to test the door, before reinstalling the door card
     {: .block-note}
     
 1. reinstall the door card and window winder handle/panel
