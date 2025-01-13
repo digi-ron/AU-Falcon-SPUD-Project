@@ -11,7 +11,7 @@ description: in-depth information on the continuity and functionality of the int
 
 the cabin fuse box has 11 individual electrical plugs that comprise it's wiring, and as such the wiring has been divided as below per plug.
 
-> all diagrams assume that you are facing either the front or the back of the cabin fuse panel, with the relays at the top.
+> All diagrams assume that you are facing either the front or the back of the cabin fuse panel, with the relays at the top.
 {: .block-note}
 
 ![Cabin Fuse Panel - Front](./fuse-panel-front.jpg)
@@ -33,7 +33,7 @@ These connectors are identifiable according to the annotated image:
 
 ![fuse and relay connector layout](./fuse-panel-front-annotated.jpg)
 
-> the P/WIN and AMP fuses are not marked on purpose, both because they are clearly marked ***AND*** because depending on the manual, these have different designations, which overlap with the existing fuses in the bottom
+> The P/WIN and AMP fuses are not marked on purpose, both because they are clearly marked ***AND*** because depending on the manual, these have different designations, which overlap with the existing fuses in the bottom
 {: .block-note}
 
 ### Main Fuse Cluster
@@ -155,7 +155,7 @@ This relay is a half-size 4 way relay connector. For the following assume the fo
 | R2-3 | 5 |
 | R2-4 | 3 |
 
-> these half-size relays are generally 5-way relays rather than 4-way, however in the Original part, the pin between `R2-1` and `R2-2` (relay terminal pin number 4) has been cut off
+> These half-size relays are generally 5-way relays rather than 4-way, however in the Original part, the pin between `R2-1` and `R2-2` (relay terminal pin number 4) has been cut off
 {: .block-note}
 
 > More information: [Relays](../Relays/Relays.md#4-way-micro-iso-relay)
@@ -296,7 +296,7 @@ This plug has a single pin, noted as 4-1, which has continuity to Pin [R4-1](#re
 
 This plug does not have any connectors in the Forte models
 
-> this may be different in other models, information limited as project only involved Forte cabin fuse boxes
+> This may be different in other models, information limited as project only involved Forte cabin fuse boxes
 {: .block-note}
 
 ### plug 6 - 6-way connector
