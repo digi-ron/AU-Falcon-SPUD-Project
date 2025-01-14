@@ -86,6 +86,7 @@ The recommended method for removing these coil packs is to either completely rem
         - remove the rear bolt by feeding the extension bar between cylinders 5 & 6 on the intake manifold
         - remove the 2 front bolts by feeding the extension bar between cylinders 3 & 4 on the intake manifold
     1. If you have any series AU and NO extension bar or magnetic stick, reach around the intake manifold with the socket in hand and undo all bolts
+    
     > this will be especially difficult with the bolts on the driver side of the coil pack
     {: .block-note}
 
