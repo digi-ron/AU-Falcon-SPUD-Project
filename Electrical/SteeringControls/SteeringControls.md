@@ -6,6 +6,17 @@ description: steering wheel Cruise Control assembly and Media Control assembly (
 
 The steering wheel controls for the AU falcon are one of the most fragile parts of an otherwise nigh-indestructible interior, which is made more unfortunate by the fact that the cruise control buttons (where fitted) are controlled from the right side buttons of the steering controls. On top of this they are only accessible by removing the steering wheel airbag, which is held in with 2 non-standard bolts, further complicating matters
 
+## Plug Type
+
+The 2 connectors for the Steering wheel controls (other than the blade style horn connector) were originally manufactured by a company known as Delphi as part of the 150 Series of Connectors. While the manufacturer is now known as Aptiv, the following product codes are still relevant, and can be purchased from online marketplaces such as [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
+
+| Name | Code | Notes |
+| --- | --- | --- |
+| Connector 4F | 12047785 | Female Terminal Housing (loom end connector) |
+| Connector 4M | 12047786 | Male Terminal Housing (button end connector) |
+| Female Terminal Unsealed - 1.0-0.8mm<sup>2</sup> | 12047767 | |
+| Male Terminal Unsealed - 1.0-0.8mm<sup>2</sup> | 12047581 | |
+
 ## Removing/Replacing Steering Wheel controls
 
 > you will need one specific tool for this job, a Torx T30 star socket (5 point with tamper hole). There is mixed success by tapping a standard (6 point) Torx head socket into the bolts, using a modified screwdriver, or using an extractor, however using this specific socket means that the bolts can be reused without the risk of never being able to remove it easily ever again after reinstallation
