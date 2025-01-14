@@ -17,15 +17,29 @@ The 2 connectors for the Steering wheel controls (other than the blade style hor
 | Female Terminal Unsealed - 1.0-0.8mm<sup>2</sup> | 12047767 | |
 | Male Terminal Unsealed - 1.0-0.8mm<sup>2</sup> | 12047581 | |
 
+## Pin Layout
+
+The following notes assume pin numbers where you are looking at the steering wheel controls plug (male housing), with the clip facing up:
+
+| `01` | `02` |
+| --- | --- |
+| **`03`** | **`04`** |
+
+### Pin Wiring
+
+| Position | Color | Function |
+| --- | --- | --- |
+| 01 | Red/Black | Media Controls + |
+| 02 | Orange/Black | Horn + |
+| 03 | Grey/Black | Cruise Controls + |
+| 04 | Black | GND (x2, 1 for Cruise and 1 for Horn) |
+
+> While there is a GND connection required for the Media Controls, the original part for this is handled by a single wire, starting from the Cruise Controls PCB and ending at the Media Control board
+{: .block-note}
+
 ## Removing/Replacing Steering Wheel controls
 
-> you will need one specific tool for this job, a Torx T30 star socket (5 point with tamper hole). There is mixed success by tapping a standard (6 point) Torx head socket into the bolts, using a modified screwdriver, or using an extractor, however using this specific socket means that the bolts can be reused without the risk of never being able to remove it easily ever again after reinstallation
-{: .block-note}
-
-> Only a few pictures were taken for this procedure, due to lack of resources and the dangers of handling an airbag
-{: .block-note}
-
-> buttons missing from photos due to the originals being broken (ironic)
+> You will need one specific tool for this job, a Torx T30 star socket (5 point with tamper hole). There is mixed success by tapping a standard (6 point) Torx head socket into the bolts, using a modified screwdriver, or using an extractor, however using this specific socket means that the bolts can be reused without the risk of never being able to remove it easily ever again after reinstallation
 {: .block-note}
 
 1. ***DISCONNECT THE BATTERY*** and leave for at least 1hr (ideally overnight)
@@ -47,6 +61,9 @@ The 2 connectors for the Steering wheel controls (other than the blade style hor
 1. unscrew the 4 mounting screws on the sides of the steering wheel
 
     ![Mounting screw locations](./control-mount-screws.jpg)
+
+    > buttons missing from photos due to the originals being broken (ironic)
+    {: .block-note}
     
 1. unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame
 
