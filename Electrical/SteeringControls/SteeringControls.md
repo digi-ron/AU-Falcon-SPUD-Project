@@ -1,10 +1,13 @@
 ---
-description: steering wheel Cruise Control assembly and Media Control assembly (where fitted) information
+description: steering wheel Cruise Control assembly and Media Control assembly information
 ---
 
 # Steering Wheel Controls
 
 The steering wheel controls for the AU falcon are one of the most fragile parts of an otherwise nigh-indestructible interior, which is made more unfortunate by the fact that the cruise control buttons (where fitted) are controlled from the right side buttons of the steering controls. On top of this they are only accessible by removing the steering wheel airbag, which is held in with 2 non-standard bolts, further complicating matters
+
+> This page uses a model of AU Falcon that has both Cruise Control and Media Buttons fitted, some controls may not be present depending on your models options
+{: .block-note}
 
 ## Plug Type
 
@@ -90,7 +93,7 @@ unlike most basic controls within the Falcon, the Steering controls appear to be
 | Cruise + | 560Ω |
 | Cruise - | 180Ω |
 
-### Media control side (where fitted)
+### Media control side
 
 | Button | Resistance |
 | --- | --- |
