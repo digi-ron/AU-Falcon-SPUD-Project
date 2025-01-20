@@ -5,7 +5,8 @@ description: headlight switch controls information
 # Headlight Switches
 
 ## Plug Type
-The plugs used for the headlight switch initially appear to be a AMP MULTILOCK .070 (174933-1/173851-1) design, but the pins are in the wrong location in the connector and the connector itself is off by approx. 1mm in width regardless. The true connector is a only known as a 090 Connector. At least one of the original manufacturers is a company known as Yazaki. They don't appear to be manufacturing these anymore so the only known source of these connectors would be online marketplaces such as [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images):
+
+The plugs used for the headlight switch initially appear to be a AMP MULTILOCK .070 (174933-1/173851-1) design, but the pins are in the wrong location in the connector and the connector itself is off by approx. 1mm in width regardless. The true connector is a only known as a 090 Connector, originally manufactured by the companies Yazaki and Sumitomo:
 
 | Name | Code | Notes |
 | --- | --- | --- |
