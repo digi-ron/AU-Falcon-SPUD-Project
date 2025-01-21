@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!--SEO tags - overridden from jekyll SEO for variable concat-->
-    <title>{{ page.title | default: site.title | escape }}</title>
-    <meta name="og:title" content="{{ page.title | default: site.title | escape }}">
+    <title>{{ page.title | default: site.title | replace: "&amp;", "And" }}</title>
+    <meta name="og:title" content='{{ page.title | default: site.title | replace: "&amp;", "and" }}'>
     <meta name="og:description" content="{{ site.vehicle }} {{page.description | default: site.description | escape }}">
     <meta name="description" content="{{ site.vehicle }} {{page.description | default: site.description | escape }}">
     <meta name="canonical" content="{{ page.url | absolute_url }}">
