@@ -46,24 +46,37 @@ The seatbelts in the AU Falcons are largely easy to replace but require a single
 
 9. done
 
-<!-- TODO test and report this
 ### Additional Notes
 
-The following are notes for modifications to the seatbelt mechanism, mainly regarding the fitting of non-standard seatbelt assemblies:
+The following are notes for the fitting of non-standard 'universal style' seatbelt assemblies:
 
-- if replacing with a "universal" seatbelt, you may need to modify the upper B-Pillar trim plastic to fit the upper pulley in behind. As the fraying of the original seatbelt is [usually caused by this](#common-issues---upper-b-pillar-plastic-trim), an alternative to finding a good condition original plastic piece is replacing it with a "universal" seatbelt kit and using a rotary tool to simply cut a larger hole into the plastic, allowing for free movement of the new pulley. Alternatively you can simply remove the trim piece altogether, however this is not recommended as part of the B-Pillar upper trim piece contributes to the holding up of the headliner.
-- while the bolts holding the static end and upper pulley of the seatbelt are T50 Torx headed with a 7/16" UNF thread, the bolt holding the retraction mechanism is a M10x1.5 thread. This can be easily remedied if using a "universal" seatbelt, as you can use a nut retainer bracket with a 7/16" UNF threaded nut, however these retainers can be hard to come by, with the only known seller at time of writing being [SeatSafe](../../Credits.md#collected-information-primarily-product-listing-images). If going this route, the recommended thread length is 1"
--->
+> This section is lengthy for a reason, if you are doing this, read *everything* carefully
+{: .block-note}
 
-## Common issues - Upper B-Pillar plastic trim
+- if replacing , you may want to modify the upper B-Pillar trim plastic to fit the upper pulley in behind. As the fraying of the original seatbelt is [usually caused by this](#common-issues---upper-b-pillar-plastic-trim), an alternative to finding a good condition original plastic piece is simply using a rotary tool to simply cut a larger hole into the plastic, allowing for free movement of the new pulley. Alternatively you can simply remove the trim piece altogether, however this is not recommended as part of the B-Pillar upper trim piece contributes to the holding up of the headliner.
+- Multiple bolts will likely need replacing due to fouling on the new pulleys before being torqued in properly. While the upper pulley bolt can remain as-is, the 2 lower bolts will likely need replacing. The bolt for the anchor plate is confirmed to be a 7/16" UNF Fine thread with approximately 2" length, however the anchor bolt can be easily replaced with a 1-1/2" length bolt as the remainder in the original bolt is a widened sleeve for the original anchor plate itself. This also allows for a tighter fit to the body floor
+- due to the nut on the original retraction mechanism being welded to the assembly, a nut retainer bracket is required. Recommended size for universal seatbelt kits contain 7/16" UNF threaded nut, however these retainers can be hard to come by, with the only known seller at time of writing being [SeatSafe](../../Credits.md#collected-information-primarily-product-listing-images). The original bolt likely will not work without widening the hole in the anchor plate, which, for obvious safety concerns, is not recommended.
+- Any bolts replaced can have a standard hex head instead of Torx if desired, all bolts have sufficient clearance
+- Any bolts replaced should be high tensile, Grade 5 or 8 bolts recommended
 
-A common issue with older AU Falcons is the wearing of the seatbelt hole in the B-Pillar plastic trim. This appears to happen due to the plastic being prone to wear from the seatbelt rubbing, and if left unchecked can cause premature fraying on the seatbelt, which is a safety concern and Roadworthy requirement (where applicable). Recommendation is to replace the trim with a similar part, noting that earlier AU Falcon models did not come with an adjustable height seatbelt top anchor, however assuming that is uneconomical or not viable due to lack of parts available, please see below for a "poor-mans plastic welding" fix that can be used
+## Common issues
+
+## Seatbelt lockup
+
+When removing the factory seatbelt from it's location inside the car, you may find that the belt is able to retract but not able to come out. This is easily remedied using the following steps:
+
+1. sit the retraction mechanism up in the same direction to how it was when installed in the car. A small table-mounted vice is perfect if available
+1.  with the seatbelt in hand, drop the belt slightly in (less than 10cm), and then gently pull out
+1. If this does not work, grab the mechanism and give it a couple of taps a table or solid surface, still while in the same orientation as before and repeat previous steps.
 
 ### B-Pillar trim - "Plastic Welding"
+
+A common issue with older AU Falcons is the wearing of the seatbelt hole in the B-Pillar plastic trim. This appears to happen due to the plastic being prone to wear from the seatbelt rubbing, and if left unchecked can cause premature fraying on the seatbelt, which is a safety concern and Roadworthy requirement (where applicable). Recommendation is to replace the trim with a similar part, noting that earlier AU Falcon models did not come with an adjustable height seatbelt top anchor, however assuming that is uneconomical or not viable due to lack of parts available, please see below for a "poor-mans plastic welding" fix that can be used
 
 #### Requirements
 to complete this job you will need the following:
 - Large soldering iron with screw-in tip
+- Tape (Packing tape or cloth tape recommended)
 - any bolt or screw that can fit inside the shaft of the soldering iron (optional, provides a disposable tip as plastic is hard to remove from a soldering tip)
 - bolt-cutters
 - cable ties (light colored preferred)
