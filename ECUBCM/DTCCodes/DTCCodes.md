@@ -8,6 +8,9 @@ description: DTC (A.K.A Diagnostic Trouble Codes), and other relevant ECU Inform
 
 If you ever need access to the ECU in your AU Falcon, it can be found bolted to the very bottom of the A Pillar area of the passenger side of the cabin. This can be useful if you intend on adding a performance chip (such as a J3 chip from [T.I. Performance](../../Credits.md#collected-information-primarily-product-listing-images))
 
+> The ECU is held in with rivets which will need to be drilled out. when reinstalling, new rivets or tek screws are viable replacements
+{: .block-note}
+
 <!--TODO add a pic-->
 
 ## DTCs
