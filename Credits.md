@@ -14,7 +14,7 @@ hidePrint: true
 - [Repco](https://www.repco.com.au/)
 - [Rhino Racks](https://dealer.rhinorack.com/en-au/)
 - [RS Components Australia](https://au.rs-online.com/)
-  <!-- - [Seat Safe](https://www.seatsafe.com.au/) -->
+- [Seat Safe](https://www.seatsafe.com.au/)
 - [T.I Performance](https://www.tiperformance.com.au/)
 
 ## Information cross-referencing
