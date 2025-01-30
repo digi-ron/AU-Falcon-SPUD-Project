@@ -13,15 +13,15 @@ While the mounting points for the interior mirrors are the same between series' 
 The S1 mirrors can be easily removed in comparison to their newer counterparts. Steps to remove are below:
 
 1. (optional) wait for the car to be as cold as possible around the window. Recommended that this job is done in winter or during nighttime if possible
-2. remove the grub screw from the base of the plastic housing
+1. remove the grub screw from the base of the plastic housing
     
     ![S1 Interior Mirror Screw](./s1-mirror-screw.jpg)
 
     > Picture of the grub screw location to remove in the Series 1 AU Falcons. Note that this is a 2mm Hex head and as such requires a 2mm allen key to remove
 
-3. gently slide the plastic housing from the steel on the window by wiggling the assembly back and forth a little. you may need to use a light tap from a small rubber mallet, however this is only to be used if absolutely required
-4. to reinstall or replace, reverse all previous steps
-5. done
+1. gently slide the plastic housing from the steel on the window by wiggling the assembly back and forth a little. you may need to use a light tap from a small rubber mallet, however this is only to be used if absolutely required
+1. to reinstall or replace, reverse all previous steps
+1. done
 
 ### Series 2/3 Removal/Replacement
 
