@@ -50,7 +50,7 @@ Follow the steps below to replace the driver door speakers:
 
     > Photos of the speaker screw locations in the door assembly, and the door post-removal respectively
 
-2. do one of the following:
+1. do one of the following:
     - if keeping the original loom, create an adapter with a [male housing 2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - if modifying the loom, cut and crimp the spade connectors for your speakers onto the loom. As much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
 
@@ -66,7 +66,7 @@ Follow the steps below to replace the driver door speakers:
 
         > Photo of the wires from the back of the plug in the door side of the wiring loom. Note the wire with the Black line is Negative, and the one with the Green line is Positive
 
-3. Connect your speaker to the wiring harness and reinstall into the door
+1. Connect your speaker to the wiring harness and reinstall into the door
 
     > Now is a good time to test that the speakers are connected correctly by turning on the radio
     {: .block-note}
@@ -75,8 +75,8 @@ Follow the steps below to replace the driver door speakers:
 
     > Photo of speaker installed. Note you can use the original screws, or the new screws and brackets from the new speakers if wanted/needed
 
-4. reinstall the door card, remembering to reconnect the window winder handle (on manual winding models) or the electronic window panel (on electronic window models)
-5. done
+1. reinstall the door card, remembering to reconnect the window winder handle (on manual winding models) or the electronic window panel (on electronic window models)
+1. done
 
 ### Rear Speakers - Sedan
 Follow these steps below to replace the rear shelf speakers (Sedan only):
@@ -126,10 +126,10 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 1. do one of the following. For either step, keep in mind that the negative for each speaker is the wire with a black line in it:
     - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
-2. Connect your speaker(s) to the wiring harness and reinstall into the rear panel
+1. Connect your speaker(s) to the wiring harness and reinstall into the rear panel
 
     > Now is a good time to test that the speakers are connected correctly by turning on the radio
     {: .block-note}
 
-3. place cover back onto speakers
-4. done
+1. place cover back onto speakers
+1. done
