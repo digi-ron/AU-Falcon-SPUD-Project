@@ -52,6 +52,9 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 > For EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#information-cross-referencing), Product code `711053`
 {: .block-note}
 
+> Wire colors may not be accurate, these colors are derived from a Series 1 car so may not be representative of Series 2 or 3 vehicles
+{: .block-note}
+
 | Pin # | Function | EAI Wire Color | Wire Color
 | --- | --- | --- | -- |
 | 01 | Constant 12v | Yellow | Yellow/Grey |
