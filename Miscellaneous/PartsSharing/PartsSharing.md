@@ -1,5 +1,5 @@
 ---
-description: " - (partial) list of shared parts for Ford Falcons EA/EB/EF/EL/AU/BA/BF/FG, Ford Falcon XH/XG, and Ford Territory SX/SY/SZ"
+description: " - (partial) list of shared parts for Ford Falcons XF/EA/EB/EF/EL/AU/BA/BF/FG, Ford Falcon XG/XH, and Ford Territory SX/SY/SZ"
 ---
 
 # Parts Sharing
@@ -41,6 +41,7 @@ Please see the table below for shared parts:
 | Fuel Pressure Regulator | AU-FGX | AU uses a 3 bar regulator, but 4 is standard in later models, Tune/ECU/J3 Chip likely required |
 | [Ignition Coil Pack](../../Engine/IgnitionCoil/IgnitionCoil.md) | EF-AU | only compatible with S1 AU Falcons |
 | Ignition Leads | EF-AU | only compatible with S1 AU Falcons |
+| Interior Map Lights | AU-BFIII | Light inner assembly also the same as SX-SY Territory models, however fascia is different |
 | [Interior Mirror](../../Body/InteriorMirror/InteriorMirror.md) | AU-FGX, SX-SZII | AUI Mirrors have grub screw mounting rather than clip, but all are interchangeable |
 | Mirror Switch | EF-BFIII | |
 | [PCV](../../Engine/PCV/PCV.md) | XF-FGX, SX-SZII, XG-XHII | Locations differ between models, but are all generally fitted into the top of the rocker cover. Right angle elbow may be required if a straight through unit is installed |
