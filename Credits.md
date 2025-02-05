@@ -52,10 +52,28 @@ hidePrint: true
 {: .bad-highlight}
 
 - [RemotePro](https://www.remotepro.com.au/)
-  > *Sold a "coded" AUI remote for a $50 markup vs. a clean fob. Remote didn't work and I was given the runaround when asked for information to get it working. Support took 8 days, 6 of which were spent by them not responding to the simple question of "what is the KEYDIY configuration you used on this clearly KEYDIY fob?", and 1 wasted finding out that real locksmiths have had issues with these remotes. The kicker: I'm confident they don't even code them, not that they ever mentioned that the 3 different times I asked*
+  > Took an 8 day email chain to organize a refund because they clearly didn't program Smartlock remotes with the right codes, with them flat-out ignoring me for 6 when I asked if they had the configuration on hand so I could fix it myself instead of refunding. Found out from a more reputable locksmith later that they barely ever work.
 
 - [Ford Australia Customer Support](mailto:foacust1@ford.com)
-  > *Sent an email 8/10/24 asking for as much info as they were willing to give me on the SmartLock fobs, so I can make a DIY guide to prevent scalpers having the last say. 3 weeks of silence and a follow up email and they finally respond to me: "Sorry we can't help". Yeah, I know, hell, I knew way before I emailed you again but I decided to anyways, just in case I was wrong and I might yet get information from, y'know, the manufacturers themselves maybe? Best they could do was point me to my local dealership, which I went to before emailing anyways. It would appear they can really only be trusted to send me [verification letters](./Miscellaneous/VerificationLetter/Verification.md), and even that has taken multiple requests spanning months.*
+  > Sent an email 08/10/24 asking for keyfob information
+  > 
+  > No response by 28/10/24 so followed up
+  > 
+  > Replied 28/10/24: *"Ford Australia is unable to provide diagnostic, repair or technical advice via telephone or written communication"*
+  > 
+  > ---
+  > 
+  > Sent an email 04/12/24 asking for a [Vehicle Verification Letter](./Miscellaneous/VerificationLetter/Verification.md), after getting one successfully in 2021
+  >
+  > No response by 03/02/25 so followed up
+  >
+  > Replied 05/02/25: *"we regret to advise that we are unable to confirm details of this nature"*
+  >
+  > ---
+  >
+  > Actually useless for ***ANYTHING***
+  >
+  > ---
 
 ## About the Author (And Project SPUD Lore)
 
