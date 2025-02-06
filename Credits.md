@@ -63,7 +63,7 @@ hidePrint: true
   > 
   > ---
   > 
-  > Sent an email 04/12/24 asking for a [Vehicle Verification Letter](./Miscellaneous/VerificationLetter/Verification.md), after getting one successfully in 2021
+  > Sent an email 04/12/24 asking for a [Vehicle Verification Letter](./Archive/VerificationLetter/Verification.md), after getting one successfully in 2021
   >
   > No response by 03/02/25 so followed up
   >
