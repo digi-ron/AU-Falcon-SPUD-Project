@@ -4,6 +4,9 @@ description: how to get an official Ford Verification Letter. Will work with oth
 
 # Verification Letters
 
+> This information is no longer relevant, left as-is with no updates planned as of 05/02/2025
+{: .block-warning}
+
 If you believe you have a rare trim of Ford Falcon and would like more information on the specifics of how many with the exact same options were made, you can create a ticket with Ford Australia requesting a Vehicle Verification Letter. Note that Ford will likely request any or all of the following information to service your request:
 
 - VIN (required)
@@ -12,7 +15,7 @@ If you believe you have a rare trim of Ford Falcon and would like more informati
 - Address
 - Phone Number
 
-Once your ticket has been processed, you will likely receive a email containing a verification letter in PDF format. Requests have historically taken 2 weeks, however this has become significantly longer in recent years, sometimes totalling multiple months:
+Once your ticket has been processed, you will likely receive a email containing a verification letter in PDF format. Requests usually take 2 weeks:
 
 ![Verification Letter Screenshot](./verification-letter.jpg)
 
