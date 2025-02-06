@@ -1,11 +1,35 @@
 <ul>
-    {% for item in site.data.navigation %}
+    {% for item in site.data.navigation.mainNav %}
         <li>
             {{ item.title }}
             <ul>
                 {% for subitem in item.items %}
                     <li>
                         <a href="{{ subitem.url | relative_url }}">{{ subitem.title }}</a>
+                        {% if subitem.items %}
+                            <ul>
+                                {% for subsubitem in subitem.items %}
+                                    <li>
+                                        <a href="{{ subsubitem.url | relative_url }}">{{ subsubitem.title }}</a>
+                                    </li>
+                                {% endfor %}
+                            </ul>
+                        {% endif %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </li>
+    {% endfor %}
+</ul>
+<hr>
+<ul>
+    {% for item in site.data.navigation.archivedNav %}
+        <li>
+            <i class="other-highlight">{{ item.title }}</i>
+            <ul>
+                {% for subitem in item.items %}
+                    <li>
+                        <i><a href="{{ subitem.url | relative_url }}">{{ subitem.title }}</a></i>
                         {% if subitem.items %}
                             <ul>
                                 {% for subsubitem in subitem.items %}

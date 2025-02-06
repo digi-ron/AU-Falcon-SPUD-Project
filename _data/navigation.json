@@ -1,176 +1,185 @@
-[
-    {
-        "title": "Audio",
-        "items": [
-            {
-                "title": "Head Unit",
-                "url": "/Audio/HeadUnit/HeadUnit.html"
-            },
-            {
-                "title": "Premium Audio System",
-                "url": "/Audio/PremiumAudio/PremiumAudio.html"
-            },
-            {
-                "title": "Speakers",
-                "url": "/Audio/Speakers/Speakers.html"
-            }
-        ]
-    },
-    {
-        "title": "Body",
-        "items": [
-            {
-                "title": "Door Lock Actuators",
-                "url": "/Body/DoorLockActuators/DoorLockActuators.html"
-            },
-            {
-                "title": "Interior Mirror",
-                "url": "/Body/InteriorMirror/InteriorMirror.html"
-            },
-            {
-                "title": "Roof Racks",
-                "url": "/Body/RoofRacks/RoofRacks.html"
-            },
-            {
-                "title": "Seatbelts",
-                "url": "/Body/Seatbelts/Seatbelts.html"
-            },
-            {
-                "title": "Wheels/Tyres",
-                "url": "/Body/WheelTyres/WheelTyres.html",
-                "items": [
-                    {
-                        "title": "Tyre Calculator",
-                        "url": "/Body/WheelTyres/TyreCalculator.html"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "title": "ECU & BCM",
-        "items": [
-            {
-                "title": "Central Locking Key Fob",
-                "url": "/ECUBCM/Keyfob/Keyfob.html",
-                "items": [
-                    {
-                        "title": "Manufacturer Specific Instructions - KEYDIY (low success rate)",
-                        "url": "/ECUBCM/Keyfob/KEYDIY/KEYDIY.html"
-                    },
-                    {
-                        "title": "Manufacturer Specific Instructions - Remocon",
-                        "url": "/ECUBCM/Keyfob/Remocon/Remocon.html"
-                    }
-                ]
-            },
-            {
-                "title": "DTCs & ECU Location",
-                "url": "/ECUBCM/DTCCodes/DTCCodes.html"
-            },
-            {
-                "title": "ECU Throttle Relearn",
-                "url": "/ECUBCM/ECULearn/ECULearn.html"
-            },
-            {
-                "title": "Instrument Cluster",
-                "url": "/ECUBCM/InstrumentCluster/InstrumentCluster.html"
-            }
-        ]
-    },
-    {
-        "title": "Electrical",
-        "items": [
-            {
-                "title": "Accessory Plug (blue under-dash connector)",
-                "url": "/Electrical/AccessoryPlug/AccessoryPlug.html"
-            },
-            {
-                "title": "Air Conditioner Controls (Series 1)",
-                "url": "/Electrical/ACControls/AC-S1.html"
-            },
-            {
-                "title": "Cabin Fuse Panel",
-                "url": "/Electrical/CabinFusePanel/CabinFusePanel.html"
-            },
-            {
-                "title": "Centre Console Buttons",
-                "url": "/Electrical/CentreConsoleButtons/CentreConsoleButtons.html"
-            },
-            {
-                "title": "Driver-Side Interior Buttons",
-                "url": "/Electrical/DriverButtons/DriverButtons.html"
-            },
-            {
-                "title": "Fuses & Relays",
-                "url": "/Electrical/Fuses/Fuses.html"
-            },
-            {
-                "title": "Headlight Switch",
-                "url": "/Electrical/HLSwitch/HLSwitch.html"
-            },
-            {
-                "title": "Rear Lights Connector",
-                "url": "/Electrical/RearLights/RearLights.html"
-            },
-            {
-                "title": "Relays (General Information)",
-                "url": "/Electrical/Relays/Relays.html"
-            },
-            {
-                "title": "Steering Wheel Controls (Cruise/Media buttons)",
-                "url": "/Electrical/SteeringControls/SteeringControls.html"
-            },
-            {
-                "title": "Trailer Plug",
-                "url": "/Electrical/TrailerPlug/TrailerPlug.html"
-            }
-        ]
-    },
-    {
-        "title": "Engine",
-        "items": [
-            {
-                "title": "Alternator",
-                "url": "/Engine/Alternator/Alternator.html"
-            },
-            {
-                "title": "Ignition Coil Pack",
-                "url": "/Engine/IgnitionCoil/IgnitionCoil.html"
-            },
-            {
-                "title": "PCV",
-                "url": "/Engine/PCV/PCV.html"
-            },
-            {
-                "title": "Spark Plugs",
-                "url": "/Engine/SparkPlugs/SparkPlugs.html"
-            },
-            {
-                "title": "Thermostat",
-                "url": "/Engine/Thermostat/Thermostat.html"
-            }
-        ]
-    },
-    {
-        "title": "Miscellaneous",
-        "items": [
-            {
-                "title": "Component Lifespan Information",
-                "url": "/Miscellaneous/Lifespans/Lifespans.html"
-            },
-            {
-                "title": "Parts Sharing",
-                "url": "/Miscellaneous/PartsSharing/PartsSharing.html"
-            },
-            {
-                "title": "Reading Vehicle Identification Numbers (VIN)",
-                "url": "/Miscellaneous/VIN/VIN.html"
-            },
-            {
-                "title": "Vehicle Verification Letters",
-                "url": "/Miscellaneous/VerificationLetter/Verification.html"
-            }
-        ]
-    }
-]
+{
+    "mainNav" : [
+        {
+            "title": "Audio",
+            "items": [
+                {
+                    "title": "Head Unit",
+                    "url": "/Audio/HeadUnit/HeadUnit.html"
+                },
+                {
+                    "title": "Premium Audio System",
+                    "url": "/Audio/PremiumAudio/PremiumAudio.html"
+                },
+                {
+                    "title": "Speakers",
+                    "url": "/Audio/Speakers/Speakers.html"
+                }
+            ]
+        },
+        {
+            "title": "Body",
+            "items": [
+                {
+                    "title": "Door Lock Actuators",
+                    "url": "/Body/DoorLockActuators/DoorLockActuators.html"
+                },
+                {
+                    "title": "Interior Mirror",
+                    "url": "/Body/InteriorMirror/InteriorMirror.html"
+                },
+                {
+                    "title": "Roof Racks",
+                    "url": "/Body/RoofRacks/RoofRacks.html"
+                },
+                {
+                    "title": "Seatbelts",
+                    "url": "/Body/Seatbelts/Seatbelts.html"
+                },
+                {
+                    "title": "Wheels/Tyres",
+                    "url": "/Body/WheelTyres/WheelTyres.html",
+                    "items": [
+                        {
+                            "title": "Tyre Calculator",
+                            "url": "/Body/WheelTyres/TyreCalculator.html"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "ECU & BCM",
+            "items": [
+                {
+                    "title": "Central Locking Key Fob",
+                    "url": "/ECUBCM/Keyfob/Keyfob.html",
+                    "items": [
+                        {
+                            "title": "Manufacturer Specific Instructions - KEYDIY (low success rate)",
+                            "url": "/ECUBCM/Keyfob/KEYDIY/KEYDIY.html"
+                        },
+                        {
+                            "title": "Manufacturer Specific Instructions - Remocon",
+                            "url": "/ECUBCM/Keyfob/Remocon/Remocon.html"
+                        }
+                    ]
+                },
+                {
+                    "title": "DTCs & ECU Location",
+                    "url": "/ECUBCM/DTCCodes/DTCCodes.html"
+                },
+                {
+                    "title": "ECU Throttle Relearn",
+                    "url": "/ECUBCM/ECULearn/ECULearn.html"
+                },
+                {
+                    "title": "Instrument Cluster",
+                    "url": "/ECUBCM/InstrumentCluster/InstrumentCluster.html"
+                }
+            ]
+        },
+        {
+            "title": "Electrical",
+            "items": [
+                {
+                    "title": "Accessory Plug (blue under-dash connector)",
+                    "url": "/Electrical/AccessoryPlug/AccessoryPlug.html"
+                },
+                {
+                    "title": "Air Conditioner Controls (Series 1)",
+                    "url": "/Electrical/ACControls/AC-S1.html"
+                },
+                {
+                    "title": "Cabin Fuse Panel",
+                    "url": "/Electrical/CabinFusePanel/CabinFusePanel.html"
+                },
+                {
+                    "title": "Centre Console Buttons",
+                    "url": "/Electrical/CentreConsoleButtons/CentreConsoleButtons.html"
+                },
+                {
+                    "title": "Driver-Side Interior Buttons",
+                    "url": "/Electrical/DriverButtons/DriverButtons.html"
+                },
+                {
+                    "title": "Fuses & Relays",
+                    "url": "/Electrical/Fuses/Fuses.html"
+                },
+                {
+                    "title": "Headlight Switch",
+                    "url": "/Electrical/HLSwitch/HLSwitch.html"
+                },
+                {
+                    "title": "Rear Lights Connector",
+                    "url": "/Electrical/RearLights/RearLights.html"
+                },
+                {
+                    "title": "Relays (General Information)",
+                    "url": "/Electrical/Relays/Relays.html"
+                },
+                {
+                    "title": "Steering Wheel Controls (Cruise/Media buttons)",
+                    "url": "/Electrical/SteeringControls/SteeringControls.html"
+                },
+                {
+                    "title": "Trailer Plug",
+                    "url": "/Electrical/TrailerPlug/TrailerPlug.html"
+                }
+            ]
+        },
+        {
+            "title": "Engine",
+            "items": [
+                {
+                    "title": "Alternator",
+                    "url": "/Engine/Alternator/Alternator.html"
+                },
+                {
+                    "title": "Ignition Coil Pack",
+                    "url": "/Engine/IgnitionCoil/IgnitionCoil.html"
+                },
+                {
+                    "title": "PCV",
+                    "url": "/Engine/PCV/PCV.html"
+                },
+                {
+                    "title": "Spark Plugs",
+                    "url": "/Engine/SparkPlugs/SparkPlugs.html"
+                },
+                {
+                    "title": "Thermostat",
+                    "url": "/Engine/Thermostat/Thermostat.html"
+                }
+            ]
+        },
+        {
+            "title": "Miscellaneous",
+            "items": [
+                {
+                    "title": "Component Lifespan Information",
+                    "url": "/Miscellaneous/Lifespans/Lifespans.html"
+                },
+                {
+                    "title": "Parts Sharing",
+                    "url": "/Miscellaneous/PartsSharing/PartsSharing.html"
+                },
+                {
+                    "title": "Reading Vehicle Identification Numbers (VIN)",
+                    "url": "/Miscellaneous/VIN/VIN.html"
+                }
+            ]
+        }
+    ],
+    "archivedNav": [
+        {
+            "title": "Archived",
+            "items": [
+                {
+                    "title": "Vehicle Verification Letters",
+                    "url": "/Miscellaneous/VerificationLetter/Verification.html"
+                }
+            ]
+        }
+    ]
+}
