@@ -52,7 +52,7 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 > For EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#information-cross-referencing), Product code `711053`
 {: .block-note}
 
-> Wire colors may not be accurate, these colors are derived from a Series 1 car so may not be representative of Series 2 or 3 vehicles
+> Every effort has been made to make this information accurate, however wire colors may be different depending on series
 {: .block-note}
 
 | Pin # | Function | EAI Wire Color | Wire Color
@@ -63,15 +63,15 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 | 04 | Left Front Speaker + | White | Orange/Grey |
 | 05 | Right Rear Speaker + | Purple | Blue/Red |
 | 06 | Left Rear Speaker + | Green | Pink/Green |
-| 07 | Dimmer Output (Not required) | Orange | Blue/Grey |
+| 07 | Dimmer Output (Not required) | Orange | Blue/Red/Grey |
 | 08 | GND | Black | Black/Blue |
-| 09 | Accessory Power 12v + | Red | Purple/Pink |
+| 09 | Accessory Power 12v + | Red | Purple/Pink/Grey |
 | 10 | N/a | N/a | N/a |
 | 11 | N/a | N/a | N/a |
 | 12 | Right Front Speaker - | Grey/Black | Grey/Black |
-| 13 | 12v Antenna (Not required) | Blue | Red/Blue |
+| 13 | 12v Antenna (Not required) | Blue | Red/Blue/Grey |
 | 14 | Left Front Speaker - | White/Black | Orange/Black |
-| 15 | Right Rear Speaker - | Purple/Black | Blue/Grey |
+| 15 | Right Rear Speaker - | Purple/Black | Blue/Black/Grey |
 | 16 | Mute | Pink | Light Green/Grey |
 | 17 | Left Rear Speaker - | Green/Black | Pink/Black |
 | 18 | External Controls | (Brown) | Red/White |
