@@ -1,5 +1,5 @@
 ---
-description: " - (partial) list of shared parts for Ford Falcons XF/EA/EB/EF/EL/AU/BA/BF/FG, Ford Falcon XG/XH, and Ford Territory SX/SY/SZ"
+description: " - (partial) list of shared parts from Ford Falcons XA/XB/XC/XD/XE/XF/XG/XH/EA/EB/EF/EL/AU/BA/BF/FG, and Ford Territory SX/SY/SZ"
 ---
 
 # Parts Sharing
@@ -26,13 +26,14 @@ Please see the table below for shared parts:
 | --- | --- | --- |
 | A Pillar Plastic Trim | AU-BFIII | All physically fit however care should be taken regarding tweeter mounting areas from higher models |
 | Air box | EF-AUIII | piping from BA-BFIII Falcon also compatible, but air box itself does not bolt to body correctly |
+| Alloy Wheel Centre Cap | EF-FG, SX-SYII | Approx. 65mm diameter x 15mm height, does not include specialty alloys |
 | Alternator | AU-BAII, SX | newer models employed a 3-pin connector which was different to the AU |
 | B Pillar Plastic Trim (Upper/Lower) | AU-BFIII | All physically fit however adjustable seatbelt height not present on AUI Falcon |
 | Boot Button | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
 | C Pillar Plastic Trim | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain sub-models contain additional spring that will help with longevity. BF Falcon Keyhole for drivers door not compatible due to different key types |
 | [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter |
-| Engine Belt Cover | EF-AUIII, XH-XHII | Requires 13mm bolt with 10mm thread on top. AU VCT cover compatible with non-VCT models, but not vice versa |
+| Door Rubber Seals | AU-BFIII | |
 | Exhaust Header | EA-AUIII | |
 | Exhaust assembly (Cat Back) | EA-AUIII | Live axle Sedans and Wagons only, Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Front Door Shell | AU-BFIII | |
@@ -53,6 +54,7 @@ Please see the table below for shared parts:
 | Roof Racks (Door-Mount) ([Sedan](../../Body/RoofRacks/RoofRacks.md#sedans)\|[Wagon](../../Body/RoofRacks/RoofRacks.md#station-wagons-without-factory-rails)\|[Ute](../../Body/RoofRacks/RoofRacks.md#utes)) | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan. Note bar length is slightly shorter on AU-AUIII VS BA-BFIII Falcon Sedans, but Wagons are the same dimensions |
 | [Roof Racks (Factory-Fitted Station Wagon Rail)](../../Body/RoofRacks/RoofRacks.md#station-wagons-with-factory-rails) | AU-BFIII | Uses Gutter-mount style mounting mechanism. using adjustable length roof racks for fleet-vehicle models such as a Toyota Hiace (low Roof preferred) or a Mitsubishi Express may be a cheap source of roof racks |
 | [Seatbelts](../../Body/Seatbelts/Seatbelts.md) | AU-BFIII | |
+| Serpentine Belt Cover | EF-AUIII, XH-XHII | Requires 13mm bolt with 10mm thread on top. AU VCT cover compatible with non-VCT models, but not vice versa |
 | [Spark Plugs](../../Engine/SparkPlugs/SparkPlugs.md) | EA-AUIII, XG-XHII | |
 | [Speakers (Front)](../../Audio/Speakers/Speakers.md) | AU-BFIII | |
 | [Speakers (Rear)](../../Audio/Speakers/Speakers.md) | AU-BFIII | Where fitted, Note various speakers used on different variants but should all match per model e.g. AU Station Wagon = BF Station Wagon |
@@ -61,3 +63,4 @@ Please see the table below for shared parts:
 | [Trailer Plug](../../Electrical/TrailerPlug/TrailerPlug.md) | AU-BFIII, SX-SZ | Harness only applicable for basic trailer lighting (tails, brakes, indicators, reverse lamps), more complex plug required for functionality such as reversing sensors (where fitted) |
 | Weathershields (Front) | AU-BFIII | Aftermarket or OEM inclusive |
 | Weathershields (Rear) | AU-BFIII | Aftermarket only as OEM part not manufactured. Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
+| Wheel Centre Caps | XA-FGX | Only applies to Interceptor style "Steelie" wheels, not included from fctory in some models but fits all 5x114.7 PCD steel wheels |
