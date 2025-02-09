@@ -1,5 +1,5 @@
 ---
-description: - Uncategorized notes not requiring a dedicated page
+description: Uncategorized notes not requiring a dedicated page
 ---
 
 # Miscellaneous Notes
