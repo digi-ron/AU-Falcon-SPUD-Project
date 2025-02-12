@@ -34,14 +34,15 @@ Please see the table below for shared parts:
 | [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain sub-models contain additional spring that will help with longevity. BF Falcon Keyhole for drivers door not compatible due to different key types |
 | [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter |
 | Door Rubber Seals | AU-BFIII | |
+| Exhaust Hangers | EA-FGX | |
 | Exhaust Header | EA-AUIII | |
 | Exhaust assembly (Cat Back) | EA-AUIII | Live axle Sedans and Wagons only, Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Front Door Shell | AU-BFIII | |
 | Fuel Door Button | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
 | Fuel Injectors | EA-FGX, SX-SZII, XG-XHII | cc rating is vastly different, 215-220cc rating standard for AU, Tune/ECU/J3 Chip likely required |
 | Fuel Pressure Regulator | AU-FGX | AU uses a 3 bar regulator, but 4 is standard in later models, Tune/ECU/J3 Chip likely required |
-| [Ignition Coil Pack](../../Engine/IgnitionCoil/IgnitionCoil.md) | EF-AU | only compatible with S1 AU Falcons |
-| Ignition Leads | EF-AU | only compatible with S1 AU Falcons |
+| [Ignition Coil Pack](../../Engine/IgnitionCoil/IgnitionCoil.md) | EF-AUI | only compatible with S1 AU Falcons |
+| Ignition Leads | EF-AUI | only compatible with S1 AU Falcons |
 | Interior Map Lights | AU-BFIII | Light inner assembly also the same as SX-SY Territory models, however fascia is different |
 | [Interior Mirror](../../Body/InteriorMirror/InteriorMirror.md) | AU-FGX, SX-SZII | AUI Mirrors have grub screw mounting rather than clip, but all are interchangeable |
 | Mirror Switch | EF-BFIII | |
