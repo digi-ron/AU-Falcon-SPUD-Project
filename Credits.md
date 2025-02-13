@@ -77,7 +77,7 @@ hidePrint: true
 
 ## About the Author (And Project SPUD Lore)
 
-Hi, my name's Ronnie, and I've always been a fan of the AU Falcon since I was young. It all started when Dad got a white Forte Wagon that lasted nearly 500,000kms while towing a 2 tonne trailer when I was a kid. That car only got taken off the road because the rear-end needed significant work to pass a NSW Roadworthy, and it was a bush bomb for a little while but we had to get rid of it for money eventually.
+Hi, my name's Ronnie, and I've always been a fan of the AU Falcon since I was young and the AUs were near-new. For me, it started when Dad got a white Forte Wagon that lasted nearly 500,000kms while towing a 2 tonne trailer when I was a kid. That car only got taken off the road because the rear-end needed significant work to pass a NSW Roadworthy, and it was a bush bomb for a little while but we had to get rid of it for money eventually.
 
 Flash-forward to 2018 and I was very keen to upgrade from my first car, a wrecker-sold 1995 Ford Festiva Trio which was costing me half as much in oil as fuel and putting me $1,000 down each year for NSW roadworthy repairs. And there it was, a Series 3 SR Wagon in Venom Red, 150,000-ish kms on the clock and logbook servicing all the way through. Needless to say I snapped it up the moment I took it for a test drive and haggled with the dealer, and it's been mostly bliss since (barring some factory parts turning to dust and the damn high pressure steering line)
 
