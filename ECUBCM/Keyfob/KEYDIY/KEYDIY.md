@@ -21,9 +21,15 @@ description: keyfob cloning instructions using a KEYDIY branded keyfob and progr
     > There is a level of "fob lottery" involved in this, as some fobs are inaccurate in their frequencies thanks to poor quality control
     {: .block-note}
 
-- A KEYDIY programmer. The cheaper cable programmer will work fine, but requires an Android device and the KEYDIY App to operate. The only alternative is a bluetooth programmer such as the KD900+, however this is not financially viable for most people
+- A KEYDIY programmer (Shown below)
 
-<!--TODO add pics of programmers-->
+![KD900+ KEYDIY Programmer](./keydiy-kd900+.jpg)
+![KD-Mini KEYDIY Cable](./keydiy-kd-mini.jpg)
+
+> The KD900+ and KD-Mini programmers respectively, for use with the KEYDIY App for either Windows or Android
+
+> Recommended configuration is to use the KD-Mini programmer on an Android device, as the Windows application has limited functionality and the iPhone app is only compatible with the KD900+ (Poor value proposition)
+{: .block-note}
 
 ## Instructions - Smartlock
 
@@ -59,5 +65,7 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 
 ![KEYDIY fob exterior](./dodgy-keydiy-fob.jpg)
 ![KEYDIY fob board](./dodgy-keydiy-fob-board.jpg)
+![KEYDIY fob generic](./keydiy-generic-remote.jpg)
+![KEYDIY fob generic internal](./keydiy-generic-remote-dissassembled.jpg)
 
-> Photos of the casing and board of a KEYDIY based keyfob. Device provided by [RemotePro](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
+> Photos of the casing and board of 2 KEYDIY based keyfobs. First remote shown provided by [RemotePro](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
