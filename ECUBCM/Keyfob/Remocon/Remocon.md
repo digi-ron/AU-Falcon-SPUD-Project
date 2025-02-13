@@ -39,7 +39,9 @@ description: Keyfob cloning instructions using a Remocon branded keyfob and prog
 
 1. hold the OEM remote to the programming area on the RMC-888 and press and hold the button you would like programmed to button 1 until the display reads `done`. After this the display will show a code such as `b-10`, however this is not particularly important, as this simply denotes the type of Remocon remote that can be used with the copied code
 
-    <!--TODO add photo of the OEM remote on the remocon-->
+    ![Picture of OEM Remote on programming area of Remocon-888](./oem-remote-on-remocon.jpg)
+
+    > place OEM remote as shown
 
 1. the display should now read `r112` to signify the next button to be added to the configuration. continue adding buttons using the above method for up to 5 buttons, then press button 1 to skip through programming of other buttons
 
