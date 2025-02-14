@@ -169,7 +169,11 @@
                     "url": "/Miscellaneous/PartsSharing/PartsSharing.html"
                 },
                 {
-                    "title": "Reading Vehicle Identification Numbers (VIN)",
+                    "title": "Reading the Vehicle Identification Plates",
+                    "url": "/Miscellaneous/BuildPlate/BuildPlate.html"
+                },
+                {
+                    "title": "Reading the Vehicle Identification Numbers (VIN) Plate",
                     "url": "/Miscellaneous/VIN/VIN.html"
                 }
             ]
