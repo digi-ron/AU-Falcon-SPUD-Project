@@ -2,25 +2,89 @@
 description: how to read and decode the VIN number and engine number
 ---
 
-# Reading Vehicle Identification Numbers
+# Reading the Vehicle Identification Number Plate
 
-> Information from this was largely scattered across multiple forum posts dated as early as 2005, information may be helpful but may *not* be 100% accurate. To date this has been tested working on `10` VINs
+## Location
+
+You can find the Build plate near the [Build Plate](../BuildPlate/BuildPlate.md), on the passenger side rear of the inside of the engine bay.
+
+<!--TODO add pic of location-->
+
+## Codes and What They Mean
+
+### Approval No.
+
+> The approval number is simply a reference number that can be checked against by authorities. There is no public database of the information linking this number to any paperwork known.
+{: . block-note}
+
+### Category
+
+This code refers to the type of vehicle this has been classified as under the relevant Australian Design Rules (ADRs). All AU Falcons should be classified as `MA` Category, however for completeness of information, a list on *all* non-commercial ADR categories are listed below:
+
+- L - 2-3 wheeled vehicles
+  - `LA` - Moped
+  - `LB` - 3 wheeled Moped
+  - `LC` - Motorbike
+  - `LD` - Motorbike with sidecar
+  - `LE` - 3 wheeled motorbike
+- M - Passenger Vehicles
+  - `MA` - Passenger vehicle not covered by `MB` or `MC`
+  - `MB` - Forward-control passenger vehicle with less than 9 passengers (e.g. Toytoa HiAce)
+  - `MC` - Off-road passenger vehicle
+  - `MD` - Omnibus (not exceeding 5t)
+  - `ME` - Omnibus (exceeding 5t)
+
+### Vehicle Description
+
+This section does not have a title printed on the plate, but has generic information on the type of vehicle it is attached to, likely according to a classification system defined in the ADR legislation. Known values are listed below:
+
+| Description | Known Models |
+| --- | --- |
+| `FORD PASSENGER CAR 1` | Sedan, Wagon |
+| `FORD AU COMMERCIAL 1` | Ute |
+
+### GVM kg
+
+Gross Vehicle Mass, or GVM, refers to the maximum weight a vehicle can carry when fully loaded, Including the vehicle weight, passengers, cargo, fuel and other equipment. While this number is not stamped on most models, the general consensus is that the GVM would range from 2420-2740kg.
+
+> Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through [Magnum MFG](../../Credits.md#information-cross-referencing) website
 {: .block-note}
 
-## Decoding the VIN
+> This section is also present on the [Vehicle Identification Plate](../BuildPlate/BuildPlate.md#gvm-kg)
+{: .block-note}
 
-The VIN for AU Falcons can be decoded to determine the specifics of the car, and in some cases to ensure that the VIN supplied in a sale or registration situation matches what should be associated with the car. The information for this is as follows
+### Seats
 
-### Characters 1-3 - "6FP"
+This code is the number representation for the factory fitted seats available in the car on manufacture. Known configurations are shown below:
+
+| Seats | Vehicle(s) |
+| --- | --- |
+| `2` | Ute |
+| `3` | Ute with Bench seat and Column Automatic transmission |
+| `5` | Standard Sedan or Wagon |
+| `6` | Sedan or Wagon with bench seat and Column Automatic transmission |
+
+### Build Date
+
+This section shows you the month and year that the car was assembled, in the format `MM/YY`
+
+### Vehicle Identification Number
+
+The Vehicle Identification Number is the most uniquely identifying number on the vehicle, as is required for registration and compliance reasons. The VIN can be decoded to determine some basic characteristics of the vehicle, and in some cases can be used to ensure that the VIN supplied in a sale or registration situation matches what should be associated with the car. The information for this is as follows:
+
+> Information from this was largely scattered across multiple forum posts dated as early as 2005, information may be helpful but may *not* be 100% accurate. To date this has been tested working on `11` VINs
+{: .block-note}
+
+#### Characters 1-3 - "6FP"
 All AU Falcons should start with the first 3 characters `6FP`, due to the fact that these characters appear to represent the unique identifier for Ford Australia
 
 > theoretically this is supposed to stand for 6 = Australia and FP = Ford Australia, but there was no known source for this information other than word-of-mouth
 {: .block-note}
 
-### Characters 4-6 - "AAA"
+#### Characters 4-6 - "AAA"
 Similar to the first 3 characters, the following 3 are also always going to be the same, this time `AAA`, however this is due to the letters being unused, not because they mean anything
 
-### Characters 7-8 - "JG" 
+#### Characters 7-8 - "JG" 
 Similar again to the first 6 characters, the last 2 characters that should be the same for the AU Falcon are `JG`. These codes stand for the following:
 - J - Product source location code for Australia
 - G - Assembly plant code for Broadmeadows, VIC
@@ -28,7 +92,7 @@ Similar again to the first 6 characters, the last 2 characters that should be th
 > to summarize, any AU Falcon should start with `6FPAAAJG`
 {: .block-note}
 
-### Characters 9-10 - body style
+#### Characters 9-10 - body style
 these characters appear to signify the body style for the Falcon. Note that this *does not* signify the exact trim model, but rather the chassis that the model is built on, which can narrow it down as below:
 - SW - Short Wheel Base
   - Fairmont Sedan
@@ -56,13 +120,13 @@ these characters appear to signify the body style for the Falcon. Note that this
   - XL Ute
   - XLS Ute
 
-### Characters 11-12 - Manufacture Date
+#### Characters 11-12 - Manufacture Date
 These characters define the year and month respectively that the car was manufactured. Use the list below of values to determine the code for the vehicle, based on the format below:
 
 > The benefit to this is that the month and year gleaned from this will also be the RAV entry date, should you need it for registration etc.
 {: .block-note}
 
-#### Legend
+##### Legend
 
 - Character 11 - Year
   - Character 12 - Month
@@ -124,15 +188,15 @@ These characters define the year and month respectively that the car was manufac
   - Aug - P
   - Sep - B
 
-### Characters 13-17 - Serial Number
+#### Characters 13-17 - Serial Number
 
 The final 5 characters are a unique serial number to identify the car. The only known rules about these characters is that they should all be numeric, and that they *should* be printed sequentially, meaning that in theory you *could* more accurately determine manufacture date assuming you had a vast amount of VINs from the same month/year
 
 ---
 
-## Engine Numbers
+### Engine Number
 
-To ensure that you have the matching engine to the original chassis, you can check the number stamped into the engine block to determine if it matches the Body:
+To ensure that you have the matching engine to the original chassis, you can check the number stamped into the engine block to determine if it matches the Body. The engine number is the last section of the VIN, explained below:
 
 > the engine number should match the last 11 digits of the VIN on the body and VIN plate on the car, e.g. the following VIN:
 > 
@@ -143,9 +207,7 @@ To ensure that you have the matching engine to the original chassis, you can che
 > `JGSWYB12345`
 {: .block-note}
 
-Check on the rear lower section of the block, on the exhaust side near the bell housing mount for the transmission
+The Engine number should also be locatable on the rear lower section of the engine block, on the exhaust side near the bell housing mount for the transmission
 
 > due to age, the engine number may be hard to ascertain, as the area the number is dot-matrix stamped onto is prone to long-term surface rust. rubbing flour over it can make damaged numbers more legible if damage is minor, but moderate to severe rust will render it unreadable
 {: .block-note}
-
-> Intended image not added to this project as severe surface rust present on engine of vehicle
