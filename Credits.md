@@ -29,6 +29,7 @@ hidePrint: true
 - [Haynes Manuals](https://haynes.com/en-au/ford/falcon/1998-2002-petrol)
 - [Kenwood](https://www.kenwood.com/au/)
 - [KEYDIY](https://www.keydiy.com/)
+- [Magnum MFG](https://www.magnummfg.com.au/)
 - [Max Ellery](https://ellery.com.au/shop/falconfairlane-vehicle-repair-manual-99-02/)
 - [MotoringBox](https://www.motoringbox.com/)
 - [mycar](https://www.mycar.com.au/)
