@@ -10,7 +10,7 @@ Due to the change from Smartlock to Smartshield midway through the AU Falcon S1 
 ### S1 Smartlock
 These remotes are actually inherited from the EL Falcon before it, and are a 304mHz sender with a Ford specific secure code built in to discern individual remotes. As a result of their age, finding good condition original ones are becoming harder, and even once found the rubber buttons are prone to wearing quicker than their S2-3 counterparts. They appear to use a fixed code sending mechanism, however the specifics of each fobs codes is yet to be decoded
 
-> As of time of writing in 2024, the only manufacturer of "off the shelf" aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#information-cross-referencing), however their remotes have a high failure rate
+> As of time of writing in 2024, the only manufacturer of "off the shelf" aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#information-cross-referencing), however their remotes have a high failure rate. Please see the list in the [Aftermarket Replacement](#aftermarket-replacements) section for better remote clone options
 {: .block-note}
 
 ![Series 1 keyfob front](./s1-fob-front.jpg)
@@ -51,17 +51,21 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 ## Changing locking mode (Smartshield models only)
 
-In the Smartshield models of AU Falcon (Late S2-3), a locking mode can be specified using a factory remote. Note that this does *not* work on any known aftermarket remote, only the Ford OEM Remotes. To change the remote mode, simply hold down the lock and unlock buttons at the same time for approximately 3-5 seconds, the car will acknowledge with a flash of the indicators. The 2 modes available are:
+In the Smartshield models of AU Falcon (Late Series 1 - Series 3), a locking mode can be specified using a factory remote. Note that this does *not* work on any known aftermarket remote, only the Ford OEM Remotes. To change the remote mode, simply hold down the lock and unlock buttons at the same time for approximately 3-5 seconds, the car will acknowledge with a flash of the indicators. The 2 modes available are:
 
 - Single press (one press of the unlock button unlocks all doors)
 - Double press (one press of the unlock button unlocks the drivers door only, another press unlocks the remaining doors)
 
 ## Aftermarket replacements
 
-Below is discovered information found while attempting to create a DIY aftermarket guide to creating Smartlock/Smartshield remotes using off the shelf solutions (bias towards Smartlock due to higher ROI if successful):
+Below is discovered information found while attempting to create a DIY aftermarket guide to creating Smartlock/Smartshield remotes using off the shelf solutions (heavy bias towards Smartlock due to higher ROI if successful):
+
+### Code Ezy
+- confirmed available aftermarket remote as model CE1009 (Product name: Idol Duplicator)
+- can only be used to copy existing remote, therefore one OEM remote required.
 
 ### KEYDIY
-- confirmed available aftermarket fob is KEYDIY B09-3 universal fob
+- confirmed available aftermarket fob is off-the-shelf version of KEYDIY B09-3 universal fob, advertised through multiple sources as specific for EB-AU1 Ford Falcons
 - profiles available for both Smartlock and Smartshield, however unable to copy OEM remotes and uses the same code for every remote
 - "off the shelf" replacements have very low success rate
 - [Instructions](./KEYDIY/KEYDIY.md)
@@ -69,10 +73,12 @@ Below is discovered information found while attempting to create a DIY aftermark
 ### Remocon
 - compatible aftermarket remote confirmed as model RMC-555 (requires RMC-888 programmer, first confirmed 18/12/24)
 - can only be used to copy existing remote, therefore one OEM remote required.
-- [Instructions (Series 1 Smartlock only)](./Remocon/Remocon.md)
+- confirmed Smartlock systems only, incompatible with Smartshield code-hopping
+- [Instructions](./Remocon/Remocon.md)
 
 ### RemoteKing
 - aftermarket remote confirmed as model RCR15 (untested)
+- can only be used to copy existing remote, therefore one OEM remote required.
 - difficult to acquire after 22/06/2022 due to changes in battery safety standards
 - not pursued due to difficulty acquiring
 
