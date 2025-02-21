@@ -56,6 +56,10 @@
                     "url": "/ECUBCM/Keyfob/Keyfob.html",
                     "items": [
                         {
+                            "title": "Manufacturer Specific Instructions - CodeEzy",
+                            "url": "/ECUBCM/Keyfob/CodeEzy/CodeEzy.html"
+                        },
+                        {
                             "title": "Manufacturer Specific Instructions - KEYDIY (low success rate)",
                             "url": "/ECUBCM/Keyfob/KEYDIY/KEYDIY.html"
                         },
