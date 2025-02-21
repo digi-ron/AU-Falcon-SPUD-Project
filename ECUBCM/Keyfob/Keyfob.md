@@ -60,9 +60,10 @@ In the Smartshield models of AU Falcon (Late Series 1 - Series 3), a locking mod
 
 Below is discovered information found while attempting to create a DIY aftermarket guide to creating Smartlock/Smartshield remotes using off the shelf solutions (heavy bias towards Smartlock due to higher ROI if successful):
 
-### Code Ezy
+### CodeEzy
 - confirmed available aftermarket remote as model CE1009 (Product name: Idol Duplicator)
 - can only be used to copy existing remote, therefore one OEM remote required.
+- [Instructions](./CodeEzy/CodeEzy.md)
 
 ### KEYDIY
 - confirmed available aftermarket fob is off-the-shelf version of KEYDIY B09-3 universal fob, advertised through multiple sources as specific for EB-AU1 Ford Falcons
