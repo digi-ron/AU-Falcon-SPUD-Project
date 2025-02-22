@@ -27,8 +27,8 @@ The S1 mirrors can be easily removed in comparison to their newer counterparts. 
 
 The Later models are much higher risk to remove, and as such are not a job to be done lightly. If possible, it is advised to replace with a aftermarket replacement or Series 1 mirror if possible to avoid issues in the future. To add insult to injury, these mirrors are the same as all Falcons and Territory models from the AUII onwards, and can be prone to rattling as they age due to the lack of a grub screw or similar. Steps to remove are below:
 
-> Lack of pictures as project only involves S1 vehicle
-{: .block-note}
+![Series 3 Mirror](./s3-mirror.jpg)
+> A picture of a Series 3 mirror mounting piece. Note that this part is very [similar to later models of Falcon](../../Miscellaneous/PartsSharing/PartsSharing.md)
 
 > Professional removal recommended. Windscreen repair shops may even do this for free if asked nicely
 {: .block-note}
@@ -42,5 +42,3 @@ The Later models are much higher risk to remove, and as such are not a job to be
 1. remove the assembly by rocking the base back and forth gently while pulling up and back
 1. to reinstall or replace, gently push the new housing onto the metal clip, wiggling back and forth and using a small rubber mallet only if absolutely necessary. You should stop when the bottom of the base is past the end of the steel mounting point, and there is a click heard from the retaining clip
 1. done
-
-<!--TODO add pic of S3 mirror-->
