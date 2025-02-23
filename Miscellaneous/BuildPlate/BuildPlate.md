@@ -16,7 +16,7 @@ You can find the Build plate near the [VIN Plate](../VIN/VIN.md), on the passeng
 
 ### VIN
 
-The Vehicle Indentification Number, or VIN, is printed on the build plate ass redundant information. Further information can be found on the [VIN Plate Page](../VIN/VIN.md)
+The Vehicle Indentification Number, or VIN, is printed on the build plate as redundant information. Further information can be found on the [VIN Plate Page](../VIN/VIN.md)
 
 ### SIDO Number
 
@@ -48,13 +48,19 @@ The Model number is a more specific identifier of the trim model that the vehicl
 
 The engine code identifies the specific factory motor that was installed. Refer to the table below for what each code corresponds to:
 
-| Code | Engine | Notes |
-| --- | --- | --- |
-| `H` | I6 | Base Model Engine |
-| `S` | I6 LPG | Gas Engine, Green rocker cover. Standard in Taxi Models |
-| `X` | I6 HP | High Horsepower I6 motor, Red rocker cover. Standard in XR6 Models |
-| `Y` | I6 VCT | Variable Cam Timing Motor, Red rocker cover with visible VCT Solenoid fitted to front of Rocker Cover, VCT branding on top of rocker cover |
-| `Z` | V8 (5L) | Standard in XR8 models. Note that Tickford models were modified from this base and should come with an additional, Tickford specific, modification plate |
+| Code | Engine | Identifiable Traits | Notes |
+| --- | --- | --- | --- |
+| `H` | I6 | Silver rocker cover | Base Model Engine |
+| `S` | I6 LPG | Green rocker cover | Gas Engine. Standard in Taxi Models |
+| `X` | I6 HP | Red rocker cover | High Horsepower I6 Engine. Standard in XR6 Models |
+| `Y` | I6 VCT | Red rocker cover with visible VCT solenoid fitted to front and `VCT` embossed on top of rocker cover | Variable Cam Timing Engine |
+| `Z` | V8 (5L) | Only standard V8 | Standard in XR8 models |
+
+> Some engines may be harder to identify due to changed parts since assembly. This is only a guide to what the car had from the factory, not what has been replaced or painted since.
+{: .block-note}
+
+> Any model with Tickford additions, in particular the T*50 models, should have an additional Tickford options plate. No information on this plate is known due to project not including Tickford modified model.
+{: .block-note}
 
 ### Transmission
 
