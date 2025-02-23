@@ -4,7 +4,9 @@ description: how to get an official Ford Verification Letter. Will work with oth
 
 # Verification Letters
 
-> This information is no longer relevant, left as-is with no updates planned as of 05/02/2025
+> This information is no longer relevant, left as-is with no updates planned as of 05/02/2025. 
+> 
+> REASON: Ford no longer provides information on Australian-made vehicles, either due to the age of the models or the decommissioning of Australian-specific departments.
 {: .block-warning}
 
 If you believe you have a rare trim of Ford Falcon and would like more information on the specifics of how many with the exact same options were made, you can create a ticket with Ford Australia requesting a Vehicle Verification Letter. Note that Ford will likely request any or all of the following information to service your request:
