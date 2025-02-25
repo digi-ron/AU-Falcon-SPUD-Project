@@ -24,6 +24,7 @@ hidePrint: true
 > No information was directly copy-pasted from any of the following. Instead, they were used to compliment information in other places, or to serve as a base for a variation of steps for some procedures
 {: .block-note}
 
+- [Automotive Catalogue](https://www.automobile-catalog.com)
 - [Aerpro](https://aerpro.com/)
 - [FordForums](https://www.fordforums.com.au/)
 - [FordMods](https://www.fordmods.com/)
