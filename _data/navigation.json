@@ -182,7 +182,13 @@
                 },
                 {
                     "title": "Reading the Vehicle Identification Number (VIN) Plate",
-                    "url": "/Miscellaneous/VIN/VIN.html"
+                    "url": "/Miscellaneous/VIN/VIN.html",
+                    "items": [
+                        {
+                            "title": "VIN Decoder",
+                            "url": "/Miscellaneous/VIN/VINDecoder.html"
+                        }
+                    ]
                 }
             ]
         }
