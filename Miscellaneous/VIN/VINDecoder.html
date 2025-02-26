@@ -1,0 +1,199 @@
+---
+layout: default
+hideTOC: true
+---
+<!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
+<!--file not generated using markdown as too complex: required more HTML tags than markdown syntax to make functional-->
+<script>
+    const vinValidationRegex = /[6][F][P][A]{3}[J][G]((SW)|(LW)|(WA)|(CM))[WXY12][BRAGCKDELYSTJUMP][0-9]{5}/i;
+
+    const chassisObj = {
+        "SW": {
+            "name": "Short Wheelbase",
+            "description": "likely a Forte/Futura/Fairmont/XR6/XR8 Sedan"
+        },
+        "LW": {
+            "name": "Long Wheelbase",
+            "description": "likely a Fairlane/LTD"
+        },
+        "WA": {
+            "name": "Wagon",
+            "description": "likely a Forte/Futura/Fairmont Wagon"
+        },
+        "CM": {
+            "name": "Commercial",
+            "description": "likely a Falcon XL/XLS/XR6/XR8 Ute"
+        }
+    }
+
+    const monthArr = ["B", "R", "A", "G", "C", "K", "D", "E", "L", "Y", "S", "T", "J", "U", "M", "P"];
+
+    const yearArrObj = {
+        "W": {
+            "offset": 0,
+            "year": 1998
+        },
+        "X": {
+            "offset": 5,
+            "year": 1999
+        },
+        "Y": {
+            "offset": 0,
+            "year": 2000
+        },
+        "1": {
+            "offset": 13,
+            "year": 2001
+        },
+        "2": {
+            "offset": 9,
+            "year": 2002
+        }
+    }
+
+    function getVINformation(vin) {
+        if (vin === "" || vin === null) {
+            console.error("VIN is empty");
+            setErrorLevel(-1);
+            return;
+        }
+        if (!RegExp(vinValidationRegex).test(vin)) {
+            console.error("Invalid VIN");
+            setErrorLevel(1);
+            return;
+        }
+
+        vin = vin.toUpperCase();
+
+        document.getElementById("vinInput").value = vin;
+
+        const output = {
+            "vin": vin,
+            "chassis": {
+                "chars": "",
+                "name": "",
+                "description": ""
+            },
+            "date": {
+                "chars": "",
+                "date": undefined,
+                "friendlyDate": ""
+            },
+            "engineNumber": ""
+        }
+
+        console.log(JSON.stringify(output));
+
+        const chassisChars = vin.slice(8,10);
+        console.log(chassisChars);
+        output.chassis.chars = chassisChars;
+        output.chassis.name = chassisObj[chassisChars].name;
+        output.chassis.description = chassisObj[chassisChars].description;
+
+        const datechars = vin.slice(10, 12)
+        output.date.chars = datechars;
+        const VINYear = yearArrObj[datechars[0]].year
+        const VINYearMonths = [...monthArr.slice(yearArrObj[datechars[0]].offset), ...monthArr.slice(0, yearArrObj[datechars[0]].offset)]
+        const VINMonth = VINYearMonths.indexOf(datechars[1]) + 1
+        const VINDate = new Date(VINYear, VINMonth)
+        output.date.date = VINDate;
+        output.date.friendlyDate = `${VINDate.toLocaleString('default', { month: 'long' })}, ${VINYear}`
+
+        output.engineNumber = vin.slice(6)
+        setFieldValues(output);
+        setErrorLevel(0);
+    }
+
+    function setFieldValues(inputObj) {
+        document.getElementById("chassisOutput").innerHTML = `${inputObj.chassis.chars} - ${inputObj.chassis.name} <i>(${inputObj.chassis.description})</i>`;
+
+        document.getElementById("dateOutput").innerHTML = `${inputObj.date.chars} - manufactured during ${inputObj.date.friendlyDate}`;
+
+        document.getElementById("engineNumber").innerText = inputObj.engineNumber;
+    }
+
+    function clearVINResults() {
+        document.getElementById("vinInput").value = "";
+        document.getElementById("chassisOutput").innerText = "-";
+        document.getElementById("dateOutput").innerText = "-";
+        document.getElementById("engineNumber").innerText = "-";
+        document.getElementById("vinErr").innerText = "";
+        document.getElementById("vinErr").classList = "";
+    }
+
+    //enter 0 for success, 1 for error, -1 for blank
+    function setErrorLevel(errorLevel) {
+        const targetElm = document.getElementById("vinErr");
+
+        switch (errorLevel) {
+            case 0:
+                targetElm.innerText = "Valid VIN";
+                targetElm.classList = "good-highlight";
+                break;
+            case 1:
+                targetElm.innerText = "Invalid VIN";
+                targetElm.classList = "bad-highlight";
+                break;
+            case -1:
+                targetElm.innerText = "VIN is empty";
+                targetElm.classList = "other-highlight";
+                break;
+            default:
+                console.error("Invalid error level");
+                targetElm.innerText = "ERROR: FATAL";
+                targetElm.classList = "block-warning";
+                break;
+        }
+    }
+</script>
+<h1 class="printHide">VIN Information Parser</h1>
+<h1 class="printOnly">VIN Information Parser - Results</h1>
+
+<div class="printHide">
+    <center id="vinErr"></center>
+</div>
+
+<table style="display: table !important; margin-left: auto; margin-right: auto;">
+    <tbody>
+        <tr>
+            <td>
+                <label for="vinInput">VIN:</label>
+            </td>
+            <td>
+                <input type="text" id="vinInput" placeholder="e.g. 6FPAAAJGSW1A12345">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Chassis:
+            </td>
+            <td>
+                <span id="chassisOutput">-</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Date:
+            </td>
+            <td>
+                <span id="dateOutput">-</span>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Original Engine Number:
+            </td>
+            <td>
+                <span id="engineNumber">-</span>
+            </td>
+        </tr>
+        <tr class="printHide">
+            <td style="align-content:right;">
+                <button onclick="getVINformation(document.getElementById('vinInput').value)">Decode VIN</button>
+            </td>
+            <td style="align-content: start;">
+                <button onclick="clearVINResults()">Clear</button>
+            </td>
+        </tr>
+    </tbody>
+</table>
