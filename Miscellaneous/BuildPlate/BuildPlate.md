@@ -100,7 +100,7 @@ The trim code refers to the interior color and accents used throughout the vehic
 | `B1` | Cloth | |
 | `B2` | Cloth | XR6/XR8 |
 | `B3` | Leather | |
-| `B5` | Leather | Promotional* <sup>see note below</sup> |
+| `B5` | Cloth | Promotional* <sup>see note below</sup> |
 | `B7` | Leather | Fairlane Sportsman |
 | `BB` | Leather | Blue trim TE50/TS50 |
 | `BR` | Leather | Red trim TE50/TS50 |
