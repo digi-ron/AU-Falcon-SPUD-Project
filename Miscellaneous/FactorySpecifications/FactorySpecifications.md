@@ -75,48 +75,55 @@
 
 | Specification | Value |
 | --- | --- |
-| Displacement | 5605 cm<sup3></sup> |
+| Displacement | 5605 cm<sup>3</sup> |
 | Power Output | 250kW / 335hp |
 | Torque | 500Nm |
 
 ## By Body Style
 
+> All weights listed vary depending on any of the following:
+> - Trim level
+> - Transmission
+> - Engine
+> - Towbar
+> - additional options fitted
+
 ### Fairlane Sedan
 
-| Specification | Value | Notes |
-| --- | --- | --- |
-| Length | 5140mm | |
-| Weight (Approx.) | 1710-1780kg | Depends on specific options |
-| Wheelbase | 2919mm | |
+| Specification | Value |
+| --- | --- |
+| Length | 5140mm |
+| Weight (Approx.) | 1710-1780kg |
+| Wheelbase | 2919mm |
 
 ### Sedan
 
-| Specification | Value | Notes |
-| --- | --- | --- |
-| Length | 4907mm | |
-| Weight (Approx.) | 1500-1600kg | Depends on specific options |
-| Wheelbase | 2793mm | |
+| Specification | Value |
+| --- | --- |
+| Length | 4907mm |
+| Weight (Approx.) | 1500-1600kg |
+| Wheelbase | 2793mm |
 
 ### TE50/TS50 Sedan
 
-| Specification | Value | Notes |
-| --- | --- | --- |
+| Specification | Value |
+| --- | --- |
 | Length | 4907mm |
-| Weight (Approx.) | 1700-1800kg | Depends on specific options |
-| Wheelbase | 2793mm | |
+| Weight (Approx.) | 1700-1800kg |
+| Wheelbase | 2793mm |
 
 ### Utility
 
-| Specification | Value | Notes |
-| --- | --- | --- |
-| Length | 5077mm | |
-| Weight (Approx.) | 1570-1600kg | Depends on specific options |
-| Wheelbase | 3096mm | |
+| Specification | Value |
+| --- | --- |
+| Length | 5077mm |
+| Weight (Approx.) | 1570-1600kg |
+| Wheelbase | 3096mm |
 
 ### Wagon
 
-| Specification | Value | Notes |
-| --- | --- | --- |
-| Length | 5058mm | |
-| Weight (Approx.) | 1550-1600kg | Depends on specific options |
-| Wheelbase | 2922mm | |
+| Specification | Value |
+| --- | --- |
+| Length | 5058mm |
+| Weight (Approx.) | 1550-1600kg |
+| Wheelbase | 2922mm |
