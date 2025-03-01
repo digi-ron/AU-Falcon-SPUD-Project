@@ -9,7 +9,8 @@ github_username:  digi-ron
 repository: digi-ron/AU-Falcon-SPUD-Project
 lang: en-AU
 
-# custom variable domain - for printable links from sitedump, hard-coded to avoid override of url variable
+# custom domain variables - required for printable pages using CSS in both staticsite zip and live site
+trueroot: "https://digi-ron.github.io"
 domain: "https://digi-ron.github.io/AU-Falcon-SPUD-Project/"
 
 vehicle: "1999, 2000, 2001, and 2002 Ford Falcon AU"
