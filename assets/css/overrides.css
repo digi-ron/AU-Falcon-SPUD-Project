@@ -156,7 +156,7 @@ h1 {
     }
 
     a[href^="/AU-Falcon-SPUD-Project"]::after {
-        content: " (" attr(--trueroot) attr(href) ")";
+        content: " (" var(--trueroot) attr(href) ")";
         color: blue;
     }
 
