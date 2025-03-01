@@ -173,7 +173,7 @@ The Paint code refers to the exterior paint used throughout the vehicle. Refer t
 
 Gross Vehicle Mass, or GVM, refers to the maximum weight a vehicle can carry when fully loaded, Including the vehicle weight, passengers, cargo, fuel and other equipment. While this number is not stamped on most models, the general consensus is that the GVM would range from 2420-2740kg
 
-> Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through [Magnum MFG](../../Credits.md#information-cross-referencing) website
+> Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through [Magnum MFG](../../Credits.md#sources) website
 {: .block-note}
 
 > This section is also present on the [Vehicle Identification Number Plate](../VIN/VIN.md#gvm-kg)
@@ -183,7 +183,7 @@ Gross Vehicle Mass, or GVM, refers to the maximum weight a vehicle can carry whe
 
 The Gross Combination Mass, or GCM, is the maximum weight of a car and trailer combination that can be used with the vehicle. While this number is not stamped on most models, the general consensus is that the GCM would range from 3810-4790kg
 
-> Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through [Magnum MFG](../../Credits.md#information-cross-referencing) website
+> Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through [Magnum MFG](../../Credits.md#sources) website
 {: .block-note}
 
 ### Model information

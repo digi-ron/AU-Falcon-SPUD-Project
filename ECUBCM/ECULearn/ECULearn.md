@@ -4,7 +4,7 @@ description: ECU Relearn procedure
 
 # ECU Relearn
 
-> This is a combination of the steps for an ECU reset and a Throttle Position reset, adapted from [FordMods](../../Credits.md#information-cross-referencing) forum posts
+> This is a combination of the steps for an ECU reset and a Throttle Position reset, adapted from [FordMods](../../Credits.md#sources) forum posts
 {: .block-note}
 
 If your AU Falcon has the battery disconnected for a period of time or engine running items such as the Idle Air Control unit or the fuel injectors are changed, you may find that the car has a stalling or hunting idle issue. If this is the case, follow the procedure below to relearn the throttle and idle parameters

@@ -10,7 +10,7 @@ Due to the change from Smartlock to Smartshield midway through the AU Falcon S1 
 ### S1 Smartlock
 These remotes are actually inherited from the EL Falcon before it, and are a 304mHz sender with a Ford specific secure code built in to discern individual remotes. As a result of their age, finding good condition original ones are becoming harder, and even once found the rubber buttons are prone to wearing quicker than their S2-3 counterparts. They appear to use a fixed code sending mechanism, however the specifics of each fobs codes is yet to be decoded
 
-> As of time of writing in 2024, the only manufacturer of "off the shelf" aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#information-cross-referencing), however their remotes have a high failure rate. Please see the list in the [Aftermarket Replacement](#aftermarket-replacements) section for better remote clone options
+> As of time of writing in 2024, the only manufacturer of "off the shelf" aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#sources), however their remotes have a high failure rate. Please see the list in the [Aftermarket Replacement](#aftermarket-replacements) section for better remote clone options
 {: .block-note}
 
 ![Series 1 keyfob front](./s1-fob-front.jpg)
@@ -88,6 +88,6 @@ Below is discovered information found while attempting to create a DIY aftermark
 - Android app doesn't appear to have any profile matching the Ford Falcon
 
 ### Other Remotes
-- Various unbranded "copy any remote" remotes tested from [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
+- Various unbranded "copy any remote" remotes tested from [AliExpress](../../Credits.md#sources)
 - 4 remotes tested, 4 remotes failed
 - assumed that frequency/signal/baud rate not compatible with cloning sequence for "universal" remotes. This was also confirmed with known working brand [Remocon](./Remocon/Remocon.md) using their universal offering, the RMC-600

@@ -14,7 +14,7 @@ The base model AU Falcon alternator can be identified 2 main mounting bracket ho
 
 ![I6 alternator](./I6-alternator.png)
 
-> image taken from [T.I Performance](../../Credits.md#collected-information-primarily-product-listing-images) product listing page
+> image taken from [T.I Performance](../../Credits.md#sources) product listing page
 
 #### SPECIAL NOTE - Series 1 VS. Series 2-3
 
@@ -33,7 +33,7 @@ The V8 alternator, likely due to different engine configuration and power requir
 
 ![V8 Alternator](./V8-alternator.png)
 
-> image taken from [Repco](../../Credits.md#collected-information-primarily-product-listing-images) product listing page
+> image taken from [Repco](../../Credits.md#sources) product listing page
 
 ## Replacement (I6 Only)
 

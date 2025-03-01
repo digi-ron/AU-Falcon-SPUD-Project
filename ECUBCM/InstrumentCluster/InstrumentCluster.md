@@ -63,11 +63,11 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 ![Male 12 pin connector](./male-12p.png)
 
-> Male connector image taken from [RS Components](../../Credits.md#collected-information-primarily-product-listing-images) product page Datasheet (only good picture of front found)
+> Male connector image taken from [RS Components](../../Credits.md#sources) product page Datasheet (only good picture of front found)
 
 ![Female 12 pin connector](./female-12p.png)
 
-> Female connector image taken from [RS Components](../../Credits.md#collected-information-primarily-product-listing-images) product page (3D model only known good image)
+> Female connector image taken from [RS Components](../../Credits.md#sources) product page (3D model only known good image)
 
 ---
 
@@ -80,11 +80,11 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 ![Male 16 pin connector](./male-16p.png)
 
-> Male connector image taken from [RS Components](../../Credits.md#collected-information-primarily-product-listing-images) product page
+> Male connector image taken from [RS Components](../../Credits.md#sources) product page
 
 ![Female 16 pin connector](./female-16p.png)
 
-> Male connector image taken from [RS Components](../../Credits.md#collected-information-primarily-product-listing-images) product page
+> Male connector image taken from [RS Components](../../Credits.md#sources) product page
 
 ---
 
@@ -96,7 +96,7 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 ![PCB housing](./PCB-28p.png)
 
-> PCB Connector image taken from [RS Components](../../Credits.md#collected-information-primarily-product-listing-images) product page (3D model only known good image)
+> PCB Connector image taken from [RS Components](../../Credits.md#sources) product page (3D model only known good image)
 
 ### 20 way plug - plug behind RPM gauge side of cluster
 
@@ -107,11 +107,11 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 ![Male 20 pin connector](./male-20p.png)
 
-> Male connector image taken from [RS Components](../../Credits.md#collected-information-primarily-product-listing-images) product page
+> Male connector image taken from [RS Components](../../Credits.md#sources) product page
 
 ![Female 20 pin connector](./female-20.png)
 
-> Female connector housing image take from [RS Components](../../Credits.md#collected-information-primarily-product-listing-images) product page
+> Female connector housing image take from [RS Components](../../Credits.md#sources) product page
 
 ## Service spanner (where fitted)
 

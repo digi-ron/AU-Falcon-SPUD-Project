@@ -7,7 +7,7 @@ description: Keyfob cloning instructions using a CodeEzy branded universal keyfo
 ## What you need
 - A CodeEzy Idol universal remote, model number CE1009
 
-    > As of time of writing, CodeEzy do not sell these remotes directly. The largest known online supplier of these remotes is [RemotePro](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters), however they can also be found through sellers on online marketplaces such as [eBay](../../../Credits.md#collected-information-primarily-product-listing-images). Third-party "knock-off" remotes using the same design can be found on overseas marketplaces such as [AliExpress](../../../Credits.md#collected-information-primarily-product-listing-images), however these were not tested and may not function
+    > As of time of writing, CodeEzy do not sell these remotes directly. The largest known online supplier of these remotes is [RemotePro](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters), however they can also be found through sellers on online marketplaces such as [eBay](../../../Credits.md#sources). Third-party "knock-off" remotes using the same design can be found on overseas marketplaces such as [AliExpress](../../../Credits.md#sources), however these were not tested and may not function
     {: .block-note}
 
 ![CodeEzy Remote](./codeezy-remote.jpg)

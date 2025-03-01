@@ -11,7 +11,7 @@ The steering wheel controls for the AU falcon are one of the most fragile parts 
 
 ## Plug Type
 
-The 2 connectors for the Steering wheel controls (other than the blade style horn connector) were originally manufactured by a company known as Delphi as part of the 150 Series of Connectors. While the manufacturer is now known as Aptiv, the following product codes are still relevant, and can be purchased from online marketplaces such as [AliExpress](../../Credits.md#collected-information-primarily-product-listing-images)
+The 2 connectors for the Steering wheel controls (other than the blade style horn connector) were originally manufactured by a company known as Delphi as part of the 150 Series of Connectors. While the manufacturer is now known as Aptiv, the following product codes are still relevant, and can be purchased from online marketplaces such as [AliExpress](../../Credits.md#sources)
 
 | Name | Code | Notes |
 | --- | --- | --- |

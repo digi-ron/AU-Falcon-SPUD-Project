@@ -7,7 +7,7 @@ description: information on the tyre sizes and brake dust covers. also includes 
 ## Known factory tyre sizes
 use the below table as a reference for wheel sizes that should fit all models of Falcon, sorted by rolling diameter:
 
-> All sizes collected from the [mycar](../../Credits.md#information-cross-referencing) website. As such information may be incomplete or incorrect
+> All sizes collected from the [mycar](../../Credits.md#sources) website. As such information may be incomplete or incorrect
 {: .block-note}
 
 | Size | Diameter | Notes |

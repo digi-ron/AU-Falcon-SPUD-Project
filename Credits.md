@@ -1,31 +1,22 @@
 ---
-hideTOC: true
+# hideTOC: true
 hidePrint: true
 ---
 
 # Credits
 
-## Collected Information (primarily product listing images):
+## Sources
 
-- [A1 Auto Parts](https://www.a1auto-parts.com.au/)
-- [AliExpress](https://www.aliexpress.com/)
-- [Auto Parts Supply](https://www.autopartssupply.com.au/)
-- [CodeEzy](https://codeezy.com.au/)
-- [eBay](https://www.ebay.com.au)
-- [Prorack](https://www.prorack.com.au/cars/ford/falcon/2000)
-- [Repco](https://www.repco.com.au/)
-- [Rhino Racks](https://dealer.rhinorack.com/en-au/)
-- [RS Components Australia](https://au.rs-online.com/)
-- [Seat Safe](https://www.seatsafe.com.au/)
-- [T.I Performance](https://www.tiperformance.com.au/)
-
-## Information cross-referencing
-
-> No information was directly copy-pasted from any of the following. Instead, they were used to compliment information in other places, or to serve as a base for a variation of steps for some procedures
+> No information other than product images were directly copy-pasted from any of the following locations. Instead, they were used to compliment information in other places, or to serve as a base for a variation of steps for some procedures
 {: .block-note}
 
-- [Automotive Catalogue](https://www.automobile-catalog.com)
+- [A1 Auto Parts](https://www.a1auto-parts.com.au/)
 - [Aerpro](https://aerpro.com/)
+- [AliExpress](https://www.aliexpress.com/)
+- [Auto Parts Supply](https://www.autopartssupply.com.au/)
+- [Automotive Catalogue](https://www.automobile-catalog.com)
+- [CodeEzy](https://codeezy.com.au/)
+- [eBay](https://www.ebay.com.au)
 - [FordForums](https://www.fordforums.com.au/)
 - [FordMods](https://www.fordmods.com/)
 - [FordWiki](https://www.fordwiki.co.uk/)
@@ -37,7 +28,12 @@ hidePrint: true
 - [MotoringBox](https://www.motoringbox.com/)
 - [mycar](https://www.mycar.com.au/)
 - [Narva](https://www.narva.com.au/)
-- [mycar Tyre & Auto](https://www.mycar.com.au/)
+- [Prorack](https://www.prorack.com.au/cars/ford/falcon/2000)
+- [Repco](https://www.repco.com.au/)
+- [Rhino Racks](https://dealer.rhinorack.com/en-au/)
+- [RS Components Australia](https://au.rs-online.com/)
+- [Seat Safe](https://www.seatsafe.com.au/)
+- [T.I Performance](https://www.tiperformance.com.au/)
 
 ## Special Thanks - Information sharers and timesavers
 {: .good-highlight}
@@ -79,7 +75,7 @@ hidePrint: true
   >
   > ---
 
-## About the Author (And Project SPUD Lore)
+## About the Author (And SPUD Project Lore)
 
 Hi, my name's Ronnie, and I've always been a fan of the AU Falcon since I was young and the AUs were near-new. For me, it started when Dad got a white Forte Wagon that lasted nearly 500,000kms while towing a 2 tonne trailer when I was a kid. That car only got taken off the road because the rear-end needed significant work to pass a NSW Roadworthy, and it was a bush bomb for a little while but we had to get rid of it for money eventually.
 
@@ -89,7 +85,7 @@ The more I looked into "off the reserve" repairs and modifications to Falcons, t
 
 Refusing defeat but wanting to keep my SR usable as a daily, I got a Series 1 Forte Sedan from a mate for cheap. The car had a known rough history from at least one negligent owner, and she'd been sitting out in the weather doing nothing for months at a time, but she ran, and that was enough for me.
 
-April 11th 2024, Project SPUD was born.
+April 11th 2024, The SPUD Project was born.
 
 I have no mechanical background, I'm a web developer by trade and the only reason I know my way around a toolbox is thanks to the fact Dad used to be an engineer and I like learning new things. I learned half the stuff I know about Falcons fixing and modifying my own AUs and working on my family and friends' AU-FGX Falcons (and an SX Territory which is just a lifted Falcon anyways). I published this site on the wider net in case anyone else needs some of the weird info from the rabbit holes I went down, because I can say with 100% certainty that there is a few things in here that you couldn't hope to find in the usual suspect sites. A good portion of the information is electrical in nature, this is simply down to a mix of my skillset and how much better documented mechanical repairs for this model are (where I had nothing to add).
 

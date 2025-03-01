@@ -8,7 +8,7 @@ description: Speaker installation and wiring information. Partially applies to B
 
 The size of most speakers across the AU Falcon range are 5x7" oval speakers, which is a non-standard size. Note that 6x9" speakers can be used in both locations, however additional holes will need to be drilled to allow for them, and special care must be taken for the front door speakers depth, as they can foul the window mechanism.
 
-> Popular replacements for these speakers are the [Kenwood](../../Credits.md#information-cross-referencing) KFC-PS5796C, as they require no amp and are a drop-in replacement, barring the plug (explained in installation steps)
+> Popular replacements for these speakers are the [Kenwood](../../Credits.md#aftermarket-components-information) KFC-PS5796C, as they require no amp and are a drop-in replacement, barring the plug (explained in installation steps)
 {: .block-note}
 
 Exceptions to this include:
@@ -19,7 +19,7 @@ The standard speakers used in the AU Falcon are known as a 250 Series Quick Conn
 
 ![Narva Quick Connect 2 way connector set](./2-way-speaker-connector.png)
 
-> Picture taken from [Narva](../../Credits.md#information-cross-referencing) product page for a pack of both 1 male connector housing (left) and one female connector housing (right) (product code 56272BL)
+> Picture taken from [Narva](../../Credits.md#sources) product page for a pack of both 1 male connector housing (left) and one female connector housing (right) (product code 56272BL)
 
 ## Replacement
 

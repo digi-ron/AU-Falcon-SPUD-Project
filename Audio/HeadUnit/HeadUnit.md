@@ -13,7 +13,7 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 
 - Connector has 20 pins total, 14 pins required for functioning of aftermarket headunit
 - pin sizes vary, with pins 3-6 and 9-20 having smaller pin sizing and pins 1-2 and 7-8 containing larger pins
-- Aftermarket loom components only appear to be manufactured by [Aerpro](../../Credits.md#information-cross-referencing) as of time of writing, and are seemingly custom manufactured to be fit for purpose.
+- Aftermarket loom components only appear to be manufactured by [Aerpro](../../Credits.md#sources) as of time of writing, and are seemingly custom manufactured to be fit for purpose.
 
 > For the following information, assume you are looking at the loom end connector, with the clip facing up
 {: .block-note}
@@ -49,7 +49,7 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 
 ## Pin Wiring
 
-> For EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#information-cross-referencing), Product code `711053`
+> For EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#sources), Product code `711053`
 {: .block-note}
 
 > Every effort has been made to make this information accurate, however wire colors may be different depending on series
