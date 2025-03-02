@@ -144,7 +144,11 @@
                     "url": "/Engine/IgnitionCoil/IgnitionCoil.html"
                 },
                 {
-                    "title": "PCV",
+                    "title": "Idle Speed Controller (ISC)",
+                    "url": "/Engine/ISC/ISC.html"
+                },
+                {
+                    "title": "Purge Control Valve (PCV)",
                     "url": "/Engine/PCV/PCV.html"
                 },
                 {
