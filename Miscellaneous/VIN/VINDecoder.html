@@ -4,6 +4,12 @@ hideTOC: true
 ---
 <!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
 <!--file not generated using markdown as too complex: required more HTML tags than markdown syntax to make functional-->
+<!-- style added to override templating - special page is exception to rule where h1 doesn't need to be hidden -->
+<style>
+    h1 {
+        display: block;
+    }
+</style>
 <script>
     const vinValidationRegex = /[6][F][P][A]{3}[J][G]((SW)|(LW)|(WA)|(CM))[WXY12][BRAGCKDELYSTJUMP][0-9]{5}/i;
 
@@ -147,7 +153,7 @@ hideTOC: true
     }
 </script>
 <h1 class="printHide">VIN Information Parser</h1>
-<h1 class="printOnly">VIN Information Parser - Results</h1>
+<p class="maintitle printOnly">VIN Information Parser - Results</p>
 
 <div class="printHide">
     <center id="vinErr"></center>
