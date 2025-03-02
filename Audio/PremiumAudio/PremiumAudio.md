@@ -1,3 +1,7 @@
+---
+description: "Premium Audio Information"
+---
+
 # Premium Audio System
 
 > Information on this page is incomplete due to lack of resources
