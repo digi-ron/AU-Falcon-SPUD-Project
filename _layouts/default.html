@@ -85,7 +85,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <p id="maintitle" class="printHide"><a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a></p>
+      <p class="printHide maintitle"><a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a></p>
       {% endif %}
 
       {% if page.hidePrint != true %}
