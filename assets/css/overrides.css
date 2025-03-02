@@ -63,7 +63,7 @@ justify-content: center;
 width: 100%;
 }
 
-#maintitle {
+.maintitle {
 font-weight: 600;
 text-align: center;
 font-size: 2em;
