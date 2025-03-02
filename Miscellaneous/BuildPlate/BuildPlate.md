@@ -171,9 +171,9 @@ The Paint code refers to the exterior paint used throughout the vehicle. Refer t
 
 ### GVM kg
 
-Gross Vehicle Mass, or GVM, refers to the maximum weight a vehicle can carry when fully loaded, Including the vehicle weight, passengers, cargo, fuel and other equipment. While this number is not stamped on most models, the general consensus is that the GVM would range from 2420-2740kg
+Gross Vehicle Mass, or GVM, refers to the maximum weight a vehicle can carry when fully loaded, Including the vehicle weight, passengers, cargo, fuel and other equipment. While this number is not stamped on most models, the general consensus is that the GVM would range from 2220-2740kg
 
-> Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through [Magnum MFG](../../Credits.md#sources) website
+> Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through a mixture of information from the [Magnum MFG](../../Credits.md#sources) website, and internet photos of AU Falcon ute Build Plates
 {: .block-note}
 
 > This section is also present on the [Vehicle Identification Number Plate](../VIN/VIN.md#gvm-kg)
