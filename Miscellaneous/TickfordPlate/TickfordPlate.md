@@ -1,8 +1,8 @@
 ---
-description: " - how to read the Tickford Options plate"
+description: " - how to read the Tickford Vehicle Engineering (TVE) Plate"
 ---
 
-# Reading the Tickford Option Plate
+# Reading the Tickford Vehicle Engineering (TVE) Plate
 
 Some models of AU Falcon were modified by Tickford in some way. In these cases, an additional plate is riveted to the inside of the hood of the affected models.
 
