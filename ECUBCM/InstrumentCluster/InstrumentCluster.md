@@ -14,13 +14,29 @@ The clusters themselves come in various trims, which have differences ranging fr
 | Mid | XR6/XR8 | all base gauges as well as oil pressure and battery voltage gauges. increased max reading to 240km/h (V8 only?) and gear selector indicator |
 | High | Fairmont/Fairlane/LTD | all mid cluster features, an upgraded Odometer display, more specific door ajar indicator, and additional warning lights (alternator, TCS, washer fluid, etc.) |
 
-> Wiring between the low/pursuit clusters and the mid/high clusters is inherently different and require a moderate to large amount of rewiring for full functionality, however multiple online sources have stated that for basic functionality such as reading the speedometer, the clusters are effectively "plug and play"
-{: .block-note}
+### Changing between cluster types
 
-> A cluster with a maximum speed reading of 240km/h can be fitted to a car with a 220km/h speedometer without issue, however series 1 clusters should be avoided due to conflicting information on this
-{: .block-note}
+When changing between instrument cluster types, the following should be put into consideration:
 
-## Pursuit Cluster - Speedometer Calibration
+<!-- TODO do this then report back, conflicting reports available
+
+- if you are swapping a 220km/h to a 240km/h instrument cluster, regardless of low/high wiring, the speedometer will be off by about 9.09%. Transmission cogs or an aftermarket speedometer adjuster should be used in most cases, except for Police clusters which are [able to be calibrated to this percentage](#pursuit-cluster---speedometer-calibration)
+
+    > Note that changing transmission gears will change shift points in the BTR Automatic transmission
+    {: .block-note} -->
+
+- The pinouts between low and high clusters are different, and require moderate rewiring to retrofit
+
+    > resources on rewiring not available on this site as not yet attempted
+    {: .block-note}
+
+- Placing high clusters in base/low models is ill-advised, due to lower model vehicles and looms having the following functions missing or modified:
+    - TCS - Not present
+    - Low Coolant - May not be present
+    - Gear selection display (where fitted) - not present
+    - Door open display - Simplified - light for any door open present, but no wiring for individual doors
+
+### Pursuit Cluster - Speedometer Calibration
 Pursuit clusters are not only sought after as they are, in theory the rarest type of speedometer available for the AU Falcon, they are also useful for on-the-fly speedometer calibration, allowing for much more flexibility with wheel sizes and differential ratios.
 
 > The calibration mode allows for 10% of calibration in either direction (so 90-110% stock) and increments about 0.5% each button press. for more than this, you will need to play with transmission gearing or an external speedometer calibration tool to achieve the desired effect
@@ -41,7 +57,14 @@ Pursuit clusters are not only sought after as they are, in theory the rarest typ
 1. press and hold the instrument cluster button for about 7 seconds to exit calibration mode
 1. done
 
-## Plug type
+### Service spanner (where fitted)
+
+On models with a service spanner in the instrument cluster, you can disable it by following the steps below:
+1. turn the ignition to the "On" position (2 clicks from off)
+1. press and hold the instrument cluster odometer stalk for 10 seconds, then release
+1. done
+
+## Plug types
 The plugs in the back of the instrument cluster all seem to be MULTILOCK 040 II connectors, seemingly manufactured by a company called TE Connectivity. Part information varies according to which specific plug is desired.
 
 ### IMPORTANT
@@ -112,10 +135,3 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 ![Female 20 pin connector](./female-20.png)
 
 > Female connector housing image take from [RS Components](../../Credits.md#sources) product page
-
-## Service spanner (where fitted)
-
-On models with a service spanner in the instrument cluster, you can disable it by following the steps below:
-1. turn the ignition to the "On" position (2 clicks from off)
-1. press and hold the instrument cluster odometer stalk for 10 seconds, then release
-1. done
