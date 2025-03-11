@@ -165,6 +165,10 @@
             "title": "Miscellaneous",
             "items": [
                 {
+                    "title": "Common Faults",
+                    "url": "/Miscellaneous/CommonFaults/CommonFaults.html"
+                },
+                {
                     "title": "Component Lifespan Information",
                     "url": "/Miscellaneous/Lifespans/Lifespans.html"
                 },
