@@ -130,7 +130,7 @@ All following instructions assume you have the ignition coil pack horizontally i
 
 | `1` | `2` | `3` |
 | --- | --- | --- |
-| **`4`** | **`5`** | **`6`** |
+| **`6`** | **`5`** | **`4`** |
 
 ![ignition coil diagram](./ignition-coil-diagnostic-direction.jpg)
 
