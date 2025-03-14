@@ -13,9 +13,9 @@ While the AU Falcon is generally regarded as a quite reliable vehicle, there are
 | Climate Control | All | High models (Fairmont/Fairlane/LTD/TL50) only, ribbon cable separation and display failure common due to time |
 | Exhaust Rear Resonator | All | Wagon body only, rust common around entry and exit welds of rear resonator. Known reliable repair is to replace with straight pipe section |
 | Front Brake Calipers | S1 | single piston design does not allow for hard braking on regular basis. regular maintenance is essential on these models |
-| Front Brake Rotors | All | front rotors prone to warping due to brake design |
+| Front Brake Rotors | All | front rotors prone to warping due to brake design, Wagon and Utility body types most affected due to front brake bias |
 | Fuel Sender Circuit | All | Various causes known with wiring, cluster, and sender unit, but consistent factor appears to be failure of the fuel reader in the [Instrument Cluster](../../ECUBCM/InstrumentCluster/InstrumentCluster.md) |
 | Power Steering High Pressure Line | All | failure allows power steering fluid to leak onto the alternator. This then causes the alternator to fail as well |
-| Smartlock Central Locking Remote | S1 | rubber buttons prone to splitting and grime ingress. Once failed, expensive to replace with OEM remote due to low supply and relatively high demand, however [alternative aftermarket remotes are available](../../ECUBCM/Keyfob/Keyfob.md#aftermarket-replacements) to copy still-working OEM remotes |
+| Smartlock Central Locking Remote | S1 | rubber buttons prone to splitting and grime ingress. Once failed, expensive to replace with OEM remote due to low supply and relatively high demand, however [aftermarket cloning remotes are available](../../ECUBCM/Keyfob/Keyfob.md#aftermarket-replacements) to copy OEM remotes |
 | Thermostat Housing | All | likely to leak through gap between top pipe end and housing end. Various causes known, most common being uneven mounting surfaces on thermostat installation |
 | Water Pump | All | While OEM water pump is known good for an average of 200,000kms, aftermarket water pumps from reputable manufacturers have been known to have issues with bearing fitment and a weak plastic pulley wheel |
