@@ -1,3 +1,7 @@
+---
+description: " common faults"
+---
+
 # Common Faults
 
 While the AU Falcon is generally regarded as a quite reliable vehicle, there are common faults with this model that cannot be ignored. Below is a non-exhaustive list of common issues these vehicles are likely to have over the course of ownership.
