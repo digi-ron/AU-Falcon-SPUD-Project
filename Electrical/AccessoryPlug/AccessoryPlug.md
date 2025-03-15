@@ -29,7 +29,9 @@ Use the following diagram and pinout list for reference. This diagram assumes th
 | --- | --- |
 | **03** | **04** |
 
-- 01 - 12v constant power
-- 02 - GND
-- 03 - Ignition power (low power, for standby switch most likely)
-- 04 - N/a
+| Pin | Function | Notes |
+| --- | --- | --- |
+| 01 | 12v Constant | 10A max. draw |
+| 02 | GND | |
+| 03 | 12v Ign | REM, likely unable to draw more than 2A |
+| 04 | blank | |
