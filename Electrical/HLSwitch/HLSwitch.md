@@ -28,18 +28,24 @@ The following notes assume pin numbers where you are looking at the switch unit 
 | **`06`** | **`07`** | **`08`** | **`09`** | **`10`** | **`11`** | **`12`** |
 
 ####  Low unit pins
-- 01 = blank
-- 02 = blank
-- 03 = blank
-- 04 = GND/SIG?
-- 05 = blank
-- 06 = GND/SIG?
-- 07 = Dome light HIGH
-- 08 = Dome light OFF
-- 09 = Headlights LOW
-- 10 = headlights OFF
-- 11 = Dome light MID
-- 12 = Headlights HIGH
+
+> Information incomplete due to testing outside of vehicle
+{: .block-note}
+
+| Pin | Function | Notes |
+| --- | --- | --- |
+| 01 | blank | |
+| 02 | blank | |
+| 03 | blank | |
+| 04 | GND/SIG? | |
+| 05 | blank | |
+| 06 | GND/SIG? | |
+| 07 | Dome Light 2 | high setting |
+| 08 | Dome Light 0 | lowest setting |
+| 09 | Headlights LOW | park lights |
+| 10 | Headlights OFF | lowest setting |
+| 11 | Dome Light 1 | middle setting |
+| 12 | Headlights HIGH | normal headlights/high beams (if stalk active) |
 
 ![Low Plug](./low-plug.jpg)
 
@@ -50,18 +56,20 @@ The following notes assume pin numbers where you are looking at the switch unit 
 > Information is particularly incomplete here due to lack of a high model AU to discern wiring minutiae
 {: .block-note}
 
-- 01 = Illumination light (- assumed)
-- 02 = Illumination light (+ assumed)
-- 03 = Delay OFF & CONT to 12 when Headlight HIGH (likely part of delay function)
-- 04 = Delay OFF & CONT to 05
-- 05 = Delay OFF & CONT to 04
-- 06 = GND/SIG?
-- 07 = Dome light HIGH
-- 08 = ??? (no CONT)
-- 09 = Headlight LOW & CONT to 03 when Headlight LOW
-- 10 = Dome light LOW
-- 11 = ??? (also no CONT)
-- 12 = Headlight HIGH & CONT to 03 when Headlight HIGH
+| Pin | Function | Notes |
+| --- | --- | --- |
+| 01 | Illumination | - assumed |
+| 02 | Illumination | + assumed |
+| 03 | Additional? | if Delay switch off and Headlights set to HIGH, has continuity to pin 12. if Delay switch off and Headlights set to LOW, has continuity to pin 09 |
+| 04 | Delay? | if Delay switch off, has continuity to pin 05 |
+| 05 | Delay? | if Delay switch off, has continuity to pin 04 |
+| 06 | GND/SIG? | |
+| 07 | Dome Light 1 | equivalent to Dome Light 2 in [Low Models](#low-unit-pins)
+| 08 | UNKNOWN | No continuity found |
+| 09 | Additional? | If delay switch off and Headlights set to LOW, has continuity to pin 03 |
+| 10 | Dome Light 0 | equivalent to Dome Light 1 in [Low Models](#low-unit-pins) |
+| 11 | UNKNOWN | No continuity found |
+| 12 | If delay switch off and Headlights set to HIGH, has continuity to pin 03 |
 
 ![High Plug](./high-plug.jpg)
 
