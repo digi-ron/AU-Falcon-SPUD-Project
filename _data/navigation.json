@@ -160,6 +160,16 @@
                     "url": "/Engine/SparkPlugs/SparkPlugs.html"
                 },
                 {
+                    "title": "Speedometer Reading Adjustment",
+                    "url": "/Engine/SpeedometerReading/SpeedometerReading.html",
+                    "items": [
+                        {
+                            "title": "Speed Reading Calculator (Diff/Gearbox/Speedo changes)",
+                            "url": "/Engine/SpeedometerReading/SpeedReaderCalculator.html"
+                        }
+                    ]
+                },
+                {
                     "title": "Thermostat",
                     "url": "/Engine/Thermostat/Thermostat.html"
                 }
