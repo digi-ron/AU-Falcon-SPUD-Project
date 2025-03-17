@@ -1,0 +1,281 @@
+---
+layout: default
+hideTOC: true
+---
+<!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
+<!--file not generated using markdown as too complex: required more HTML tags than markdown syntax to make functional-->
+<!-- style added to override templating - special page is exception to rule where h1 doesn't need to be hidden -->
+<style>
+    h1 {
+        display: block;
+    }
+</style>
+<script>
+    const tyreSizeFormat = /[0-9]{3}[/][0-9]{2}[R][0-9]{2}/i;
+    const diffRatioFormat = /[0-9]{1,2}\.[0-9]{1,2}/;
+    const gearTeethFormat = /[0-9]{1,}/;
+    const fields = ["oldTyreSize", "newTyreSize", "oldDiffRatio", "newDiffRatio", "oldGearTeeth", "newGearTeeth"];
+    const resultsFields = ["tyreSizeChangeResult", "diffChangeResult", "gearTeethChangeResult", "totalChangeResult"];
+    let iterationsTable;
+
+    function handleSubmit() {
+        clearError();
+        iterationsTable = document.getElementById("readingsIterationTable");
+        const oldTyreSize = document.getElementById("oldTyreSize").value;
+        const newTyreSize = document.getElementById("newTyreSize").value;
+        const oldDiffRatio = document.getElementById("oldDiffRatio").value;
+        const newDiffRatio = document.getElementById("newDiffRatio").value;
+        const oldGearTeeth = document.getElementById("oldGearTeeth").value;
+        const newGearTeeth = document.getElementById("newGearTeeth").value;
+        //tyre functionality
+        const tyreChange = calculateTyreChange(oldTyreSize, newTyreSize);
+        const diffChange = calculateDiffChange(oldDiffRatio, newDiffRatio);
+        const gearTeethChange = calculateGearTeethChange(oldGearTeeth, newGearTeeth);
+        //validate actual change
+        if(tyreChange + diffChange + gearTeethChange === 0) {
+            setError("Invalid input, please check your inputs and try again");
+            return;
+        }
+        //render percentages
+        document.getElementById("tyreSizeChangeResult").value = Math.round(tyreChange * 100) / 100 + "%";
+        document.getElementById("diffChangeResult").value = Math.round(diffChange * 100) / 100 + "%";
+        document.getElementById("gearTeethChangeResult").value = Math.round(gearTeethChange * 100) / 100 + "%";
+        const totalChange = tyreChange + diffChange + gearTeethChange;
+        document.getElementById("totalChangeResult").value = Math.round(totalChange * 100) / 100 + "%";
+        //render table
+        displayTableResults(totalChange);
+    }
+
+    function displayTableResults(percentage) {
+        iterationsTable.innerHTML = "";
+        for(let i = 10; i < 240; i += 10) {
+            const row = document.createElement("tr");
+            const headingCell = document.createElement("td");
+            headingCell.innerHTML = i + "km/h";
+            row.appendChild(headingCell);
+            const cell = document.createElement("td");
+            const speed = i * (percentage / 100) + i;
+            cell.innerHTML = Math.round(speed * 100) / 100 + "km/h";
+            row.appendChild(cell);
+            iterationsTable.appendChild(row);
+        }
+    }
+
+    function calculateTyreChange(oldSize, newSize) {
+        const valid = regexValidation(oldSize, tyreSizeFormat) && regexValidation(newSize, tyreSizeFormat);
+        if (!valid) {
+            return 0;
+        }
+        //calculate if valid
+        oldSize = oldSize.toUpperCase();
+        newSize = newSize.toUpperCase();
+        document.getElementById("oldTyreSize").value = oldSize;
+        document.getElementById("newTyreSize").value = newSize;
+        const oldWidth = parseInt(oldSize.split("/")[0]);
+        const oldProfile = parseInt(oldSize.split("/")[1].split("R")[0]);
+        const oldRadius = parseInt(oldSize.split("R")[1]);
+        const newWidth = parseInt(newSize.split("/")[0]);
+        const newProfile = parseInt(newSize.split("/")[1].split("R")[0]);
+        const newRadius = parseInt(newSize.split("R")[1]);
+
+        const T1 = (oldWidth * (oldProfile / 100) * 2) + (25.4 * oldRadius);
+        const T2 = (newWidth * (newProfile / 100) * 2) + (25.4 * newRadius);
+
+        const T = (T2 - T1) / T1 * 100;
+
+        return T;
+    }
+
+    function calculateDiffChange(oldDiff, newDiff) {
+        const valid = regexValidation(oldDiff, diffRatioFormat) && regexValidation(newDiff, diffRatioFormat);
+        if (!valid) {
+            return 0;
+        }
+
+        const D1 = parseFloat(oldDiff);
+        const D2 = parseFloat(newDiff);
+
+        const D = (D1 - D2) / D1 * 100;
+        return D;
+    }
+
+    function calculateGearTeethChange(oldTeeth, newTeeth) {
+        const valid = regexValidation(oldTeeth, gearTeethFormat) && regexValidation(newTeeth, gearTeethFormat);
+        if (!valid) {
+            return 0;
+        }
+
+        const G1 = parseInt(oldTeeth);
+        const G2 = parseInt(newTeeth);
+
+        const G = (G1 - G2) / G1 * 100;
+
+        return G;
+    }
+
+    function regexValidation(input, regex) {
+        let output = false;
+
+        if(input === "") {
+            output = false;
+        }
+
+        if (regex.test(input)) {
+            output = true;
+        } else {
+            output = false;
+        }
+        return output;
+    }
+
+    function clearError() {
+        const err = document.getElementById("resultErr");
+        err.innerHTML = "";
+    }
+
+    function setError(msg) {
+        const err = document.getElementById("resultErr");
+        for(let i = 0; i < resultsFields.length; i++) {
+            document.getElementById(resultsFields[i]).value = "";
+        }
+        iterationsTable.innerHTML = "";
+        err.innerHTML = msg;
+    }
+
+    function clearResults() {
+        for(let i = 0; i < fields.length; i++) {
+            document.getElementById(fields[i]).value = "";
+        }
+
+        for(let i = 0; i < resultsFields.length; i++) {
+            document.getElementById(resultsFields[i]).value = "";
+        }
+        
+        iterationsTable.innerHTML = "";
+
+        clearError();
+    }
+
+</script>
+<h1 class="printHide">Speedometer Reading Calculator</h1>
+<p class="printOnly maintitle">Speedometer Reading Calculator - Results</p>
+<blockquote class="printHide block-note">
+    All fields are optional, but nonsensical inputs will be ignored e.g. original tyre size without a new tyre size specified.
+    <br/>
+    The Quick Search takes precedence over other fields
+</blockquote>
+<table style="display: table !important; margin-left: auto; margin-right: auto;">
+    <tbody>
+        <tr>
+            <td colspan="2">
+                <label for="oldTyreSize">Original Tyre Size (XXX/XXRXX):</label>
+            </td>
+            <td colspan="2">
+                <input type="text" id="oldTyreSize" name="oldTyreSize">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="newTyreSize">New Tyre Size (XXX/XXRXX):</label>
+            </td>
+            <td colspan="2">
+                <input type="text" id="newTyreSize" name="newTyreSize">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="oldDiffRatio">Original Differential Ratio:</label>
+            </td>
+            <td colspan="2">
+                <input type="text" id="oldDiffRatio" name="oldDiffRatio">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="newDiffRatio">New Differential Ratio:</label>
+            </td>
+            <td colspan="2">
+                <input type="test" id="newDiffRatio" name="newDiffRatio">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="oldGearTeeth">Original Gear teeth</label>
+            </td>
+            <td colspan="2">
+                <input type="number" id="oldGearTeeth" name="oldGearTeeth" min="1" max="30">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <label for="newGearTeeth">New Gear teeth:</label>
+            </td>
+            <td colspan="2">
+                <input type="number" id="newGearTeeth" name="newGearTeeth" min="1" max="30">
+            </td>
+        </tr>
+        <tr class="printHide">
+            <td colspan="2" style="border-right: 0px;">
+                <input type="submit" value="Calculate" onclick="handleSubmit()">
+            </td>
+            <td colspan="2" style="border-left: 0px;">
+                <input type="button" value="Reset calculator" onclick="clearResults()">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Results</h3>
+<div class="printHide">
+    <p id="resultErr" class="bad-highlight"></p>
+</div>
+<table id="resultsTable" style="display: table !important; margin-left: auto; margin-right: auto; page-break-inside: auto; page-break-before: avoid;">
+    <tbody>
+        <tr>
+            <td>
+                <label for="tyreSizeChangeResult">Tyre Change (%)</label>
+            </td>
+            <td>
+                <input type="text" readonly id="tyreSizeChangeResult" name="tyreSizeChangeResult">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="diffChangeResult">Diff Change (%)</label>
+            </td>
+            <td>
+                <input type="text" readonly id="diffChangeResult" name="diffChangeResult">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="gearTeethChangeResult">Teeth Change (%)</label>
+            </td>
+            <td>
+                <input type="text" readonly id="gearTeethChangeResult" name="gearTeethChangeResult">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label for="totalChangeResult">Total Change (%)</label>
+            </td>
+            <td>
+                <input type="text" readonly id="totalChangeResult" name="totalChangeResult">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Readings Table</h3>
+<table style="display: table !important; margin-left: auto; margin-right: auto; page-break-inside: auto; page-break-before: avoid;">
+    <thead>
+        <tr>
+            <th>Original Speed</th>
+            <th>New Reading</th>
+        </tr>
+    </thead>
+    <tbody id="readingsIterationTable">
+
+    </tbody>
+</table>
+<hr/>
