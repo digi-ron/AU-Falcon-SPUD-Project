@@ -108,6 +108,10 @@ h1 {
         color: black;
     }
 
+    td, th {
+        border: 2px solid black !important;
+    }
+
     html, body, footer, h1, blockquote, hr {
         border-color: black !important;
     }
@@ -115,7 +119,7 @@ h1 {
     blockquote {
         background: white;
     }
-
+    
     hr {
         background: black !important;
     }
@@ -179,5 +183,9 @@ h1 {
 
     input, select {
         border: none;
+    }
+
+    input[type="number"] {
+        appearance: textfield;
     }
 }
