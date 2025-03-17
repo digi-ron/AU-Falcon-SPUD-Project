@@ -15,6 +15,7 @@ hidePrint: true
 - [AliExpress](https://www.aliexpress.com/)
 - [Auto Parts Supply](https://www.autopartssupply.com.au/)
 - [Automotive Catalogue](https://www.automobile-catalog.com)
+- [CarModder](https://www.carmodder.com)
 - [CodeEzy](https://codeezy.com.au/)
 - [eBay](https://www.ebay.com.au)
 - [FordForums](https://www.fordforums.com.au/)
