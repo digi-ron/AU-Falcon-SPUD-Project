@@ -157,3 +157,7 @@ This resistance is for the second part of the ignition coil pack, which converts
 1. check the resistance between the poles for cylinder 1 and 6
 1. check the resistance between the poles for cylinder 2 and 5
 1. check the resistance between the poles for cylinder 3 and 4
+
+## Additional Notes
+
+The ignition coil pack fires 2 cylinders at the same time, 1 & 6, 2 & 5 and 3 & 4. This information can be helpful for diagnosing single cylinder misfires.
