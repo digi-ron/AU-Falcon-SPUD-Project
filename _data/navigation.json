@@ -95,6 +95,10 @@
                     "url": "/Electrical/ACControls/AC-S1.html"
                 },
                 {
+                    "title": "Brake Switch (Brake Lights)",
+                    "url": "/Electrical/BrakeSwitch/BrakeSwitch.html"
+                },
+                {
                     "title": "Cabin Fuse Panel",
                     "url": "/Electrical/CabinFusePanel/CabinFusePanel.html"
                 },
