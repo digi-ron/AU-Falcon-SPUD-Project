@@ -59,7 +59,7 @@ The engine code identifies the specific factory motor that was installed. Refer 
 > Some engines may be harder to identify due to changed parts since assembly. This is only a guide to what the car had from the factory, not what has been replaced or painted since.
 {: .block-note}
 
-> Any model with Tickford additions, in particular the T*50 models, should have an additional [Tickford options plate](../TickfordPlate/TickfordPlate.md).
+> Any model with Tickford additions, in particular the T*50 models, should have an additional [Tickford options plate](../TickfordPlate/TickfordPlate.md) or [Tickford Dual-Fuel LPG Option Plate](../TickfordPlate/TickfordPlate.md#tickford-dual-fuel-lpg-option-plate) (depending on installed option(s))
 {: .block-note}
 
 ### Transmission
