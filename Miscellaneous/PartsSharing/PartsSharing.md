@@ -30,6 +30,7 @@ Please see the table below for shared parts:
 | [Alternator](../../Engine/Alternator/Alternator.md#special-note---series-1-vs-series-2-3) (2-pin) | AUII-BAII, SX | newer models employed a 3-pin connector which was different to the AU |
 | B Pillar Plastic Trim (Upper/Lower) | AU-BFIII | All physically fit however adjustable seatbelt height not present on AUI Falcon |
 | Boot Button | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
+| [Brake Switch](../../Electrical/BrakeSwitch/BrakeSwitch.md) | EF-AUIII | |
 | C Pillar Plastic Trim | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain sub-models contain additional spring that will help with longevity. BF Falcon Keyhole for drivers door not compatible due to different key types |
 | [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter |
