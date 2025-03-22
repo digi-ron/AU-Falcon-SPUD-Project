@@ -60,12 +60,12 @@ Another similar-but-different Tickford-issued Options Plate was the Factory Dual
     <tbody>
         <tr>
             <td colspan="2">
-                <a href="../VIN/VIN.md#vehicle-identification-number">V.I.N</a>
+                <a href="../VIN/VIN.html#vehicle-identification-number">V.I.N</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="../VIN/VIN.md#engine-number">ENGINE No.</a>
+                <a href="../VIN/VIN.html#engine-number">ENGINE No.</a>
             </td>
             <td>
                 DATE
@@ -109,12 +109,12 @@ LPG system installed by an authorized workshop may have another Tickford branded
         </tr>
         <tr>
             <td colspan="2">
-                <a href="../VIN/VIN.md#vehicle-identification-number">V.I.N</a>
+                <a href="../VIN/VIN.html#vehicle-identification-number">V.I.N</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="../VIN/VIN.md#engine-number">ENGINE No.</a>
+                <a href="../VIN/VIN.html#engine-number">ENGINE No.</a>
             </td>
             <td>
                 DATE
