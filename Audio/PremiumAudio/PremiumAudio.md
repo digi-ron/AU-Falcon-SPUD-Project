@@ -35,11 +35,17 @@ The following information is known about the premium audio Amplifier from the AU
 | Channels | 1 |
 | Wattage | Unknown, assumed 200-250W approximate |
 | Connection | Subwoofer & Rear Speakers |
-| Availability | Unknown, possibly unique |
 
 ### Plug Information
 
-All connections for the speakers and subwoofer in the amplifier are screw terminal style connectors. As such, for any re-wiring attempts, small spade terminals should be used for the wires. There is also a single plug that is assumed used for power, however the connector is unknown at this time
+All connections for the speakers and subwoofer in the amplifier are screw terminal style connectors or RCA connections. As such, for any re-wiring attempts, small spade terminals and RCA male plugs should be used for the wires.
+
+> There is a small loom that connects the subwoofer and speakers to the rest of the Audio Loom within the vehicle, however information on this loom is limited
+
+### Additional Information
+
+> There is partial information to suggest some Series 3 AU Falcons came with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed however and as such no information on these amplifiers is provided
+{: .block-note}
 
 <!--TODO confirm if the series 3 falcons had a BA amp-->
 <!-- ### Series 2-3
