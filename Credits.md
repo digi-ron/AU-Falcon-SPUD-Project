@@ -1,6 +1,6 @@
 ---
-# hideTOC: true
 hidePrint: true
+description: "Credits"
 ---
 
 # Credits
