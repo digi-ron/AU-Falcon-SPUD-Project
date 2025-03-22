@@ -19,6 +19,7 @@ hidePrint: true
 - [CodeEzy](https://codeezy.com.au/)
 - [eBay](https://www.ebay.com.au)
 - [FordForums](https://www.fordforums.com.au/)
+- [Ford Heritage Vault](https://fordheritagevault.com)
 - [FordMods](https://www.fordmods.com/)
 - [FordWiki](https://www.fordwiki.co.uk/)
 - [Haynes Manuals](https://haynes.com/en-au/ford/falcon/1998-2002-petrol)
