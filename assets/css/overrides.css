@@ -83,6 +83,12 @@ font-size: small;
 font-weight: bold;
 }
 
+.full-width-table {
+    margin-left: auto;
+    margin-right: auto;
+    display: table !important;
+}
+
 .block-note {
     color: #955E10 !important;
     border: 1px dotted brown !important;
