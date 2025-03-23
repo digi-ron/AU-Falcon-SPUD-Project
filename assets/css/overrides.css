@@ -93,6 +93,16 @@ font-weight: bold;
     display: table !important;
 }
 
+.plate-layout-table {
+    border: 1px solid;
+    margin-left: auto;
+    margin-right: auto;
+    display: table !important;
+    tr, td {
+        border: none !important;
+    }
+}
+
 .block-note {
     color: #955E10 !important;
     border: 1px dotted brown !important;
@@ -197,5 +207,11 @@ h1 {
 
     input[type="number"] {
         appearance: textfield;
+    }
+
+    .plate-layout-table {
+        a::after {
+            content: none;
+        }
     }
 }
