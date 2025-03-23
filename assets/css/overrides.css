@@ -51,6 +51,10 @@ table-layout: fixed;
 width: 100%;
 font-style: italic;
 text-align: center;
+    input {
+        max-width: 100%;
+        box-sizing: border-box;
+    }
 }
 
 .alternatefooter, .printOnly {
