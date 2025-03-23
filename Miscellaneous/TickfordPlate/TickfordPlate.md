@@ -6,7 +6,7 @@ description: " - how to read the Tickford Vehicle Engineering (TVE) Plates"
 
 ## Important Note
 
-> This page contains all collated information on the TVE plates, but contains no first-hand information on them. This is due to the vehicle used for this project not being fitted with any of the following:
+> This page contains all collated information on the TVE plates, but contains no first-hand information on them. This is due to the primary vehicle used for this project not being fitted with any of the following:
 > 
 > - [Tickford Modifications](#tickford-vehicle-engineering-plate)
 > - [Dual-Fuel LPG](#tickford-dual-fuel-lpg-option-plate)
@@ -51,38 +51,38 @@ Certain options and configurations had alternative plates, listed below:
 
 T-Series models of the AU Falcon (TE50/TS50/TL50) did not appear to have Tickford option plates. Instead they were fitted with a Build number plate, which contains a build number vertically on the left side, and a Tickford "Winged T" logo, the Model number (TE50/TS50/TL50) and the VIN Number on the right side. The Tickford build number plate, if present, can be found in the [same location as the TVE Plate](#tickford-vehicle-engineering-plate).
 
-> No image of T-Series Build Number plate or Plate location added as no T-series models included in project
-
 ### Tickford Dual-Fuel LPG Option Plate
 
 Another similar-but-different Tickford-issued Options Plate was the Factory Dual-Fuel LPG system. This system is remarkably rare and as such, so is the Option Plate. If fitted, the plate will be present on the passenger side of the engine bay, next to the Air Conditioner line, and should contain the following, in the following approximate layout:
 
-<table style="text-align:left" class="full-width-table">
+<table style="text-align:left" class="plate-layout-table">
     <tbody>
         <tr>
             <td colspan="2">
                 <a href="../VIN/VIN.html#vehicle-identification-number">V.I.N</a>
+                <code>6FPAAAJG_________</code>
             </td>
         </tr>
         <tr>
             <td>
                 <a href="../VIN/VIN.html#engine-number">ENGINE No.</a>
+                <code>JG_________</code>
             </td>
             <td>
-                DATE
+                DATE <code>00/00/0000</code>
             </td>
         </tr>
         <tr>
             <td>
-                TANK DATE
+                TANK DATE <code>00/00/0000</code>
             </td>
             <td>
-                WATER VOL. XX LITRES
+                WATER VOL. <code>00</code> LITRES
             </td>
         </tr>
         <tr>
             <td colspan="2">
-                L.P.G SERIAL No.
+                L.P.G SERIAL No. <code>AU 0000</code>
             </td>
         </tr>
     </tbody>
@@ -96,34 +96,34 @@ Another similar-but-different Tickford-issued Options Plate was the Factory Dual
 
 LPG system installed by an authorized workshop may have another Tickford branded plate installed, which has Tickford logos on the top, followed by information in the following layout:
 
-<table style="text-align:left" class="full-width-table">
+<table style="text-align:left" class="plate-layout-table">
     <tbody>
         <tr>
             <td colspan="2">
-                THE LPG SYSTEM COMPLIES WITH ADR44/01 & AS1425-1989
+                <code>THE LPG SYSTEM COMPLIES WITH ADR44/01 & AS1425-1989</code>
             </td>
         </tr>
         <tr>
             <td colspan="2">
-                INSTALLED BY LICENCED WORKSHOP No. 
+                INSTALLED BY LICENCED WORKSHOP No. <code>AAA00000</code>
             </td>
         </tr>
         <tr>
             <td colspan="2">
-                <a href="../VIN/VIN.html#vehicle-identification-number">V.I.N</a>
+                <a href="../VIN/VIN.html#vehicle-identification-number">V.I.N</a> <code>6FPAAAJG_________</code>
             </td>
         </tr>
         <tr>
             <td>
-                <a href="../VIN/VIN.html#engine-number">ENGINE No.</a>
+                <a href="../VIN/VIN.html#engine-number">ENGINE No.</a> <code>JG_________</code>
             </td>
             <td>
-                DATE
+                DATE <code>00/00/0000</code>
             </td>
         </tr>
         <tr>
             <td colspan="2">
-                L.P.G SERIAL No.
+                L.P.G SERIAL No. <code>XXX0000</code>
             </td>
         </tr>
     </tbody>
