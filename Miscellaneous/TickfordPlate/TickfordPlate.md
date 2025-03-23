@@ -36,11 +36,12 @@ Below is a list of known Tickford-supplied modifications, based on multiple mark
 | 17x8 5 spoke alloy wheels (235/45R17 tires)  | `17" ALLOY WHEELS` | 5 spoke Tickford wheels, generally fitted to XR models. Popular due to simple design |
 | Dual-Fuel LPG System | *[Seperate Plate Fitted](#tickford-dual-fuel-lpg-option-plate)* | Only known way to get dual-fuel "from the factory" |
 | Body styling kit with front and rear skirts, rocker mouldings and full wing spoiler | `BODYKIT` | Tickford-specific body kit, generally only used on the XR variants |
-| Tickford Authorized LPG System | *[Seperate Plate Fitted](#tickford-authorized-lpg-plate)* | |
 | Momo steering wheel | `MOMO STEERING WHEEL` | Includes both the colored Leather steering wheels and the wood-accented "Luxury" steering wheel |
 | Momo steering wheel and Momo T-Bar shifter | `MOMO STEERING WHEEL & 'T'BAR` | Includes both the colored Leather steering wheels and the wood-accented "Luxury" steering wheel |
-| Premium Brakes | `PREMIUM BRAKE PACKAGE` | Approx. 330mm diameter Brembo brake upgrade fitted to Series 2-3 AU Falcons. Different to the brakes fitted to the T-Series models, which have no plate abbreviation due to these models not having the same plate present |
+| Premium Brakes | `PREMIUM BRAKE PACKAGE` | Approx. 330mm diameter Brembo brake upgrade fitted to Series 2-3 AU Falcons. Different to the brakes fitted to the T-Series models, which have no plate abbreviation due to these models [not having the Modification Plate](#tickford-build-number-plate) |
+| Sport Suspension | *unknown* | only present on plate if non-XR as Sport Suspension was standard on XR trim |
 | Sunroof | `SUNROOF` | |
+| Tickford Authorized LPG System | *[Seperate Plate Fitted](#tickford-authorized-lpg-plate)* | |
 
 ## Alternative Plates
 
