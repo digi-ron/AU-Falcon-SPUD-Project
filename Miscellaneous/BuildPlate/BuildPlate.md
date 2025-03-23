@@ -12,6 +12,119 @@ You can find the Build plate near the [VIN Plate](../VIN/VIN.md), on the passeng
 
 > The location of the Vehicle Identification Plate
 
+## Layout
+
+The Build plate has the following layout:
+
+<table class="plate-layout-table">
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <a href="#vin">V.I.N</a>
+      </td>
+      <td colspan="2">
+        <a href="#sido-number">SIDO No.</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <code>6FPAAAJG_________</code>
+      </td>
+      <td colspan="2">
+        <code>000000</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#model">MODEL</a>
+      </td>
+      <td>
+        <a href="#engine">ENGINE</a>
+      </td>
+      <td>
+        <a href="#transmission">TRANS.</a>
+      </td>
+      <td>
+        <a href="#rr-ax-and-ft-ax">RR. AX.</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <code>00000</code>
+      </td>
+      <td>
+        <code>A</code>
+      </td>
+      <td>
+        <code>Z</code>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#rr-ax-and-ft-ax">FT. AX.</a>
+      </td>
+      <td>
+        <a href="#trim">TRIM</a>
+      </td>
+      <td>
+        <a href="#paint">PAINT</a>
+      </td>
+      <td>
+        <a href="#brk">BRK</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>
+        A1
+      </td>
+      <td>
+        A1
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#gvm-kg">GVM kg</a>
+      </td>
+      <td>
+        <a href="#gcm">GCM</a>
+      </td>
+      <td>
+        <a href="#built">BUILT</a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+        JAN98
+      </td>
+      <td>
+        <a href="#model-information">AU SEDAN</a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <code>FORD MOTOR COMPANY</code>
+        <br />
+        <code>OF AUSTRALIA LTD</code>
+        <br />
+        <code>VEHICLE IDENTIFICATION PLATE</code>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Codes and What They Mean
 
 ### VIN
@@ -72,7 +185,7 @@ The transmission code identifies the type and location of the transmission. Refe
 | `K` | Manual | Floor |
 | `W` | Automatic | Floor |
 
-### RR AX and FR AX
+### RR AX and FT AX
 
 > Information on these codes are sparse but should refer to the Rear and Front Axles. Their purpose is unknown due to all accessible cars for Project not including values
 {: .block-note}
@@ -185,6 +298,10 @@ The Gross Combination Mass, or GCM, is the maximum weight of a car and trailer c
 
 > Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through [Magnum MFG](../../Credits.md#sources) website
 {: .block-note}
+
+### BUILT
+
+The built field contains the month and year that the vehicle was manufactured, in a `MON00` format. For example, if a car was manufactured in January of 1999 is would read `JAN99`
 
 ### Model information
 
