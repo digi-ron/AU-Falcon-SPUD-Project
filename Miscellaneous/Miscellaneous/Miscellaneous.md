@@ -14,3 +14,4 @@ below is a list of other notes regarding the AU Falcon, which were not important
   - SET: `0909464987`
   - VOL1: `0909464960`
   - VOL2: `0909464979`
+- Ignition leads average 4.5 KΩ resistance
