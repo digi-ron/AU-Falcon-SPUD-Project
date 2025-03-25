@@ -42,10 +42,81 @@ All connections for the speakers and subwoofer in the amplifier are screw termin
 
 > There is a small loom that connects the subwoofer and speakers to the rest of the Audio Loom within the vehicle, however information on this loom is limited
 
+### Pinout
+
+due to various plugs present on the rear of the Premium Audio AMplifier, the following information is divided into sections. Each section is progressing left to right, while looking at the amplifier while it is sitting flat on the screw mountable side:
+
+<table>
+    <thead>
+        <th>01 - RCA</th>
+        <th>02 - Screw Terminal Audio</th>
+        <th>03 - Fuse</th>
+        <th>04 - Screw Terminal Power</th>
+    </thead>
+</table>
+
+#### Section 01 - RCA
+
+The first section of the amplifier contains audio inputs via RCA connections. While stereo audio can be input, wiring on the amplifier itself suggests that all audio is converted to mono output.
+
+> Only one plug, the left-most, is populated when using a factory loom
+
+#### Section 02 - Screw Terminal Audio
+
+The next section of the amplifier contains terminals for the audio output of the amplifier, with the layout and pinout listed below:
+
+<table>
+    <thead>
+        <th>01</th>
+        <th>02</th>
+        <th>03</th>
+        <th>04</th>
+    </thead>
+</table>
+
+| Pin | Purpose | Notes |
+| --- | --- | --- |
+| 01 | Subwoofer - | |
+| 02 | Speaker - (assumed) | unused |
+| 03 | Speaker + (assumed) | unused |
+| 04 | Subwoofer + | |
+
+#### Section 03 - Fuse
+
+The fuse section of the amplifier contains a Standard sized 20A fuse
+
+#### Section 04 - Screw Terminal Power
+
+The final section of the wiring for the amplifier contains the wiring for 12v power, in the following layout and pinout:
+
+<table>
+    <thead>
+        <th>01</th>
+        <th>02</th>
+        <th>03</th>
+        <th>04</th>
+    </thead>
+</table>
+
+| Pin | Purpose | Notes |
+| --- | --- | --- |
+| 01 | 12v SIG | used to turn amplifier on/off |
+| 02 | GND1 | |
+| 03 | 12v Constant | power input |
+| 04 | GND2 (assumed) | unused |
+
 ### Additional Information
 
-> There is partial information to suggest some Series 3 AU Falcons came with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed however and as such no information on these amplifiers is provided
-{: .block-note}
+Any additional information on the premium audio system is listed below:
+
+- Premium audio is not compatible with Wagon or Ute body styles.
+- Premium Audio cannot be "Plug and Play" installed into a lower model that did not have the option fitted. The following is required to allow for the installation of the PAS in a non-optioned vehicle:
+    - Physical amplifier mounting, requires factory backplate or similar, screwed or riveted into inside of boot
+    - One of:
+      - new wiring from rear of vehicle to battery, constant power, and radio signal/audio
+      - Audio loom replacement from optioned vehicle
+    - Hole needs to be cut in sedan rear-shelf. While the steel has the hole present, the carpet cover does not and will need to be modified.
+- There is partial information to suggest some Series 3 AU Falcons may have come with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed definitively however, and as such no information on these amplifiers is provided
 
 <!--TODO confirm if the series 3 falcons had a BA amp-->
 <!-- ### Series 2-3
