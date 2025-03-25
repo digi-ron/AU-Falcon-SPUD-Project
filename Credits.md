@@ -43,18 +43,20 @@ description: "Credits"
 > While not all of these companies furthered the project directly, they are notable mentions regardless due to the furthering of the car that was enabling the project.
 {: .block-note}
 
+- [ASL Automedia](https://www.aslautomedia.com.au/)
+  > Confirmed the [well-known serial number decoding rumour](./Audio/HeadUnit/HeadUnit.md#security-code) for the OEM head units to be false by explaining the method with which they retrieve codes using their paid service
 - [Hayman Reese](https://haymanreese.com.au/)
-  > *Was more than happy to send through a manual for a towbar I was considering from a wreckers, even though they stood to gain nothing but good karma from it*
+  > Was more than happy to send through a manual for a towbar I was considering from a wreckers, even though they stood to gain nothing but good karma from it
 - [TJM](https://www.tjm.com.au/)
-  > *Customer support was super responsive and sent me through all the info they had on a nudge bar they probably haven't thought about for the best part of 20 years, within 24hrs*
+  > Customer support was super responsive and sent me through all the info they had on a nudge bar they probably haven't thought about for the best part of 20 years, within 24hrs
 - [BTA](https://btatowbars.com/) / [TBA](https://www.towbarsaustralia.com.au/)
-  > *BTA Towbars & Hitches for manufacturing a sub $1,000 hitch receiver towbar for a 25 year old Sedan, and Towbars Australia for supplying it at a bit of a discount while still having ripper customer service*
+  > BTA Towbars & Hitches for manufacturing a sub $1,000 hitch receiver towbar for a 25 year old Sedan, and Towbars Australia for supplying it at a bit of a discount while still having ripper customer service
 
 ## Wall of Shame - Information gatekeepers and time wasters
 {: .bad-highlight}
 
 - [RemotePro](https://www.remotepro.com.au/)
-  > Took an 8 day email chain to organize a refund because they clearly didn't program Smartlock remotes with the right codes, with them flat-out ignoring me for 6 when I asked if they had the configuration on hand so I could fix it myself instead of refunding. Found out from a more reputable locksmith later that they barely ever work.
+  > Took an 8 day email chain to organize a refund because they clearly didn't program Smartlock remotes with the right codes, with them flat-out ignoring a question on if they had the configuration on hand so it could be fixed without sending it back. Poor experience led to the remote being returned, and other locksmiths later confirmed that the specific SKU of remotes were unreliable.
 
 - [Ford Australia Customer Support](mailto:foacust1@ford.com)
   > Sent an email 08/10/24 asking for keyfob information
@@ -65,7 +67,7 @@ description: "Credits"
   > 
   > ---
   > 
-  > Sent an email 04/12/24 asking for a [Vehicle Verification Letter](./Archive/VerificationLetter/Verification.md), after getting one successfully in 2021
+  > Sent another email 04/12/24 asking for a [Vehicle Verification Letter](./Archive/VerificationLetter/Verification.md), after getting one successfully in 2021
   >
   > No response by 03/02/25 so followed up
   >
