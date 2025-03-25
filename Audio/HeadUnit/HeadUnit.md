@@ -7,6 +7,16 @@ description: Head Unit information
 > Information on this page is incomplete due to lack of information found in research. Any information found is present, but may not assist with specifics such as plug connector housing part numbers and additional feature pinout information.
 {: .block-note}
 
+## Security Code
+
+After a loss of power for an extended period of time, power to the Keep Alive Memory (KAM) inside the stereo is lost, resulting in an error on reconnection where the display will simply read `c0de`. If this happens, a 4-digit pin code is required, where each number entered is a number between 1-6, using the channel buttons on the bottom of the unit. Simply enter the code and the radio will regain functionality.
+
+> If the code is lost there is currently no known way to "calculate" the pin code based on the numbers on the stickers on the unit, nor is there a way to calculate based on the vehicles VIN or Engine Number. These rumours have proliferated throughout AU Falcon related forums for years but has been confirmed false by [ASL Automedia](../../Credits.md#special-thanks---information-sharers-and-timesavers), who are only able to decode based on a previously obtained database.
+{: .block-note}
+
+> Brute-forcing the password is not recommended due to the 1,296 possible values and the increasing failure timeout between repeated attempts. Use of a service such as that provided by [ASL Automedia](../../Credits.md#special-thanks---information-sharers-and-timesavers), a wrecker replacement radio with provided code, or an aftermarket solution, should be sourced.
+{: .block-warning}
+
 ## Main head unit connector plug
 
 The connector used for the head unit of the AU Falcon is specific to this model, and to date no further information has been ascertained on who manufactures these parts. The following information about the connector has been collected however despite this:
