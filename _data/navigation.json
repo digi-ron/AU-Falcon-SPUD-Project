@@ -148,6 +148,10 @@
                     "url": "/Engine/FuelInjectors/FuelInjectors.html"
                 },
                 {
+                    "title": "Fuel Pressure Regulator",
+                    "url": "/Engine/FuelPressureRegulator/FuelPressureRegulator.html"
+                },
+                {
                     "title": "Ignition Coil Pack",
                     "url": "/Engine/IgnitionCoil/IgnitionCoil.html"
                 },
