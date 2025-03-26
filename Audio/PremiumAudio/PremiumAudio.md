@@ -7,7 +7,7 @@ description: "Premium Audio Information"
 > Information on this page is incomplete due to lack of resources
 {: block-note}
 
-Some models of the AU Falcon were optioned with the Premium Audio System, which improves the audio solution of the vehicle by adding an external amplifier and a subwoofer (in some bodys). This is easier to find in the "Upmarket" models of the vehicle, such as the Fairmont GHIA or Fairlane, however any model could be optioned with it, assuming it was requested at the time of original purchase
+Some models of the AU Falcon were optioned with the Premium Audio System, which improves the audio solution of the vehicle by adding an external amplifier and a subwoofer. This is easier to find in the "Upmarket" models of the vehicle, such as the Fairmont GHIA or Fairlane, however any model could be optioned with it, assuming it was requested at the time of original purchase.
 
 ## Subwoofer
 
@@ -18,13 +18,35 @@ The following information is known about the factory Subwoofer:
 | Size | 8.5" |
 | Manufacturer | Pioneer |
 | Resistance | 4Ω |
-| Model # | Varies, generally `TS-08***** |
+| Model # | Varies, generally `TS-08*****` |
 
 <!--TODO add picture of subwoofer-->
 
-## Amplifier
+## Amplifier - S1
 
-The following information is known about the premium audio Amplifier from the AU Falcons:
+> Information on these amplifiers is incomplete due to lack of resources
+{: .block-note}
+
+The Series 1 AU Falcons contained an amplifier which was used to power both the subwoofer and the rear speakers. The only known information on these amplifiers is the wiring colors:
+
+> All polarities are assumed due to lack of available information
+{: .block-note}
+
+| Pin Purpose | Color |
+| --- | --- |
+| Driver Rear Speaker - | Red/Green |
+| Driver Rear Speaker + | Pink/Blue |
+| Subwoofer - | Blue/Green |
+| Subwoofer + | Blue/White |
+| Passenger Rear Speaker - | Pink/Green |
+| Passenger Rear Speaker + | Green/Orange |
+| 12v Power | Yellow |
+| 12v SIG | Red |
+| GND | Black |
+
+## Amplifier - S2-3
+
+After the Series 1 AU Falcons, the subwoofer was changed to a model that only contains an amplifier for the Subwoofer, and not the rear speakers. The following information is known about these amplifiers:
 
 > Information on the Amplifier is limited due to a limited amount of these vehicles being still available for parts
 {: .block-note}
@@ -32,9 +54,9 @@ The following information is known about the premium audio Amplifier from the AU
 | Information | Notes |
 | --- | --- |
 | Manufacturer | FMS Audio (Now known as Sanyo) |
-| Channels | 1 |
+| Channels | 2 |
 | Wattage | Unknown, assumed 200-250W approximate |
-| Connection | Subwoofer & Rear Speakers |
+| Connection | Subwoofer Only |
 
 ### Plug Information
 
@@ -100,9 +122,9 @@ The final section of the wiring for the amplifier contains the wiring for 12v po
 
 | Pin | Purpose | Notes |
 | --- | --- | --- |
-| 01 | 12v SIG | used to turn amplifier on/off |
+| 01 | 12v Constant | 20A signal required |
 | 02 | GND1 | |
-| 03 | 12v Constant | power input |
+| 03 | 12v Signal | assumed, untested |
 | 04 | GND2 (assumed) | unused |
 
 ### Additional Information
