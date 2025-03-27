@@ -144,6 +144,10 @@
                     "url": "/Engine/Alternator/Alternator.html"
                 },
                 {
+                    "title": "Fuel Filter (inline)",
+                    "url": "/Engine/FuelFilter/FuelFilter.html"
+                },
+                {
                     "title": "Fuel Injectors",
                     "url": "/Engine/FuelInjectors/FuelInjectors.html"
                 },
