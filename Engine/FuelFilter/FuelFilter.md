@@ -23,6 +23,8 @@ In order to make the replacement easier, the following equipment is recommended:
 
 ### Steps
 
+<!-- TODO add pictures -->
+
 1. Remove the Fuel Relay from the [Engine Bay Fuse Panel](../../Electrical/Fuses/Fuses.md#engine-bay) and crank engine until unable to start
 
     > Alternatively you can leave the car not running for 24hrs before starting procedure
