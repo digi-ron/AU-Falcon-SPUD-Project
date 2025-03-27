@@ -41,6 +41,6 @@ In order to make the replacement easier, the following equipment is recommended:
     > The best known method for this is to keep the 19mm spanner still while unscrewing the line nut using the 14mm
     {: .block-note}
 
-1. reverse all step to reinstall
+1. reverse all steps to reinstall
 
 1. done
