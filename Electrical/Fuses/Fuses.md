@@ -4,19 +4,23 @@ description: fuse information and minimum viable fuses, including diagrams and p
 
 # Fuses & Relays
 
-## Cabin - Diagram
+## Diagrams
+
+### Cabin
 
 ![Cabin fuses diagram](./cabin-fuses.jpg)
 
 > Diagram scanned from user manual
 
-## Engine Bay - Diagram
+### Engine Bay
 
 ![Engine Bay fuses diagram](./engine-bay-scan.jpg)
 
 > Diagram scanned from user manual
 
-## Cabin Fuses table
+## Tables
+
+### Cabin Fuses
 
 Please refer to the table below for a list of cabin fuses, including which fuses are constant and which fuses are switched in the case of accessories being installed, such as hard-wired dash cameras and reversing cameras:
 
