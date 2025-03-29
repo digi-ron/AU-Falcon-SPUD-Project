@@ -164,7 +164,7 @@ The amplifier for the later model AU Falcons uses are an AMP Multilock .070 desi
 
 #### Pin Layout
 
-The following notes assume pin numbers where you are looking at the Amplifier unit itself, with the flat edgge facing upwards and the clip reciever facing down:
+The following notes assume pin numbers where you are looking at the Amplifier unit itself, with the flat edge facing upwards and the clip receiver facing down:
 
 | `01` | `02` | `03` | `04` | `05` | `06` | `07` |
 | --- | --- | --- | --- | --- | --- | --- |
