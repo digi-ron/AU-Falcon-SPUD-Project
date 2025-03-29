@@ -36,7 +36,7 @@ In order to make the replacement easier, the following equipment is recommended:
 
 1. Use the 2 screwdrivers, or if available the fuel line removal tool, to press the spring inside the fuel line end coming from the fuel tank, and remove the tank lines
 
-1. Unbolt the engine side fuuel line from the filter using the 2 spanners
+1. Unbolt the engine side fuel line from the filter using the 2 spanners
 
     > The best known method for this is to keep the 19mm spanner still while unscrewing the line nut using the 14mm
     {: .block-note}
