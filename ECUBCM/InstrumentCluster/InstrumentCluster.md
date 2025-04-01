@@ -39,7 +39,7 @@ When changing between instrument cluster types, the following should be put into
 ### Pursuit Cluster - Speedometer Calibration
 Pursuit clusters are not only sought after as they are, in theory the rarest type of speedometer available for the AU Falcon, they are also useful for on-the-fly speedometer calibration, allowing for much more flexibility with wheel sizes and differential ratios.
 
-> The calibration mode allows for 10% of calibration in either direction (so 90-110% stock) and increments about 0.5% each button press. for more than this, you will need to play with transmission gearing or an external speedometer calibration tool to achieve the desired effect
+> The calibration mode allows for 10% of calibration in either direction (so 90-110% stock) and increments about 0.5% each button press. for more than this, you will need to change some or all of tyre size, transmission gearing and differential ratios. A [speedometer calibration tool](../../Engine/SpeedometerReading/SpeedReaderCalculator.html) is available on this site.
 {: .block-note}
 
 1. do the following depending on your series of **CLUSTER**:
