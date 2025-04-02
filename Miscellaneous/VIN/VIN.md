@@ -97,7 +97,11 @@ Similar to the first 3 characters, the following 3 are also always going to be t
 
 #### Characters 7-8 - "JG" 
 Similar again to the first 6 characters, the last 2 characters that should be the same for the AU Falcon are `JG`. These codes stand for the following:
-- J - Product source location code for Australia
+- J - Product source location code
+
+  > conflicting information suggests that this is either a code for Australia, where the car was assembled, or Japan, where some of the parts were sourced.
+  {: .block-note}
+  
 - G - Assembly plant code for Broadmeadows, VIC
 
 > to summarize, any AU Falcon should start with `6FPAAAJG`
