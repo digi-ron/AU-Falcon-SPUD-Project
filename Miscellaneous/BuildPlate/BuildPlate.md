@@ -137,25 +137,83 @@ The Single Item Dealer Order number, or SIDO, is simply a unique build identifie
 
 ### Model
 
-The Model number is a more specific identifier of the trim model that the vehicle was built with. Refer to the table below for what each number corresponds to:
+The Model number is a more specific identifier of the trim model that the vehicle was built with. Refer to the tables below for what each number corresponds to:
+
+#### Series 1
 
 | Number | Model | Body |
-| --- | ---| --- |
+| --- | --- | --- |
+| `18931` | S | Sedan |
 | `18932` | Fairmont | Sedan |
 | `18933` | Forte | Sedan |
+| `18934` | Futura | Sedan |
 | `18935` | XR (6 or 8) | Sedan |
+| `18932` | Fairmont | Sedan |
 | `18938` | Fairmont GHIA | Sedan |
 | `18946` | LTD (Fairlane) | Sedan |
 | `18949` | Fairlane GHIA | Sedan |
+| `18952` | TE50 | Sedan |
+| `18958` | TS50 | Sedan |
+| `18959` | TL50 | Sedan |
 | `18962` | Fairmont | Wagon |
 | `18963` | Forte | Wagon |
 | `18964` | Futura | Wagon |
 | `19934` | Futura | Sedan |
-| `45913` | XL | Ute |
-| `45914` | XLS | Ute |
-| `45973` | XL Supercab | Ute |
-| `45974` | XLS Supercab | Ute |
-| `45975` | XR (6 or 8) | Ute |
+
+#### Series 2
+
+| Number | Model | Body |
+| --- | --- | --- |
+| `18131` | S | Sedan |
+| `18132` | Fairmont | Sedan |
+| `18133` | Forte | Sedan |
+| `18134` | Futura | Sedan |
+| `18135` | XR (6 or 8) | Sedan |
+| `18138` | Fairmont GHIA | Sedan |
+| `18152` | TE50 | Sedan |
+| `18158` | TS50 | Sedan |
+| `18159` | TL50 | Sedan |
+| `18162` | Fairmont | Wagon |
+| `18163` | Forte | Wagon |
+| `18164` | Futura | Wagon |
+
+#### Series 3
+
+| Number | Model | Body |
+| --- | --- | --- |
+| `18157` | TL50 | Sedan |
+| `18232` | Fairmont | Sedan |
+| `18233` | Forte | Sedan |
+| `18234` | Futura | Sedan |
+| `18235` | XR (6 or 8) | Sedan |
+| `18238` | Fairmont GHIA | Sedan |
+| `18255` | TE50 | Sedan |
+| `18256` | TS50 | Sedan |
+| `18262` | Fairmont | Wagon |
+| `18263` | Forte | Wagon |
+| `18264` | Futura | Wagon |
+
+#### High Models
+
+Some high models remained unchanged between series 2 and 3, meaning they remained with the same model code. A list of these models can be found below:
+
+| Number | Model | Series | Body |
+| --- | --- | --- | --- |
+| `18146` | LTD | 2-3 | Sedan |
+| `18149` | Fairlane GHIA | 2-3 | Sedan |
+
+#### Utility Models
+
+> Information here is incomplete due to lack of found information
+{: .block-note}
+
+| Number | Model | Series | Body |
+| --- | ---| --- | --- |
+| `45913` | XL | *unknown* | Ute |
+| `45914` | XLS | *unknown* | Ute |
+| `45973` | XL Supercab | *unknown* | Ute |
+| `45974` | XLS Supercab | *unknown* | Ute |
+| `45975` | XR (6 or 8) | *unknown* | Ute |
 
 ### Engine
 
