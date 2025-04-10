@@ -1,3 +1,9 @@
+---
+description: fuel filter replacement
+---
+
+<!-- TODO add pictures -->
+
 # Fuel Filter
 
 While there is a small fuel filter generally present within the Fuel Pump assembly, the AU Falcon has a larger, more complete fuel filter located along the fuel line. Information on the Fuel Filter is below:
