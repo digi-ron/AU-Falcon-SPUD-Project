@@ -1,3 +1,7 @@
+---
+description: fuel injector diagnosis and replacement
+---
+
 # Fuel Injectors
 
 ## Location
