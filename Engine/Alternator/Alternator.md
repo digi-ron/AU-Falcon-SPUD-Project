@@ -6,7 +6,7 @@ description: alternator information
 
 ## Types
 
-The AU Falcon has 2 types of alternators depending on if you have the 4L I6 (VCT or non-VCT) or the 5L V8:
+The AU Falcon has 3 types of alternators depending on factors such as series and engine option:
 
 ### 4L I6
 
