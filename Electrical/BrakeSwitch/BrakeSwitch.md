@@ -1,3 +1,7 @@
+---
+description: brake switch replacement
+---
+
 # Brake Switch
 
 If you find that your brake lights are not turning on when you expect, or you find the cruise control is not disengaging when pressing the brake pedal, you may find that you have a faulty brake switch. The brake switch is the electrical component that tells the car that you have pressed the brakes, as without it the car only mechanically activates the brake booster.
