@@ -1,5 +1,5 @@
 ---
-description: steering wheel Cruise Control assembly and Media Control assembly information
+description: steering wheel Cruise Control and Media Control assembly information, pinout, and 3D printable model
 ---
 
 # Steering Wheel Controls
