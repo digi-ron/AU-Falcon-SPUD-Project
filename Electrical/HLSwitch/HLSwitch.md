@@ -1,5 +1,5 @@
 ---
-description: headlight switch controls information
+description: headlight switch controls information and pinouts
 ---
 
 # Headlight Switches
