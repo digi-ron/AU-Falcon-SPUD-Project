@@ -1,5 +1,5 @@
 ---
-description: ignition coil pack information for the 1999-2002 Ford Falcon AU, including replacement and testing information
+description: ignition coil pack information, including replacement and testing information
 ---
 
 # Ignition Coil Pack
