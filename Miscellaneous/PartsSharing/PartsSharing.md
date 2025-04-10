@@ -1,5 +1,5 @@
 ---
-description: " - (partial) list of shared parts from Ford Falcons XA/XB/XC/XD/XE/XF/XG/XH/EA/EB/EF/EL/AU/BA/BF/FG, and Ford Territory SX/SY/SZ"
+description: " - (partial) list of shared parts from Ford Falcons XA/XB/XC/XD/XE/XF/XG/XH/EA/EB/EF/EL/AU/BA/BF/FG/FGX, and Ford Territory SX/SY/SZ"
 ---
 
 # Parts Sharing
@@ -50,6 +50,7 @@ Please see the table below for shared parts:
 | Ignition Leads | EF-AUI | only compatible with S1 AU Falcons |
 | Interior Map Lights | AU-BFIII | Light inner assembly also the same as SX-SY Territory models, however fascia is different |
 | [Interior Mirror](../../Body/InteriorMirror/InteriorMirror.md) | AU-FGX, SX-SZII | AUI Mirrors have grub screw mounting rather than clip, but all are interchangeable |
+| Lower Control Arm | AUII-BFIII | AUI Not included due to different suspension geometry |
 | Mirror Switch | EF-BFIII | |
 | [PCV](../../Engine/PCV/PCV.md) | XF-FGX, SX-SZII, XG-XHII | Locations differ between models, but are all generally fitted into the top of the rocker cover. Right angle elbow may be required if a straight through unit is installed |
 | Rear Door Shell | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
@@ -67,6 +68,8 @@ Please see the table below for shared parts:
 | Starter Motor | EA-BFIII, XG-XHII, SX-SZII | |
 | Towbar | AU-FGX | Utes and Wagon body styles only, Body from both vehicles must match e.g. Wagon and Wagon, Ute and Ute |
 | [Trailer Plug](../../Electrical/TrailerPlug/TrailerPlug.md) | AU-BFIII, SX-SZ | Harness only applicable for basic trailer lighting (tails, brakes, indicators, reverse lamps), more complex plug required for functionality such as reversing sensors (where fitted) |
+| Upper Control Arm | AU-BFIII | |
 | Weathershields (Front) | AU-BFIII | Aftermarket or OEM inclusive |
 | Weathershields (Rear) | AU-BFIII | Aftermarket only as OEM part not manufactured. Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Wheel Centre Caps | XA-FGX | Only applies to Interceptor style "Steelie" wheels, not included from factory in some models but fits all 5x114.3 PCD steel wheels |
+| Wheels | AU-FGX | Only applies to 16" or above wheels |
