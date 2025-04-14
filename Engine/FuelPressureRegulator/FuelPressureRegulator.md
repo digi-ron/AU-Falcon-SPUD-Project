@@ -35,6 +35,10 @@ Some of the reasons you may need to consider replacing the fuel pressure regulat
 - Misfire on cylinders closest to the front of the engine (cylinders 1 & 2 predominately)
 - Rough or hunting idle, particularly once vehicle is up to temperature
 
+### Other notes
+
+The fuel pressure regulator is easily blocked by dirty fuel. If the regulator is removed and debris is found, a fuel system flush is recommended.
+
 ### Verification of Fuel Pressure Regulator
 
 Generally speaking fuel pressure regulators are one of the first parts to be replaced when diagnosing a fuelling issue, however the following should be checked first:
