@@ -5,6 +5,10 @@ hideTOC: true
 
 # Air Conditioner Controls - Series 1
 
+## Diagnosis
+
+Diagnosis of the AC and AC Max. buttons on a Series 1 AU Falcon is simple. If the button lights activate on press but then turn off when a sufficient bump in the road is driven over, then it is likely the repair below is required.
+
 ## Repairing solder connections on the AC and AC Max. Buttons
 
 A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max. buttons on the dash work intermittently, generally knocking loose in the course of normal driving. These buttons present a further issue by not being able to be held down, as they are only registered as a button press *after* the button is released. If you are experiencing this issue, follow the steps below to repair:
