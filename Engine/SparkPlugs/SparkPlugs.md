@@ -18,6 +18,10 @@ While the sparkplug manufacturer code vary according to the manufacturer, the fo
 > While Iridium sparkplugs are not necessarily recommended for the Intech motor, they can be used to reduce replacement frequency, assuming you are willing to absorb the additional initial cost
 {: .block-note}
 
+## Diagnosis
+
+Diagnosis for spark plugs can sometimes be discerned from visual inspection, but require removal. check for issues such as cracked ceramic, worn spark tip, and incorrectly spaced sparkplug gaps.
+
 ## Replacement
 
 if you need to replace the sparkplugs, follow the steps below:
