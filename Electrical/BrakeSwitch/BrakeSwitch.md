@@ -9,6 +9,13 @@ If you find that your brake lights are not turning on when you expect, or you fi
 > The brakes will not fail due to a brake switch failure. If you find any symptoms with your brakes mechanically then there is a problem with the brake system itself
 {: .block-warning}
 
+## Diagnosis
+
+Diagnosis for this part is simple. Start the vehicle and put your foot lightly on the brake pedal, in any gear. Have another person check for brake light funtionality
+
+> alternatively, 2-3 standard red bricks can be wedged into place to force the brake pedal down, however this is a last resort option if no one else is available
+{: .block-note}
+
 ## Replacement
 
 Follow the below steps to replace your brake switch:
