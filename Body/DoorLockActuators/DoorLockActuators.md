@@ -7,6 +7,17 @@ hideTOC: true
 
 A well known issue with 1998-2010 Falcon (AU-BFIII) and 2004-2016 (SX-SZ) Territory models is that the door lock actuators are notoriously weak, and usually the cause of this failure is caused by plastic pieces inside the actuator itself. Thankfully repair kits are cheap* if required, otherwise new actuators can be sourced from wreckers (however if choosing the latter, care should be taken to get one verified working or with a short-term warranty)
 
+## Diagnosis
+
+diagnosis for these parts are simple, as the actuator, when failed, will generally make a noise indicating an attempt to lock the affected door, only for the door to be able to be opened after being "locked". This can be harder to detect in the driver door if the vehicle is locked using a physical key, however it will show if the central locking is used.
+
+> If the affected door does not make a noise when attempted, the voltage of the wiring should be verified to ensure failure is the motor inside the affected actuator
+{: .block-note}
+
+> If feasible, a repair kit and repairing all 4 actuators at the same time is recommended over replacing each failed actuator as they fail, as they tend to have similar lifespans
+> 
+{: .block-note}
+
 <sup>*at time of writing in 2024</sup>
 
 ![Common failure type](./failed-cog.jpg)
