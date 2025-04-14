@@ -7,7 +7,11 @@ description: "Idle Speed Controller Information"
 > This information is only relevant to the I6 models, due to lack of information on V8 models available
 {: .block-note}
 
-The Idle Speed Controller is the component on top of the Throttle body at the top of the motor responsible for controlling the idle while the throttle is completely shut. If this were to fail, the most likely symptoms would be failure to reliably cold start, requiring you to hold the throttle down somewhat to get the car to turn over.
+The Idle Speed Controller is the component on top of the Throttle body at the top of the motor responsible for controlling the idle while the throttle is completely shut.
+
+## Diagnosis
+
+Only one known test is available for the ISC to check for failure without removal, which is the vehicles inability to reliably cold start. Note that this is *not* a reliable test, and the movement of the ISC inner spring should be tested to confirm this diagnosis.
 
 ## Location
 
