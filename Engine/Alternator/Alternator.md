@@ -35,6 +35,15 @@ The V8 alternator, likely due to different engine configuration and power requir
 
 > image taken from [Repco](../../Credits.md#sources) product listing page
 
+## Diagnosis
+
+Diagnosis of a bad alternator can be easily checked using a multimeter. Follow the steps below to verify alternator failure:
+
+1. confirm battery age and condition. If suspected bad battery, test using battery tester or use professional services to determine battery condition
+1. do not start the car for 24hrs, and check the battery voltage at the terminals with the multimeter. The voltage should read 12-13V. If not proceed to next step
+1. start the car and leave in Park (Neutral if manual). check terminals while car running with multimeter. The voltage should read 13-14.5V. If not, proceed to next step or assume replacement required
+1. (optional) disconnect battery terminals and jumpstart vehicle using jumpstarter or jumper leads and a known good battery/vehicle. Once jumped, disconnect jumper leads and leave car in idle. If car stalls quickly after disconnect, alternator likely at fault.
+
 ## Replacement (I6 Only)
 
 > V8 replacement not covered due to project only including I6 models
