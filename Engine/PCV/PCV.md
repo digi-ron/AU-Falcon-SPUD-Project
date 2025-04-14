@@ -17,6 +17,10 @@ A brief description on the PCV can be found below (dot-point form for brevity, b
     * uses oil
 * The PCV on the AU Falcon is located right next to the oil cap, on the top of the engine. This is the same location and part as every Ford Falcon inline 6 engine between the EA-AU (1988-2002) models.
 
+## Diagnosis
+
+Due to the simplicity of this part, there is a simple diagnosis step to check for failure. Simply remove the PCV and shake the assembly up and down. If you hear a somewhat loos rattling noise, then the PCV is in working order, and if it is severely muffled or non-existent, it is likely stuck or has oil ingress.
+
 ## Replacement
 
 > the general consensus is that it is better to replace the PCV with an aftermarket steel based PCV, for reliability and longevity more than anything else
