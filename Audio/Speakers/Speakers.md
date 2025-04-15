@@ -85,6 +85,15 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
 1. do one of the following:
     - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom, noting that the wire in the loom with a black line in it is *always* negative
+
+    Regardless of method used, note:
+    - On the [plug](#plug), the top connection (horizontal pin) is the negative
+    - if you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
+
+    ![example speaker loom](./speaker-loom-kenwood.jpg)
+
+    > Example of a loom made for a set of Kenwood speakers
+    
 1. Connect your speaker(s) to the wiring loom and reinstall into the shelf
 
     > Now is a good time to test that the speakers are connected correctly by turning on the radio
@@ -104,6 +113,15 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 1. do one of the following:
     - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom noting that the wire in the loom with a black line in it is *always* negative
+
+    Regardless of method used, note:
+    - On the [plug](#plug), the top connection (horizontal pin) is the negative
+    - if you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
+
+    ![example speaker loom](./speaker-loom-kenwood.jpg)
+
+    > Example of a loom made for a set of Kenwood speakers
+
 1. Connect your speaker(s) to the wiring harness and reinstall into the body
 
     > Now is a good time to test that the speakers are connected correctly by turning on the radio
@@ -126,6 +144,15 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 1. do one of the following. For either step, keep in mind that the negative for each speaker is the wire with a black line in it:
     - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
+
+    Regardless of method used, note:
+    - On the [plug](#plug), the top connection (horizontal pin) is the negative
+    - if you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
+
+    ![example speaker loom](./speaker-loom-kenwood.jpg)
+
+    > Example of a loom made for a set of Kenwood speakers
+
 1. Connect your speaker(s) to the wiring harness and reinstall into the rear panel
 
     > Now is a good time to test that the speakers are connected correctly by turning on the radio
