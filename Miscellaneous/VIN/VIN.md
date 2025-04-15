@@ -108,7 +108,7 @@ Similar again to the first 6 characters, the last 2 characters that should be th
 {: .block-note}
 
 #### Characters 9-10 - body style
-these characters appear to signify the body style for the Falcon. Note that this *does not* signify the exact trim model, but rather the chassis that the model is built on, which can narrow it down as below:
+these characters appear to signify the body style for the Falcon. Note that this *does not* signify the exact model, but rather the chassis that the model is built on, which can narrow it down as below:
 - SW - Short Wheel Base
   - Fairmont Sedan
   - Fairmont Ghia Sedan
