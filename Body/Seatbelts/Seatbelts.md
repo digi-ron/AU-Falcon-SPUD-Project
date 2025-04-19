@@ -9,6 +9,7 @@ The seatbelts in the AU Falcons are largely easy to replace but require a single
 ## Replacement
 
 1. remove the single T50 bolt holding the end of the seatbelt to the floor
+
     ![seatbelt bottom bolt](./seatbelt-bottom-anchor-bolt.jpg)
 
     > The first T50 bolt. Note that there may be a small round plastic cover over this bolt, however this particular vehicle did not have it
