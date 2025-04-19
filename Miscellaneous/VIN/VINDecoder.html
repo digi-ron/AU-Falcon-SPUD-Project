@@ -2,13 +2,14 @@
 layout: default
 hideTOC: true
 description: Ford Falcon AU Interactive VIN Decoder
+title: Ford Falcon AU VIN Decoder
 ---
 <!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
 <!--file not generated using markdown as too complex: required more HTML tags than markdown syntax to make functional-->
-<!-- style added to override templating - special page is exception to rule where h1 doesn't need to be hidden -->
+<!-- style tag added as multiple titles used -->
 <style>
-    h1 {
-        display: block;
+    .h1 {
+        display: none
     }
 </style>
 <script>
@@ -153,7 +154,7 @@ description: Ford Falcon AU Interactive VIN Decoder
         }
     }
 </script>
-<h1 class="printHide">VIN Information Parser</h1>
+<p class="printHide maintitle">VIN Information Parser</p>
 <p class="maintitle printOnly">VIN Information Parser - Results</p>
 
 <div class="printHide">
