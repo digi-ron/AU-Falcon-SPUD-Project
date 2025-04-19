@@ -75,7 +75,7 @@ This section shows you the month and year that the car was assembled, in the for
 The Vehicle Identification Number is the most uniquely identifying number on the vehicle, as is required for registration and compliance reasons. The VIN can be decoded to determine some basic characteristics of the vehicle, and in some cases can be used to ensure that the VIN supplied in a sale or registration situation matches what should be associated with the car.
 
 <div class="printHide">
-    <h4>VIN Parser</h2>
+    <h4>VIN Parser</h4>
     <p>Use the link below to view an interactive tool that can help with decoding basic information on an AU Falcon based on the VIN number</p>
     <blockquote class="block-note">JavaScript is required to use this calculator!</blockquote>
     <a href="./VINDecoder.html">VIN Decoder</a>
