@@ -5,6 +5,7 @@ description: in-depth information on the continuity and functionality of the int
 # Cabin Fuse Panel
 
 > This is a more technical page, if you are simply looking for vehicle-specific fuse and relay information or minimum required fuses, see [HERE](../Fuses/Fuses.md) instead, and for general relay information, see [HERE](../Relays/Relays.md)
+{: .block-warning}
 
 > This page is a half complete mess from an idea that went as well as a lead balloon. The only reason this page still exists is due to the time it took to create, and the hope that someone can make sense of anything discovered in here. Every attempt has been made to make the notes here legible, but this is not guaranteed.
 {: .block-note}
