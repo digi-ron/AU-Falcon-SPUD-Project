@@ -24,7 +24,7 @@ For the installation of both rear speakers, the following hardware will be requi
 | Speaker Mounting Hardware | N/a | Various | |
 
 - 2 6x9" speakers (should include hardware such as screws and wiring)
-- 4 20mm right angled brackets (can be purchased from suppliers such as [Bunnings](UHOH)
+- 4 20mm right angled brackets (can be purchased from suppliers such as [Bunnings](../../../Credits.md#sources)
 - 4 8Gx15mm timber screws (button head recommended)
 - 4 4x20mm bolts
 - One of:
