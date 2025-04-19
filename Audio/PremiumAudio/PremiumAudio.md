@@ -63,6 +63,7 @@ After the Series 1 AU Falcons, the subwoofer was changed to a model that only co
 All connections for the speakers and subwoofer in the amplifier are screw terminal style connectors or RCA connections. As such, for any re-wiring attempts, small spade terminals and RCA male plugs should be used for the wires.
 
 > There is a small loom that connects the subwoofer and speakers to the rest of the Audio Loom within the vehicle, however information on this loom is limited
+{: .block-note}
 
 ### Pinout
 
@@ -82,6 +83,7 @@ due to various plugs present on the rear of the Premium Audio AMplifier, the fol
 The first section of the amplifier contains audio inputs via RCA connections. While stereo audio can be input, wiring on the amplifier itself suggests that all audio is converted to mono output.
 
 > Only one plug, the left-most, is populated when using a factory loom
+{: .block-note}
 
 #### Section 02 - Screw Terminal Audio
 
