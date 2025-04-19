@@ -5,12 +5,12 @@ description: central locking and Central Locking keyfob information
 # Central Locking Keyfobs
 
 ## Types
-Due to the change from Smartlock to Smartshield midway through the AU Falcon S1 production, the key fobs for these cars are split in 2
+Due to the change from Smartlock to Smartshield midway through the AU Falcon S1 production, the key fobs for these cars are split in 2, described below.
 
 ### S1 Smartlock
 These remotes are actually inherited from the EL Falcon before it, and are a 304mHz sender with a Ford specific secure code built in to discern individual remotes. As a result of their age, finding good condition original ones are becoming harder, and even once found the rubber buttons are prone to wearing quicker than their S2-3 counterparts. They appear to use a fixed code sending mechanism, however the specifics of each fobs codes is yet to be decoded
 
-> As of time of writing in 2024, the only manufacturer of "off the shelf" aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#sources), however their remotes have a high failure rate. Please see the list in the [Aftermarket Replacement](#aftermarket-replacements) section for better remote clone options
+> As of time of writing in 2024, the only manufacturer of "off the shelf" aftermarket keyfobs for this model is [KEYDIY](../../Credits.md#sources), however their remotes have a high failure rate. Please refer to the list in the [Aftermarket Replacement](#aftermarket-replacements) section for better remote clone options
 {: .block-note}
 
 ![Series 1 keyfob front](./s1-fob-front.jpg)
@@ -51,10 +51,13 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 ## Changing locking mode (Smartshield models only)
 
-In the Smartshield models of AU Falcon (Late Series 1 - Series 3), a locking mode can be specified using a factory remote. Note that this does *not* work on any known aftermarket remote, only the Ford OEM Remotes. To change the remote mode, simply hold down the lock and unlock buttons at the same time for approximately 3-5 seconds, the car will acknowledge with a flash of the indicators. The 2 modes available are:
+In the Smartshield models of AU Falcon (Late Series 1 - Series 3), a locking mode can be specified using a factory remote. To change the remote mode, simply hold down the lock and unlock buttons at the same time for approximately 3-5 seconds, the car will acknowledge with a flash of the indicators. The 2 modes available are:
 
 - Single press (one press of the unlock button unlocks all doors)
 - Double press (one press of the unlock button unlocks the drivers door only, another press unlocks the remaining doors)
+
+> No known aftermarket remote is able to change the locking mode of the AU Falcon at time of writing
+{: .block-note}
 
 ## Aftermarket replacements
 
