@@ -2,13 +2,14 @@
 layout: default
 hideTOC: true
 description: interactive calculator for changing of speedometer reading based on transmission driven gear, diff ratio, and wheel size.
+title: Speedometer Reading Calculator
 ---
 <!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
 <!--file not generated using markdown as too complex: required more HTML tags than markdown syntax to make functional-->
-<!-- style added to override templating - special page is exception to rule where h1 doesn't need to be hidden -->
+<!-- style tag added as multiple titles used -->
 <style>
-    h1 {
-        display: block;
+    .h1 {
+        display: none
     }
 </style>
 <script>
@@ -159,7 +160,7 @@ description: interactive calculator for changing of speedometer reading based on
     }
 
 </script>
-<h1 class="printHide">Speedometer Reading Calculator</h1>
+<p class="printHide maintitle">Speedometer Reading Calculator</p>
 <p class="printOnly maintitle">Speedometer Reading Calculator - Results</p>
 <blockquote class="printHide block-note">
     All fields are optional, but nonsensical inputs will be ignored e.g. original tyre size without a new tyre size specified.
