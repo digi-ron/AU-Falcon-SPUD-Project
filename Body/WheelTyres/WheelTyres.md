@@ -21,8 +21,9 @@ use the below table as a reference for wheel sizes that should fit all models of
 | 225/50R17 | 657mm | Fairmont GHIA |
 | 225/60R16 | 677mm | Fairlane GHIA |
 
-> Information about the range of wheel sizes for the AU Falcon can be beneficial if your local roads authority employs model-based wheel size limits, as any sub-model, such as a Forte, can use the tyre size of the Fairlane GHIA as a base diameter. At time of writing, this somewhat preposterously allows for a 265/65R17 tyre (diameter 777mm, 100mm larger than stock or 50mm lift in height) to be fitted to *any* AU Falcon in Victoria, Australia, assuming it can somehow be fitted without lifting the suspension in the vehicle or breaking any other rules in the relevant legislation.
-{: .block-note}
+<!-- > Information about the range of wheel sizes for the AU Falcon can be beneficial if your local roads authority employs model-based wheel size limits, as any sub-model, such as a Forte, can use the tyre size of the Fairlane GHIA as a base diameter. At time of writing, this somewhat preposterously allows for a 265/65R17 tyre (diameter 777mm, 100mm larger than stock or 50mm lift in height) to be fitted to *any* AU Falcon in Victoria, Australia, assuming it can somehow be fitted without lifting the suspension in the vehicle or breaking any other rules in the relevant legislation.
+{: .block-note} -->
+<!-- TODO confirm if this is actually the word of the law -->
 
 ## General notes - how to read tyre sizes
 
@@ -73,13 +74,12 @@ If the additional cleaning of the wheels is acceptable, it is recommended that y
 ## Removal
 Removal of the wheel dust covers is simple, as below:
 1. remove the desired wheel
-1. pull the dust cover from the exposed area
-    > There may be rust holding the cover to the rotor, but ***DO NOT*** use prying tools if the steel cover is on the rotor as this may damage the brakes
-    {: .block-note}
+1. pull the dust cover from the exposed area, noting:
 
-    > Some earlier mags came with plastic covers instead, which aren't as likely to cause issues but are harder to remove. A chisel can be used to snap one edge of the plastic cover, and the rest of the cover can be removed with moderate force. Note this will render them useless after the fact, and there is no known way to get them off consistently in one piece due to age and adhesives used (see image before these steps)
-    {: .block-note}
+    - Mag wheels with plastic covers will need to have the covers broken off in order to remove them. There is no known way to remove the covers in a single piece to date.
+    - Mag wheels with steel covers may have the covers rusted to the brake rotor. If this is the case ***DO NOT*** use prying tools as this may damage the brakes
 
 1. reinstall the wheel, noting:
+
     - before you install the wheel, now may be a good time to clean behind the wheel unobstructed
     - you should tighten as much as possible while the wheel is in the air, then tighten again once the car is on the ground, to ensure a snug fit
