@@ -13,7 +13,13 @@
                 },
                 {
                     "title": "Speakers",
-                    "url": "/Audio/Speakers/Speakers.html"
+                    "url": "/Audio/Speakers/Speakers.html",
+                    "items": [
+                        {
+                            "title": "Sedan Rear Speaker 6x9\" Upgrade",
+                            "url": "/Audio/Speakers/6x9-Upgrade/6x9-Upgrade.html"
+                        }
+                    ]
                 }
             ]
         },
