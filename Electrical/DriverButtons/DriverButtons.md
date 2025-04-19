@@ -40,7 +40,5 @@ The following assume you are looking at the loom end connector with the clip fac
 
 ## Boot Button
 
-### WARNING
-
 > The boot button plugtype and wiring is currently unknown. More information will be added if discovered
 {: .block-note}
