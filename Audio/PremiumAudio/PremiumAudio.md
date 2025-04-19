@@ -137,7 +137,7 @@ Any additional information on the premium audio system is listed below:
 - Premium Audio cannot be "Plug and Play" installed into a lower model that did not have the option fitted. The following is required to allow for the installation of the PAS in a non-optioned vehicle:
     - Physical amplifier mounting, requires factory backplate or similar, screwed or riveted into inside of boot
     - One of:
-      - new wiring from rear of vehicle to battery, constant power, and radio signal/audio
+      - New wiring from rear of vehicle to battery, constant power, and radio signal/audio
       - Audio loom replacement from optioned vehicle
     - Hole needs to be cut in sedan rear-shelf. While the steel has the hole present, the carpet cover does not and will need to be modified.
 - There is partial information to suggest some Series 3 AU Falcons may have come with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed definitively however, and as such no information on these amplifiers is provided

@@ -65,14 +65,14 @@ The following notes assume pin numbers where you are looking at the steering whe
 
     ![Mounting screw locations](./control-mount-screws.jpg)
 
-    > buttons missing from photos due to the originals being broken (ironic)
+    Buttons missing from photos due to the originals being broken (ironic)
     {: .block-note}
     
 1. unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame
 
     ![Rear plastic separation](./rear-plastic-separation.jpg)
 
-    > gently pull until the back of your steering wheel looks like this. From here, you can feed the wire through the gap by holding the plastic back a little more and pulling the wire through
+    > Gently pull until the back of your steering wheel looks like this. From here, you can feed the wire through the gap by holding the plastic back a little more and pulling the wire through
 
 1. done
 

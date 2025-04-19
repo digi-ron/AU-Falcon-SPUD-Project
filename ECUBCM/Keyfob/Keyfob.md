@@ -64,33 +64,33 @@ In the Smartshield models of AU Falcon (Late Series 1 - Series 3), a locking mod
 Below is discovered information found while attempting to create a DIY aftermarket guide to creating Smartlock/Smartshield remotes using off the shelf solutions (heavy bias towards Smartlock due to higher ROI if successful):
 
 ### CodeEzy
-- confirmed available aftermarket remote as model CE1009 (Product name: Idol Duplicator)
-- can only be used to copy existing remote, therefore one OEM remote required.
+- Confirmed available aftermarket remote as model CE1009 (Product name: Idol Duplicator)
+- Can only be used to copy existing remote, therefore one OEM remote required.
 - [Instructions](./CodeEzy/CodeEzy.md)
 
 ### KEYDIY
-- confirmed available aftermarket fob is off-the-shelf version of KEYDIY B09-3 universal fob, advertised through multiple sources as specific for EB-AU1 Ford Falcons
-- profiles available for both Smartlock and Smartshield, however unable to copy OEM remotes and uses the same code for every remote
+- Confirmed available aftermarket fob is off-the-shelf version of KEYDIY B09-3 universal fob, advertised through multiple sources as specific for EB-AU1 Ford Falcons
+- Profiles available for both Smartlock and Smartshield, however unable to copy OEM remotes and uses the same code for every remote
 - "off the shelf" replacements have very low success rate
 - [Instructions](./KEYDIY/KEYDIY.md)
 
 ### Remocon
-- compatible aftermarket remote confirmed as model RMC-555 (requires RMC-888 programmer, first confirmed 18/12/24)
-- can only be used to copy existing remote, therefore one OEM remote required.
-- confirmed Smartlock systems only, incompatible with Smartshield code-hopping
+- Compatible aftermarket remote confirmed as model RMC-555 (requires RMC-888 programmer, first confirmed 18/12/24)
+- Can only be used to copy existing remote, therefore one OEM remote required.
+- Confirmed Smartlock systems only, incompatible with Smartshield code-hopping
 - [Instructions](./Remocon/Remocon.md)
 
 ### RemoteKing
-- aftermarket remote confirmed as model RCR15 (untested)
-- can only be used to copy existing remote, therefore one OEM remote required.
-- difficult to acquire after 22/06/2022 due to changes in battery safety standards
-- not pursued due to difficulty acquiring
+- Aftermarket remote confirmed as model RCR15 (untested)
+- Can only be used to copy existing remote, therefore one OEM remote required.
+- Difficult to acquire after 22/06/2022 due to changes in battery safety standards
+- Not pursued due to difficulty acquiring
 
 ### XHorse
-- aftermarket remote unavailable
+- Aftermarket remote unavailable
 - Android app doesn't appear to have any profile matching the Ford Falcon
 
 ### Other Remotes
 - Various unbranded "copy any remote" remotes tested from [AliExpress](../../Credits.md#sources)
 - 4 remotes tested, 4 remotes failed
-- assumed that frequency/signal/baud rate not compatible with cloning sequence for "universal" remotes. This was also confirmed with known working brand [Remocon](./Remocon/Remocon.md) using their universal offering, the RMC-600
+- Assumed that frequency/signal/baud rate not compatible with cloning sequence for "universal" remotes. This was also confirmed with known working brand [Remocon](./Remocon/Remocon.md) using their universal offering, the RMC-600

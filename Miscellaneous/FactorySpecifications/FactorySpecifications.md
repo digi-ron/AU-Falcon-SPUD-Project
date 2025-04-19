@@ -91,7 +91,7 @@ description: " Factory Specifications"
 > - Transmission
 > - Engine
 > - Towbar
-> - additional options fitted
+> - Additional options fitted
 {: .block-note}
 
 ### Fairlane Sedan

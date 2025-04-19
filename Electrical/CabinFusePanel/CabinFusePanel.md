@@ -476,7 +476,7 @@ These pins have continuity with the following:
 There is a direct link between the following pins, related to the Power Windows circuit
 - [R4-4](#relay-4---pwin-relay)
 - [R4-3](#relay-4---pwin-relay)
-- left pin P/WIN fuse
+- Left pin P/WIN fuse
 
 ### Circuit 2 - DEF
 
@@ -539,7 +539,7 @@ There is a direct link between the following fuse pins, related to multiple conn
 
 There is a direct link between the following pins, related to the Amplifier circuit
 - [R1-5](#relay-1---ac-relay)
-- right pin - AMP fuse
+- Right pin - AMP fuse
 
 ### Circuit 9 - Misc. Fuses
 
@@ -554,7 +554,7 @@ There is a direct link between the following pins, related to a single connector
 ### Circuit 10 - P/WIN
 
 There is a direct link between the following pins, related to the Power Window Circuit, one connector pin, and multiple fuses:
-- right pin - P/WIN fuse
+- Right pin - P/WIN fuse
 - [F15-2](#main-fuse-cluster)
 - [F16-2](#main-fuse-cluster)
 - [connector pin **`12-3`**](#plug-12---3-way-connector)

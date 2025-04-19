@@ -10,7 +10,7 @@ description: keyfob cloning instructions using a KEYDIY branded keyfob and progr
 {: .block-note}
 
 - This guide in general is *not* recommended for Smartlock devices, as it currently only allows for a single set of codes to be loaded to a remote, which anyone else following this guide would also have. This would cause any AU Falcon that has a KEYDIY remote paired to be unlockable with anyone elses KEYDIY remote, due to the fixed code nature. Smartshield Falcons should not be affected, however even this cannot be guaranteed.
-- buttons may be occasionally unresponsive. This is possibly due to the remotes not repeating the button signals multiple times
+- Buttons may be occasionally unresponsive. This is possibly due to the remotes not repeating the button signals multiple times
 - This guide assumes an Android phone, so that the cheaper programmer can be used. This was also tested using a KD900+ however this was not necessary
 - Cloning unavailable. KEYDIY cannot recognize the types of codes used by either the Smartlock or Smartshield remotes, and all available information within KEYDIY infrastructure appears to be user-submitted manually.
 - There are reported and known issues with poor quality control with remote, leading to a "fob lottery" of sorts.

@@ -28,10 +28,10 @@ A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max
 
 1. gently pull the dash panel away, and start unplugging the following, noting where everything goes for later:
 
-    - cable for ECON, DEMIST and other [Accessory Buttons](../CentreConsoleButtons/CentreConsoleButtons.md) (where fitted)
-    - control cable for Fan Speed Controls (6 pin large flat connector)
-    - control cable for Button Controls (AC/Flow) (8 pin Multilock-style connector)
-    - connecting rod for heater box controls
+    - Cable for ECON, DEMIST and other [Accessory Buttons](../CentreConsoleButtons/CentreConsoleButtons.md) (where fitted)
+    - Control cable for Fan Speed Controls (6 pin large flat connector)
+    - Control cable for Button Controls (AC/Flow) (8 pin Multilock-style connector)
+    - Connecting rod for heater box controls
 
         > This final step is exceedingly hard, and should difficulties arise in removing this cable from the dash side, the best secondary method is to remove the glovebox, unclip the small plastic clip holding in the heater box end of the cable, pop the cable end out, and feed it back through to where the dash is
         {: .block-note}

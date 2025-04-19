@@ -14,7 +14,7 @@ The base model AU Falcon alternator can be identified 2 main mounting bracket ho
 
 ![I6 alternator](./I6-alternator.png)
 
-> image taken from [T.I Performance](../../Credits.md#sources) product listing page
+> Image taken from [T.I Performance](../../Credits.md#sources) product listing page
 
 #### SPECIAL NOTE - Series 1 VS. Series 2-3
 
@@ -33,7 +33,7 @@ The V8 alternator, likely due to different engine configuration and power requir
 
 ![V8 Alternator](./V8-alternator.png)
 
-> image taken from [Repco](../../Credits.md#sources) product listing page
+> Image taken from [Repco](../../Credits.md#sources) product listing page
 
 ## Diagnosis
 
@@ -49,14 +49,14 @@ Diagnosis of a bad alternator can be easily checked using a multimeter. Follow t
 > V8 replacement not covered due to project only including I6 models
 {: .block-note}
 
-> no pictures as job most recently completed before creation of this project
+> No pictures as job most recently completed before creation of this project
 {: .block-note}
 
 To replace the Alternator, follow the steps below:
 1. **DISCONNECT THE BATTERY**
 1. remove the 2 10mm bolts holding in the thermo fans onto the back of the radiator, and gently remove the fan shroud, keeping in mind:
-    - there is a small coolant hose that runs along the top of the radiator that may interfere with removal
-    - the electrical connections for the fans must be disconnected prior to removal
+    - There is a small coolant hose that runs along the top of the radiator that may interfere with removal
+    - The electrical connections for the fans must be disconnected prior to removal
 1. reaching behind the power steering reservoir to the alternator rear, undo the 10mm nut holding the main electrical connection from the alternator to the rest of the vehicle wiring loom, and unplug
 1. also on the back of the alternator, undo the 12mm nut holding the positive ring terminal for the alternator and remove.
 1. note the configuration that the serpentine belt is currently in (if sticker denoting configuration is not still present on inside of hood lid)
@@ -67,12 +67,12 @@ To replace the Alternator, follow the steps below:
 
 1. remove the serpentine belt from the front of the belt by placing a 3/8" breaker bar into the square hole on the Automatic tensioner, and turning clockwise
 
-    > avoid using any adapters e.g. 1/2" to 3/8" as aging tensioners can become brittle with too much shear force and adapters will exacerbate that issue
+    > Avoid using any adapters e.g. 1/2" to 3/8" as aging tensioners can become brittle with too much shear force and adapters will exacerbate that issue
     {: .block-note}
 
 1. from the front of the engine block, undo the 2 bolts holding the alternator in and carefully remove through the top of the ending bay
 
-    > generally it is a better idea to undo the bottom bolt first, and cradle the alternator as you undo the top bolt so there is no excessive pressure on the bolt
+    > Generally it is a better idea to undo the bottom bolt first, and cradle the alternator as you undo the top bolt so there is no excessive pressure on the bolt
     {: .block-note}
     
 1. reinstall by repeating all previous steps in reverse

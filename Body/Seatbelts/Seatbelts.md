@@ -54,9 +54,9 @@ The following are notes for the fitting of non-standard 'universal style' seatbe
 > This section is lengthy for a reason, if you are doing this, read *everything* carefully
 {: .block-note}
 
-- if replacing , you may want to modify the upper B-Pillar trim plastic to fit the upper pulley in behind. As the fraying of the original seatbelt is [usually caused by this](#common-issues---upper-b-pillar-plastic-trim), an alternative to finding a good condition original plastic piece is simply using a rotary tool to simply cut a larger hole into the plastic, allowing for free movement of the new pulley. Alternatively you can simply remove the trim piece altogether, however this is not recommended as part of the B-Pillar upper trim piece contributes to the holding up of the headliner.
+- If replacing , you may want to modify the upper B-Pillar trim plastic to fit the upper pulley in behind. As the fraying of the original seatbelt is [usually caused by this](#common-issues---upper-b-pillar-plastic-trim), an alternative to finding a good condition original plastic piece is simply using a rotary tool to simply cut a larger hole into the plastic, allowing for free movement of the new pulley. Alternatively you can simply remove the trim piece altogether, however this is not recommended as part of the B-Pillar upper trim piece contributes to the holding up of the headliner.
 - Multiple bolts will likely need replacing due to fouling on the new pulleys before being torqued in properly. While the upper pulley bolt can remain as-is, the 2 lower bolts will likely need replacing. The bolt for the anchor plate is confirmed to be a 7/16" UNF Fine thread with approximately 2" length, however the anchor bolt can be easily replaced with a 1-1/2" length bolt as the remainder in the original bolt is a widened sleeve for the original anchor plate itself. This also allows for a tighter fit to the body floor
-- due to the nut on the original retraction mechanism being welded to the assembly, a nut retainer bracket is required. Recommended size for universal seatbelt kits contain 7/16" UNF threaded nut, however these retainers can be hard to come by, with the only known seller at time of writing being [Seat Safe](../../Credits.md#sources). The original bolt likely will not work without widening the hole in the anchor plate, which, for obvious safety concerns, is not recommended.
+- Due to the nut on the original retraction mechanism being welded to the assembly, a nut retainer bracket is required. Recommended size for universal seatbelt kits contain 7/16" UNF threaded nut, however these retainers can be hard to come by, with the only known seller at time of writing being [Seat Safe](../../Credits.md#sources). The original bolt likely will not work without widening the hole in the anchor plate, which, for obvious safety concerns, is not recommended.
 - Any bolts replaced can have a standard hex head instead of Torx if desired, all bolts have sufficient clearance
 - Any bolts replaced should be high tensile, Grade 5 or 8 bolts recommended
 
@@ -78,9 +78,9 @@ A common issue with older AU Falcons is the wearing of the seatbelt hole in the 
 to complete this job you will need the following:
 - Large soldering iron with screw-in tip
 - Tape (Packing tape or cloth tape recommended)
-- any bolt or screw that can fit inside the shaft of the soldering iron (optional, provides a disposable tip as plastic is hard to remove from a soldering tip)
-- bolt-cutters
-- cable ties (light colored preferred)
+- Any bolt or screw that can fit inside the shaft of the soldering iron (optional, provides a disposable tip as plastic is hard to remove from a soldering tip)
+- Bolt-cutters
+- Cable ties (light colored preferred)
 - N95 mask (for plastic fumes)
 
 #### Steps

@@ -48,8 +48,8 @@ For the installation of both rear speakers, the following hardware will be requi
     - Flat configuration: For installation where the bottom edge of the speakers sit parallel to angle of rear seats, place driver side speaker brackets on the *top-right* and *bottom-left* mounting holes, and place passenger side brackets on the *top-left* and *bottom-right* mounting holes (while facing the speaker face)
 
 1. Align the speaker onto the bottom face of the spacer, noting the following points on positioning, then mark the locations on the 2 brackets on where the timber screws should go:
-    - magnet should be as central as possible inside spacer
-    - brackets should be firmly up against inside face of spacer
+    - Magnet should be as central as possible inside spacer
+    - Brackets should be firmly up against inside face of spacer
     - 2 remaining corners of factory speaker should sit flush on bottom face of spacer
 
 > The orientation of the speaker mounted using these instructions will be rotated from the orientation of the spacer. This is normal and is corrected in later steps with the larger speaker
@@ -64,7 +64,7 @@ For the installation of both rear speakers, the following hardware will be requi
 
 1. remove the factory speaker from the brackets by undoing the bolts, and then mount the brackets using the timber screws in the marked locations, ensuring that the bracket sits as flush as possible with the bottom of the spacer.
 
-    > now is a good time to test fit the spacer and ensure all holes line up before tightening the screws down completely
+    > Now is a good time to test fit the spacer and ensure all holes line up before tightening the screws down completely
     {: .block-note}
 
     > A socket wrench with a screwdriver bit installed or "stubby" screwdriver is recommended for this step due to tight working spaces

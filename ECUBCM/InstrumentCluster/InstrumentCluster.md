@@ -20,14 +20,14 @@ When changing between instrument cluster types, the following should be put into
 
 <!-- TODO do this then report back, conflicting reports available
 
-- if you are swapping a 220km/h to a 240km/h instrument cluster, regardless of low/high wiring, the speedometer will be off by about 9.09%. Transmission cogs or an aftermarket speedometer adjuster should be used in most cases, except for Police clusters which are [able to be calibrated to this percentage](#pursuit-cluster---speedometer-calibration)
+- If you are swapping a 220km/h to a 240km/h instrument cluster, regardless of low/high wiring, the speedometer will be off by about 9.09%. Transmission cogs or an aftermarket speedometer adjuster should be used in most cases, except for Police clusters which are [able to be calibrated to this percentage](#pursuit-cluster---speedometer-calibration)
 
     > Note that changing transmission gears will change shift points in the BTR Automatic transmission
     {: .block-note} -->
 
 - The pinouts between low and high clusters are different, and require moderate rewiring to retrofit
 
-    > resources on rewiring not available on this site as not yet attempted
+    > Resources on rewiring not available on this site as not yet attempted
     {: .block-note}
 
 - Placing high clusters in base/low models is ill-advised, due to lower model vehicles and looms having the following functions missing or modified:
@@ -52,8 +52,8 @@ Pursuit clusters are not only sought after as they are, in theory the rarest typ
     {: .block-note}
     
 1. press the instrument cluster button until the number next to `SPEEDO` on the display is at the desired value, noting:
-    - a short press (less than 1 second) will increase the number by 0.5
-    - a longer press (less than 5 seconds) will decrease the number by 0.5
+    - A short press (less than 1 second) will increase the number by 0.5
+    - A longer press (less than 5 seconds) will decrease the number by 0.5
 1. press and hold the instrument cluster button for about 7 seconds to exit calibration mode
 1. done
 

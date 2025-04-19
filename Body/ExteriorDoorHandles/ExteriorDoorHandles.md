@@ -21,16 +21,16 @@ Use the following steps to remove the exterior door handle:
 1. Remove the door card, noting the following:
     - Manual window winding models will need to have the handle removed first (use a phillips head screwdriver)
     - Electronic window models will need to have the button plate gently removed (use a trim removal tool or a flat head screwdriver)
-    - the mirror switch will need to be unplugged (if drivers door)
-    - extra care will need to be taken around the door lock stalk (if drivers door)
+    - The mirror switch will need to be unplugged (if drivers door)
+    - Extra care will need to be taken around the door lock stalk (if drivers door)
 
     ![door card screw locations](../../Common/door-card-screws.jpg)
 
     > Photo of screw locations
 
 1. gently peel back the sound deadening behind where the exterior door handle is, and:
-    - unclip the steel rod connecting the handle to the door lock actuator from the *handle* end (the actuator itself does **NOT** need to be removed)
-    - (if removing driver door handle) unclip the steel rod connecting the key hole to the actuator from the *actuator* end
+    - Unclip the steel rod connecting the handle to the door lock actuator from the *handle* end (the actuator itself does **NOT** need to be removed)
+    - (If removing driver door handle) Unclip the steel rod connecting the key hole to the actuator from the *actuator* end
 
     > The clips themselves are easily removed by simply rotating the clip and pulling out the rod from the hole it sits in, however be careful as these clips are plastic and may break if too much force is applied
     {: .block-note}

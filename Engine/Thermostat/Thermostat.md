@@ -9,15 +9,15 @@ description: thermostat replacement instructions
 Diagnosis for the Thermostat is usually quite simple, as it will usually only fail in one of 2 ways:
 
 - Closed:
-  - car will run hot very quickly after start
-  - coolant may leak from thermostat housing area
-  - can burn excess fuel/oil due to temperatures
+  - Car will run hot very quickly after start
+  - Coolant may leak from thermostat housing area
+  - Can burn excess fuel/oil due to temperatures
   - <span class="bad-highlight">do not run car in this state!</span>
 - Open:
-  - car will always run cold (always close to or on "C" on temperature gauge)
-  - increased fuel consumption
-  - may run rough in colder weather
-  - can be run short-term, but not recommended due to possible engine damage and low cost of Thermostat.
+  - Car will always run cold (always close to or on "C" on temperature gauge)
+  - Increased fuel consumption
+  - May run rough in colder weather
+  - Can be run short-term, but not recommended due to possible engine damage and low cost of Thermostat.
 
 ## Replacement
 Replacing the thermostat in an AU Falcon is a very simple job to do. Follow the steps below to replace the thermostat:
@@ -37,7 +37,7 @@ Replacing the thermostat in an AU Falcon is a very simple job to do. Follow the 
 
 1. (optional) drain radiator and overflow tank to at below where the top radiator pipe meets the radiator
 
-    > this is not required if you are willing to lose approx 500ml of coolant to either a towel or the ground beneath the car. It will hit the AC Compressor on the way down also, so if you choose to remove with coolant you should be wary of the electrical plug on the passenger side of the compressor housing. It should be waterproof but it is also old by now
+    > This is not required if you are willing to lose approx 500ml of coolant to either a towel or the ground beneath the car. It will hit the AC Compressor on the way down also, so if you choose to remove with coolant you should be wary of the electrical plug on the passenger side of the compressor housing. It should be waterproof but it is also old by now
     {: .block-note}
 
 1. (if your vehicle has a belt cover) remove your belt cover by removing the lid of the Power Steering pump reservoir and removing the single 10mm bolt holding the shroud to the top of the thermostat housing
@@ -46,14 +46,14 @@ Replacing the thermostat in an AU Falcon is a very simple job to do. Follow the 
 
 1. remove the 2 13mm bolts holding in the thermostat housing to the side of the engine and gently lift up the thermostat housing.
 
-    > if you did not drain the radiator, this is where the majority of the coolant will come out
+    > If you did not drain the radiator, this is where the majority of the coolant will come out
     {: .block-note}
 
     ![Thermostat housing bolt locations](./thermostat-bolts.jpg)
 
 1. remove the old thermostat by pulling up while gently prying at the rubber seal from the side
     
-    > you may need to use a trim removal tool to remove an older seal, however avoid using a screwdriver as it may damage the mating surfaces of the thermostat housing
+    >You may need to use a trim removal tool to remove an older seal, however avoid using a screwdriver as it may damage the mating surfaces of the thermostat housing
     {: .block-note}
 
     ![Thermostat housing pre-removal](./thermostat-exposed-old.jpg)
@@ -63,14 +63,14 @@ Replacing the thermostat in an AU Falcon is a very simple job to do. Follow the 
 
 1. (optional) if required, clean the mating surfaces of both the thermostat housing and the engine side connector using a cloth
 
-    > the thermostat housing is the most likely location to need cleaning, due to it being where the rubber seal presses onto the bracket
+    > The thermostat housing is the most likely location to need cleaning, due to it being where the rubber seal presses onto the bracket
 1. install the new assembled thermostat into the housing
 
     ![Thermostat housing post-installation](./thermostat-exposed-new.jpg)
 
 1. reinstall the 2 13mm bolts that hold the thermostat housing down
 
-    > ensure you have installed the bolts in the correct position if you have a belt cover, as only one has the thread on the top to hold the cover on
+    > Ensure you have installed the bolts in the correct position if you have a belt cover, as only one has the thread on the top to hold the cover on
     {: .block-note}
     
 1. refill coolant back to the "MAX" line on the overflow tank

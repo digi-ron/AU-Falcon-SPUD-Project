@@ -1,5 +1,5 @@
 ---
-description: " - how to read the Tickford Vehicle Engineering (TVE) Plates"
+description: " - How to read the Tickford Vehicle Engineering (TVE) Plates"
 ---
 
 # Reading the Tickford Vehicle Engineering (TVE) Plates

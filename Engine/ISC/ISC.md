@@ -35,4 +35,4 @@ An important note on cleaning the components in the throttle body area of the en
 - Throttle body cleaner
 - Brake cleaner
 - Paper towels
-- cotton swabs (if really required)
+- Cotton swabs (if really required)

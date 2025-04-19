@@ -5,7 +5,7 @@ description: Keyfob cloning instructions using a Remocon branded keyfob and prog
 # Manufacturer Specific Instructions - Remocon
 
 ## CAVEATS
-- requires a OEM remote to clone. Cannot be someone elses remote as the cloned remote would then operate both cars
+- Requires a OEM remote to clone. Cannot be someone elses remote as the cloned remote would then operate both cars
 - The Remocon RMC-600, which advertises the ability to copy codes without the use of a programmer was tested to ***NOT*** work when trying to copy an OEM Series 1 remote. It does work with already copied RMC-555 remotes, but this may present a signal degradation issue in making copy-of-copy remotes, and makes the ability to copy without the RMC-888 a moot point.
 - The Remocon RMC-888 appears to have poor quality control and can arrive with issues such as jammed or stuck buttons and faulty wiring causing certain functions to be ineffective
 
@@ -42,7 +42,7 @@ description: Keyfob cloning instructions using a Remocon branded keyfob and prog
 
     ![Picture of OEM Remote on programming area of Remocon-888](./oem-remote-on-remocon.jpg)
 
-    > place OEM remote as shown
+    > Place OEM remote as shown
 
 1. the display should now read `r112` to signify the next button to be added to the configuration. continue adding buttons using the above method for up to 5 buttons, then press button 1 to skip through programming of other buttons
 

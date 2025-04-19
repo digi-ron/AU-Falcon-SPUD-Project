@@ -25,7 +25,7 @@ For this replacement the following equipment is required:
 In order to make the replacement easier, the following equipment is recommended:
 
 - Penetrating fluid
-- fuel line quick disconnect tool (instead of screwdriver(s))
+- Fuel line quick disconnect tool (instead of screwdriver(s))
 
 ### Steps
 

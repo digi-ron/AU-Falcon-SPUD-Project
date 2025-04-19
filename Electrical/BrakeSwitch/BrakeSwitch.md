@@ -13,7 +13,7 @@ If you find that your brake lights are not turning on when you expect, or you fi
 
 Diagnosis for this part is simple. Start the vehicle and put your foot lightly on the brake pedal, in any gear. Have another person check for brake light funtionality
 
-> alternatively, 2-3 standard red bricks can be wedged into place to force the brake pedal down, however this is a last resort option if no one else is available
+> Alternatively, 2-3 standard red bricks can be wedged into place to force the brake pedal down, however this is a last resort option if no one else is available
 {: .block-note}
 
 ## Replacement
@@ -59,8 +59,8 @@ Follow the below steps to replace your brake switch:
 1. reverse all previous steps to reinstall, ensuring that the switch has:
     - The open side on the driver side of the brake booster lever
     - The closed side on the passenger side of the brake booster lever
-    - been secured in using the green plastic ring and retaining pin
-    - is electrically connected to the loom
+    - Been secured in using the green plastic ring and retaining pin
+    - Is electrically connected to the loom
     
     ![Brake switch installation layout](./brake-switch-layout.jpg)
 

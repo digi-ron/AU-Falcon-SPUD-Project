@@ -31,7 +31,7 @@ Some of the reasons you may need to consider replacing the fuel pressure regulat
 
 - Vehicle running lean
 - Vehicle running rich
-- high fuel consumption
+- High fuel consumption
 - Misfire on cylinders closest to the front of the engine (cylinders 1 & 2 predominately)
 - Rough or hunting idle, particularly once vehicle is up to temperature
 
@@ -43,8 +43,8 @@ The fuel pressure regulator is easily blocked by dirty fuel. If the regulator is
 
 Generally speaking fuel pressure regulators are one of the first parts to be replaced when diagnosing a fuelling issue, however the following should be checked first:
 
-- confirm no major Fuel Pump failure, signalled by lack of noise from fuel pump when car turned to accessories.
-- confirm spark by checking spark plug quality ([replace if necessary](../SparkPlugs/SparkPlugs.md#replacement)), leads and [pack resistance](../IgnitionCoil/IgnitionCoil.md#primary-resistance) if possible. specific cylinders can be tested by swapping leads on each coil, i.e. 1 & 6, 2 & 5, 3 & 4
+- Confirm no major Fuel Pump failure, signalled by lack of noise from fuel pump when car turned to accessories.
+- Confirm spark by checking spark plug quality ([replace if necessary](../SparkPlugs/SparkPlugs.md#replacement)), leads and [pack resistance](../IgnitionCoil/IgnitionCoil.md#primary-resistance) if possible. specific cylinders can be tested by swapping leads on each coil, i.e. 1 & 6, 2 & 5, 3 & 4
 
 ## Replacement
 

@@ -18,9 +18,9 @@ The fuel injectors can be found running down the intake/passenger side of the en
 
 Common reasons you may need to check or replace your fuel injectors include:
 
-- rough/staggering ignition
-- misfire when fuel trim changed e.g. sudden acceleration from stop
-- misfire only when engine idle *and* warm
+- Rough/staggering ignition
+- Misfire when fuel trim changed e.g. sudden acceleration from stop
+- Misfire only when engine idle *and* warm
 
 ### Verification of fuel injector
 

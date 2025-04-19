@@ -25,7 +25,7 @@ use the below table as a reference for wheel sizes that should fit all models of
 {: .block-note} -->
 <!-- TODO confirm if this is actually the word of the law -->
 
-## General notes - how to read tyre sizes
+## General Notes - How to Read Tyre Zizes
 
 using the example of 205/65R15:
 
@@ -57,9 +57,9 @@ Success has been reported using wheels up to and including the 18x9.5 sizing, as
 
 many AU Falcons came with wheel dust covers that functioned by blocking brake dust from settling on the mag wheel options that the model had, however they came with their own long term problems, such as:
 
-- becoming rusty over time (for models with steel covers)
-- fouling on the side of brake calipers if dented, and most importantly;
-- becoming a potential catalyst for front brake rotor warping conditions, a significant maintenance problem within these models
+- Becoming rusty over time (for models with steel covers)
+- Fouling on the side of brake calipers if dented, and most importantly;
+- Becoming a potential catalyst for front brake rotor warping conditions, a significant maintenance problem within these models
 
 If the additional cleaning of the wheels is acceptable, it is recommended that you remove these covers as they cause more problems than they solve on the whole
 
@@ -81,5 +81,5 @@ Removal of the wheel dust covers is simple, as below:
 
 1. reinstall the wheel, noting:
 
-    - before you install the wheel, now may be a good time to clean behind the wheel unobstructed
-    - you should tighten as much as possible while the wheel is in the air, then tighten again once the car is on the ground, to ensure a snug fit
+    - Before you install the wheel, now may be a good time to clean behind the wheel unobstructed
+    - You should tighten as much as possible while the wheel is in the air, then tighten again once the car is on the ground, to ensure a snug fit

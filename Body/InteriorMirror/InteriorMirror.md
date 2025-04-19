@@ -35,9 +35,9 @@ The Later models are much higher risk to remove, and as such are not a job to be
 
 1. (optional, but recommended) wait for the car to be as cold as possible around the window. Recommended that this job is done in winter or during nighttime if possible
 1. use a small implement to press the steel tabs on the assembly side of the mirror up and away from the steel mounting point. Known implements that may work are:
-    - a large flat head screwdriver, twisted to wedge
-    - a pair of medium sized hook nosed pliers
-    - a small piece of dowel
+    - A large flat head screwdriver, twisted to wedge
+    - A pair of medium sized hook nosed pliers
+    - A small piece of dowel
 1. while holding the implement in place, use a small rubber mallet to hit the mirror assembly with low to moderate force and bring it up and towards the back of the car from the window. Keep going until the clip is cleared and you no longer need the implement sitting in the base of the assembly
 1. remove the assembly by rocking the base back and forth gently while pulling up and back
 1. to reinstall or replace, gently push the new housing onto the metal clip, wiggling back and forth and using a small rubber mallet only if absolutely necessary. You should stop when the bottom of the base is past the end of the steel mounting point, and there is a click heard from the retaining clip

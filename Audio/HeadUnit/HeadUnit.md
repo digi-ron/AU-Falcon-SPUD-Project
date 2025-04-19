@@ -22,7 +22,7 @@ After a loss of power for an extended period of time, power to the Keep Alive Me
 The connector used for the head unit of the AU Falcon is specific to this model, and to date no further information has been ascertained on who manufactures these parts. The following information about the connector has been collected however despite this:
 
 - Connector has 20 pins total, 14 pins required for functioning of aftermarket headunit
-- pin sizes vary, with pins 3-6 and 9-20 having smaller pin sizing and pins 1-2 and 7-8 containing larger pins
+- Pin sizes vary, with pins 3-6 and 9-20 having smaller pin sizing and pins 1-2 and 7-8 containing larger pins
 - Aftermarket loom components only appear to be manufactured by [Aerpro](../../Credits.md#sources) as of time of writing, and are seemingly custom manufactured to be fit for purpose.
 
 > For the following information, assume you are looking at the loom end connector, with the clip facing up

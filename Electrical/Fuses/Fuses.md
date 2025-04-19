@@ -68,13 +68,13 @@ Important systems disabled are:
 - Windscreen Wipers
 - ***ALL*** external facing lights (tail, head, indicators, etc.)
 - ***ALL*** airbags
-- the horn
+- The horn
 - ***BOTH*** radiator cooling fans
 - ABS/TCS
 - ***ALL*** interior lighting including the backlight for the instrument cluster
 
 This also assumes that:
-- you are willing to remove the Idle Speed Control unit (may be closed too much or clogged at rest)
+- You are willing to remove the Idle Speed Control unit (may be closed too much or clogged at rest)
 
 ### List of required fuses and relays
 

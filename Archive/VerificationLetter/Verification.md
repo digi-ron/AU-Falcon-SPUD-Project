@@ -21,7 +21,7 @@ Once your ticket has been processed, you will likely receive a email containing 
 
 ![Verification Letter Screenshot](./verification-letter.jpg)
 
-> screenshot of a verification letter request in 2021, with all identifiable information blanked out. Note this is for a AUIII SR Station Wagon, as the 1998 Ford Falcon Forte used throughout the rest of this project is yet to have a verification letter received.
+> Screenshot of a verification letter request in 2021, with all identifiable information blanked out. Note this is for a AUIII SR Station Wagon, as the 1998 Ford Falcon Forte used throughout the rest of this project is yet to have a verification letter received.
 
 The important information in this document for most people would be the table at the bottom of the page, which shows the total amount of cars manufactured that match the engine, transmission, paint, trim, and finally vehicle with the exact same options. Note that Ford Australia has no note on how many of the final number of vehicles are actually still on the road, so the chances are your specific model will be a little more rare than the final number.
 

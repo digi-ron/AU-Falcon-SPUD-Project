@@ -1,5 +1,5 @@
 ---
-description: "- how to read Vehicle Identification Plate A.K.A. build plate codes"
+description: "- How to read Vehicle Identification Plate A.K.A. build plate codes"
 ---
 
 # Reading Vehicle Identification Plate (Build Plate) Codes

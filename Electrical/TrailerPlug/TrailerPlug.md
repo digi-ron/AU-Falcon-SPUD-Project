@@ -6,12 +6,12 @@ description: towbar trailer connector information, including instructions on how
 
 The plugs used for the trailer adapter loom are different to other plugs within the interior, and are a bit of an oddball connector for the car as a whole. This is likely due to Hayman Reese being the manufacturers for a large range of the tow pack options for the AU Falcon, particularly any of the higher-rated towbars. as a result the connector is known as a 090 connector, originally manufactured by the companies Yazaki and Sumitomo.
 
-> this plug appears is standard in all Falcons AU-BFIII (1998-2016) and all Territory models, however pinout includes additional wires in later models due to additional features
+> This plug appears is standard in all Falcons AU-BFIII (1998-2016) and all Territory models, however pinout includes additional wires in later models due to additional features
 {: .block-note}
 
 ![Trailer loom plug 98 Sedan](./sedan-trailer-plug.jpg)
 
-> trailer plug inside the boot of a S1 Sedan
+> Trailer plug inside the boot of a S1 Sedan
 
 ## Plug Information
 
@@ -31,7 +31,7 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 ### Pin Wiring
 
-> for the Standard Color, refer to the [Australian Standard Pinouts](#australian-standard-pinouts)
+> For the Standard Color, refer to the [Australian Standard Pinouts](#australian-standard-pinouts)
 {: .block-note}
 
 | Position | Color | Function | Standard Color* |
@@ -47,7 +47,7 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 ## Australian Standard Pinouts
 
-> conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals.
+> Conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals.
 {: .block-note}
 
 ### 7 Pin layout

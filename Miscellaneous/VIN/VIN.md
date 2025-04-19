@@ -89,7 +89,7 @@ Information in order to manually discern basic vehicle information from the VIN 
 #### Characters 1-3 - "6FP"
 All AU Falcons should start with the first 3 characters `6FP`, due to the fact that these characters appear to represent the unique identifier for Ford Australia
 
-> theoretically this is supposed to stand for 6 = Australia and FP = Ford Australia, but there was no known source for this information other than word-of-mouth
+> Theoretically this is supposed to stand for 6 = Australia and FP = Ford Australia, but there was no known source for this information other than word-of-mouth
 {: .block-note}
 
 #### Characters 4-6 - "AAA"
@@ -99,15 +99,15 @@ Similar to the first 3 characters, the following 3 are also always going to be t
 Similar again to the first 6 characters, the last 2 characters that should be the same for the AU Falcon are `JG`. These codes stand for the following:
 - J - Product source location code
 
-  > conflicting information suggests that this is either a code for Australia, where the car was assembled, or Japan, where some of the parts were sourced.
+  > Conflicting information suggests that this is either a code for Australia, where the car was assembled, or Japan, where some of the parts were sourced.
   {: .block-note}
   
 - G - Assembly plant code for Broadmeadows, VIC
 
-> to summarize, any AU Falcon should start with `6FPAAAJG`
+> To summarize, any AU Falcon should start with `6FPAAAJG`
 {: .block-note}
 
-#### Characters 9-10 - body style
+#### Characters 9-10 - Body Style
 these characters appear to signify the body style for the Falcon. Note that this *does not* signify the exact model, but rather the chassis that the model is built on, which can narrow it down as below:
 - SW - Short Wheel Base
   - Fairmont Sedan
@@ -213,7 +213,7 @@ The final 5 characters are a unique serial number to identify the car. The only 
 
 To ensure that you have the matching engine to the original chassis, you can check the number stamped into the engine block to determine if it matches the Body. The engine number is the last section of the VIN, explained below:
 
-> the engine number should match the last 11 digits of the VIN on the body and VIN plate on the car, e.g. the following VIN:
+> The engine number should match the last 11 digits of the VIN on the body and VIN plate on the car, e.g. the following VIN:
 > 
 > `6FPAAAJGSWYB12345`
 >
@@ -224,5 +224,5 @@ To ensure that you have the matching engine to the original chassis, you can che
 
 The Engine number should also be locatable on the rear lower section of the engine block, on the exhaust side near the bell housing mount for the transmission
 
-> due to age, the engine number may be hard to ascertain, as the area the number is dot-matrix stamped onto is prone to long-term surface rust. rubbing flour over it can make damaged numbers more legible if damage is minor, but moderate to severe rust will render it unreadable
+> Due to age, the engine number may be hard to ascertain, as the area the number is dot-matrix stamped onto is prone to long-term surface rust. rubbing flour over it can make damaged numbers more legible if damage is minor, but moderate to severe rust will render it unreadable
 {: .block-note}

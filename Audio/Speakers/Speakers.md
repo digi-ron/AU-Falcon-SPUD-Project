@@ -33,8 +33,8 @@ Follow the steps below to replace the driver door speakers:
 1. Remove the door card, noting the following:
     - Manual window winding models will need to have the handle removed first (use a phillips head screwdriver)
     - Electronic window models will need to have the button plate gently removed (use a trim removal tool or a flat head screwdriver)
-    - the mirror switch will need to be unplugged (if drivers door)
-    - extra care will need to be taken around the door lock stalk (if drivers door)
+    - The mirror switch will need to be unplugged (if drivers door)
+    - Extra care will need to be taken around the door lock stalk (if drivers door)
 
     ![door card screw locations](../../Common/door-card-screws.jpg)
 
@@ -51,12 +51,12 @@ Follow the steps below to replace the driver door speakers:
     > Photos of the speaker screw locations in the door assembly, and the door post-removal respectively
 
 1. do one of the following:
-    - if keeping the original loom, create an adapter with a [male housing 2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
-    - if modifying the loom, cut and crimp the spade connectors for your speakers onto the loom. As much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
+    - If keeping the original loom, create an adapter with a [male housing 2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
+    - If modifying the loom, cut and crimp the spade connectors for your speakers onto the loom. As much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
 
         Regardless of method used, note:
         - On the [plug](#plug), the top connection (horizontal pin) is the negative
-        - if you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
+        - If you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
 
         ![example speaker loom](./speaker-loom-kenwood.jpg)
 
@@ -87,12 +87,12 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
 1. use a trim removal tool or a small flat head screwdriver to remove the speaker cover(s) on the shelf
 1. remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
 1. do one of the following:
-    - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
-    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom, noting that the wire in the loom with a black line in it is *always* negative
+    - If keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
+    - If modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom, noting that the wire in the loom with a black line in it is *always* negative
 
     Regardless of method used, note:
     - On the [plug](#plug), the top connection (horizontal pin) is the negative
-    - if you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
+    - If you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
 
     ![example speaker loom](./speaker-loom-kenwood.jpg)
 
@@ -115,12 +115,12 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 1. remove the plastic C-Pillar upper trim. Note that this is held in with screws and will require the removal of the outer cushioning for the rear seats
 1. remove all plastic clips and screws holding the cloth panelling on the side of the car you are working on, and remove or peel back the panel itself to reveal the speakers. Remove the 4 screws holding in the speakers and remove
 1. do one of the following:
-    - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
-    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom noting that the wire in the loom with a black line in it is *always* negative
+    - If keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
+    - If modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom noting that the wire in the loom with a black line in it is *always* negative
 
     Regardless of method used, note:
     - On the [plug](#plug), the top connection (horizontal pin) is the negative
-    - if you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
+    - If you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
 
     ![example speaker loom](./speaker-loom-kenwood.jpg)
 
@@ -146,12 +146,12 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 1. use a trim removal tool or a small flat head screwdriver to remove the speaker cover(s) on the rear panel
 1. remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
 1. do one of the following. For either step, keep in mind that the negative for each speaker is the wire with a black line in it:
-    - if keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
-    - if modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
+    - If keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
+    - If modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
 
     Regardless of method used, note:
     - On the [plug](#plug), the top connection (horizontal pin) is the negative
-    - if you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
+    - If you are comfortable with a soldering iron, adding a little bit of solder to the connector pin before inserting it into the housing makes for a stronger connection
 
     ![example speaker loom](./speaker-loom-kenwood.jpg)
 

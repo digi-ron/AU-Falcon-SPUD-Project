@@ -42,7 +42,7 @@ if you need to replace the sparkplugs, follow the steps below:
 
 1. replace the sparkplug as required and **hand tighten** using the extension bar and sparkplug socket.
 
-    > ensure your sparkplugs are gapped correctly before installation, as this will cause misfires if not paid attention to
+    > Ensure your sparkplugs are gapped correctly before installation, as this will cause misfires if not paid attention to
     {: .block-note}
 
     ![sparkplug tightening](./hand-tighen-spark.jpg)
@@ -51,7 +51,7 @@ if you need to replace the sparkplugs, follow the steps below:
 
 1. drive the sparkplug the rest of the way in using the driver
 
-    > a good rule of thumb is to tighten reasonably loosely using the driver, then snug it down about 1/8 of a rotation clockwise
+    > A good rule of thumb is to tighten reasonably loosely using the driver, then snug it down about 1/8 of a rotation clockwise
     {: .block-note}
 
 1. plug the ignition lead back into the sparkplug, ensuring that the lead is fully seated on the plug

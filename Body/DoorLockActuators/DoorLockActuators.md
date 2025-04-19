@@ -26,8 +26,8 @@ diagnosis for these parts are simple, as the actuator, when failed, will general
 
 ## Replacement
 If repairing instead of replacing, you will need:
-- a rebuild kit (usually consists of 3 plastic pieces, a spring, and a small motor)
-- some grease (general purpose is fine)
+- A rebuild kit (usually consists of 3 plastic pieces, a spring, and a small motor)
+- Some grease (general purpose is fine)
 
 > If replacing, note that the there is a change in electrical plugs between the AU and other models. Adapter cables were available for a time but are hard to come by, so the accepted advice is to ensure you source AU parts
 {: .block-note}
@@ -40,8 +40,8 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 1. Remove the door card, noting the following:
     - Manual window winding models will need to have the handle removed first (use a phillips head screwdriver)
     - Electronic window models will need to have the button plate gently removed (use a trim removal tool or a flat head screwdriver)
-    - the mirror switch will need to be unplugged (if drivers door)
-    - extra care will need to be taken around the door lock stalk (if drivers door)
+    - The mirror switch will need to be unplugged (if drivers door)
+    - Extra care will need to be taken around the door lock stalk (if drivers door)
     
     > The locations are different for rear doors but are similar e.g. there are 2 screws along the bottom, one on the back edge, one in the grab pocket, etc.
     {: .block-note}
@@ -89,35 +89,35 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 
 1. apply a thin layer of grease to the bottom of the housing while exposed (where the plastic was), being careful to avoid touching the spade end connections
 1. pre-assemble the parts onto the stalk of the worm gear in the following order (from cog to end):
-    - spring (can go over lip near cog end, but will need to be compressed on placement later)
-    - stopper (with cylinder end inside spring)
-    - pin ring
-    - stopper (with cylinder end facing towards end of stalk)
-    - spring (will be longer than assembly, will need to be compressed on placement later)
+    - Spring (can go over lip near cog end, but will need to be compressed on placement later)
+    - Stopper (with cylinder end inside spring)
+    - Pin ring
+    - Stopper (with cylinder end facing towards end of stalk)
+    - Spring (will be longer than assembly, will need to be compressed on placement later)
 
     ![rough pre-assembly of actuator](./actuator-assembly.jpg)
 
     > Visual representation of the order the parts go in
     
 1. carefully compress the springs and place the assembly into the actuator housing, ensuring that:
-    - the pin ring is sitting central in the square plastic housing
-    - the cog on the end of the worm gear is sitting in the teeth for the motor properly
-    - the spring on the cog end is sitting on the black plastic **before** the lip in the gear
-    - the spring on the far end is sitting inside the assembly securely
+    - The pin ring is sitting central in the square plastic housing
+    - The cog on the end of the worm gear is sitting in the teeth for the motor properly
+    - The spring on the cog end is sitting on the black plastic **before** the lip in the gear
+    - The spring on the far end is sitting inside the assembly securely
 
     ![Assembled with new gear](./assembly-assembled.jpg)
 
     > Complete assembly photo after pressing into the housing. nothing should fly out from here, but be careful when pressing the plastic cover over the top so as not to disturb the inner workings
     
 1. apply a moderate amount of grease to the:
-    - cog (put a little on and spin the cog back and forth to lubricate the motor)
-    - the spring (mostly near the stoppers)
-    - the pin ring
+    - Cog (put a little on and spin the cog back and forth to lubricate the motor)
+    - The spring (mostly near the stoppers)
+    - The pin ring
 1. reassemble the back of the housing casing and zip tie the electrical connectors back to the plastic backing, and reinstall the actuator back into the car, ensuring:
-    - that the inside door handle cable is installed back to the actuator before inserting into the door completely
-    - you screw all 3 bolts on the striker
-    - the plastic clip for the steel rod for the door handle and the door lock stalk (if drivers door) are re-engaged
-    - the electrical connector for electrical activation is reconnected
+    - That the inside door handle cable is installed back to the actuator before inserting into the door completely
+    - You screw all 3 bolts on the striker
+    - The plastic clip for the steel rod for the door handle and the door lock stalk (if drivers door) are re-engaged
+    - The electrical connector for electrical activation is reconnected
 
     > Now is a good time to test the door, before reinstalling the door card
     {: .block-note}
