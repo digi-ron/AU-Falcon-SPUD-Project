@@ -2,13 +2,14 @@
 layout: default
 hideTOC: true
 description: "Generic Tyre Size Calculator"
+title: "Tyre Size Calculator"
 ---
 <!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
 <!--file not generated using markdown as too complex: required more HTML tags than markdown syntax to make functional-->
-<!-- style added to override templating - special page is exception to rule where h1 doesn't need to be hidden -->
+<!-- style tag added as multiple titles used -->
 <style>
-    h1 {
-        display: block;
+    .h1 {
+        display: none
     }
 </style>
 <script>
@@ -178,7 +179,7 @@ description: "Generic Tyre Size Calculator"
         }
     }
 </script>
-<h1 class="printHide">Tyre Size Calculator</h1>
+<p class="printHide maintitle">Tyre Size Calculator</p>
 <p class="printOnly maintitle">Tyre Size Calculator - Results</p>
 <blockquote class="printHide block-note">
     All fields are optional, but nonsensical inputs will be ignored e.g. diameter padding without a diameter specified.
