@@ -12,14 +12,12 @@ description: keyfob cloning instructions using a KEYDIY branded keyfob and progr
 - This guide in general is *not* recommended for Smartlock devices, as it currently only allows for a single set of codes to be loaded to a remote, which anyone else following this guide would also have. This would cause any AU Falcon that has a KEYDIY remote paired to be unlockable with anyone elses KEYDIY remote, due to the fixed code nature. Smartshield Falcons should not be affected, however even this cannot be guaranteed.
 - buttons may be occasionally unresponsive. This is possibly due to the remotes not repeating the button signals multiple times
 - This guide assumes an Android phone, so that the cheaper programmer can be used. This was also tested using a KD900+ however this was not necessary
-- Cloning unavailable. KEYDIY cannot recognize the types of codes used by either the Smartlock or Smartshield remotes
+- Cloning unavailable. KEYDIY cannot recognize the types of codes used by either the Smartlock or Smartshield remotes, and all available information within KEYDIY infrastructure appears to be user-submitted manually.
+- There are reported and known issues with poor quality control with remote, leading to a "fob lottery" of sorts.
 
 ## What you need
 
 - A KEYDIY remote. Generally speaking most KEYDIY remotes should work, however this guide used a `B09-3` and a `B01-3` fob.
-
-    > There is a level of "fob lottery" involved in this, as some fobs are inaccurate in their frequencies thanks to poor quality control
-    {: .block-note}
 
 - A KEYDIY programmer (Shown below)
 
@@ -36,6 +34,9 @@ description: keyfob cloning instructions using a KEYDIY branded keyfob and progr
 Smartlock models of AU Falcon can seemingly only be configured manually, as there is no known profile available in the KEYDIY app by default.
 
 > While this configuration is confirmed working, it stands to reason that any *other* car using these settings would be able to be unlocked using the same fob. This information is solely here as a guide or potentially a base for someone else to crack the pattern to make *unique* codes.
+{: .block-note}
+
+> For a higher success rate, duplicate the code in the data fields 2-3 times for maximum effectiveness, e.g. the Unlock Data below could instead be `0F33334D534D3553D514000000000F33334D534D3553D514000000000F33334D534D3553D51400000000`
 {: .block-note}
 
 | Property | Value |
@@ -65,7 +66,8 @@ For the Smartshield models of AU Falcon, you can use one of the built in profile
 
 ![KEYDIY fob exterior](./dodgy-keydiy-fob.jpg)
 ![KEYDIY fob board](./dodgy-keydiy-fob-board.jpg)
+
 ![KEYDIY fob generic](./keydiy-generic-remote.jpg)
 ![KEYDIY fob generic internal](./keydiy-generic-remote-dissassembled.jpg)
 
-> Photos of the casing and board of 2 KEYDIY based keyfobs. First remote shown provided by [RemotePro](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system
+> Photos of the casing and board of 2 KEYDIY based keyfobs. First remote shown provided by [RemotePro](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters) but promptly returned after multiple failed attempts to pair to a AU Falcon S1 Smartlock system. Second remote provided as a bundle with the KEYDIY Mini-KD purchased from [AliExpress](../../../Credits.md#sources)
