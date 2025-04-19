@@ -76,7 +76,7 @@ These relays are quite similar to the [4-Way Mini-ISO](#4-way-mini-iso-relay) re
 
 These relays are not particularly common compared to the mini-ISO counterparts, however they function in a very similar way. Unfortunately the pin numbers are also changed on these relays, likely due to the difference in standards
 
-> the OEM relays from the AU Falcons appear to be 5-Way Micro-ISO relays with the alternate output pin, pin 4, cut off.
+> The OEM relays from the AU Falcons appear to be 5-Way Micro-ISO relays with the alternate output pin, pin 4, cut off.
 {: .block-note}
 
 ### Layout
@@ -106,7 +106,7 @@ These relays function exactly the same as the [4-Way Mini-ISO relays](#4-way-min
 - Connect ground to auxiliary device
 - Done
 
-> a 5-way relay for the same Micro-ISO size would function more like the [5-way Mini-ISO](#5-way-mini-iso-relay) relay, however it is not noted as it is not relevant to this project
+> A 5-way relay for the same Micro-ISO size would function more like the [5-way Mini-ISO](#5-way-mini-iso-relay) relay, however it is not noted as it is not relevant to this project
 {: .block-note}
 
 
