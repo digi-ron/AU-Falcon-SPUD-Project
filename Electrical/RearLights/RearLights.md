@@ -4,7 +4,7 @@ description: tail light/rear light assembly plug information
 
 # Rear Lights Connector
 
-The rear light connector can be a great location to wire in Accessory wires for auxiliary system such as a reversing camera. In the case that you would like to tap into this wiring without soldering or modifying the vehicles own wiring loom, the following information could be found to be useful.
+The rear light connector can be a great location to wire in Accessory trigger wire(s) for auxiliary system such as a reversing camera. In the case that you would like to tap into this wiring without soldering or modifying the vehicles own wiring loom, the following information could be found to be useful.
 
 ## Plug Type
 
