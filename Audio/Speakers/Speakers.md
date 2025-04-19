@@ -79,6 +79,10 @@ Follow the steps below to replace the driver door speakers:
 1. done
 
 ### Rear Speakers - Sedan
+
+> Rear Sedan speakers can be upgraded to 6x9" speakers with relative simplicity. See the [6x9 upgrade guide](./6x9-Upgrade/6x9-Upgrade.md) for more information
+{: .block-note}
+
 Follow these steps below to replace the rear shelf speakers (Sedan only):
 1. use a trim removal tool or a small flat head screwdriver to remove the speaker cover(s) on the shelf
 1. remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
