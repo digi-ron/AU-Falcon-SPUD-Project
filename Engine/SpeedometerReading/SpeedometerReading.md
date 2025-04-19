@@ -2,7 +2,7 @@
 description: calculations required for changing of speedometer reading based on transmission driven gear, diff ratio, and wheel size.
 ---
 
-# Changing ratios and wheel sizes
+# Changing Differential Ratios and Tyre Sizes
 
 > This information is related to the Speedometer reading, the diff ratio, the transmission reading cog, and the wheel size, and is placed in this section due to it being interconnected to multiple electrical and mechanical engines
 {: .block-note}
