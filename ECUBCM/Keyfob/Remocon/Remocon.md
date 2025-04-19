@@ -7,6 +7,7 @@ description: Keyfob cloning instructions using a Remocon branded keyfob and prog
 ## CAVEATS
 - requires a OEM remote to clone. Cannot be someone elses remote as the cloned remote would then operate both cars
 - The Remocon RMC-600, which advertises the ability to copy codes without the use of a programmer was tested to ***NOT*** work when trying to copy an OEM Series 1 remote. It does work with already copied RMC-555 remotes, but this may present a signal degradation issue in making copy-of-copy remotes, and makes the ability to copy without the RMC-888 a moot point.
+- The Remocon RMC-888 appears to have poor quality control and can arrive with issues such as jammed or stuck buttons and faulty wiring causing certain functions to be ineffective
 
 ## What you need
 - A Remocon RMC-555 Remote. This can be found primarily on online marketplaces such as [AliExpress](../../../Credits.md#sources)
@@ -27,14 +28,14 @@ description: Keyfob cloning instructions using a Remocon branded keyfob and prog
 
 - (optional) 12V (1A min.) DC Power Supply (5.5mm*2.5mm barrel connector)
 
-    > This is only required if the ordered RMC-888 device comes with the wrong country's power supply plug (likely if imported from overseas)
+    > This is only required if the ordered RMC-888 device comes with another country's power supply plug (likely if imported from overseas)
     {: .block-note}
 
 ## Instructions (Series 1 Smartlock remote)
 
 1. press and hold buttons 2 and 3 to enter into dual frequency programming mode. The display should show `r111`
 
-    > In theory this can also be achieved by pressing button 1 to go into single frequency setting, however the tested unit was unable to achieve this
+    > In theory this can also be achieved by pressing button 1 to go into single frequency setting, however the tested unit was unable to achieve this due to [poor quality control](#caveats)
     {: .block-note}
 
 1. hold the OEM remote to the programming area on the RMC-888 and press and hold the button you would like programmed to button 1 until the display reads `done`. After this the display will show a code such as `b-10`, however this is not particularly important, as this simply denotes the type of Remocon remote that can be used with the copied code
@@ -75,5 +76,8 @@ description: Keyfob cloning instructions using a Remocon branded keyfob and prog
     ![Frequency Adjuster Screw location](./remocon-frequency-adjuster.jpg)
 
     > Turn this screw to make small adjustments to the frequency of the remote. Recommended margin of error is ±0.5mHz
+
+    > The Check function of the RMC-888, accessible using button 3, is helpful for fine tuning for the remote
+    {: .block-note}
 
 1. done
