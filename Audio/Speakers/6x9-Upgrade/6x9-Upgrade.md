@@ -16,7 +16,7 @@ For the installation of both rear speakers, the following hardware will be requi
 | --- | --- | --- | --- |
 | 6x9" Speakers | 2 | Pioneer TSA6960F | |
 | 6x9" Speaker Spacer | 2 | [Aerpro](../../../Credits.md#sources) AP3081C Carpeted MDF Speaker Spacers | |
-| 20mm Right-angle brackets | 4 | Zenith 20mm Zinc Plated Angle Brackets | |
+| 20mm Right-angle brackets | 4 | Zenith 20mm Zinc Plated Angle Brackets WEB1020 | |
 | 8G 15mm timber screws | 4 | Zenith 8G x 15mm Button Head Stitching Screw | Button head screw preferred |
 | M4 x 20mm Bolts | 4 | Pinnacle Hardware M4 x 20mm Hex Head Bolts & Nuts | |
 | M4 x 20mm Bolts | 4-8 | Pinnacle Hardware M4 x 20mm Hex Head Bolts & Nuts | 4 if using thread-locker, 8 if not | 
