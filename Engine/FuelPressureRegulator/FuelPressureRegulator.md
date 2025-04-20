@@ -67,7 +67,8 @@ For this replacement the following equipment is required:
     > Alternatively you can leave the car not running for 24hrs before starting procedure
     {: .block-note}
 
-    <!-- TODO add pic -->
+    ![Fuel Relay Location](./fuel-relay-location.jpg)
+    > A picture of the location of the Fuel Relay within the engine bay fuse box
 
 1. Remove fuel return line from the top section of the fuel pressure regulator
 
