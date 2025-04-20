@@ -17,10 +17,13 @@ The following information is known about the factory Subwoofer:
 | --- | --- |
 | Size | 8.5" |
 | Manufacturer | Pioneer |
+| Type | Free-Air |
 | Resistance | 4Ω |
 | Model # | Varies, generally `TS-08*****` |
 
-<!--TODO add picture of subwoofer-->
+![Premium Audio Subwoofer Front](./pas-sub-front.jpg)
+![Premium Audio Subwoofer Rear](./pas-sub-rear.jpg)
+> Pictures of a 8" Subwoofer from a Premium Audio System fitted model, specifically a AUII Fairmont Sedan
 
 ## Amplifier - S1
 
