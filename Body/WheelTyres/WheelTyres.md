@@ -21,10 +21,6 @@ use the below table as a reference for wheel sizes that should fit all models of
 | 225/50R17 | 657mm | Fairmont GHIA |
 | 225/60R16 | 677mm | Fairlane GHIA |
 
-<!-- > Information about the range of wheel sizes for the AU Falcon can be beneficial if your local roads authority employs model-based wheel size limits, as any sub-model, such as a Forte, can use the tyre size of the Fairlane GHIA as a base diameter. At time of writing, this somewhat preposterously allows for a 265/65R17 tyre (diameter 777mm, 100mm larger than stock or 50mm lift in height) to be fitted to *any* AU Falcon in Victoria, Australia, assuming it can somehow be fitted without lifting the suspension in the vehicle or breaking any other rules in the relevant legislation.
-{: .block-note} -->
-<!-- TODO confirm if this is actually the word of the law -->
-
 ## General Notes - How to Read Tyre Zizes
 
 using the example of 205/65R15:
