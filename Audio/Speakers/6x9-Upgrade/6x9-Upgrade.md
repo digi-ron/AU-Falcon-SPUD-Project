@@ -45,7 +45,14 @@ For the installation of both rear speakers, the following hardware will be requi
 1. Screw 2 of the right angled brackets to 2 diagonally opposite holes on the factory speaker, according to the guide below, using the bolts and nuts. Ensure they are loosely fitted to allow for adjustment, with the bolt threaded through from *below* the speaker face (upside-down)
 
     - Angled configuration: For installation where speakers sit on a similar angle to factory location, place driver side speaker brackets on the *top-left* and *bottom-right* mounting holes, and passenger side speaker brackets on the *top-right* and *bottom-left* mounting holes (while facing the speaker face)
+
+        > This configuration has a slightly sharper angle to the original speakers
+        {: .block-note}
+
     - Flat configuration: For installation where the bottom edge of the speakers sit parallel to angle of rear seats, place driver side speaker brackets on the *top-right* and *bottom-left* mounting holes, and place passenger side brackets on the *top-left* and *bottom-right* mounting holes (while facing the speaker face)
+
+        > This configuration has a reasonably flat angle vs. the original speakers, but leaves a small gap in the rear shelf carpet on the rear side. This *does not* seem to affect functionality and is not very noticeable to the eye, but is worth noting regardless ins case this configuration is not desired.
+        {: .block-note}
 
 1. Align the speaker onto the bottom face of the spacer, noting the following points on positioning, then mark the locations on the 2 brackets on where the timber screws should go:
     - Magnet should be as central as possible inside spacer
@@ -76,14 +83,18 @@ For the installation of both rear speakers, the following hardware will be requi
 
 1. (Optional) Make adapter loom according to the [normal removal steps](../Speakers.md#rear-speakers---sedan), and install onto the 6x9" speaker
 
-    <!-- TODO add photo of Pioneer loom -->
+    ![Pioneer Speaker Loom](./speaker-loom-pioneer.jpg)
+    > Picture of an example adapter loom, for a Pioneer 6x9 Speaker
 
 1. Flip the spacers to have the brackets on the bottom, place the bolts loosely in the lower holes of the bracket, and place a nut on each bolt.
 
     > This step is only to prevent the bolt falling out during the following steps, as the head of the bolt will be inaccessible later on in the procedure
     {: .block-note}
 
-1. Place the 6x9" speaker and cover onto the spacer assembly using appropriate screws, ensuring it is securely together.
+1. Place the 6x9" speaker and cover onto the spacer assembly using appropriate screws or bolts, ensuring it is securely together.
+
+    > No picture added as assmebly will look different depending on model used
+    {: .block-note}
 
 1. (depending on hardware selected) place a small amount of thread-locker on the threads of the bolts
 
