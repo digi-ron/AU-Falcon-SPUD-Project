@@ -21,6 +21,13 @@ The standard speakers used in the AU Falcon are known as a 250 Series Quick Conn
 
 > Picture taken from [Narva](../../Credits.md#sources) product page for a pack of both 1 male connector housing (left) and one female connector housing (right) (product code 56272BL)
 
+## Further information
+
+The following miscellaneous information is known about the Speakers in the AU Falcon:
+
+- lower and/or earlier models contain unknown branded speakers. Only visible markings are a Ford logo and a Ford part number.
+- Models fitted with [Premium Audio System](../PremiumAudio/PremiumAudio.md) known to have Pioneer branded speakers. These Pioneer speakers appear to have propagated lower models by the AUIII
+
 ## Replacement
 
 > You will need a uncommon bit for this job, an E-Torx 5mm. These can be found in certain screwdriver or drill driver bit sets, but are a specialty bit in most sets. Alternatively there is known success using either a 5mm standard socket or a pair of vice grip pliers (however the latter should only be used if a new screw is going to replace it as it will likely damage the head of the screw)
