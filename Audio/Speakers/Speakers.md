@@ -26,9 +26,9 @@ The standard speakers used in the AU Falcon are known as a 250 Series Quick Conn
 > You will need a uncommon bit for this job, an E-Torx 5mm. These can be found in certain screwdriver or drill driver bit sets, but are a specialty bit in most sets. Alternatively there is known success using either a 5mm standard socket or a pair of vice grip pliers (however the latter should only be used if a new screw is going to replace it as it will likely damage the head of the screw)
 {: .block-note}
 
-### Driver Door Speakers
+### Front Door Speakers
 
-Follow the steps below to replace the driver door speakers:
+Follow the steps below to replace the front door speakers:
 
 1. Remove the door card, noting the following:
     - Manual window winding models will need to have the handle removed first (use a phillips head screwdriver)
@@ -86,6 +86,13 @@ Follow the steps below to replace the driver door speakers:
 Follow these steps below to replace the rear shelf speakers (Sedan only):
 1. use a trim removal tool or a small flat head screwdriver to remove the speaker cover(s) on the shelf
 1. remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
+
+![Shelf Speaker Screw Locations](./shelf-speaker-screws-sedan.jpg)
+> Photo of the screw locations for the rear shelf speaker. Note mesh covers not present (see note below)
+
+> The rear shelf speakers contain mesh covers similar to the factory speakers [in the front doors](#front-door-speakers), however these are prone to separation from the speaker assembly due to the direct sunlight exposure of these speakers. A common temporary fix is to carefully remove these covers to remove the vibration, however this leaves the cone more exposed to damage and debris.
+{: .block-note}
+
 1. do one of the following:
     - If keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - If modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom, noting that the wire in the loom with a black line in it is *always* negative
