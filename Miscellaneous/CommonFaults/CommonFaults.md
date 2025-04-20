@@ -8,22 +8,23 @@ While the AU Falcon is generally regarded as a quite reliable vehicle, there are
 
 <!-- TODO add link to theoretical ball joint repair instructions -->
 
-| Fault | Models | Notes |
-| --- | --- | --- |
-| [Air Conditioner Controls](../../Electrical/ACControls/AC-S1.md) | S1 | issues known of [solder joints cracking behind AC/AC Max buttons](../../Electrical/ACControls/AC-S1.md#repairing-solder-connections-on-the-ac-and-ac-max-buttons) and easily broken plastic dials |
-| [Alternator](../../Engine/Alternator/Alternator.md) | All | prone to oil and power steering fluid ingress |
-| Ball Joints | All | prone to wearing out, however simple to replace using a bearing tool |
-| Brake Master Cylinder | All | tends to leak from behind, stripping the paint on the Brake Booster and surrounding painted area. Less common on S1 vehicles due to different Brake Master Cylinder used |
-| Climate Control | All | High models (Fairmont/Fairlane/LTD/TL50) only, ribbon cable separation and display failure common due to time |
-| Exhaust Rear Resonator | All | Wagon body only, rust common around entry and exit welds of rear resonator. Known reliable repair is to replace with straight pipe section |
-| Front Brake Calipers | S1 | single piston design does not allow for hard braking on regular basis. regular maintenance is essential on these models |
-| Front Brake Rotors | All | front rotors prone to warping due to brake design, Wagon and Utility body types most affected due to front brake bias |
-| Fuel Pump | All | Standard fuel pump known to starve engine if driven hard consistently, and fail prematurely |
-| Fuel Sender Circuit | All | Various causes known with wiring, cluster, and sender unit, but consistent factor appears to be failure of the fuel reader in the [Instrument Cluster](../../ECUBCM/InstrumentCluster/InstrumentCluster.md) |
-| Power Steering High Pressure Line | All | failure allows power steering fluid to leak onto the alternator. This then causes the alternator to fail as well |
-| Rust | All | Exhaust, Middle muffler and rear section most affected |
-| Rust | All - Sedan | bottom of boot lid and strut mount areas. exasperated on models fitted with a spoiler due to mount holes |
-| Rust | All - Utes | section between cab and tub affected |
-| Smartlock Central Locking Remote | S1 | rubber buttons prone to splitting and grime ingress. Once failed, expensive to replace with OEM remote due to low supply and relatively high demand, however [aftermarket cloning remotes are available](../../ECUBCM/Keyfob/Keyfob.md#aftermarket-replacements) to copy OEM remotes |
-| Thermostat Housing | All | likely to leak through gap between top pipe end and housing end. Various causes known, most common being uneven mounting surfaces on thermostat installation |
-| Water Pump | All | While OEM water pump is known good for an average of 200,000kms, aftermarket water pumps from reputable manufacturers have been known to have issues with bearing fitment and a weak plastic pulley wheel |
+| Fault | Series | Configurations | Notes |
+| --- | --- | --- | --- |
+| [Air Conditioner Controls](../../Electrical/ACControls/AC-S1.md) | S1 | All | issues known of [solder joints cracking behind AC/AC Max buttons](../../Electrical/ACControls/AC-S1.md#repairing-solder-connections-on-the-ac-and-ac-max-buttons) and easily broken plastic dials |
+| [Alternator](../../Engine/Alternator/Alternator.md) | All | I6 motor models | Prone to oil and power steering fluid ingress |
+| Ball Joints | All | All | prone to wearing out, however simple to replace using a bearing tool |
+| Brake Master Cylinder | All | All | tends to leak from behind, stripping the paint on the Brake Booster and surrounding painted area. Less common on S1 vehicles due to different Brake Master Cylinder used |
+| Climate Control | All | High Models (Fairmont/Fairlane/LTD/TL50) | Ribbon cable separation and display failure common due to time |
+| Exhaust Rear Resonator | All | Wagon | Rust common around entry and exit welds of rear resonator. Known reliable repair is to replace with straight pipe section |
+| Front Brake Calipers | S1 | All | single piston design does not allow for hard braking on regular basis. regular maintenance is essential on these models |
+| Front Brake Rotors | All | All | front rotors prone to warping due to brake design, Wagon and Utility body types most affected due to front brake bias |
+| Fuel Pump | All | All | Standard fuel pump known to starve engine if driven hard consistently, and fail prematurely |
+| Fuel Sender Circuit | All | All | Various causes known with wiring, cluster, and sender unit, but consistent factor appears to be failure of the fuel reader in the [Instrument Cluster](../../ECUBCM/InstrumentCluster/InstrumentCluster.md) |
+| Power Steering High Pressure Line | All | I6 motor models | failure allows power steering fluid to leak onto the alternator. This then causes the alternator to fail as well |
+| [Rear Shelf Speakers](../../Audio/Speakers/Speakers.md#rear-speakers---sedan) | All | Sedan | Mesh cover prone to separation from speaker cone assembly due to UV exposure, causing increased vibration. Can be fixed by removing the mesh carefully, [replacing the speakers](../../Audio/Speakers/Speakers.md#rear-speakers---sedan) or [upgrading speakers to another size](../../Audio/Speakers/6x9-Upgrade/6x9-Upgrade.md) |
+| Rust | All | All | Exhaust, Middle muffler and rear section most affected |
+| Rust | All | Sedan | bottom of boot lid and strut mount areas. exasperated on models fitted with a spoiler due to mount holes |
+| Rust | All | Utility | section between cab and tub affected |
+| Smartlock Central Locking Remote | S1 | All | rubber buttons prone to splitting and grime ingress. Once failed, expensive to replace with OEM remote due to low supply and relatively high demand, however [aftermarket cloning remotes are available](../../ECUBCM/Keyfob/Keyfob.md#aftermarket-replacements) to copy OEM remotes |
+| Thermostat Housing | All | I6 motor models | likely to leak through gap between top pipe end and housing end. Various causes known, most common being uneven mounting surfaces on thermostat installation |
+| Water Pump | All | All | While OEM water pump is known good for an average of 200,000kms, aftermarket water pumps from reputable manufacturers have been known to have issues with bearing fitment and a weak plastic pulley wheel |
