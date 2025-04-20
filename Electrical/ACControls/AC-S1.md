@@ -36,7 +36,8 @@ A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max
         > This final step is exceedingly hard, and should difficulties arise in removing this cable from the dash side, the best secondary method is to remove the glovebox, unclip the small plastic clip holding in the heater box end of the cable, pop the cable end out, and feed it back through to where the dash is
         {: .block-note}
 
-        <!--TODO add picture of where the heater control switch is-->
+        ![Heater Core Cable Location](./heater-box-cable.png)
+        > Heater Core Cable location. Note that the plastic clip in this picture is already unclipped, and the clip itself is easily broken
 
 1. with the dash fascia removed, place it down on a flat surface and remove the 5 phillips head screws holding in the AC Controls
 
