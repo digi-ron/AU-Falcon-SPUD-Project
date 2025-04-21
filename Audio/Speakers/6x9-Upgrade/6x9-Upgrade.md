@@ -93,14 +93,14 @@ For the installation of both rear speakers, the following hardware will be requi
 
 1. Place the 6x9" speaker and cover onto the spacer assembly using appropriate screws or bolts, ensuring it is securely together.
 
-    > No picture added as assmebly will look different depending on model used
+    > No picture added as assembly will look different depending on model of speakers used
     {: .block-note}
 
 1. (depending on hardware selected) place a small amount of thread-locker on the threads of the bolts
 
 1. Carefully remove the 4 nuts from the 4 bolts, place the assembled speaker into the factory holes, and screw 2 nuts back onto the bottom of the 2 bolts.
 
-    > You may need to feed a small screwdriver or a finger in under the speaker to hold the top of the bolt while the nut is screwed in and tightened. Failing this, use a small spanner to spin the nut while holding the thread of the bolt using a pair of pliers. You may also need to push down on the speaker assembly to ensure tightness of the nuts.
+    > You may need to feed a small screwdriver or a finger in under the speaker to hold the top of the bolt while the nut is screwed in and tightened. Failing this, use a small spanner to spin the nut while holding the thread of the bolt using a pair of pliers. You may also need to push down on the speaker assembly to ensure a tight fit from the speakers.
     {: .block-note}
 
 1. Connect speaker wires or adapter connector to car loom
