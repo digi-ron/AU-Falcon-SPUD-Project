@@ -21,9 +21,7 @@ See the below picture for the exact location of the ISC on the I6 models of AU F
 
 ## Removal
 
-To remove the ISC, simply remove the 2 allen head bolts holding the controller in.
-
-<!-- TODO add the allen key size -->
+To remove the ISC, simply remove the 2 allen head bolts holding the controller in using a 5mm allen key.
 
 > There is a small gasket under these controllers, be careful when removing unless you have a replacement gasket handy, as they will cause excess air issues if there is a gap on reinstallation
 {: .block-quote}
