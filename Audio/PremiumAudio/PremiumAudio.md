@@ -104,8 +104,8 @@ The next section of the amplifier contains terminals for the audio output of the
 | Pin | Purpose | Notes |
 | --- | --- | --- |
 | 01 | Subwoofer - | |
-| 02 | Speaker - (assumed) | unused |
-| 03 | Speaker + (assumed) | unused |
+| 02 | Speaker - | assumed, unused |
+| 03 | Speaker + | assumed, unused |
 | 04 | Subwoofer + | |
 
 #### Section 03 - Fuse
@@ -130,7 +130,7 @@ The final section of the wiring for the amplifier contains the wiring for 12v po
 | 01 | 12v Constant | 20A signal required |
 | 02 | GND1 | |
 | 03 | 12v Signal | assumed, untested |
-| 04 | GND2 (assumed) | unused |
+| 04 | GND2 | assumed, unused |
 
 ### Additional Information
 
