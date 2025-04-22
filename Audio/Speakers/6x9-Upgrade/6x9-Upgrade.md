@@ -59,15 +59,15 @@ For the installation of both rear speakers, the following hardware will be requi
     - Brackets should be firmly up against inside face of spacer
     - 2 remaining corners of factory speaker should sit flush on bottom face of spacer
 
-> The orientation of the speaker mounted using these instructions will be rotated from the orientation of the spacer. This is normal and is corrected in later steps with the larger speaker
-{: .block-note}
+    > The orientation of the speaker mounted using these instructions will be rotated from the orientation of the spacer. This is normal and is corrected in later steps with the larger speaker
+    {: .block-note}
 
-> You can mark the 2 locations using the sharp end of the screw using your thumb. For this reason, a button-head screw is recommended.
-{: .block-note}
+    > You can mark the 2 locations using the sharp end of the screw using your thumb. For this reason, a button-head screw is recommended.
+    {: .block-note}
 
-![Speaker-dry fitted to spacer](./dry-fit-bracket-passenger-flat.jpg)
+    ![Speaker-dry fitted to spacer](./dry-fit-bracket-passenger-flat.jpg)
 
-> Picture of a passenger speaker, dry fit to the bottom of the speaker spacer in a "flat" configuration
+    > Picture of a passenger speaker, dry fit to the bottom of the speaker spacer in a "flat" configuration
 
 1. remove the factory speaker from the brackets by undoing the bolts, and then mount the brackets using the timber screws in the marked locations, ensuring that the bracket sits as flush as possible with the bottom of the spacer.
 
