@@ -19,19 +19,9 @@ For the installation of both rear speakers, the following hardware will be requi
 | 20mm Right-angle brackets | 4 | Zenith 20mm Zinc Plated Angle Brackets WEB1020 | |
 | 8G 15mm timber screws | 4 | Zenith 8G x 15mm Button Head Stitching Screw | Button head screw preferred |
 | M4 x 20mm Bolts | 4 | Pinnacle Hardware M4 x 20mm Hex Head Bolts & Nuts | |
-| M4 x 20mm Bolts | 4-8 | Pinnacle Hardware M4 x 20mm Hex Head Bolts & Nuts | 4 if using thread-locker, 8 if not | 
+| M4 x 20mm Nuts | 4-8 | Pinnacle Hardware M4 x 20mm Hex Head Bolts & Nuts | 4 if using thread-locker, 8 if not | 
 | Thread-locker | 1 | N/a | Optional |
 | Speaker Mounting Hardware | N/a | Various | |
-
-- 2 6x9" speakers (should include hardware such as screws and wiring)
-- 4 20mm right angled brackets (can be purchased from suppliers such as [Bunnings](../../../Credits.md#sources)
-- 4 8Gx15mm timber screws (button head recommended)
-- 4 4x20mm bolts
-- One of:
-  - 8 4mm nuts
-  - 4 4mm nuts & Blue thread-locker
-- 2 6x9" MDF speaker spacers ([Aerpro](../../../Credits.md#sources) unit used)
-- Speaker mounting hardware (varies according to spacer and speaker chosen)
 
 ## Instructions
 
