@@ -96,6 +96,9 @@ Another similar-but-different Tickford-issued Options Plate was the Factory Dual
 
 LPG system installed by an authorized workshop may have another Tickford branded plate installed, which has Tickford logos on the top, followed by information in the following layout:
 
+> Information suggests that the Authorized LPG plate should be located in the same place as the [Dual-Fuel LPG Plate](#tickford-dual-fuel-lpg-option-plate), however as this is not a factory fitted plate this is not guaranteed
+{: .block-note}
+
 <table style="text-align:left" class="plate-layout-table">
     <tbody>
         <tr>
