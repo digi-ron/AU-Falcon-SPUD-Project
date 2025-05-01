@@ -42,27 +42,27 @@ Pursuit clusters are not only sought after as they are, in theory the rarest typ
 > The calibration mode allows for 10% of calibration in either direction (so 90-110% stock) and increments about 0.5% each button press. for more than this, you will need to change some or all of tyre size, transmission gearing and differential ratios. A [speedometer calibration tool](../../Engine/SpeedometerReading/SpeedReaderCalculator.html) is available on this site.
 {: .block-note}
 
-1. do the following depending on your series of **CLUSTER**:
+1. Do the following depending on your series of **CLUSTER**:
     - For S1 Clusters, switch the ignition key to the "On" position (second click from off), press and hold the odometer stalk button for 5 seconds and release
     - For S2/3 Clusters, hold the odometer stalk button, turn the ignition key to the "On" position (second click from off), continue holding the button for 5 seconds, then release
-1. switch the ignition key to the "On" position
-1. after following the previous step, ensure the word `SPEEDO 0.0` shows up on the instrument cluster
+1. Switch the ignition key to the "On" position
+1. After following the previous step, ensure the word `SPEEDO 0.0` shows up on the instrument cluster
 
     > The 0.0 in the display stands for the default, if you have changed yours previously it will be a different number
     {: .block-note}
     
-1. press the instrument cluster button until the number next to `SPEEDO` on the display is at the desired value, noting:
+1. Press the instrument cluster button until the number next to `SPEEDO` on the display is at the desired value, noting:
     - A short press (less than 1 second) will increase the number by 0.5
     - A longer press (less than 5 seconds) will decrease the number by 0.5
-1. press and hold the instrument cluster button for about 7 seconds to exit calibration mode
-1. done
+1. Press and hold the instrument cluster button for about 7 seconds to exit calibration mode
+1. Done
 
 ### Service spanner (where fitted)
 
 On models with a service spanner in the instrument cluster, you can disable it by following the steps below:
-1. turn the ignition to the "On" position (2 clicks from off)
-1. press and hold the instrument cluster odometer stalk for 10 seconds, then release
-1. done
+1. Turn the ignition to the "On" position (2 clicks from off)
+1. Press and hold the instrument cluster odometer stalk for 10 seconds, then release
+1. Done
 
 ## Plug types
 The plugs in the back of the instrument cluster all seem to be MULTILOCK 040 II connectors, seemingly manufactured by a company called TE Connectivity. Part information varies according to which specific plug is desired.

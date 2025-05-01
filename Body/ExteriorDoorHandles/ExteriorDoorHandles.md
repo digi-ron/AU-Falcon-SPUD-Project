@@ -28,7 +28,7 @@ Use the following steps to remove the exterior door handle:
 
     > Photo of screw locations
 
-1. gently peel back the sound deadening behind where the exterior door handle is, and:
+1. Gently peel back the sound deadening behind where the exterior door handle is, and:
     - Unclip the steel rod connecting the handle to the door lock actuator from the *handle* end (the actuator itself does **NOT** need to be removed)
     - (If removing driver door handle) Unclip the steel rod connecting the key hole to the actuator from the *actuator* end
 
@@ -39,13 +39,13 @@ Use the following steps to remove the exterior door handle:
 
     > Photo of one of the clips from a drivers door handle (black plastic section). a push in the direction of the arrow will free the rod and allow you to pull the rod from the handle itself.
 
-1. remove the 2 10mm bolts holding the door handle to the sheet steel door assembly
+1. Remove the 2 10mm bolts holding the door handle to the sheet steel door assembly
 
     ![Exterior door bolt locations](./handle-door-bolts.jpg)
 
     > Bolt locations. Note that the left bolt is removed to show the sheet steel tab both bolts are fastened into
 
-1. pull the door handle through on the exterior side. You will need to gently pull towards the front of the vehicle and up to unmount the bottom clips, and which point you can rotate the handle to feed the spring mount(s) and key hole rod through the door hole
+1. Pull the door handle through on the exterior side. You will need to gently pull towards the front of the vehicle and up to unmount the bottom clips, and which point you can rotate the handle to feed the spring mount(s) and key hole rod through the door hole
 
 1. (If replacing a driver door handle) remove the single 10mm bolt holding the key hole assembly in place, and rotate approximately 1/8 of a turn clockwise. From this position the key hole assembly should simply pull out and can be replaced by following this step in reverse order
 
@@ -55,5 +55,5 @@ Use the following steps to remove the exterior door handle:
 
     > Key hole assembly photos before and after turning clockwise, and post-removal. Barrel is able to be removed from the point in the second photo
 
-1. using the new handle, follow all previous steps in reverse to reinstall
-1. done
+1. Using the new handle, follow all previous steps in reverse to reinstall
+1. Done

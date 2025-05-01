@@ -57,7 +57,7 @@ Follow the steps below to replace the front door speakers:
 
     > Photos of the speaker screw locations in the door assembly, and the door post-removal respectively
 
-1. do one of the following:
+1. Do one of the following:
     - If keeping the original loom, create an adapter with a [male housing 2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - If modifying the loom, cut and crimp the spade connectors for your speakers onto the loom. As much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
 
@@ -82,8 +82,8 @@ Follow the steps below to replace the front door speakers:
 
     > Photo of speaker installed. Note you can use the original screws, or the new screws and brackets from the new speakers if wanted/needed
 
-1. reinstall the door card, remembering to reconnect the window winder handle (on manual winding models) or the electronic window panel (on electronic window models)
-1. done
+1. Reinstall the door card, remembering to reconnect the window winder handle (on manual winding models) or the electronic window panel (on electronic window models)
+1. Done
 
 ### Rear Speakers - Sedan
 
@@ -91,8 +91,8 @@ Follow the steps below to replace the front door speakers:
 {: .block-note}
 
 Follow these steps below to replace the rear shelf speakers (Sedan only):
-1. use a trim removal tool or a small flat head screwdriver to remove the speaker cover(s) on the shelf
-1. remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
+1. Use a trim removal tool or a small flat head screwdriver to remove the speaker cover(s) on the shelf
+1. Remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
 
 ![Shelf Speaker Screw Locations](./shelf-speaker-screws-sedan.jpg)
 > Photo of the screw locations for the rear shelf speaker. Note mesh covers not present (see note below)
@@ -100,7 +100,7 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
 > The rear shelf speakers contain mesh covers similar to the factory speakers [in the front doors](#front-door-speakers), however these are prone to separation from the speaker assembly due to the direct sunlight exposure of these speakers. A common temporary fix is to carefully remove these covers to remove the vibration, however this leaves the cone more exposed to damage and debris.
 {: .block-note}
 
-1. do one of the following:
+1. Do one of the following:
     - If keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - If modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom, noting that the wire in the loom with a black line in it is *always* negative
 
@@ -117,8 +117,8 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
     > Now is a good time to test that the speakers are connected correctly by turning on the radio
     {: .block-note}
 
-1. place cover back onto speakers
-1. done
+1. Place cover back onto speakers
+1. Done
 
 ### Rear Speakers - Wagon
 
@@ -126,9 +126,9 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
 {: .block-note}
 
 Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
-1. remove the plastic C-Pillar upper trim. Note that this is held in with screws and will require the removal of the outer cushioning for the rear seats
-1. remove all plastic clips and screws holding the cloth panelling on the side of the car you are working on, and remove or peel back the panel itself to reveal the speakers. Remove the 4 screws holding in the speakers and remove
-1. do one of the following:
+1. Remove the plastic C-Pillar upper trim. Note that this is held in with screws and will require the removal of the outer cushioning for the rear seats
+1. Remove all plastic clips and screws holding the cloth panelling on the side of the car you are working on, and remove or peel back the panel itself to reveal the speakers. Remove the 4 screws holding in the speakers and remove
+1. Do one of the following:
     - If keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - If modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom noting that the wire in the loom with a black line in it is *always* negative
 
@@ -145,9 +145,9 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
     > Now is a good time to test that the speakers are connected correctly by turning on the radio
     {: .block-note}
 
-1. reinstall the cloth trim for the side of the car you are working on, and reinstall all plastic clips and screws.
-1. reinstall the C-Pillar trim and the outer cushioning for the rear seats, remembering to screw in the trim itself
-1. done
+1. Reinstall the cloth trim for the side of the car you are working on, and reinstall all plastic clips and screws.
+1. Reinstall the C-Pillar trim and the outer cushioning for the rear seats, remembering to screw in the trim itself
+1. Done
 
 ### Rear Speakers - Ute
 
@@ -157,9 +157,9 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 > Ute rear speakers were optional, but should have the same 5x7" speakers as the Sedans. Ensure this is correct *BEFORE* performing these steps
 {: .block-note}
 
-1. use a trim removal tool or a small flat head screwdriver to remove the speaker cover(s) on the rear panel
-1. remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
-1. do one of the following. For either step, keep in mind that the negative for each speaker is the wire with a black line in it:
+1. Use a trim removal tool or a small flat head screwdriver to remove the speaker cover(s) on the rear panel
+1. Remove the 4 screws holding the speaker into place and unplug the speaker(s) from the wiring loom
+1. Do one of the following. For either step, keep in mind that the negative for each speaker is the wire with a black line in it:
     - If keeping the original loom, create 1-2 (as needed) adapters with a [2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
     - If modifying the loom, cut and crimp or solder the spade connectors for your speakers onto the loom
 
@@ -176,5 +176,5 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
     > Now is a good time to test that the speakers are connected correctly by turning on the radio
     {: .block-note}
 
-1. place cover back onto speakers
-1. done
+1. Place cover back onto speakers
+1. Done

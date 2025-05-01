@@ -15,18 +15,18 @@ description: Keyfob cloning instructions using a CodeEzy branded universal keyfo
 
 ## Instructions
 
-1. hold the top right and bottom left buttons of the CodeEzy remote until the indicator LED blinks once
+1. Hold the top right and bottom left buttons of the CodeEzy remote until the indicator LED blinks once
 
     ![Pairing Buttons](./codeezy-remote-pair.jpg)
 
     > The buttons to press in order to start the pairing process
 
-1. press the button you want to set on the CodeEzy remote
-1. with the original remote facing the CodeEzy remote, press and hold the button you would like to set the CodeEzy remote button to on the original remote, e.g. Lock/Unlock, until the indicator LED on the CodeEzy remote flickers quickly, then release
+1. Press the button you want to set on the CodeEzy remote
+1. With the original remote facing the CodeEzy remote, press and hold the button you would like to set the CodeEzy remote button to on the original remote, e.g. Lock/Unlock, until the indicator LED on the CodeEzy remote flickers quickly, then release
 
     ![Pairing Position](./codeezy-pair-position.jpg)
 
     > The position your 2 remotes should be in to minimize clone failure
 
 1. (optional) set the remaining buttons by repeating previous steps until all 4 buttons are programmed
-1. done
+1. Done

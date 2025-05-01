@@ -59,7 +59,7 @@ For the installation of both rear speakers, the following hardware will be requi
 
     > Picture of a passenger speaker, dry fit to the bottom of the speaker spacer in a "flat" configuration
 
-1. remove the factory speaker from the brackets by undoing the bolts, and then mount the brackets using the timber screws in the marked locations, ensuring that the bracket sits as flush as possible with the bottom of the spacer.
+1. Remove the factory speaker from the brackets by undoing the bolts, and then mount the brackets using the timber screws in the marked locations, ensuring that the bracket sits as flush as possible with the bottom of the spacer.
 
     > Now is a good time to test fit the spacer and ensure all holes line up before tightening the screws down completely
     {: .block-note}

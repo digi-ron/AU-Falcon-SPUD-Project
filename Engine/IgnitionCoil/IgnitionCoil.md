@@ -72,7 +72,7 @@ The recommended method for removing these coil packs is to either completely rem
 
     > Photo of the ignition coil pack plug on a S1 Falcon, post removal
 
-1. depending on your series and whether you have a long extension bar:
+1. Depending on your series and whether you have a long extension bar:
     1. If you have a Series 1 and a extension bar and a magnet stick:
         - Remove the rear most (driver side rear) bolt by feeding the extension bar between cylinders 4 & 5 on the intake manifold
         - Remove the middle-rear (passenger side rear) bolt by feeding a small socket wrench (1/4" drive recommended) and a short extension under cylinder 5
@@ -102,8 +102,8 @@ The recommended method for removing these coil packs is to either completely rem
     - Twist while rotating to fit plastic housing under 2 banks of intake manifold and free of AC lines
     - Rotate coil pack to have all plug connectors facing the driver side of vehicle, and pull gently past vacuum line and AC pressure switch
 1. (optional) test the [Ignition Coil Pack Resistances](#ignition-coil-resistances)
-1. replace the ignition coil pack by performing the reverse of the previous step
-1. done
+1. Replace the ignition coil pack by performing the reverse of the previous step
+1. Done
 
 ## Ignition Coil Resistances
 
@@ -143,9 +143,9 @@ This resistance is from the first part of the ignition coil pack wiring, which t
 > All resistances should be approx. 0.6Ω
 {: .block-note}
 
-1. check the resistance between pins 4 and 1
-1. check the resistance between pins 4 and 2
-1. check the resistance between pins 4 and 3
+1. Check the resistance between pins 4 and 1
+1. Check the resistance between pins 4 and 2
+1. Check the resistance between pins 4 and 3
 
 ### Secondary resistance
 
@@ -154,9 +154,9 @@ This resistance is for the second part of the ignition coil pack, which converts
 > All resistances should be 9-9.5KΩ, 9.2KΩ ideal
 {: .block-note}
 
-1. check the resistance between the poles for cylinder 1 and 6
-1. check the resistance between the poles for cylinder 2 and 5
-1. check the resistance between the poles for cylinder 3 and 4
+1. Check the resistance between the poles for cylinder 1 and 6
+1. Check the resistance between the poles for cylinder 2 and 5
+1. Check the resistance between the poles for cylinder 3 and 4
 
 ## Additional Notes
 

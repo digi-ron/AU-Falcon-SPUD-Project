@@ -44,14 +44,14 @@ Replacing the thermostat in an AU Falcon is a very simple job to do. Follow the 
 
     ![Fan shroud nut location](./fan-shroud-bolt.jpg)
 
-1. remove the 2 13mm bolts holding in the thermostat housing to the side of the engine and gently lift up the thermostat housing.
+1. Remove the 2 13mm bolts holding in the thermostat housing to the side of the engine and gently lift up the thermostat housing.
 
     > If you did not drain the radiator, this is where the majority of the coolant will come out
     {: .block-note}
 
     ![Thermostat housing bolt locations](./thermostat-bolts.jpg)
 
-1. remove the old thermostat by pulling up while gently prying at the rubber seal from the side
+1. Remove the old thermostat by pulling up while gently prying at the rubber seal from the side
     
     >You may need to use a trim removal tool to remove an older seal, however avoid using a screwdriver as it may damage the mating surfaces of the thermostat housing
     {: .block-note}
@@ -64,20 +64,20 @@ Replacing the thermostat in an AU Falcon is a very simple job to do. Follow the 
 1. (optional) if required, clean the mating surfaces of both the thermostat housing and the engine side connector using a cloth
 
     > The thermostat housing is the most likely location to need cleaning, due to it being where the rubber seal presses onto the bracket
-1. install the new assembled thermostat into the housing
+1. Install the new assembled thermostat into the housing
 
     ![Thermostat housing post-installation](./thermostat-exposed-new.jpg)
 
-1. reinstall the 2 13mm bolts that hold the thermostat housing down
+1. Reinstall the 2 13mm bolts that hold the thermostat housing down
 
     > Ensure you have installed the bolts in the correct position if you have a belt cover, as only one has the thread on the top to hold the cover on
     {: .block-note}
     
-1. refill coolant back to the "MAX" line on the overflow tank
+1. Refill coolant back to the "MAX" line on the overflow tank
 
     > If you have drained the coolant, refilling the radiator may require running the car for a time after this process is complete for the coolant to Cycle through or "burp", allowing for another few litres of coolant to be added. Make sure this is monitored over the course of the next 100 or so kilometers if this is the case
     {: .block-note}
 
 1. (if your vehicle has a belt cover) reinstall the belt cover and screw down the 10mm nut once in place
-1. start and run the vehicle for 2-5mins and ensure that there are no leaks coming from the thermostat housing
-1. done
+1. Start and run the vehicle for 2-5mins and ensure that there are no leaks coming from the thermostat housing
+1. Done

@@ -27,7 +27,7 @@ Due to the simplicity of this part, there is a simple diagnosis step to check fo
 {: .block-note}
 
 if you need to replace the PCV, follow the below steps:
-1. gently twist and pull the PCV from the top of the rocker cover on the engine
+1. Gently twist and pull the PCV from the top of the rocker cover on the engine
     
     ![PCV Post-Removal](./PCV-removed.jpg)
 
@@ -36,11 +36,11 @@ if you need to replace the PCV, follow the below steps:
     > Ensure that nothing is left behind in the engine from the old PCV, as this can cause damage if it breaks through the filter at the base of the mounting hole
     {: .block-note}
     
-1. remove the breather hose from the side of PCV assembly
+1. Remove the breather hose from the side of PCV assembly
 
     ![PCV Installed](./PCV-installed.jpg)
 
     > Photo of PCV post-installation
 
-1. reverse previous steps with new unit to install
-1. done
+1. Reverse previous steps with new unit to install
+1. Done

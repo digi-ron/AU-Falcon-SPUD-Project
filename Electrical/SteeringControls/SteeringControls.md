@@ -46,7 +46,7 @@ The following notes assume pin numbers where you are looking at the steering whe
 {: .block-note}
 
 1. ***DISCONNECT THE BATTERY*** and leave for at least 1hr (ideally overnight)
-1. remove the plastic caps on the sides of the rear plastic section of the steering wheel and remove the tamper bolts
+1. Remove the plastic caps on the sides of the rear plastic section of the steering wheel and remove the tamper bolts
 
     ![Driver side tamper bolt](./driver-tamper-bolt.jpg)
     ![Passenger side tamper bolt](./passenger-tamper-bolt.jpg)
@@ -57,24 +57,24 @@ The following notes assume pin numbers where you are looking at the steering whe
 
     ![Airbag and horn connector locations](./airbag-horn-connectors.jpg)
 
-1. remove the steering control plug (square black connector with red plug inside)
+1. Remove the steering control plug (square black connector with red plug inside)
 
     ![Steering controls plug location](./controls-connector.jpg)
 
-1. unscrew the 4 mounting screws on the sides of the steering wheel
+1. Unscrew the 4 mounting screws on the sides of the steering wheel
 
     ![Mounting screw locations](./control-mount-screws.jpg)
 
     Buttons missing from photos due to the originals being broken (ironic)
     {: .block-note}
     
-1. unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame
+1. Unclip the wiring loom for the steering controls from the back plastic of the steering wheel. Gently pry the back plastic of the steering wheel back enough to pull the button housings past the back of the steering wheel frame
 
     ![Rear plastic separation](./rear-plastic-separation.jpg)
 
     > Gently pull until the back of your steering wheel looks like this. From here, you can feed the wire through the gap by holding the plastic back a little more and pulling the wire through
 
-1. done
+1. Done
 
 > If reinstalling the steering wheel controls, be careful of the screws that hold it in place, as they are easy to cross-thread due to the material the steering wheel itself seems to be made of
 {: .block-note}

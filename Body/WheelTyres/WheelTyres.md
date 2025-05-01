@@ -69,13 +69,13 @@ If the additional cleaning of the wheels is acceptable, it is recommended that y
 
 ## Removal
 Removal of the wheel dust covers is simple, as below:
-1. remove the desired wheel
-1. pull the dust cover from the exposed area, noting:
+1. Remove the desired wheel
+1. Pull the dust cover from the exposed area, noting:
 
     - Mag wheels with plastic covers will need to have the covers broken off in order to remove them. There is no known way to remove the covers in a single piece to date.
     - Mag wheels with steel covers may have the covers rusted to the brake rotor. If this is the case ***DO NOT*** use prying tools as this may damage the brakes
 
-1. reinstall the wheel, noting:
+1. Reinstall the wheel, noting:
 
     - Before you install the wheel, now may be a good time to clean behind the wheel unobstructed
     - You should tighten as much as possible while the wheel is in the air, then tighten again once the car is on the ground, to ensure a snug fit

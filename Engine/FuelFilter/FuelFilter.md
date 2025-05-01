@@ -35,7 +35,7 @@ In order to make the replacement easier, the following equipment is recommended:
 
     <!-- TODO add pic -->
 
-1. jack the car up from the passenger side, and get under the car. If available, use penetrating fluid on the engine side of the filter, where the line screws into the filter.
+1. Jack the car up from the passenger side, and get under the car. If available, use penetrating fluid on the engine side of the filter, where the line screws into the filter.
 
 1. Use the 2 screwdrivers, or if available the fuel line removal tool, to press the spring inside the fuel line end coming from the fuel tank, and remove the tank lines
 
@@ -44,6 +44,6 @@ In order to make the replacement easier, the following equipment is recommended:
     > The best known method for this is to keep the 19mm spanner still while unscrewing the line nut using the 14mm
     {: .block-note}
 
-1. reverse all steps to reinstall
+1. Reverse all steps to reinstall
 
-1. done
+1. Done
