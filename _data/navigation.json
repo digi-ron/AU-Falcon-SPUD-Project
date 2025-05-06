@@ -150,6 +150,10 @@
                     "url": "/Engine/Alternator/Alternator.html"
                 },
                 {
+                    "title": "Crank Angle Sensor (CAS)",
+                    "url": "/Engine/CAS/CAS.html"
+                },
+                {
                     "title": "Fuel Filter (inline)",
                     "url": "/Engine/FuelFilter/FuelFilter.html"
                 },
