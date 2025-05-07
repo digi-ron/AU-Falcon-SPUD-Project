@@ -10,11 +10,11 @@ description: basic information on the Crankshaft Angle Sensor, or CAS.
 ## Purpose
 <!-- TODO add link to theoretical ABS page -->
 
-The purpose of the Crankshaft Angle Sensor, or CAS, is simple: report to the ECU when the crank makes a fraction of a rotation, so that the Engine Management System can monitor and adapt to changes in the engine running. it does this using a sensor quite similar to an ABS Sensor, where a small voltage is recorded when a metallic object comes past the sensor itself. In the case of the I6 models of AU Falcon, the metallic object is a set of teeth on the harmonic balancer, at the base of the front of the engine block.
+The purpose of the Crankshaft Angle Sensor, or CAS, is simple: report to the [PCM](../../PCMBCM/DTCCodes/DTCCodes.md#pcm-location) when the crank makes a fraction of a rotation, so that the Engine Management System can monitor and adapt to changes in the engine running. it does this using a sensor quite similar to an ABS Sensor, where a small voltage is recorded when a metallic object comes past the sensor itself. In the case of the I6 models of AU Falcon, the metallic object is a set of teeth on the harmonic balancer, at the base of the front of the engine block.
 
 ## Diagnosis
 
-Diagnosis of this part is relatively tricky, as a failing CAS will send *incorrect* but *valid* information to the ECU, meaning it is unlikely to trip a [trouble code](../../ECUBCM/DTCCodes/DTCCodes.md#dtcs). Due to this, it is better to check for signs of any of the following which would at least suggest a replacement is recommended:
+Diagnosis of this part is relatively tricky, as a failing CAS will send *incorrect* but *valid* information to the [PCM](../../PCMBCM/DTCCodes/DTCCodes.md#pcm-location), meaning it is unlikely to trip a [trouble code](../../PCMBCM/DTCCodes/DTCCodes.md#dtcs). Due to this, it is better to check for signs of any of the following which would at least suggest a replacement is recommended:
 
 - Age - Cars are now in excess of 20 years old at time of writing, and as such the factory sensors are unlikely to be reliable
 - Ingress - check for signs of excessive grime, oil, or similar both on the CAS housing *and* inside the plug

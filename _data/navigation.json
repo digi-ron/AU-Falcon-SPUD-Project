@@ -55,41 +55,6 @@
             ]
         },
         {
-            "title": "ECU & BCM",
-            "items": [
-                {
-                    "title": "Central Locking Key Fob",
-                    "url": "/ECUBCM/Keyfob/Keyfob.html",
-                    "items": [
-                        {
-                            "title": "Manufacturer Specific Instructions - CodeEzy",
-                            "url": "/ECUBCM/Keyfob/CodeEzy/CodeEzy.html"
-                        },
-                        {
-                            "title": "Manufacturer Specific Instructions - KEYDIY (low success rate)",
-                            "url": "/ECUBCM/Keyfob/KEYDIY/KEYDIY.html"
-                        },
-                        {
-                            "title": "Manufacturer Specific Instructions - Remocon",
-                            "url": "/ECUBCM/Keyfob/Remocon/Remocon.html"
-                        }
-                    ]
-                },
-                {
-                    "title": "DTCs & ECU Location",
-                    "url": "/ECUBCM/DTCCodes/DTCCodes.html"
-                },
-                {
-                    "title": "ECU Throttle Relearn",
-                    "url": "/ECUBCM/ECULearn/ECULearn.html"
-                },
-                {
-                    "title": "Instrument Cluster",
-                    "url": "/ECUBCM/InstrumentCluster/InstrumentCluster.html"
-                }
-            ]
-        },
-        {
             "title": "Electrical",
             "items": [
                 {
@@ -237,6 +202,41 @@
                 {
                     "title": "Tickford Vehicle Engineering (TVE) Plates (Where Fitted)",
                     "url": "/Miscellaneous/TickfordPlate/TickfordPlate.html"
+                }
+            ]
+        },
+        {
+            "title": "Powertrain Control Module (PCM, ECU Equivalent) & Body Control Module (BCM)",
+            "items": [
+                {
+                    "title": "Central Locking Key Fob",
+                    "url": "/PCMBCM/Keyfob/Keyfob.html",
+                    "items": [
+                        {
+                            "title": "Manufacturer Specific Instructions - CodeEzy",
+                            "url": "/PCMBCM/Keyfob/CodeEzy/CodeEzy.html"
+                        },
+                        {
+                            "title": "Manufacturer Specific Instructions - KEYDIY (low success rate)",
+                            "url": "/PCMBCM/Keyfob/KEYDIY/KEYDIY.html"
+                        },
+                        {
+                            "title": "Manufacturer Specific Instructions - Remocon",
+                            "url": "/PCMBCM/Keyfob/Remocon/Remocon.html"
+                        }
+                    ]
+                },
+                {
+                    "title": "DTCs & PCM Location",
+                    "url": "/PCMBCM/DTCCodes/DTCCodes.html"
+                },
+                {
+                    "title": "Instrument Cluster",
+                    "url": "/PCMBCM/InstrumentCluster/InstrumentCluster.html"
+                },
+                {
+                    "title": "Throttle Relearn",
+                    "url": "/PCMBCM/ThrottleLearn/ThrottleLearn.html"
                 }
             ]
         }

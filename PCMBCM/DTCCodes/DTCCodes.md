@@ -2,7 +2,7 @@
 description: DTC (A.K.A Diagnostic Trouble Codes), and other relevant ECU Information
 ---
 
-# DTCs & ECU Location
+# DTCs & PCM Location
 
 ## ECU Location
 

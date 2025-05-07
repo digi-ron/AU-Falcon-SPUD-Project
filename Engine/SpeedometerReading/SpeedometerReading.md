@@ -7,7 +7,7 @@ description: calculations required for changing of speedometer reading based on 
 > This information is related to the Speedometer reading, the diff ratio, the transmission reading cog, and the wheel size, and is placed in this section due to it being interconnected to multiple electrical and mechanical engines
 {: .block-note}
 
-In order to ensure accurate speedometer readings without resorting to speedometer adjuster modules or [finding and using a rare pursuit cluster](../../ECUBCM/InstrumentCluster/InstrumentCluster.md#pursuit-cluster---speedometer-calibration), the following information has been gathered in order to make any calculations required to attempt changes in the Differential, transmission gear, and the wheeel size where the speedometer is still within the manufacturers reading percentages.
+In order to ensure accurate speedometer readings without resorting to speedometer adjuster modules or [finding and using a rare pursuit cluster](../../PCMBCM/InstrumentCluster/InstrumentCluster.md#pursuit-cluster---speedometer-calibration), the following information has been gathered in order to make any calculations required to attempt changes in the Differential, transmission gear, and the wheeel size where the speedometer is still within the manufacturers reading percentages.
 
 > This information was gathered from [FordForums](../../Credits.md#sources) and [CarModder](../../Credits.md#sources) primarily, but has been reworked for manual calculation and slightly better accuracy.
 {: .block-note}

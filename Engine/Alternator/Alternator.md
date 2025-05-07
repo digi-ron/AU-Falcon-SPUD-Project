@@ -18,7 +18,7 @@ The base model AU Falcon alternator can be identified 2 main mounting bracket ho
 
 #### SPECIAL NOTE - Series 1 VS. Series 2-3
 
-While the alternators between series are all the same physical dimensions, the plug used changed as a part of the Series 1-2 facelift the model underwent, which was ultimately kept through the BA Falcon series as well. An adapter loom can be made if required as this plug is only used for signalling the [Instrument Cluster](../../ECUBCM/InstrumentCluster/InstrumentCluster.md), using the information below.
+While the alternators between series are all the same physical dimensions, the plug used changed as a part of the Series 1-2 facelift the model underwent, which was ultimately kept through the BA Falcon series as well. An adapter loom can be made if required as this plug is only used for signalling the [Instrument Cluster](../../PCMBCM/InstrumentCluster/InstrumentCluster.md), using the information below.
 
 | Plug | Product # | Series | Location | Notes |
 | --- | --- | --- | --- | --- |
