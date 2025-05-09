@@ -33,7 +33,7 @@ In order to make the replacement easier, the following equipment is recommended:
 
 1. Remove the Fuel Relay from the [Engine Bay Fuse Panel](../../Electrical/Fuses/Fuses.md#engine-bay) and crank engine until unable to start
 
-    <!-- TODO add pic -->
+    <!-- TODO add picture -->
 
 1. Jack the car up from the passenger side, and get under the car. If available, use penetrating fluid on the engine side of the filter, where the line screws into the filter.
 
