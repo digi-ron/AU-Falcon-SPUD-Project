@@ -157,6 +157,10 @@
                     ]
                 },
                 {
+                    "title": "Thermo Fans",
+                    "url": "/Engine/ThermoFan/ThermoFan.html"
+                },
+                {
                     "title": "Thermostat",
                     "url": "/Engine/Thermostat/Thermostat.html"
                 }
