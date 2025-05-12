@@ -10,6 +10,7 @@ While the AU Falcon is generally regarded as a quite reliable vehicle, there are
 
 | Fault | Series | Configurations | Notes |
 | --- | --- | --- | --- |
+| Antilock Braking System (ABS) | All | All | Sensor and module failure can cause ABS to become "hyperactive", sending excess pressure to the brake master cylinder and causing premature failure |
 | [Air Conditioner Controls](../../Electrical/ACControls/AC-S1.md) | S1 | All | issues known of [solder joints cracking behind AC/AC Max buttons](../../Electrical/ACControls/AC-S1.md#repairing-solder-connections-on-the-ac-and-ac-max-buttons) and easily broken plastic dials |
 | [Alternator](../../Engine/Alternator/Alternator.md) | All | I6 motor models | Prone to oil and power steering fluid ingress |
 | Ball Joints | All | All | prone to wearing out, however simple to replace using a bearing tool |
