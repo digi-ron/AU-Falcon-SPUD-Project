@@ -31,4 +31,5 @@ While the AU Falcon is generally regarded as a quite reliable vehicle, there are
 | Suspension Bushes (Front) | All | All | upper and lower control arm bushes not necessarily prone to failure, but makes excessive noise when failed. Recommended to replace with heavy duty or polyurethane bushes, or to replace control arm if ball joints also worn |
 | Suspension Bushes (Rear) | All | IRS Optioned  models | IRS bushes are likely to fail over time, similar to the B-series counterparts which came with IRS as standard |
 | Thermostat Housing | All | I6 motor models | likely to leak through gap between top pipe end and housing end. Various causes known, most common being uneven mounting surfaces on thermostat installation |
+| VCT Solenoid | All | VCT motor models | Solenoids fail due to wearing and will no longer actuate, replacements hard to find |
 | Water Pump | All | All | While OEM water pump is known good for an average of 200,000kms, aftermarket water pumps from reputable manufacturers have been known to have issues with bearing fitment and a weak plastic pulley wheel |
