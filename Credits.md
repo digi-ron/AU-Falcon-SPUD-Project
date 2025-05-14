@@ -51,13 +51,13 @@ description: "Credits"
 - [TJM](https://www.tjm.com.au/)
   > Customer support was super responsive and sent me through all the info they had on a nudge bar they probably haven't thought about for the best part of 20 years, within 24hrs
 - [BTA](https://btatowbars.com/) / [TBA](https://www.towbarsaustralia.com.au/)
-  > BTA Towbars & Hitches for manufacturing a sub $1,000 hitch receiver towbar for a 25 year old Sedan, and Towbars Australia for supplying it at a bit of a discount while still having ripper customer service
+  > BTA Towbars & Hitches for manufacturing a sub $1,000 hitch receiver towbar for a 27 year old Sedan, and Towbars Australia for supplying it at a bit of a discount while still having good customer service
 
 ## Wall of Shame - Information gatekeepers and time wasters
 {: .bad-highlight}
 
 - [RemotePro](https://www.remotepro.com.au/)
-  > Took an 8 day email chain to organize a refund because they clearly didn't program Smartlock remotes with the right codes, with them flat-out ignoring a question on if they had the configuration on hand so it could be fixed without sending it back. Poor experience led to the remote being returned, and other locksmiths later confirmed that the specific SKU of remotes were unreliable.
+  > Took an 8 day email chain to organize a refund because they clearly didn't program Smartlock remotes with the right codes, with them flat-out ignoring a question on if they had the configuration on hand so it could be fixed without sending it back. Poor experience led to the remote being returned, and other locksmiths later confirmed that the [specific SKU of remotes were unreliable](./PCMBCM/Keyfob/KEYDIY/KEYDIY.md#caveats).
 
 - [Ford Australia Customer Support](mailto:foacust1@ford.com)
   > Sent an email 08/10/24 asking for keyfob information
@@ -82,16 +82,16 @@ description: "Credits"
 
 ## About the Author (And SPUD Project Lore)
 
-Hi, my name's Ronnie, and I've always been a fan of the AU Falcon since I was young and the AUs were near-new. For me, it started when Dad got a white Forte Wagon that lasted nearly 500,000kms while towing a 2 tonne trailer when I was a kid. That car only got taken off the road because the rear-end needed significant work to pass a NSW Roadworthy, and it was a bush bomb for a little while but we had to get rid of it for money eventually.
+Hi, my name's Ronnie, and I've been a fan of the AU Falcon since I was young and the AUs were new-ish. For me, it started when Dad got a white Forte Wagon that lasted nearly 500,000kms while towing a 2 tonne trailer when I was a kid. That car only got taken off the road because the rear-end needed significant work to pass a NSW Roadworthy, and it was a bush bomb for a little while but we had to get rid of it for money eventually.
 
-Flash-forward to 2018 and I was very keen to upgrade from my first car, a wrecker-sold 1995 Ford Festiva Trio which was costing me half as much in oil as fuel and putting me $1,000 down each year for NSW roadworthy repairs. And there it was, a Series 3 SR Wagon in Venom Red, 150,000-ish kms on the clock and logbook servicing all the way through. Needless to say I snapped it up the moment I took it for a test drive and haggled with the dealer, and it's been mostly bliss since (barring some factory parts turning to dust and the damn high pressure steering line)
+I started my ownership of AUs in 2018, upgrading from a very tired 1995 Ford Festiva Trio that was costing me more each year than I paid for the car in the first place just to keep it on the road. And in my search I found it, a Series 3 SR Wagon in Venom Red, 150,000-ish kms on the clock and logbook servicing all the way through. A test drive and a little haggling with a used car dealer later and it was mine, and it's been mostly bliss since (barring some factory parts turning to dust and the damn high pressure steering line)
 
-The more I looked into "off the reserve" repairs and modifications to Falcons, the more I realized that the few sites that ever had information on these models were "drying up", with links that went nowhere, posts no newer than 2010 with anything useful in them, and one site that kept trying to redirect me to some kind of scam, despite having actual content on there once you block all the popups and crap. I tried 3 different workshop manuals, and still had questions on a few things not covered by any of them, and admittedly, things were getting a bit hopeless.
+The more I looked into more obscure repairs and mods to Falcons, the more I realized that the few sites (mostly forums) that ever had information on these models were basically dead (links to nowhere, 2010 posts with no good info left, one site that kept redirecting to scam ads). After all those sites, a couple of Facebook groups, and 3 workshop manuals, I still had questions on some stuff not covered anywhere, and I was running out of options that wouldn't risk my daily driver.
 
-Refusing defeat but wanting to keep my SR usable as a daily, I got a Series 1 Forte Sedan from a mate for cheap. The car had a known rough history from at least one negligent owner, and she'd been sitting out in the weather doing nothing for months at a time, but she ran, and that was enough for me.
+Wanting to learn without the risk of losing my main set of wheels, I got a Series 1 Forte Sedan from a mate for cheap. The car looked rough, ran rough, and had a rough history from at least one bad owner, and she'd been sitting out in the weather doing nothing for months at a time, but she ran.
 
 April 11th 2024, The SPUD Project was born.
 
-I have no mechanical background, I'm a web developer by trade and the only reason I know my way around a toolbox is thanks to the fact Dad used to be an engineer and I like learning new things. I learned half the stuff I know about Falcons fixing and modifying my own AUs and working on my family and friends' AU-FGX Falcons (and an SX Territory which is just a lifted Falcon anyways). I published this site on the wider net in case anyone else needs some of the weird info from the rabbit holes I went down, because I can say with 100% certainty that there is a few things in here that you couldn't hope to find in the usual suspect sites. A good portion of the information is electrical in nature, this is simply down to a mix of my skillset and how much better documented mechanical repairs for this model are (where I had nothing to add).
+I have no mechanical background, I'm a web developer by trade and the only reason I can use tools is due to my Dad being an ex-engineer. I'm happy to jump into research rabbit-holes, and the cars I've helped with and worked on have mostly been AU-FGX Falcons. I published this site on the wider net in case anyone else needs some of the weird info I'm finding/making, hopefully it helps and there's some good info here for everyone interested.
 
 <center>Enjoy :)</center>
