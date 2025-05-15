@@ -31,27 +31,30 @@ The ABS Sensors are the sensors which measure the speed of the wheels on the veh
 
 ## Disabling the ABS
 
-In some circumstances, it may be beneficial to disable and remove the ABS functionality from the car. Common reasons include track use and to bypass [known issues with the ABS](../../Miscellaneous/CommonFaults/CommonFaults.md#common-faults).
+In some circumstances, it may be beneficial to disable and remove the ABS functionality from the car. Common reasons include track use and to bypass [known issues with the ABS](../../Miscellaneous/CommonFaults/CommonFaults.md#common-faults) where it is not viable to repair the system.
 
-> Disabling the ABS is *not* a recommended action. Please proceed at your own risk
+> Disabling the ABS is *not* a recommended action, and depending on your local laws, may be seen as disabling a vital safety feature. Please proceed at your own risk
 {: .block-warning}
 
 In order to disable the ABS, follow the steps according to the conditions in the below table:
 
-<!-- TODO add additional links -->
-
 | Condition | Instructions |
 | --- | --- |
 | Headlights not required | [Remove the ABS Fuse](#remove-the-abs-fuse) |
-| Headlights required, permanently disable | [Remove a front ABS Sensor](#remove-a-front-abs-sensor) |
-| Headlights required, temporary disable | [Remove the ABS Module plug](#remove-the-abs-module-plug) |
+| Headlights required, long-term disable | [Remove a front ABS Sensor](#remove-a-front-abs-sensor) |
+| Headlights required, short-term disable | [Remove the ABS Module plug](#remove-the-abs-module-plug) |
 
 ### Remove the ABS Fuse
 
 <!-- TODO add pictures -->
 
+1. Disconnect the battery
 1. Open the [Engine Cabin Fuse](../../Electrical/Fuses/Fuses.md#engine-bay)
 1. Undo the 2 clips holding the inner fuse panel in and lift the assembly from the fuse box
+
+    > Be gentle when removing the inner fuse panel, as wires for each fuse in the panel are connected to the bottom.
+    {: .block-note}
+
 1. Carefully undo and remove the 8mm bolt holding the passenger side of the ABS fuse to the inner assembly.
 
     > Removing the Low Headlight, fuel and Fan #2 relays can assist in access to this bolt. Removal of this bolt with a phillips head screwdriver is not recommended as the phillips head is likely to round out.
