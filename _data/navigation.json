@@ -243,6 +243,10 @@
                     "url": "/PCMBCM/InstrumentCluster/InstrumentCluster.html"
                 },
                 {
+                    "title": "PCM Catch Codes",
+                    "url": "/PCMBCM/CatchCodes/CatchCodes.html"
+                },
+                {
                     "title": "Throttle Relearn",
                     "url": "/PCMBCM/ThrottleLearn/ThrottleLearn.html"
                 }
