@@ -15,6 +15,7 @@ description: "Credits"
 - [AliExpress](https://www.aliexpress.com/)
 - [Auto Parts Supply](https://www.autopartssupply.com.au/)
 - [Automotive Catalogue](https://www.automobile-catalog.com)
+- [Bullet Performance Racing](https://web.archive.org/web/20231112162510/https://www.bulletperformanceracing.com.au/EEC%20Data%20Base.html#AUFalcon) (via the [Wayback Machine](#special-thanks---information-sharers-and-timesavers))
 - [Bunnings](https://www.bunnings.com.au)
 - [CarModder](https://www.carmodder.com)
 - [CodeEzy](https://codeezy.com.au/)
@@ -46,18 +47,17 @@ description: "Credits"
 
 - [ASL Automedia](https://www.aslautomedia.com.au/)
   > Confirmed the [well-known serial number decoding rumour](./Audio/HeadUnit/HeadUnit.md#security-code) for the OEM head units to be false by explaining the method with which they retrieve codes using their paid service
+- [BTA](https://btatowbars.com/) / [TBA](https://www.towbarsaustralia.com.au/)
+  > BTA Towbars & Hitches for manufacturing a sub $1,000 hitch receiver towbar for a 27 year old Sedan, and Towbars Australia for supplying it at a bit of a discount while still having good customer service
 - [Hayman Reese](https://haymanreese.com.au/)
   > Was more than happy to send through a manual for a towbar I was considering from a wreckers, even though they stood to gain nothing but good karma from it
 - [TJM](https://www.tjm.com.au/)
   > Customer support was super responsive and sent me through all the info they had on a nudge bar they probably haven't thought about for the best part of 20 years, within 24hrs
-- [BTA](https://btatowbars.com/) / [TBA](https://www.towbarsaustralia.com.au/)
-  > BTA Towbars & Hitches for manufacturing a sub $1,000 hitch receiver towbar for a 27 year old Sedan, and Towbars Australia for supplying it at a bit of a discount while still having good customer service
+- [Wayback Machine by Internet Archive](https://web.archive.org/)
+  > For existing, as many pages with important information would be lost to time otherwise
 
 ## Wall of Shame - Information gatekeepers and time wasters
 {: .bad-highlight}
-
-- [RemotePro](https://www.remotepro.com.au/)
-  > Took an 8 day email chain to organize a refund because they clearly didn't program Smartlock remotes with the right codes, with them flat-out ignoring a question on if they had the configuration on hand so it could be fixed without sending it back. Poor experience led to the remote being returned, and other locksmiths later confirmed that the [specific SKU of remotes were unreliable](./PCMBCM/Keyfob/KEYDIY/KEYDIY.md#caveats).
 
 - [Ford Australia Customer Support](mailto:foacust1@ford.com)
   > Sent an email 08/10/24 asking for keyfob information
@@ -79,6 +79,9 @@ description: "Credits"
   > Actually useless for ***ANYTHING***
   >
   > ---
+
+- [RemotePro](https://www.remotepro.com.au/)
+  > Took an 8 day email chain to organize a refund because they clearly didn't program Smartlock remotes with the right codes, with them flat-out ignoring a question on if they had the configuration on hand so it could be fixed without sending it back. Poor experience led to the remote being returned, and other locksmiths later confirmed that the [specific SKU of remotes were unreliable](./PCMBCM/Keyfob/KEYDIY/KEYDIY.md#caveats).
 
 ## About the Author (And SPUD Project Lore)
 
