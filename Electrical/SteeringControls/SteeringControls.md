@@ -9,6 +9,11 @@ The steering wheel controls for the AU falcon are one of the most fragile parts 
 > This page uses a model of AU Falcon that has both Cruise Control and Media Buttons fitted, some controls may not be present depending on your models options
 {: .block-note}
 
+## IMPORTANT NOTE
+
+While there is no difference between the steering controls on AU Falcons/Fairlanes and between Series 1-3 vehicles, Automatic transmission T-series models (TS50, TE50, TL50) included Electronic Sports Shift (ESS) buttons towards the top of the steering wheel. The connections for these replaced the [Media buttons](#media-control-side) and cannot be easily adapted to lower models. No further information is know due to lack of resources.
+{: .block-note}
+
 ## Plug Type
 
 The 2 connectors for the Steering wheel controls (other than the blade style horn connector) were originally manufactured by a company known as Delphi as part of the 150 Series of Connectors. While the manufacturer is now known as Aptiv, the following product codes are still relevant, and can be purchased from online marketplaces such as [AliExpress](../../Credits.md#sources)
