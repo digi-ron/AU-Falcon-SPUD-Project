@@ -8,15 +8,15 @@ Below is a table with catch codes and known configurations said catch codes are 
 
 ## Notes
 
-- The table on this page was collated from multiple sources such as [FordForums](../../Credits.md#sources) and [Bullet Performance Racing](../../Credits.md#sources) and is considered ***incomplete indefinitely***
+- The table on this page was collated from multiple sources such as [FordForums](../../../Credits.md#sources) and [Bullet Performance Racing](../../../Credits.md#sources) and is considered ***incomplete indefinitely***
 - When swapping PCMs note that there are 3 main types that are *mostly* interchangeable:
     - S1 - All original Smartlock 1998 or early 1999 build AU Falcons
     - S1.5 - Smartshield Immobilizer with S1 sensors, generally the hardest subset of PCMs to find
     - S2-3 - Smartshield Immobilizer with S2/3 sensors, later revisions preferred but changes are iterative
 - Some (unconfirmed) rules to discern information about the catch codes is below:
-    - The first letter is related to year of manufacture, similar to the [VIN Characters for date of manufacture](../../Miscellaneous/VIN/VIN.md#characters-11-12---manufacture-date). For this reason W*** and X*** codes are likely S1 PCMs, and 1*** and 2*** are S2/3 PCMs
+    - The first letter is related to year of manufacture, similar to the [VIN Characters for date of manufacture](../../../Miscellaneous/VIN/VIN.md#characters-11-12---manufacture-date). For this reason W*** and X*** codes are likely S1 PCMs, and 1*** and 2*** are S2/3 PCMs
     - The second and third letter may be related to specific options fitted, but no consistent pattern has been found as yet
-    - The final letter is the revision of the software on the PCM, e.g. a WABA and a WABF PCM are the same barring some bugfixes applied by [Ford](../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters)
+    - The final letter is the revision of the software on the PCM, e.g. a WABA and a WABF PCM are the same barring some bugfixes applied by [Ford](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters)
 
 ## Catch Code Table
 
