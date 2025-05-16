@@ -239,7 +239,7 @@
                     ]
                 },
                 {
-                    "title": "DTCs & PCM Location",
+                    "title": "DTCs (Diagnostic Trouble Codes)",
                     "url": "/PCMBCM/DTCCodes/DTCCodes.html"
                 },
                 {
@@ -247,8 +247,14 @@
                     "url": "/PCMBCM/InstrumentCluster/InstrumentCluster.html"
                 },
                 {
-                    "title": "PCM Catch Codes",
-                    "url": "/PCMBCM/CatchCodes/CatchCodes.html"
+                    "title": "PCM (Powertrain Control Module)",
+                    "url": "/PCMBCM/PCM/PCM.html",
+                    "items": [
+                        {
+                            "title": "PCM Catch Codes",
+                            "url": "/PCMBCM/PCM/CatchCodes/CatchCodes.html"
+                        }
+                    ]
                 },
                 {
                     "title": "Throttle Relearn",
