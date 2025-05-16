@@ -207,22 +207,6 @@ These characters define the year and month respectively that the car was manufac
 
 The final 5 characters are a unique serial number to identify the car. The only known rules about these characters is that they should all be numeric, and that they *should* be printed sequentially, meaning that in theory you *could* more accurately determine manufacture date assuming you had a vast amount of VINs from the same month/year
 
----
+#### Characters 7-17 - Engine Number
 
-### Engine Number
-
-To ensure that you have the matching engine to the original chassis, you can check the number stamped into the engine block to determine if it matches the Body. The engine number is the last section of the VIN, explained below:
-
-> The engine number should match the last 11 digits of the VIN on the body and VIN plate on the car, e.g. the following VIN:
-> 
-> `6FPAAAJGSWYB12345`
->
-> Should have the following engine number:
->
-> `JGSWYB12345`
-{: .block-note}
-
-The Engine number should also be locatable on the rear lower section of the engine block, on the exhaust side near the bell housing mount for the transmission
-
-> Due to age, the engine number may be hard to ascertain, as the area the number is dot-matrix stamped onto is prone to long-term surface rust. rubbing flour over it can make damaged numbers more legible if damage is minor, but moderate to severe rust will render it unreadable
-{: .block-note}
+The combination of the ["JG"](#characters-7-8---jg), [Manufacture Date Characters](#characters-11-12---manufacture-date) and [Serial Number](#characters-13-17---serial-number) make up the engine number that should be found to be matching on the engine block. For more information, see the [Engine Number](../../Engine/EngineNumber/EngineNumber.md) page
