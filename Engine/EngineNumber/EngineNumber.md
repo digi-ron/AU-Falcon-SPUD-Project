@@ -22,10 +22,10 @@ To ensure that you have the matching engine to the original chassis, you can che
 The Engine number is located on a piece of cast metal, on the driver side of the engine block, on the front of the transmission mating surface. It is dot-matrix stamped in and may require a bit of cleaning to see properly due to age and condition of the vehicle. Cleaning the surface with degreaser is an easy first step, but failing this the best known methods are to use either flour or chalk to attempt to make the lettering more legible.
 
 ![Engine Number Location](./engine-number-location.jpg)
-> Engine number location in the engine bay
+> Engine number location within the engine bay
 
 ![Engine Number pre-clean](./engine-number-orig.jpg)
-> Engine number close-up, before cleaning. The model pictured is a S1 so newer models may have less rust/dust/grime.
+> Engine number close-up, before cleaning. Other models may have more or less rust/dust/grime depending on condition. For reference this is a 
 
 ![Engine Number post-clean](./engine-number-cleaned.jpg)
 > Engine number, after cleaning with degreaser and a workshop rag
