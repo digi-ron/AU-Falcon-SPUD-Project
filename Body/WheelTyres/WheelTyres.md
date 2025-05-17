@@ -21,7 +21,7 @@ use the below table as a reference for wheel sizes that should fit all models of
 | 225/50R17 | 657mm | Fairmont GHIA |
 | 225/60R16 | 677mm | Fairlane GHIA |
 
-## General Notes - How to Read Tyre Zizes
+## General Notes - How to Read Tyre Sizes
 
 using the example of 205/65R15:
 
