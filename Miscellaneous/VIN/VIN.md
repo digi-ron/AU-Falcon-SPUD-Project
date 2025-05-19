@@ -75,10 +75,12 @@ This section shows you the month and year that the car was assembled, in the for
 The Vehicle Identification Number is the most uniquely identifying number on the vehicle, as is required for registration and compliance reasons. The VIN can be decoded to determine some basic characteristics of the vehicle, and in some cases can be used to ensure that the VIN supplied in a sale or registration situation matches what should be associated with the car.
 
 <div class="printHide">
+    <hr/>
     <h4>VIN Parser</h4>
     <p>Use the link below to view an interactive tool that can help with decoding basic information on an AU Falcon based on the VIN number</p>
     <blockquote class="block-note">JavaScript is required to use this calculator!</blockquote>
     <a href="./VINDecoder.html">VIN Decoder</a>
+    <hr/>
 </div>
 
 Information in order to manually discern basic vehicle information from the VIN is detailed below:
@@ -112,28 +114,28 @@ these characters appear to signify the body style for the Falcon. Note that this
 - SW - Short Wheel Base
   - Fairmont Sedan
   - Fairmont Ghia Sedan
-  - XR6 Sedan
-  - XR8 Sedan
-  - Futura Sedan
-  - Forte Sedan
   - Falcon S/SR Sedan
+  - Forte Sedan
+  - Futura Sedan
   - TS50
   - TE50
+  - XR6 Sedan
+  - XR8 Sedan
 - LW - Long Wheel Base
   - Fairlane Sedan
   - Fairlane Ghia Sedan
   - Fairlane LTD
   - TL50
 - WA - Wagon
-  - Forte Wagon
-  - Futura Wagon
   - Fairmont Wagon
   - Falcon S/SR Wagon
+  - Forte Wagon
+  - Futura Wagon
 - CM = Commercial
-  - XR6 Ute
-  - XR8 Ute
   - XL Ute
   - XLS Ute
+  - XR6 Ute
+  - XR8 Ute
 
 #### Characters 11-12 - Manufacture Date
 These characters define the year and month respectively that the car was manufactured. Use the list below of values to determine the code for the vehicle, based on the format below:
