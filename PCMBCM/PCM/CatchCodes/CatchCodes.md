@@ -9,7 +9,7 @@ Below is a table with catch codes and known configurations said catch codes are 
 ## Notes
 
 - The table on this page was collated from multiple sources such as [FordForums](../../../Credits.md#sources) and [Bullet Performance Racing](../../../Credits.md#sources) and is considered ***incomplete indefinitely***
-- When swapping PCMs note that there are 3 main types that are *mostly* interchangeable:
+- When swapping PCMs note that there are 3 main types that are *mostly* interchangeable (assuming same engine/transmission):
     - S1 - All original Smartlock 1998 or early 1999 build AU Falcons
     - S1.5 - Smartshield Immobilizer with S1 sensors, generally the hardest subset of PCMs to find
     - S2-3 - Smartshield Immobilizer with S2/3 sensors, later revisions preferred but changes are iterative
@@ -168,7 +168,7 @@ Below is a table with catch codes and known configurations said catch codes are 
 | `WAKA` | | Automatic | I6 | |
 | `WAKB` | | Automatic | I6 | |
 | `WAKC` | | Automatic | I6 | |
-| `WAKD` | S1* | Automatic | I6 | Smartshield S1 |
+| `WAKD` | S1* | Automatic | I6 | Smartshield |
 | `WALA` | S1 | Automatic | V8 | Fairlane V8 |
 | `WALB` | S1 | Automatic | V8 | Fairlane V8 |
 | `WALC` | S1 | Automatic | V8 | Fairlane V8 |
