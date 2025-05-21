@@ -70,4 +70,5 @@ Please see the table below for shared parts:
 | Weathershields (Front) | AU-BFIII | Aftermarket or OEM inclusive |
 | Weathershields (Rear) | AU-BFIII | Aftermarket only as OEM part not manufactured. Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Wheel Centre Caps | XA-FGX | Only applies to Interceptor style "Steelie" wheels, not included from factory in some models but fits all 5x114.3 PCD steel wheels |
-| Wheels | AU-FGX | Only applies to 16" or above wheels |
+| [Wheel Lug Nuts](../../Body/WheelTyres/WheelTyres.md#other-notable-information) | XD-FGX | 1/2" UNF 40mm TL |
+| Wheels | AU-FGX | Only applies to 16" or above wheels, pre-AU wheels have interfering offset |
