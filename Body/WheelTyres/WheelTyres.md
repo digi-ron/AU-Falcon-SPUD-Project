@@ -47,7 +47,7 @@ Success has been reported using wheels up to and including the 18x9.5 sizing, as
 ## Other notable information
 
 - PCD: 5x114.3
-- Thread: 1/2"
+- Lug Nut Information: 1/2" UNF Thread with approx. 40mm TL
 
 ## Wheel Dust Covers
 
