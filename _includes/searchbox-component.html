@@ -1,0 +1,34 @@
+<div class="printHide" style="position:relative">
+<input type="search" id="search" placeholder="Search for a page...">
+<br />
+<div id="searchResults" style="position:absolute; width:100%"></div>
+<script>
+    const searchInput = document.getElementById("search");
+    const searchResultsContainer = document.getElementById("searchResults");
+    searchInput.addEventListener("blur", function() {
+    setTimeout(() => {
+        searchResultsContainer.innerHTML = "";
+    }, 200);
+    })
+    searchInput.addEventListener("input", function() {
+    searchResultsContainer.innerHTML = "";
+    if (searchInput.value.length < 2) {
+        return;
+    }
+    const searchText = searchInput.value.toLowerCase();
+    const results = pages.filter(page => {
+        return page.title.toLowerCase().includes(searchText.toLowerCase());
+    });
+    results.forEach(e => {
+        const resultElm = document.createElement("div");
+        resultElm.classList.add("searchResult");
+        resultElm.textContent = e.title;
+        resultElm.addEventListener("click", function() {
+        window.location.href = e.url;
+        });
+        searchResultsContainer.appendChild(resultElm);
+    })
+    })
+</script>
+</div>
+<hr />

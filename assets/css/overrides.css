@@ -126,6 +126,26 @@ h1 {
     display: none;
 }
 
+#search {
+    width: 100%;
+    margin: auto;
+}
+
+.searchResult {
+    cursor: pointer;
+    background-color: lightgrey;
+    color: black;
+    width: 100%;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+    z-index: 10;
+    padding: 5px;
+}
+
+.searchResult:hover {
+    background: darkgray;
+    color: black;
+}
+
 @media print {
     html, body, footer, table, th, td {
         background: white;

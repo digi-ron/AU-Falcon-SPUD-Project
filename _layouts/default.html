@@ -81,6 +81,9 @@
         }
       });
     </script>
+    {% if page.hideSearch != true %}
+      {% include searchbox-script.html %}
+    {% endif %}
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
@@ -95,9 +98,14 @@
       </div>
       {% endif %}
 
+      {% if page.hideSearch != true %}
+        {% include searchbox-component.html %}
+      {% endif %}
+
       <p class="h1">{{ page.title }}</p>
 
       {% if page.hideTOC != true %}
+      
       <div id="tableOfContents" class="printHide">
         <div id="toc"></div>
         <noscript><p class="block-warning">Enable JavaScript to use the table of contents</p></noscript>
