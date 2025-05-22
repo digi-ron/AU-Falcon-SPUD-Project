@@ -4,9 +4,9 @@
     <div id="searchResultsSection">
         {% for firstItem in site.data.navigation.mainNav %}
             {% for secondItem in firstItem.items %}
-                <div class="searchResult" onclick="window.location.href='{{ secondItem.url | relative_url }}'">{{ secondItem.title }}</div>
+                <a href="{{ secondItem.url | relative_url }}"><div class="searchResult">{{ secondItem.title }}</div></a>
                 {% for thirdItem in secondItem.items %}
-                    <div class="searchResult" onclick="window.location.href='{{ thirdItem.url | relative_url }}'">{{ thirdItem.title }}</div>
+                    <a href="{{ thirdItem.url | relative_url }}"><div class="searchResult">{{ thirdItem.title }}</div></a>
                 {% endfor %}
             {% endfor %}
         {% endfor %}
