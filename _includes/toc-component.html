@@ -1,0 +1,54 @@
+<div id="tableOfContents" class="printHide">
+    <div id="toc"></div>
+    <noscript><p class="block-warning">Enable JavaScript to use the table of contents</p></noscript>
+    <hr/>
+</div>
+
+<script>
+    function tocGenerator(level, heading) {
+    const items = [];
+    const output = document.createElement("li");
+    let focusElm = output;
+    for(let i = 1; i <= level; i++) {
+        if (i < level) {
+        const ul = document.createElement("ul");
+        const li = document.createElement("li");
+        ul.appendChild(li);
+        focusElm.appendChild(ul);
+        focusElm.style.listStyleType = "none";
+        focusElm = li;
+        }
+    }
+
+    const link = document.createElement("a");
+    link.href = "#" + heading.id;
+    link.textContent = heading.textContent;
+    focusElm.appendChild(link);
+
+    return output;
+
+    }
+
+    document.addEventListener("DOMContentLoaded", function() {
+    const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
+
+    if (headings.length > 0 && document.getElementById("toc")) {
+        const breakline = document.createElement("hr");
+        breakline.classList.add("printHide");
+        document.getElementById("toc").appendChild(breakline);
+        const tocTitle = document.createElement("p");
+        tocTitle.textContent = "Table of Contents";
+        tocTitle.classList.add("toc-title");
+        document.getElementById("toc").appendChild(tocTitle);
+        const toc = document.createElement("ul");
+        headings.forEach(heading => {
+            const toplevelli = document.createElement("li");
+            const level = parseInt(heading.tagName[1]);
+            const tocItem = tocGenerator(level, heading);
+            toc.appendChild(tocItem);
+        });
+
+        document.getElementById("toc").appendChild(toc);
+    }
+    });
+</script>
