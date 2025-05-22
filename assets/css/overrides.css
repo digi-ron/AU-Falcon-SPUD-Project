@@ -131,6 +131,12 @@ h1 {
     margin: auto;
 }
 
+#searchResultsSection {
+    position:absolute;
+    width:100%;
+    display:none;
+}
+
 .searchResult {
     cursor: pointer;
     background-color: lightgrey;
