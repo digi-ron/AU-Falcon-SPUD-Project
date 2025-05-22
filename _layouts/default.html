@@ -33,66 +33,20 @@
 
       gtag('config', 'G-BF2Q486ESN');
     </script>
-    <script>
-      function tocGenerator(level, heading) {
-        const items = [];
-        const output = document.createElement("li");
-        let focusElm = output;
-        for(let i = 1; i <= level; i++) {
-          if (i < level) {
-            const ul = document.createElement("ul");
-            const li = document.createElement("li");
-            ul.appendChild(li);
-            focusElm.appendChild(ul);
-            focusElm.style.listStyleType = "none";
-            focusElm = li;
-          }
-        }
-
-        const link = document.createElement("a");
-        link.href = "#" + heading.id;
-        link.textContent = heading.textContent;
-        focusElm.appendChild(link);
-
-        return output;
-
-      }
-
-      document.addEventListener("DOMContentLoaded", function() {
-        const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
-
-        if (headings.length > 0 && document.getElementById("toc")) {
-          const breakline = document.createElement("hr");
-          breakline.classList.add("printHide");
-          document.getElementById("toc").appendChild(breakline);
-          const tocTitle = document.createElement("p");
-          tocTitle.textContent = "Table of Contents";
-          tocTitle.classList.add("toc-title");
-          document.getElementById("toc").appendChild(tocTitle);
-          const toc = document.createElement("ul");
-            headings.forEach(heading => {
-              const toplevelli = document.createElement("li");
-              const level = parseInt(heading.tagName[1]);
-              const tocItem = tocGenerator(level, heading);
-              toc.appendChild(tocItem);
-          });
-
-          document.getElementById("toc").appendChild(toc);
-        }
-      });
-    </script>
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <p class="printHide maintitle"><a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a></p>
+        <p class="printHide maintitle">
+          <a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a>
+        </p>
       {% endif %}
 
       {% if page.hidePrint != true %}
-      <div class="printHide">
-        <button style="margin: 0 auto; display:block;" id="printbutton" onclick="window.print()">🖨 print this page</button>
-        <br />
-      </div>
+        <div class="printHide">
+          <button style="margin: 0 auto; display:block;" id="printbutton" onclick="window.print()">🖨 print this page</button>
+          <br />
+        </div>
       {% endif %}
 
       {% if page.hideSearch != true %}
@@ -102,12 +56,7 @@
       <p class="h1">{{ page.title }}</p>
 
       {% if page.hideTOC != true %}
-      
-      <div id="tableOfContents" class="printHide">
-        <div id="toc"></div>
-        <noscript><p class="block-warning">Enable JavaScript to use the table of contents</p></noscript>
-        <hr/>
-      </div>
+        {% include toc-component.html %}
       {% endif %}
 
       {{ content }}
@@ -121,7 +70,6 @@
     <hr />
     <hr />
     <br />
-
     <table class="container-lg">
       <tr>
         <td>
@@ -143,16 +91,7 @@
     </table>
     <hr/>
     <br/>
-    <div id="paypal">
-      <form action="https://www.paypal.com/donate" method="post" target="_blank">
-        <input type="hidden" name="business" value="W7J42EFE4AW88">
-        <input type="hidden" name="no_recurring" value="0">
-        <input type="hidden" name="item_name" value="Ronnie's Beer Fund - Project SPUD">
-        <input type="hidden" name="currency_code" value="AUD">
-        <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button">
-        <!-- <img alt="" border="0" src="https://www.paypal.com/en_AU/i/scr/pixel.gif" width="1" height="1" bhwcdvln7=""> -->
-      </form>
-    </div>
+    {% include paypal-donate.html %}
     <br />
     <hr />
   </footer>
