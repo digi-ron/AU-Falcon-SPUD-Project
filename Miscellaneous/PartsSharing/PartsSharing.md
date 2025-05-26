@@ -11,7 +11,7 @@ Please see the table below for shared parts:
 > The below table is incomplete and will be updated as more parts are discovered. Parts may also be slightly inaccurate, e.g. parts will bolt on but may need slight grinding or cutting to make fitting completely possible (e.g. for cable clearances). All parts listed have been measured up, but not all have been fitted to confirm entirely
 {: .block-note}
 
-> All engine components assume Alloy/SOHC/Intech/Barra 4L Inline 6 motors, as such no research has been done for any diesel or V8 variants of the listed model codes. Please do your own due diligence before buying or attempting to fit parts.
+> All engine components assume Alloy/SOHC/Intech/Barra Inline 6 motors, as such no research has been done for any diesel or V8 variants of the listed model codes. Please do your own due diligence before buying or attempting to fit parts.
 {: .block-note}
 
 ## Parts Sharing Table
@@ -72,3 +72,31 @@ Please see the table below for shared parts:
 | Wheel Centre Caps | XA-FGX | Only applies to Interceptor style "Steelie" wheels, not included from factory in some models but fits all 5x114.3 PCD steel wheels |
 | [Wheel Lug Nuts](../../Body/WheelTyres/WheelTyres.md#other-notable-information) | XD-FGX | 1/2" UNF 40mm TL |
 | Wheels | AU-FGX | Only applies to 16" or above wheels, pre-AU wheels have interfering offset |
+
+### Model Codes
+
+> All Models are in chronological order, from oldest to newest
+
+| Model | Code | Years |
+| --- | --- | --- |
+| Falcon | XA | 1972-1973 |
+| Falcon | XB | 1973-1976 |
+| Falcon | XC | 1976-1979 |
+| Falcon | XD | 1979-1982 |
+| Falcon | XE | 1982-1984 |
+| Falcon | XF | 1984-1988 |
+| Falcon | EA | 1988-1991 |
+| Falcon | EB | 1991-1993 |
+| Falcon | ED | 1993-1994 |
+| Falcon (Commercial) | XG | 1993-1996 |
+| Falcon | EF | 1994-1996 |
+| Falcon | EL | 1996-1998 |
+| Falcon (Commercial) | XH | 1996-1999 |
+| Falcon | AU | 1999-2002 |
+| Falcon | BA | 2002-2005 |
+| Territory | SX | 2004-2005 |
+| Falcon | BF | 2005-2008 |
+| Territory | SY | 2005-2011 |
+| Falcon | FG | 2008-2014 |
+| Territory | SZ | 2011-2016 |
+| Falcon | FG X | 2014-2016 |
