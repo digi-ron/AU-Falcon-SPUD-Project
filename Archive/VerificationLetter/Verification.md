@@ -19,7 +19,7 @@ If you believe you have a rare trim of Ford Falcon and would like more informati
 
 Once your ticket has been processed, you will likely receive a email containing a verification letter in PDF format. Requests usually take 2 weeks:
 
-![Verification Letter Screenshot](./verification-letter.jpg)
+![Verification Letter Screenshot](./verification-letter.png)
 
 > Screenshot of a verification letter request in 2021, with all identifiable information blanked out. Note this is for a AUIII SR Station Wagon, as the 1998 Ford Falcon Forte used throughout the rest of this project is yet to have a verification letter received.
 
