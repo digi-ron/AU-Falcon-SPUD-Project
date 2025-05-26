@@ -13,6 +13,8 @@ lang: en-AU
 trueroot: "https://digi-ron.github.io"
 domain: "https://digi-ron.github.io/AU-Falcon-SPUD-Project/"
 
+# custom variables
+feedback_link: "https://forms.gle/LjtA2fR2T1C6BPq96"
 vehicle: "1999, 2000, 2001, and 2002 Ford Falcon AU"
 
 # Build settings
@@ -21,6 +23,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
+# exclude build files
 exclude:
   - README.md
   - Gemfile
@@ -30,6 +33,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+# set layouts for all md files
 defaults:
   - scope:
       path: "*.md"
