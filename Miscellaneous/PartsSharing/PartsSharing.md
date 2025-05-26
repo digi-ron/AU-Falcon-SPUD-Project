@@ -11,7 +11,7 @@ Please see the table below for shared parts:
 > The below table is incomplete and will be updated as more parts are discovered. Parts may also be slightly inaccurate, e.g. parts will bolt on but may need slight grinding or cutting to make fitting completely possible (e.g. for cable clearances). All parts listed have been measured up, but not all have been fitted to confirm entirely
 {: .block-note}
 
-> All engine components assume SOHC/Intech/Barra 4L Inline 6 motors, as such no research has been done for any diesel or V8 variants of the listed model codes. Please do your own due diligence before buying or attempting to fit parts.
+> All engine components assume Alloy/SOHC/Intech/Barra 4L Inline 6 motors, as such no research has been done for any diesel or V8 variants of the listed model codes. Please do your own due diligence before buying or attempting to fit parts.
 {: .block-note}
 
 ## Parts Sharing Table
