@@ -15,7 +15,8 @@ please refer to the table below for expected lifespans of various components, al
 | Alternator | 250,000km | assuming no leaks from power steering, check for battery light on dash or running voltage less than 13v |
 | Battery | 5 years | voltage should read 12.3-13v while car is off and 13.5-15v while car is running in idle |
 | Ignition Coil Pack | 150,000km | Ignition Coil can be [tested for resistance](../../Engine/IgnitionCoil/IgnitionCoil.md#ignition-coil-resistances), known failures below 9KΩ secondary resistance |
-| Oil filter | 20,000km | assuming still using rated 5w30 |
+| Intake Manifold Gaskets | 200,000kms | Vehicles prone to an increased amount of cold-starts appear to breakdown earlier |
+| Oil filter | 20,000km | assuming still using rated 5w30. Thicker oils can be used as car ages if increased "lifter tick" is observed |
 | Power Steering High Pressure Line | 100,000km | can be made significantly longer by getting redesigned aftermarket line without gap between nut and line |
 | Spark plugs (copper) | 20,000km | more likely to start phantom misfiring at idle as they start to fail |
 | Spark plugs (iridium) | 75,000km | generally worth extra cost vs. Copper |
