@@ -17,7 +17,7 @@ The S1 mirrors can be easily removed in comparison to their newer counterparts. 
     
     ![S1 Interior Mirror Screw](./s1-mirror-screw.jpg)
 
-    > Picture of the grub screw location to remove in the Series 1 AU Falcons. Note that this is a 2mm Hex head and as such requires a 2mm allen key to remove
+    > Picture of the grub screw location to remove in the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons. Note that this is a 2mm Hex head and as such requires a 2mm allen key to remove
 
 1. Gently slide the plastic housing from the steel on the window by wiggling the assembly back and forth a little. you may need to use a light tap from a small rubber mallet, however this is only to be used if absolutely required
 1. To reinstall or replace, reverse all previous steps
@@ -25,7 +25,7 @@ The S1 mirrors can be easily removed in comparison to their newer counterparts. 
 
 ### Series 2/3 Removal/Replacement
 
-The Later models are much higher risk to remove, and as such are not a job to be done lightly. If possible, it is advised to replace with a aftermarket replacement or Series 1 mirror if possible to avoid issues in the future. To add insult to injury, these mirrors are the same as all Falcons and Territory models from the AUII onwards, and can be prone to rattling as they age due to the lack of a grub screw or similar. Steps to remove are below:
+The Later models are much higher risk to remove, and as such are not a job to be done lightly. If possible, it is advised to replace with a aftermarket replacement or [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) mirror if possible to avoid issues in the future. To add insult to injury, these mirrors are the same as all Falcons and Territory models from the AUII onwards, and can be prone to rattling as they age due to the lack of a grub screw or similar. Steps to remove are below:
 
 ![Series 3 Mirror](./s3-mirror.jpg)
 > A picture of a Series 3 mirror mounting piece. Note that this part is very [similar to later models of Falcon](../../Miscellaneous/PartsSharing/PartsSharing.md)
