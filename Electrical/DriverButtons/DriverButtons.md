@@ -8,7 +8,7 @@ description: information on driver-side console buttons (Lock/Boot/Fuel)
 
 ### Lock button - additional
 
-While the lock button isn't special due to anything technically interesting about it, it is surprisingly absent from the Series 1 AU Falcons. Making things even stranger, the lock button was reinstated in the Series 2 as part of a moderate interior redesign, and existed on the previous EF Body Ford Falcon *and* the Series 1 Fairlane models (as a [Centre Console Button](../CentreConsoleButtons/CentreConsoleButtons.md)). The reason for this omission is unknown.
+While the lock button isn't special due to anything technically interesting about it, it is surprisingly absent from the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons. Making things even stranger, the lock button was reinstated in the [Series 2](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-2) as part of a moderate interior redesign, and existed on the previous EF Body Ford Falcon *and* the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) Fairlane models (as a [Centre Console Button](../CentreConsoleButtons/CentreConsoleButtons.md)). The reason for this omission is unknown.
 
 ### Plug Type
 
