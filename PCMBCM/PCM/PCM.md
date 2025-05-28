@@ -14,7 +14,7 @@ If you ever need access to the PCM in your AU Falcon, it can be found either bol
 {: .block-note}
 
 ![PCM Location Series 1](./PCM-location.jpg)
-> Location of the PCM on a Series 1 AU Falcon. Note that Series 2-3 brackets are larger and are riveted in for security
+> Location of the PCM on a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcon. Note that Series 2-3 brackets are larger and are riveted in for security
 
 ## Additional Notes
 
