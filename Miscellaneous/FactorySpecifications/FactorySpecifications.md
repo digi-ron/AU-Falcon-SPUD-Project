@@ -75,7 +75,7 @@ description: " Factory Specifications"
 
 ### 5.6 TE50/TS50 Tickford Engine
 
-> This engine was only present in the Series 3 models of the TE50 and TS50
+> This engine was only present in the [Series 3](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-3) models of the TE50 and TS50
 {: .block-note}
 
 | Specification | Value |
