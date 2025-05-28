@@ -143,12 +143,18 @@ Any additional information on the premium audio system is listed below:
       - New wiring from rear of vehicle to battery, constant power, and radio signal/audio
       - Audio loom replacement from optioned vehicle
     - Hole needs to be cut in sedan rear-shelf. While the steel has the hole present, the carpet cover does not and will need to be modified.
-- There is partial information to suggest some Series 3 AU Falcons may have come with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed definitively however, and as such no information on these amplifiers is provided
+- There is partial information to suggest some Series 3 AU Falcons may have come with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed definitively however, and as such information is provided [below](#retrofit---ba-fgx-premium-audio-amplifier) accordingly.
 
-<!--TODO confirm if the series 3 falcons had a BA amp-->
-<!-- ### Series 2-3
+<!-- TODO test BA amp? -->
 
-The following information is know about the premium audio amplifier from the Series 2 and 3 AU Falcons:
+## Retrofit - BA-FGX Premium Audio Amplifier
+
+The following information is know about the premium audio amplifier from later models of Ford Falcon, which if required, can be retrofitted to work with the AU:
+
+> The information shown here was added due to the higher quantity of cars produced with the later model of amplifier. Similar sound quality *should* be possible but *has not* been tested to confirm
+{: .block-note}
+
+### Specifications
 
 | Information | Notes |
 | --- | --- |
@@ -158,16 +164,16 @@ The following information is know about the premium audio amplifier from the Ser
 | Connection | Subwoofer only |
 | Availability | Same amplifier as BA Falcon |
 
-#### Plug type
+### Plug type
 
-The amplifier for the later model AU Falcons uses are an AMP Multilock .070 design with the following details:
+The amplifier for the later model amplifiers use an AMP Multilock .070 design with the following details:
 
 | Name | Code | Notes |
 | --- | --- | --- |
 | Male Connector Housing | 173851-1 | Loom end connector |
 | Female Connector Housing | 174933-1 | Amplifier connector |
 
-#### Pin Layout
+### Pin Layout
 
 The following notes assume pin numbers where you are looking at the Amplifier unit itself, with the flat edge facing upwards and the clip receiver facing down:
 
@@ -175,9 +181,10 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 | --- | --- | --- | --- | --- | --- | --- |
 | **`08`** | **`09`** | **`10`** | | | **`11`** | **`12`** |
 
-#### Pinout
+### Pinout
 
-
+> Information incomplete due to lack of resources
+{: .block-note}
 
 | Position | Color | Function |
 | --- | --- | --- |
@@ -192,4 +199,4 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 | 09 | N/a | Unknown |
 | 10 | Blue | Subwoofer - |
 | 11 | Yellow | Amplifier + |
-| 12 | Yellow | Amplifier + | -->
+| 12 | Yellow | Amplifier + |
