@@ -7,7 +7,7 @@ hideTOC: true
 
 ## Diagnosis
 
-Diagnosis of the AC and AC Max. buttons on a Series 1 AU Falcon is simple. If the button lights activate on press but then turn off when a sufficient bump in the road is driven over, then it is likely the repair below is required.
+Diagnosis of the AC and AC Max. buttons on a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcon is simple. If the button lights activate on press but then turn off when a sufficient bump in the road is driven over, then it is likely the repair below is required.
 
 ## Repairing solder connections on the AC and AC Max. Buttons
 
