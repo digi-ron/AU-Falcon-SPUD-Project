@@ -30,7 +30,7 @@ The following information is known about the factory Subwoofer:
 > Information on these amplifiers is incomplete due to lack of resources
 {: .block-note}
 
-The Series 1 AU Falcons contained an amplifier which was used to power both the subwoofer and the rear speakers. The only known information on these amplifiers is the wiring colors:
+The [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons contained an amplifier which was used to power both the subwoofer and the rear speakers. The only known information on these amplifiers is the wiring colors:
 
 > All polarities are assumed due to lack of available information
 {: .block-note}
@@ -49,7 +49,7 @@ The Series 1 AU Falcons contained an amplifier which was used to power both the 
 
 ## Amplifier - S2-3
 
-After the Series 1 AU Falcons, the subwoofer was changed to a model that only contains an amplifier for the Subwoofer, and not the rear speakers. The following information is known about these amplifiers:
+After the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons, the subwoofer was changed to a model that only contains an amplifier for the Subwoofer, and not the rear speakers. The following information is known about these amplifiers:
 
 > Information on the Amplifier is limited due to a limited amount of these vehicles being still available for parts
 {: .block-note}
@@ -143,7 +143,7 @@ Any additional information on the premium audio system is listed below:
       - New wiring from rear of vehicle to battery, constant power, and radio signal/audio
       - Audio loom replacement from optioned vehicle
     - Hole needs to be cut in sedan rear-shelf. While the steel has the hole present, the carpet cover does not and will need to be modified.
-- There is partial information to suggest some Series 3 AU Falcons may have come with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed definitively however, and as such information is provided [below](#retrofit---ba-fgx-premium-audio-amplifier) accordingly.
+- There is partial information to suggest some [Series 3](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-3) AU Falcons may have come with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed definitively however, and as such information is provided [below](#retrofit---ba-fgx-premium-audio-amplifier) accordingly.
 
 <!-- TODO test BA amp? -->
 
