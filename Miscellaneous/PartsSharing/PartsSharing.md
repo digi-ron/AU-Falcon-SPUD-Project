@@ -36,6 +36,7 @@ Please see the table below for shared parts:
 | [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain sub-models contain additional spring that will help with longevity. BF Falcon Keyhole for drivers door not compatible due to different key types |
 | [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter |
 | Door Rubber Seals | AU-BFIII | |
+| Engine Oil Cap | EB-FGX | |
 | Exhaust Hangers | EA-FGX | |
 | Exhaust Header | EA-AUIII | |
 | Exhaust assembly (Cat Back) | EA-AUIII | Live axle Sedans and Wagons only, Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
