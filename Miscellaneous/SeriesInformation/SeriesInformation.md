@@ -26,6 +26,7 @@ The AU Falcon can be divided up by series, which can be useful when dealing with
 - Bonnet in all non-XR models replaced with Series 1 Fairmont-style high bonnet
 - 15" wheel models upsized to 16" as standard
 - Interior refresh redesigned all low/mid models to have darker colours and sharper design edges
+- Inclusion of interior lock button standard in all models
 - Darker interior colours
 - Improved suspension and brake components, more akin to the later B-Series Falcon
 - Changes in sensors from the previous series'
