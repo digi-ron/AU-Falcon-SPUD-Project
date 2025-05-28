@@ -16,7 +16,7 @@ These remotes are actually inherited from the EL Falcon before it, and are a 304
 ![Series 1 keyfob front](./s1-fob-front.jpg)
 ![Series 1 keyfob rear](./s1-fob-rear.jpg)
 
-> Photos of an OEM Series 1 keyfob
+> Photos of an OEM [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) keyfob
 
 > The S1 Ute remotes are missing the boot button (right)
 {: .block-note}
