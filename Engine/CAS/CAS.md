@@ -8,9 +8,8 @@ description: basic information on the Crankshaft Angle Sensor, or CAS.
 {: .block-note}
 
 ## Purpose
-<!-- TODO add link to theoretical ABS page -->
 
-The purpose of the Crankshaft Angle Sensor, or CAS, is simple: report to the [PCM](../../PCMBCM/PCM/PCM.md) when the crank makes a fraction of a rotation, so that the Engine Management System can monitor and adapt to changes in the engine running. it does this using a sensor quite similar to an ABS Sensor, where a small voltage is recorded when a metallic object comes past the sensor itself. In the case of the I6 models of AU Falcon, the metallic object is a set of teeth on the harmonic balancer, at the base of the front of the engine block.
+The purpose of the Crankshaft Angle Sensor, or CAS, is simple: report to the [PCM](../../PCMBCM/PCM/PCM.md) when the crank makes a fraction of a rotation, so that the Engine Management System can monitor and adapt to changes in the engine running. it does this using a sensor quite similar to an [ABS](../../Body/ABS/ABS.md) Sensor, where a small voltage is recorded when a metallic object comes past the sensor itself. In the case of the I6 models of AU Falcon, the metallic object is a set of teeth on the harmonic balancer, at the base of the front of the engine block.
 
 ## Diagnosis
 
