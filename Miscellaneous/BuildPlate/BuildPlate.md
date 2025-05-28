@@ -252,7 +252,7 @@ The transmission code identifies the type and location of the transmission. Refe
 
 The trim code refers to the interior color and accents used throughout the vehicle. Refer to the list below for what each code corresponds to:
 
-> While these trim code will *narrow down* the exact trim inside your vehicle, it will not *uniquely identify* it, e.g. a Series 1 Forte and a Series 3 Fairmont share the same trim code `G1`, however the patterns in the cloth seats are different
+> While these trim code will *narrow down* the exact trim inside your vehicle, it will not *uniquely identify* it, e.g. a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) Forte and a [Series 3](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-3) Fairmont share the same trim code `G1`, however the patterns in the cloth seats are different
 {: .block-note}
 
 > Information pulled from multiple sources. As such this may be incomplete. Every effort has been made to ensure accuracy
@@ -365,8 +365,8 @@ The built field contains the month and year that the vehicle was manufactured, i
 
 The last "code" on the build plate isn't a code at all but rather a model abbreviation and body type. this code doesn't have a title on the plate and simply reads the Model Code (AU) followed by the Body Type
 
-e.g. for a Series 1 Forte, this would read `AU SEDAN`
+e.g. for a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) Forte, this would read `AU SEDAN`
 
-e.g. for a Series 2 Supercab, this would read `AUII UTE`
+e.g. for a [Series 2](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-2) Supercab, this would read `AUII UTE`
 
 e.g. for a Series 3 SR Wagon, this would read `AUIII WGN`
