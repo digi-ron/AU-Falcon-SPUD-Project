@@ -1,5 +1,5 @@
 ---
-description Series specifics information
+description: Series specifics information
 ---
 
 # Series Information
