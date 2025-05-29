@@ -47,6 +47,7 @@ The [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series
 | 12v SIG | Red |
 | GND | Black |
 
+<!-- TODO add pics -->
 ## Amplifier - S2-3
 
 After the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons, the subwoofer was changed to a model that only contains an amplifier for the Subwoofer, and not the rear speakers. The following information is known about these amplifiers:
