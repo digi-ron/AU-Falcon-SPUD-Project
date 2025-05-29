@@ -196,12 +196,13 @@ h1 {
 
     a[href] {
         color: black;
+        text-decoration: underline;
     }
 
     /* assume relative link first and foremost */
     a[href]::after {
         color: blue;
-        font-size: small;
+        font-size: xx-small;
         content: " (" var(--domain) attr(href)")";
     }
 
