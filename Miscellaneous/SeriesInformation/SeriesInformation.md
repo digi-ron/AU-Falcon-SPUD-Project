@@ -41,3 +41,4 @@ The AU Falcon can be divided up by series, which can be useful when dealing with
 **Manufacture Dates (approx.):** November 2001 to September 2002
 
 - Minor changes in body from the Series 2, including colour-matched side mirrors and side-skirts as standard in some models
+- Serves more as a cosmetic refresh rather than a functionally upgraded AU Falcon
