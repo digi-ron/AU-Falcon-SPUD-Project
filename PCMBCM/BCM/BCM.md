@@ -29,11 +29,18 @@ There are 2 types of BCM available for the AU Falcon, the Low model and the High
 > Information pulled from historical parts catalogue, and therefore may be incomplete
 {: .block-note}
 
+<style>
+.colourCell {
+    padding: 5px;
+    color: black;
+}
+</style>
+
 | Series | High/Low | Colour |
 | --- | --- | --- |
-| 1 | Low | Beige |
-| 1 | High | Olive |
-| 1.5 | Low | Grey |
-| 1.5 | High | Yellow |
-| 2-3 | Low | Blue |
-| 2-3 | High | Pink |
+| 1 | Low | <span class="colourCell" style="background-color:beige;">Beige</span> |
+| 1 | High | <span class="colourCell" style="background-color:olive;">Olive</span> |
+| 1.5 | Low | <span class="colourCell" style="background-color:grey;">Grey</span> |
+| 1.5 | High | <span class="colourCell" style="background-color:yellow;">Yellow</span> |
+| 2-3 | Low | <span class="colourCell" style="background-color:lightblue;">Blue</span> |
+| 2-3 | High | <span class="colourCell" style="background-color:pink;">Pink</span> |
