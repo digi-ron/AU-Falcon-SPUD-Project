@@ -225,6 +225,14 @@
             "title": "Powertrain Control Module (PCM, ECU Equivalent) & Body Control Module (BCM)",
             "items": [
                 {
+                    "title": "BCM (Body Control Module)",
+                    "url": "/PCMBCM/BCM/BCM.html"
+                },
+                {
+                    "title": "Central Locking",
+                    "url": "/PCMBCM/CentralLocking/CentralLocking.html"
+                },
+                {
                     "title": "Central Locking Key Fob",
                     "url": "/PCMBCM/Keyfob/Keyfob.html",
                     "items": [
