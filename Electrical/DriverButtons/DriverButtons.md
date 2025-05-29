@@ -33,7 +33,7 @@ The following assume you are looking at the loom end connector with the clip fac
     <th><code>02</code></th>
 </table>
 
-| Position | Color | Function |
+| Position | Colour | Function |
 | --- | --- | --- |
 | 01 | Pink/Green | 12v + |
 | 02 | Black/Grey | GND |
