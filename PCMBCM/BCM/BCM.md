@@ -8,7 +8,9 @@ hideTOC: true
 The BCM of the AU Falcon controls many auxillary functions of the vehicle, including but not limited to:
 
 - Alarm (S2-3 models only)
-- Central Locking & [Smartlock](../Keyfob/Keyfob.md#s1-smartlock)/[Smartshield](../Keyfob/Keyfob.md#s2s3-smartshield)
+- Central Locking
+  - (S1) [Smartlock](../Keyfob/Keyfob.md#s1-smartlock) **OR**;
+  - (1.5-3) [Smartshield](../Keyfob/Keyfob.md#s2s3-smartshield)
 - Diagnostic communications (e.g. [DTCs](../DTCCodes/DTCCodes.md))
 - Door lock and boot functionality
 - Headlight alert
