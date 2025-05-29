@@ -31,10 +31,10 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 ### Pin Wiring
 
-> For the Standard Color, refer to the [Australian Standard Pinouts](#australian-standard-pinouts)
+> For the Standard Colour, refer to the [Australian Standard Pinouts](#australian-standard-pinouts)
 {: .block-note}
 
-| Position | Color | Function | Standard Color* |
+| Position | Colour | Function | Standard Colour* |
 | --- | --- | --- | --- |
 | 01 | Green/Red | Brake lights | Red |
 | 02 | Brown/Grey | Tail lights | Brown |
@@ -90,7 +90,7 @@ While the AU Falcon originally came with a 12 pin flat connector, a more appropr
 
 #### Pinout Information
 
-| Pin # | Color | Function |
+| Pin # | Colour | Function |
 | --- | --- | --- |
 | 01 | Yellow | Passenger Indicator |
 | 02 | Black | Reversing lights |
@@ -151,7 +151,7 @@ The 12 pin layout is the standard layout for the Factory trailer looms in the Fo
 
 #### Pinout Information
 
-| Pin # | Color | Function |
+| Pin # | Colour | Function |
 | --- | --- | --- |
 | 01 | Yellow | Passenger Indicator |
 | 02 | Black | Reversing lights |
@@ -213,7 +213,7 @@ The 12 pin layout is the standard layout for the Factory trailer looms in the Fo
 
 #### Pinout Information
 
-| Pin # | Color | Function |
+| Pin # | Colour | Function |
 | --- | --- | --- |
 | 01 | Yellow | Passenger Indicator |
 | 02 | Black | Reversing lights |
