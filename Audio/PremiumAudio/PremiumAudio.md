@@ -30,12 +30,12 @@ The following information is known about the factory Subwoofer:
 > Information on these amplifiers is incomplete due to lack of resources
 {: .block-note}
 
-The [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons contained an amplifier which was used to power both the subwoofer and the rear speakers. The only known information on these amplifiers is the wiring colors:
+The [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons contained an amplifier which was used to power both the subwoofer and the rear speakers. The only known information on these amplifiers is the wiring colours:
 
 > All polarities are assumed due to lack of available information
 {: .block-note}
 
-| Pin Purpose | Color |
+| Pin Purpose | Colour |
 | --- | --- |
 | Driver Rear Speaker - | Red/Green |
 | Driver Rear Speaker + | Pink/Blue |
@@ -186,7 +186,7 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 > Information incomplete due to lack of resources
 {: .block-note}
 
-| Position | Color | Function |
+| Position | Colour | Function |
 | --- | --- | --- |
 | 01 | Black | Shield (GND) |
 | 02 | N/a | Unknown |
