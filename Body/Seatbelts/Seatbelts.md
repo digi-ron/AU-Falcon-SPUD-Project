@@ -80,7 +80,7 @@ to complete this job you will need the following:
 - Tape (Packing tape or cloth tape recommended)
 - Any bolt or screw that can fit inside the shaft of the soldering iron (optional, provides a disposable tip as plastic is hard to remove from a soldering tip)
 - Bolt-cutters
-- Cable ties (light colored preferred)
+- Cable ties (light coloured preferred)
 - N95 mask (for plastic fumes)
 
 #### Steps
@@ -89,5 +89,5 @@ to complete this job you will need the following:
 1. Use some tape to cover the outside of the plastic trim where the plastic is cut away. Flip over the assembly and place short cuts of the cable ties across the inside of the cut
 1. Wear your N95 mask and heat the soldering iron to high heat. apply the soldering iron gently to the cable ties, allowing them to melt and flow into the cut. Note this may take some coaxing to get right but it is possible
 1. Cut and remove any unmelted or unneeded cable tie material, and use a high grit sandpaper to further smooth the edge of the cut where it used to meet the seatbelt hole
-1. (optional) paint over repaired area or use the opportunity to respray the entire trim piece to your favorite color.
+1. (optional) paint over repaired area or use the opportunity to respray the entire trim piece to your favorite colour.
 1. Done
