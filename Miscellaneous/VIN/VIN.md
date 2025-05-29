@@ -1,7 +1,7 @@
 ---
 description: how to read and decode the VIN number and engine number
 ---
-
+<!-- TODO redacted VIN plate pic maybe? -->
 # Reading the Vehicle Identification Number Plate
 
 ## Location
