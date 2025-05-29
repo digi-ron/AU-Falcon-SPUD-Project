@@ -1,5 +1,6 @@
 ---
 description: Body Control Model (BCM) information
+hideTOC: true
 ---
 
 # Body Control Module (BCM)
