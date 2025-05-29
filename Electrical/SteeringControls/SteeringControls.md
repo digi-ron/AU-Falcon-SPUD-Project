@@ -35,7 +35,7 @@ The following notes assume pin numbers where you are looking at the steering whe
 
 ### Pin Wiring
 
-| Position | Color | Function |
+| Position | Colour | Function |
 | --- | --- | --- |
 | 01 | Red/Black | Media Controls + |
 | 02 | Orange/Black | Horn + |
