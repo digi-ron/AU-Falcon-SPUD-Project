@@ -59,13 +59,13 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 
 ## Pin Wiring
 
-> For EAI Wire Color, this is the "universal standard" colors within an aftermarket loom wiring harness. Colors in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#sources), Product code `711053`
+> For EAI Wire Colour, this is the "universal standard" colours within an aftermarket loom wiring harness. Colours in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#sources), Product code `711053`
 {: .block-note}
 
-> Every effort has been made to make this information accurate, however wire colors may be different depending on series
+> Every effort has been made to make this information accurate, however wire colours may be different depending on series
 {: .block-note}
 
-| Pin # | Function | EAI Wire Color | Wire Color
+| Pin # | Function | EAI Wire Colour | Wire Colour
 | --- | --- | --- | -- |
 | 01 | Constant 12v | Yellow | Yellow/Grey |
 | 02 | Dimmer Input (Not required) | Orange | Brown/Grey |
