@@ -1,3 +1,7 @@
+---
+description Series specifics information
+---
+
 # Series Information
 
 The AU Falcon can be divided up by series, which can be useful when dealing with the particulars of your specific vehicle. Details on the Series' are listed below:
