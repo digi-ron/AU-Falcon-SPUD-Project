@@ -250,7 +250,7 @@ The transmission code identifies the type and location of the transmission. Refe
 
 ### Trim
 
-The trim code refers to the interior color and accents used throughout the vehicle. Refer to the list below for what each code corresponds to:
+The trim code refers to the interior colour and accents used throughout the vehicle. Refer to the list below for what each code corresponds to:
 
 > While these trim code will *narrow down* the exact trim inside your vehicle, it will not *uniquely identify* it, e.g. a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) Forte and a [Series 3](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-3) Fairmont share the same trim code `G1`, however the patterns in the cloth seats are different
 {: .block-note}
@@ -299,7 +299,7 @@ The Paint code refers to the exterior paint used throughout the vehicle. Refer t
 
 #### AUI
 
-| Code | Color | Notes |
+| Code | Colour | Notes |
 | --- | --- | --- |
 | `22` | Taxi Orange | Taxi Vehicles Only. Rare |
 | `H` | Dynamic White | |
@@ -307,11 +307,11 @@ The Paint code refers to the exterior paint used throughout the vehicle. Refer t
 | `MB` | Mystic Blue | Apparently Rare, sparse information available |
 | `P4` | Hot Chilli Red | |
 | `T5` | Oxford Green | |
-| `W6` | Amaretto | Faded Gold or rose-gold color |
+| `W6` | Amaretto | Faded Gold or rose-gold colour |
 
 #### AUII-III
 
-| Code | Color | Notes |
+| Code | Colour | Notes |
 | --- | --- | --- |
 | `A1` | Winter White | |
 | `B7` | Barossa Red | Similar to [`C2` - Regency](#shared-aui-auiii). Rare |
@@ -327,7 +327,7 @@ The Paint code refers to the exterior paint used throughout the vehicle. Refer t
 
 #### Shared (AUI-AUIII)
 
-| Code | Color | Notes |
+| Code | Colour | Notes |
 | --- | --- | --- |
 | `44` | Taxi Yellow | Taxi Vehicles Only |
 | `B5` | Sparkling Burgundy | Very Dark Red |
