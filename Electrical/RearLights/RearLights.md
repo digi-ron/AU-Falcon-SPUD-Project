@@ -23,7 +23,7 @@ Use the following diagram and pinout list for reference. This diagram assumes th
 | --- | --- | --- |
 | **04** | **05** | **06** |
 
-| Pin | Color | Purpose |
+| Pin | Colour | Purpose |
 | --- | --- | --- |
 | 01 | Red/Black | Reverse Lights |
 | 02 | Green/Red | Brake Lights |
