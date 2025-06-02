@@ -139,6 +139,16 @@ The Single Item Dealer Order number, or SIDO, is simply a unique build identifie
 
 The Model number is a more specific identifier of the trim model that the vehicle was built with. Refer to the tables below for what each number corresponds to:
 
+<!-- 
+TODO there may be a way to decode, from BA WSM:
+
+first 2 digits = line
+3rd digit = year
+4th digit = body style
+5th digit = series
+
+-->
+
 #### Series 1
 
 | Number | Model | Body |
