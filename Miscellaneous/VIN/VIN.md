@@ -89,16 +89,14 @@ Information in order to manually discern basic vehicle information from the VIN 
 {: .block-note}
 
 #### Characters 1-3 - "6FP"
-All AU Falcons should start with the first 3 characters `6FP`, due to the fact that these characters appear to represent the unique identifier for Ford Australia
-
-> Theoretically this is supposed to stand for 6 = Australia and FP = Ford Australia, but there was no known source for this information other than word-of-mouth
-{: .block-note}
+All AU Falcons should start with the first 3 characters `6FP`, due to the fact that these characters represent the unique identifier for Ford Australia
 
 #### Characters 4-6 - "AAA"
 Similar to the first 3 characters, the following 3 are also always going to be the same, this time `AAA`, however this is due to the letters being unused, not because they mean anything
 
 #### Characters 7-8 - "JG" 
 Similar again to the first 6 characters, the last 2 characters that should be the same for the AU Falcon are `JG`. These codes stand for the following:
+
 - J - Product source location code
 
   > Conflicting information suggests that this is either a code for Australia, where the car was assembled, or Japan, where some of the parts were sourced.
