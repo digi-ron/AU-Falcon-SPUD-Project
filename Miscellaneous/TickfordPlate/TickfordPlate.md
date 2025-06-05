@@ -6,7 +6,7 @@ description: " - How to read the Tickford Vehicle Engineering (TVE) Plates"
 
 ## Important Note
 
-> This page contains all collated information on the TVE plates, but contains no first-hand information on them. This is due to the primary vehicle used for this project not being fitted with any of the following:
+> This page contains all collated information on the TVE plates, but contains very little first-hand information on them. This is due to the primary vehicle used for this project not being fitted with any of the following:
 > 
 > - [Tickford Modifications](#tickford-vehicle-engineering-plate)
 > - [Dual-Fuel LPG](#tickford-dual-fuel-lpg-option-plate)
@@ -23,6 +23,10 @@ Some models of AU Falcon were modified by Tickford in some way. In these cases, 
 ![Tickford Plate Location](./tickford-mod-plate-location.jpg)
 
 > Where the TVE plate would be installed if present
+
+![Tickford Plate Example](./tickford-plate-removed.jpg)
+
+> Picture of a removed TVE plate, which had the Momo steering wheel and Sunroof [options](#list-of-available-modifications) installed
 
 ### List of Available Modifications
 
