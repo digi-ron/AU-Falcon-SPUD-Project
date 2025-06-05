@@ -13,16 +13,17 @@ The buttons within the centre dash area of some models of AU Falcon use connecto
 
 Due to a moderate redesign of the dash area of the AU Falcon between [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) and [Series 2](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-2), only the following models appear to have these buttons present:
 
-- AU Falcon ([Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) only)
+- AU Falcon ([Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) only, primarily Demist button)
 - AU Fairmont
-- AU Fairlane
-- AU Falcon Ute (Where column shift transmission fitted, ECON button only)
+- AU Fairlane/LTD
+- T-Series (T*-50)
+- AU Falcon Ute (Where column shift transmission fitted, [ECON button](#specifics---econlock-button) only)
 
 ## Additional Note
 
 Despite the mounting locations being the same between the above listed models, the iconography on the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) buttons and the Fairmont/Fairlane/Ute are printed at different angles, with the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) buttons having a slight clockwise rotation to the icons to allow for the angle of the buttons themselves. This does not make any functional difference but is worth noting for the look of the dash if replacing or modifying these models.
 
-<!-- TODO add photo of demisters maybe? -->
+<!-- TODO add photo and pinout of demister button(s) -->
 
 ## Plug Information
 
