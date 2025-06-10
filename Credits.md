@@ -95,6 +95,8 @@ Wanting to learn without the risk of losing my main set of wheels, I got a Serie
 
 April 11th 2024, The SPUD Project was born.
 
-I have no mechanical background, I'm a web developer by trade and the only reason I can use tools is due to my Dad being an ex-engineer. I'm happy to jump into research rabbit-holes, and the cars I've helped with and worked on have mostly been AU-FGX Falcons. I published this site on the wider net in case anyone else needs some of the weird info I'm finding/making, hopefully it helps and there's some good info here for everyone interested. If you like what you see and you want to buy me a beer, I added a donate button to the site, it's appreciated but by no means required, because I don't believe in holding this information at ransom.
+I have no mechanical background, I'm a web developer by trade and the only reason I can use tools is due to my Dad being an ex-engineer. I'm happy to jump into research rabbit-holes, and the cars I've helped with and worked on have mostly been AU-FGX Falcons. I published this site on the wider net in case anyone else needs some of the weird info I'm finding/making, hopefully it helps and there's some good info here for everyone interested. 
+
+If you like what you see and you want to buy me a beer, I added a donate button to the bottom of the site, it's appreciated but by no means required, because I don't believe in holding this information at ransom. I also have a feedback form in the same space below if you find anything that needs correction or want to get in touch about something I might know.
 
 <center>Enjoy :)</center>
