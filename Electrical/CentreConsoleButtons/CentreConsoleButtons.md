@@ -7,7 +7,7 @@ description: accessory buttons (e.g. TCS, ABS, ANT.) information and pinouts
 > This does not cover buttons in the standard Series 2-3 dash, as they are tightly integrated with the newer designed climate control system.
 {: .block-note}
 
-The buttons within the centre dash area of some models of AU Falcon use connectors that are simply known as 090 Connectors, originally manufactured by the companies Yazaki and Sumitomo. These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
+The buttons within the centre dash area of some models of AU Falcon use connectors that are simply known as 090 Connectors, originally manufactured by [Yazaki](../../Credits.md#sources). These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
 
 ## Known models
 
