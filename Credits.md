@@ -39,6 +39,7 @@ description: "Credits"
 - [Seat Safe](https://www.seatsafe.com.au/)
 - [T.I Performance](https://www.tiperformance.com.au/)
 - [Yazaki](https://www.yazaki-group.com/global/)
+  - <i class="other-highlight">Some connectors specified as "Sumitomo" connectors, however significance of this is unknown</i>
 
 ## Special Thanks - Information sharers and timesavers
 {: .good-highlight}
