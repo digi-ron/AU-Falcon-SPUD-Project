@@ -21,7 +21,7 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
 > 
 > This ***IS NOT*** meant to be the AU Falcon Bible *or* a workshop manual, but rather a last resort to get information that has started to disappear from, or worse, never existed on, the wider internet.
 > 
-> In the spirit of things there are as few links to the wider internet here as possible, other that those present on the [Credits](./Credits.md) page (also linked at the bottom of every page on this site).
+> In the spirit of not having this site reliant on other websites, there are as few links to the wider internet here as possible, other that those present on the [Credits](./Credits.md) page (also linked at the bottom of every page on this site).
 
 ***ALL INFORMATION IS WIP, LAST UPDATE: <span class="other-highlight">{{site.time | date: '%d/%m/%Y'}}</span>***
 
