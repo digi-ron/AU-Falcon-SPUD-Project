@@ -12,7 +12,7 @@ While the lock button isn't special due to anything technically interesting abou
 
 ### Plug Type
 
-The plug for the lock and the boot release buttons are a 090 connector, originally manufactured by the companies [Yazaki](../../Credits.md#sources) and (historically) Sumitomo
+The plug for the lock and the boot release buttons are a 090 connector, originally manufactured by [Yazaki](../../Credits.md#sources)
 
 | Name | Part Number | Notes |
 | --- | --- | --- |
