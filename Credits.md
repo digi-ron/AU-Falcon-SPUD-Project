@@ -38,6 +38,7 @@ description: "Credits"
 - [RS Components Australia](https://au.rs-online.com/)
 - [Seat Safe](https://www.seatsafe.com.au/)
 - [T.I Performance](https://www.tiperformance.com.au/)
+- [Yazaki](https://www.yazaki-group.com/global/)
 
 ## Special Thanks - Information sharers and timesavers
 {: .good-highlight}
