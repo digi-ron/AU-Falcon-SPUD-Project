@@ -4,7 +4,7 @@ description: information on driver-side console buttons (Lock/Boot/Fuel)
 <!-- TODO pics maybe? -->
 # Interior Driver Buttons
 
-## Lock & Fuel Buttons
+## Lock & Boot Buttons
 
 ### Lock button - additional
 
@@ -12,7 +12,7 @@ While the lock button isn't special due to anything technically interesting abou
 
 ### Plug Type
 
-The plug for the lock and the fuel release buttons are a 090 connector, originally manufactured by the companies Yazaki and Sumitomo
+The plug for the lock and the boot release buttons are a 090 connector, originally manufactured by the companies [Yazaki](../../Credits.md#sources) and (historically) Sumitomo
 
 | Name | Part Number | Notes |
 | --- | --- | --- |
@@ -38,9 +38,12 @@ The following assume you are looking at the loom end connector with the clip fac
 | 01 | Pink/Green | 12v + |
 | 02 | Black/Grey | GND |
 
-## Boot Button
+## Fuel Button
 
-> The boot button plugtype and wiring is currently unknown. More information will be added if discovered
+> The fuel release button plug specification and wiring is currently unknown. More information is listed below as discovered
 {: .block-note}
+
+
+<!-- TODO confirm with Nice/Bosch, Bosch part number 9 340 063 086, Nice part number BS61 -->
 
 <!-- TODO investigate: 7186-8845 7187-8845 -->
