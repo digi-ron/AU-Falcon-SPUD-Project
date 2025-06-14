@@ -40,10 +40,36 @@ The following assume you are looking at the loom end connector with the clip fac
 
 ## Fuel Button
 
-> The fuel release button plug specification and wiring is currently unknown. More information is listed below as discovered
+> The fuel release button plug specification and wiring is currently unknown, pending information from part manufacturer(s). More information is listed below as discovered
 {: .block-note}
 
+The fuel button appears to have an OEM connector which was previously present in XE-ED Falcons as the connector for the brake light switch. As a result of this, if your requirement is to simply retrofit the button end (male terminal connector housing), then the best known method to retrieve a connector housing would be to buy a BS61 Brake light switch made by the company Nice, and cut the plug from the assembly.
 
-<!-- TODO confirm with Nice/Bosch, Bosch part number 9 340 063 086, Nice part number BS61 -->
+<!-- TODO add images -->
+
+### Removing the button fascias
+
+Should you need to remove the fascia on the fuel door button, e.g. when swapping from a button assembly from a BA/BF Falcon, follow the instructions below:
+
+> Images incomplete due to disassembling already broken unit
+{: .block-note}
+
+> Unlike the [Centre Console Buttons](../CentreConsoleButtons/CentreConsoleButtons.md), the fascias for these buttons *cannot* be removed without disassembling the button. While it does appear to be possible, there is not enough clearance in the housing to allow for the tabs holding the fascia in to come out.
+{: .block-note}
+
+1. Locate and unclip the 6 small clips holding in the bottom plastic for the connector housing, noting:
+    - It is easier to unclip the 3 clips on one side, and keep the part lifted away from the original 3 clips while undoing the opposite side 3 clips
+    - The pins will come loose once the plastic is removed
+
+1. Make a note of how everything inside the button is configured, then carefully remove the switch mechanism, making sure the spring does not get lost during removal
+
+1. Unclip the 2 plastic clips on either side of the button face, and gently remove the button face from the mechanism
+
+1. Replace button face on mechanism with AU Falcon equivalent (repeat previous steps if required), then complete all previous steps in reverse to return the button to it's original condition.
+
+1. Done
+
+
+<!-- TODO confirm with Nice/Bosch, Bosch part number 9 340 063 086, Nice part number BS61. brake switch present in XF-ED, fuel switch EB-BFIII -->
 
 <!-- TODO investigate: 7186-8845 7187-8845 -->
