@@ -1,13 +1,12 @@
 ---
 description: air Conditioner controls repair information (Series 1 only)
-hideTOC: true
 ---
 
 # Air Conditioner Controls - Series 1
 
 ## Diagnosis
 
-Diagnosis of the AC and AC Max. buttons on a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcon is simple. If the button lights activate on press but then turn off when a sufficient bump in the road is driven over, then it is likely the repair below is required.
+Diagnosis of the AC and AC Max. buttons on a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcon is simple. If the button lights activate on press but then turn off when a sufficient bump in the road is driven over, then it is likely the repair [below](#repairing-solder-connections-on-the-ac-and-ac-max-buttons) is required.
 
 ## Repairing solder connections on the AC and AC Max. Buttons
 
@@ -45,10 +44,14 @@ A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max
 
 1. Remove all dials from the AC Controls and remove the white assembly from the fascia, then unclip the front plastic from the assembly. The assembly is held in with 6 small clips (3 on the top, 3 on the bottom), they are somewhat easy to break, and the faces of the AC, AC Max, and the Air Recirculation buttons will come off with the fascia on removal
 
-    > Pictures not provided for this section due to difficulty taking images while taking assembly apart
-    {: .block-note}
+    ![Air conditioner controls top clips](./ac-top-clips.jpg)
+    ![Air conditioner controls bottom clips](./ac-bottom-clips.jpg)
+    > Top and bottom clips (respectively) to be removed from the air conditioner controls
 
 1. Once you have access to the board, unscrew the 3 phillips head screws holding the board in place and inspect the solder connections
+
+    ![Screw locations](./ac-pcb-screws.jpg)
+    > Locations of the 3 phillips head screws in the front of the Air conditioner PCB
 
     ![Broken solder connections - AC Button](./broken-solder-ac.jpg)
     ![Broken solder connections - AC Max Button](./broken-solder-ac-max.jpg)
@@ -68,3 +71,76 @@ A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max
 1. Reverse all steps prior to soldering the board to reassemble and refit the AC Controls into the vehicle. Once refitted, test functionality to confirm this has solved the issue
 
 1. Done
+
+## Other Components
+
+The other components related to the Series 1 Base Air Conditioner Controls are listed below, with any useful information for each section:
+
+### Ventilation Control
+
+The ventilation control is determined via a multi-position vacuum valve and a vacuum line which leads to the engine bay. There are no electrical components to this dial, and as such the only diagnosis methods for this dial not working is:
+- A lack of vacuum
+- A disconnect in the vacuum line
+- The dial itself being physically broken.
+
+### Temperature Control
+
+The temperature control is determined via a bowden cable. There are no electrical components to this dial, and as such the only diagnosis methods for this dial not working is:
+- The bowden cable not being attached to the rear of the temperature control dial
+- The bowden cable not being fastened securely to the vehicle (check mount on rear of centre dash as this is prone to failure
+
+    > The bowden cable can be fastened securely to steel inside the dash if the original mount points have unclipped or broken over time
+    {: .block-note}
+
+- The bowden cable not being connected to the heater box
+
+    ![Bowden cable heater box end](./heater-box-cable.png)
+
+    > The mounting point for the heater box bowden cable, with the plastic clip already opened. Note that this clip is prone to breaking on attempted removal
+
+- The dial itself or the cog mechanism directly behind it being physically broken
+
+### Fan Speed Control
+
+The fan speed control is a 5 position switch (Off-1-2-3-4) which determines the fan speed. As the only dial control that contains electrical wiring for the control of the system, additional wiring information is listed below:
+
+#### Plug Type
+
+The fan speed control plug is a simple 6-way Quick Connect, 
+
+<!-- TODO confirm this -->
+
+#### Pin Layout
+
+The following notes assume pin numbers where you are looking at the dial unit itself, with the clip cut-out facing up:
+
+| `01` | `02` | `03` |
+| -- | -- | -- |
+| **`04`** | **`05`** | **`06`** |
+
+| Pin | Function | Notes |
+| --- | --- | --- |
+| 01 | Fan trigger 1 | |
+| 02 | Fan trigger 3-4 | Activates for either high setting, reason unknown |
+| 03 | GND | |
+| 04 | Fan trigger 2 | |
+| 05 | Fan Trigger 3 | |
+| 06 | Fan Trigger 4 | |
+
+<!-- TODO confirm and finish
+
+### Main PCB plug
+
+There is 1 
+
+
+| Pin | Function | Notes |
+| --- | --- | --- |
+| 01 | LED -? | |
+| 02 | | |
+| 03 | | |
+| 04 | LED +? | |
+| 05 | GND | |
+| 06 | | |
+| 07 | | |
+| 08 | | | -->
