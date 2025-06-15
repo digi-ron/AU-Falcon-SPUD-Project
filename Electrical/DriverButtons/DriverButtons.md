@@ -71,11 +71,17 @@ Should you need to remove the fascia on the fuel door button, e.g. when swapping
     ![Button clip plate removed results](./button-decon-stage1.jpg)
     > Photo of the button in a partially disassembled state. Note the location of the small plastic notch inside the housing and the location of the spring.
 
+    ![Button clip switch removed results](./button-decon-stage2.jpg)
+    > Photo of the button in a completely disassembled state, barring the button cap
+
 1. Unclip the 2 plastic clips on either side of the button cap using a very small flat-head screwdriver, and gently remove the button cap from the mechanism
 
     ![Button cap top view](./button-cap-clip-bottom.jpg)
     ![Button cap side view](./button-cap-clip-side.jpg)
     > Photos of the button cap clips from the bottom (based on button image orientation) and side. Note the cylindrical notch holding the clips in
+
+    ![Button cap post removal](./button-decon-stage3.jpg)
+    > Photo of button assembly post-disassembly
 
     > Photographed example has one clip broken and should look different to your own
     {: .block-note}
