@@ -6,7 +6,7 @@ description: Speaker installation and wiring information. Partially applies to B
 
 ## Sizes
 
-The size of most speakers across the AU Falcon range are 5x7" oval speakers, which is a non-standard size. Note that 6x9" speakers can be used in both locations, however additional holes will need to be drilled to allow for them, and special care must be taken for the front door speakers depth, as they can foul the window mechanism.
+The size of most speakers across the AU Falcon range are 5x7" oval speakers, which is a non-standard size. Note that 6x9" speakers can be used in both locations with some modifications, however additional holes will need to be drilled to allow for them, and special care must be taken for the front door speakers depth, as they can foul the window mechanism.
 
 > Popular replacements for these speakers are the [Kenwood](../../Credits.md#aftermarket-components-information) KFC-PS5796C, as they require no amp and are a drop-in replacement, barring the plug (explained in installation steps)
 {: .block-note}
@@ -15,7 +15,9 @@ Exceptions to this include:
 - Wagon Rear Speakers (speakers are seemingly 4-5")
 
 ## Plug
-The standard speakers used in the AU Falcon are known as a 250 Series Quick Connect 2-way connector. They are easy enough to identify as they have a T-shaped housing on them. There are many manufacturers for these connectors, and such it should be relatively trivial to find one from an Automotive Shop
+The standard speakers used in the AU Falcon are known as a 250 Series Quick Connect 2-way connector. They are easy enough to identify as they have a T-shaped housing on them. There are many manufacturers for these connectors, and such it should be relatively trivial to find one from an Automotive Shop.
+
+Note that the Loom end connector is the female connector housing and that the factory speakers were fitted with male connector housings.
 
 ![Narva Quick Connect 2 way connector set](./2-way-speaker-connector.png)
 
@@ -26,7 +28,7 @@ The standard speakers used in the AU Falcon are known as a 250 Series Quick Conn
 The following miscellaneous information is known about the Speakers in the AU Falcon:
 
 - lower and/or earlier models contain unknown branded speakers. Only visible markings are a Ford logo and a Ford part number.
-- Models fitted with [Premium Audio System](../PremiumAudio/PremiumAudio.md) known to have Pioneer branded speakers. These Pioneer speakers appear to have propagated lower models by the AUIII
+- Models fitted with [Premium Audio System](../PremiumAudio/PremiumAudio.md) known to have Pioneer branded speakers. These Pioneer speakers appear to have propagated to lower models by the AUIII
 
 ## Replacement
 
