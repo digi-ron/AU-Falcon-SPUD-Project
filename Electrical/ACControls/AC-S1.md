@@ -106,9 +106,14 @@ The fan speed control is a 5 position switch (Off-1-2-3-4) which determines the 
 
 #### Plug Type
 
-The fan speed control plug is a simple 6-way Quick Connect, 
-
 <!-- TODO confirm this -->
+
+The plug used for fan speed control is known as a 250 Series Quick Connect 6-way connector. There are many manufacturers for these connectors such as [Narva](../../Credits.md#sources), and as such it should be relatively trivial to find one from an Automotive Shop.
+
+Note that the Loom end connector is the female connector housing and the connector on the unit itself is a male connector housing
+
+![Narva 6-Way Connector product image](./6-way-connector.png)
+> Picture taken from [Narva](../../Credits.md#sources) product page for a pack of both 1 female connector housing (left) and one male connector housing (right) (product code 56276BL)
 
 #### Pin Layout
 
