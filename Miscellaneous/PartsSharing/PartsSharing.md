@@ -41,7 +41,7 @@ Please see the table below for shared parts:
 | Exhaust Header | EA-AUIII | |
 | Exhaust assembly (Cat Back) | EA-AUIII | Live axle Sedans and Wagons only, Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Front Door Shell | AU-BFIII | |
-| [Fuel Door Button](../../Electrical/DriverButtons/DriverButtons.md#fuel-button) | EB-BFIII | button uses same electrical plug but fascias and button caps are usually different and need to be replaced with AU Falcon parts |
+| [Fuel Door Button](../../Electrical/DriverButtons/DriverButtons.md#fuel-button) | EB-BFIII, SX-SYII | Non-AU buttons require [button cap replacement](../../Electrical/DriverButtons/DriverButtons.md#removing-the-button-fascias). Fasciass from alternate models not easily compatible with AU Falcon dash |
 | [Fuel Filter](../../Engine/FuelFilter/FuelFilter.md) | EB-BF | |
 | Fuel Injectors | EA-FGX, SX-SZII, XG-XHII | cc rating is vastly different after ED-AU, 215-220cc rating standard for AU, Tune/ECU/J3 Chip likely required. Also shares injectors with some Jeep models 2004-2008 |
 | Fuel Pressure Regulator | AU-FGX | AU uses a 3 bar regulator, but 4 is standard in later models, Tune/ECU/J3 Chip likely required |
