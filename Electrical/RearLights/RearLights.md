@@ -8,12 +8,12 @@ The rear light connector can be a great location to wire in Accessory trigger wi
 
 ## Plug Type
 
-The plug used for the tail lights in the AU Falcon is a simple 6-way automotive connector. Information on this part is sparse, but some sources note it as a 250 style connector, which is manufactured by multiple sources, such as [Narva](../../Credits.md#sources)
+The plug used for the tail light connector is known as a 250 Series Quick Connect 6-way connector. There are many manufacturers for these connectors such as [Narva](../../Credits.md#sources), and as such it should be relatively trivial to find one from an Automotive Shop
 
 ![Rear connector car loom end plug](./rear-plug-car-side.jpg)
 ![Rear connector light end plug](./rear-plug-light-side.jpg)
 
-> Pictures of the car loom end connector and the light end connector respectively
+> Pictures of the car loom end connector (female connector housing) and the light end connector (male connector housing) respectively
 
 ## Pinout
 
