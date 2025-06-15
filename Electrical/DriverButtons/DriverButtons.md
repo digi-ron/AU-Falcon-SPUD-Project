@@ -91,5 +91,5 @@ Should you need to remove the fascia on the fuel door button, e.g. when swapping
 1. Done
 
 
-<!-- TODO confirm with Nice/Bosch, Bosch part number 9 340 063 086, Nice part number BS61. brake switch present in XF-ED, fuel switch EB-BFIII. Also investigate: 7186-8845 7187-8845
+<!-- TODO confirm with Nice/Bosch, Bosch part number 9 340 063 086, Nice part number BS61. brake switch present in XF-ED, fuel switch EB-BFIII. Also investigate: 7186-8845 7187-8845. Noted as C-170 in the workshop manual connector listing, apparently between models AU-BF at least
 -->
