@@ -4,6 +4,9 @@ description: Fuel Pressure Regulator replacement steps. applicable to BA/BF/FG/F
 
 # Fuel Pressure Regulator
 
+> Information on this page focuses on the I6 model due to project not involving V8 model. Information has been added where possible but is otherwise ***incomplete indefinitely***
+{: .block-note}
+
 The fuel pressure regulator is the valve responsible for maintaining the correct fuel pressure in the fuel line, and returning any overflow fuel back into the fuel tank.
 
 ## Location
@@ -83,7 +86,7 @@ For this replacement the following equipment is required:
     > While the fuel pressure regulator is only interference fitted to the fuel pressure regulator port, due to the long lifespans of these components they are generally unable to be removed by hand. This necessitates stronger removal methods, and by extension, means that due to the damage that will likely be caused, necessitates replacement regardless of inspection.
     {: .block-note}
 
-1. On the new fuel pressure regulator, lightly lubricate the o-rings with petroleum jelly. When lubricating, ensure you do not block the valce on the bottom of the assembly
+1. On the new fuel pressure regulator, lightly lubricate the o-rings with petroleum jelly. When lubricating, ensure you do not block the valve on the bottom of the assembly
 
     > In a pinch, clean fuel can be used, however installation must be soon after lubrication in this case due to the evaporation speed of fuel
     {: .block-note}
