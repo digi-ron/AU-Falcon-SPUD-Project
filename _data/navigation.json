@@ -74,10 +74,6 @@
                     "url": "/Electrical/BrakeSwitch/BrakeSwitch.html"
                 },
                 {
-                    "title": "Cabin Fuse Panel",
-                    "url": "/Electrical/CabinFusePanel/CabinFusePanel.html"
-                },
-                {
                     "title": "Centre Console Buttons",
                     "url": "/Electrical/CentreConsoleButtons/CentreConsoleButtons.html"
                 },
@@ -275,6 +271,10 @@
         {
             "title": "Archived",
             "items": [
+                {
+                    "title": "Cabin Fuse Panel",
+                    "url": "/Archive/CabinFusePanel/CabinFusePanel.html"
+                },
                 {
                     "title": "Vehicle Verification Letters",
                     "url": "/Archive/VerificationLetter/Verification.html"
