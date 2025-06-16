@@ -49,7 +49,7 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 ![Low Plug](./low-plug.jpg)
 
-> Photo of headlight switch unit end plug (male pin connector)
+> Photo of headlight switch unit end plug (male terminal housing)
 
 #### High unit pins
 
@@ -73,4 +73,4 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 ![High Plug](./high-plug.jpg)
 
-> Photo of headlight switch unit end plug (male pin connector)
+> Photo of headlight switch unit end plug (male terminal housing)
