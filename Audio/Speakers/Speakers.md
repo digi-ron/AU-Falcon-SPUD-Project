@@ -17,11 +17,11 @@ Exceptions to this include:
 ## Plug
 The standard speakers used in the AU Falcon are known as a 250 Series Quick Connect 2-way connector. They are easy enough to identify as they have a T-shaped housing on them. There are many manufacturers for these connectors, and such it should be relatively trivial to find one from an Automotive Shop.
 
-Note that the Loom end connector is the female connector housing and that the factory speakers were fitted with male connector housings.
+Note that the Loom end connector is the female terminal housing and that the factory speakers were fitted with male terminal housings.
 
 ![Narva Quick Connect 2 way connector set](./2-way-speaker-connector.png)
 
-> Picture taken from [Narva](../../Credits.md#sources) product page for a pack of both 1 male connector housing (left) and one female connector housing (right) (product code 56272BL)
+> Picture taken from [Narva](../../Credits.md#sources) product page for a pack of both 1 male terminal housing (left) and one female terminal housing (right) (product code 56272BL)
 
 ## Further information
 
@@ -60,7 +60,10 @@ Follow the steps below to replace the front door speakers:
     > Photos of the speaker screw locations in the door assembly, and the door post-removal respectively
 
 1. Do one of the following:
-    - If keeping the original loom, create an adapter with a [male housing 2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
+    - If keeping the original loom, create or purchase an adapter with a [male housing 2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
+
+        > Manufacturers such as [Aerpro](../../Credits.md#sources) can provide these adapters at time of writing, part number ``
+
     - If modifying the loom, cut and crimp the spade connectors for your speakers onto the loom. As much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
 
         Regardless of method used, note:
