@@ -5,7 +5,7 @@ description: "- How to read Vehicle Identification Plate A.K.A. build plate code
 # Reading Vehicle Identification Plate (Build Plate) Codes
 
 ## Location
-<!-- TODO redacted image of location? -->
+
 You can find the Build plate near the [VIN Plate](../VIN/VIN.md), on the passenger side rear of the inside of the engine bay.
 
 ![Vehicle Identification Plate Location](../../Common/compliance-plates-location.jpg)
@@ -129,7 +129,7 @@ The Build plate has the following layout:
 
 ### VIN
 
-The Vehicle Indentification Number, or VIN, is printed on the build plate as redundant information. Further information can be found on the [VIN Plate Page](../VIN/VIN.md)
+The Vehicle Indentification Number, or VIN, is printed on the build plate as redundant information. Further information can be found on the [VIN Plate Page](../VIN/VIN.md#vehicle-identification-number)
 
 ### SIDO Number
 
