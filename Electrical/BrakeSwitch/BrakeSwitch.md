@@ -20,7 +20,7 @@ Diagnosis for this part is simple. Start the vehicle and put your foot lightly o
 
 Follow the below steps to replace your brake switch:
 
-> These steps are easiest completed with the driver seat removed, but can be done from the side of the car or by laying upside-down on the drive seat, depending on your flexibility
+> These steps are easiest completed with the driver seat removed, but can be done from the side of the car or by laying upside-down on the front-drivers seat, depending on your flexibility
 {: .block-note}
 
 1. Find and remove the yellow retaining pin from the end of the brake pedal shaft, located on the passenger-side of the brake pedal lever, towards the top.
