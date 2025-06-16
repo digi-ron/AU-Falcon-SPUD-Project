@@ -59,7 +59,7 @@ These relays represent the simplest form of automotive relay. Put simply, when a
 
 ### Functionality
 
-These relays are quite similar to the [4-Way Mini-ISO](#4-way-mini-iso-relay) relays, however they have another pin available, for when the relay is not switched. As a result, this is probably best not to be used for a circuit that is constantly powered, as it will likely cause a constant power leak from the car battery, even when off.
+These relays are quite similar to the [4-Way Mini-ISO](#4-way-mini-iso-relay) relays, however they have another pin available, for when the relay is not switched. As a result, this is probably best not to be used for a circuit that is constantly powered, as it will likely cause a parasitic draw from the car battery, even when off.
 
 ### Example - switching between exclusive systems
 - Connect low amperage power to pin 86
@@ -114,7 +114,7 @@ These relays function exactly the same as the [4-Way Mini-ISO relays](#4-way-min
 
 ### Functionality
 
-There is only one of these types of relays present in the AU Falcon, used for the Indicator bulb circuit within the vehicle. Power is quite simple with a caveat. When power is supplied between 12V pin 49 and the Earth on pin 31, the positive output of pin 49a will flash *depending on the wattage required for the pin*. The important caveat is simple: the OEM flasher relay is designed for 2/4x21W globes, and as such nominal operating wattages are either approx. 42W total or 84W total.
+There is only one of these types of relays present in the AU Falcon, used for the Indicator bulb circuit within the vehicle. Power is quite simple with a caveat. When power is supplied between 12V pin 49 and the Earth on pin 31, the positive output of pin 49a will flash *depending on the wattage required for the pin*. The important caveat is simple: the OEM flasher relay is designed for up to 6x21W globes across 2 circuits and a trailer circuit (sometimes denoted as `2 + 1 (6) x 21w`), and as such, changes in lighting such as LED conversion or incorrect wattage globes can damage the flasher relay and cause the indicators to flash too quickly.
 
 ### Layout
 
@@ -131,5 +131,5 @@ There is only one of these types of relays present in the AU Falcon, used for th
 ### Example - Custom work flasher lights
 - Connect high amperage power to pin 49 (switched recommended)
 - Connect ground to pin 31
-- Connect positive for auxiliary system to pin 49a (42/84W circuit recommended)
+- Connect positive for auxiliary system to pin 49a (with correct wattage configuration)
 - Connect negative for auxiliary system to ground
