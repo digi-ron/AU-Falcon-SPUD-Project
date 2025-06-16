@@ -1,10 +1,10 @@
 ---
 description: DTC (A.K.A Diagnostic Trouble Codes), and other relevant ECU/PCM Information
+hideTOC: true
 ---
 
 # DTCs
 
-## DTCs
 Below is a list of codes and descriptions that can be produced by the Diagnostic Trouble Code system:
 
 > Information cross-referenced between [Haynes](../../Credits.md#sources) and [Max Ellery](../../Credits.md#sources) Workshop manuals
