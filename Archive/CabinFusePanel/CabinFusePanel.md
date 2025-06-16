@@ -9,7 +9,7 @@ description: in-depth information on the continuity and functionality of the int
 
 # Cabin Fuse Panel
 
-> This is a more technical page, if you are simply looking for vehicle-specific fuse and relay information or minimum required fuses, see [HERE](../Fuses/Fuses.md) instead, and for general relay information, see [HERE](../Relays/Relays.md)
+> This is a more technical page, if you are simply looking for vehicle-specific fuse and relay information or minimum required fuses, see [HERE](../../Electrical/Fuses/Fuses.md) instead, and for general relay information, see [HERE](../../Electrical/Relays/Relays.md)
 {: .block-warning}
 
 > This page is a half complete mess from an idea that went as well as a lead balloon. The only reason this page still exists is due to the time it took to create, and the hope that someone can make sense of anything discovered in here. Every attempt has been made to make the notes here legible, but this is not guaranteed.
@@ -133,7 +133,7 @@ This relay is a the only full-sized 5 way relay connector present in the cabin f
 | R1-4 | 86 |
 | R1-5 | 30 |
 
-> More information: [Relays](../Relays/Relays.md#5-way-mini-iso-relay)
+> More information: [Relays](../../Electrical/Relays/Relays.md#5-way-mini-iso-relay)
 
 ### relay 2 - TAIL Relay
 
@@ -164,7 +164,7 @@ This relay is a half-size 4 way relay connector. For the following assume the fo
 > These half-size relays are generally 5-way relays rather than 4-way, however in the Original part, the pin between `R2-1` and `R2-2` (relay terminal pin number 4) has been cut off
 {: .block-note}
 
-> More information: [Relays](../Relays/Relays.md#4-way-micro-iso-relay)
+> More information: [Relays](../../Electrical/Relays/Relays.md#4-way-micro-iso-relay)
 
 ### relay 3 - DEF Relay
 
@@ -193,7 +193,7 @@ This relay is a full-size 4 way relay, for the following assume the following la
 | R3-3 | 86 |
 | R3-4 | 30 |
 
-> More information: [Relays](../Relays/Relays.md#4-way-mini-iso-relay)
+> More information: [Relays](../../Electrical/Relays/Relays.md#4-way-mini-iso-relay)
 
 ### relay 4 - P/WIN Relay
 
@@ -222,7 +222,7 @@ This relay is a full-size 4 way relay, for the following assume the following la
 | R4-3 | 86 |
 | R4-4 | 30 |
 
-> More information: [Relays](../Relays/Relays.md#4-way-mini-iso-relay)
+> More information: [Relays](../../Electrical/Relays/Relays.md#4-way-mini-iso-relay)
 
 ### relay 5 - FLSH Relay
 
@@ -246,7 +246,7 @@ This relay is a 3 way flasher relay, for the following assume the following layo
 | R5-2 | 31 |
 | R5-3 | 49 |
 
-> More information: [Relays](../Relays/Relays.md#3-way-flasher-relay)
+> More information: [Relays](../../Electrical/Relays/Relays.md#3-way-flasher-relay)
 
 ## Connector Plugs (Rear)
 
