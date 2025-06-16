@@ -42,7 +42,7 @@ The BCM can be accessed from the passenger side of the front driver footwell:
 
 There are 2 types of BCM available for the AU Falcon, the Low model and the High model. The high and low BCMs are different colours depending on the series in which they were installed, further complicating matters. Thankfully the BCM can be easily identified by colour, using the table below:
 
-> XR models and Low models with premium features added were fitted with High model BCMs, with functionality only wired in as required for the optioned features. Note that there are mixed reports that a "premium feature" necessitating a high BCM could be as minor as power windows or headlight on chimes, however this is unconfirmed.
+> XR models and Low models with premium features added were fitted with High model BCMs, with functionality only wired in as required for the optioned features. Note that there are mixed reports that a "premium feature" necessitating a high BCM could be as minor as power windows, coolant level sensors, or headlight on chimes, however this is unconfirmed.
 {: .block-note}
 
 > Information pulled from historical parts catalogue, and therefore may be incomplete
