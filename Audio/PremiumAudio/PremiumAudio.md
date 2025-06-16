@@ -171,8 +171,8 @@ The amplifier for the later model amplifiers use an AMP Multilock .070 design wi
 
 | Name | Code | Notes |
 | --- | --- | --- |
-| Male Connector Housing | 173851-1 | Loom end connector |
-| Female Connector Housing | 174933-1 | Amplifier connector |
+| Male Terminal Housing | 173851-1 | Loom end connector |
+| Female Terminal Housing | 174933-1 | Amplifier connector |
 
 ### Pin Layout
 
