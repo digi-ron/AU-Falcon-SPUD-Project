@@ -35,5 +35,5 @@ The thermo fans are the fans located directly behind the radiator, which can be 
     > Be careful of the passenger side of the thermo fan assembly, as it will foul on the thermostat housing outlet pipe if pulled directly up. Some rotation will be required
     {: .block-note}
 
-1. to reinstall, repeat all steps in reverse
+1. To reinstall, repeat all steps in reverse
 1. done
