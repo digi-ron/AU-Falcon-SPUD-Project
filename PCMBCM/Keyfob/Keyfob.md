@@ -51,7 +51,7 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 ## Changing locking mode (Smartshield models only)
 
-In the Smartshield models of AU Falcon (Late Series 1 - Series 3), a locking mode can be specified using a factory remote. To change the remote mode, simply hold down the lock and unlock buttons at the same time for approximately 3-5 seconds, the car will acknowledge with a flash of the indicators. The 2 modes available are:
+In the Smartshield models of AU Falcon ([Series 1.5](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-15) - [Series 3](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-3)), a locking mode can be specified using a factory remote. To change the remote mode, simply hold down the lock and unlock buttons at the same time for approximately 3-5 seconds, the car will acknowledge with a flash of the indicators. The 2 modes available are:
 
 - Single press (one press of the unlock button unlocks all doors)
 - Double press (one press of the unlock button unlocks the drivers door only, another press unlocks the remaining doors)
@@ -61,7 +61,9 @@ In the Smartshield models of AU Falcon (Late Series 1 - Series 3), a locking mod
 
 ## Aftermarket replacements
 
-Below is discovered information found while attempting to create a DIY aftermarket guide to creating Smartlock/Smartshield remotes using off the shelf solutions (heavy bias towards Smartlock due to higher ROI if successful):
+Below is discovered information found while attempting to create a DIY aftermarket guide to creating Smartlock/Smartshield remotes using off the shelf solutions:
+
+> This list has a heavy bias towards Smartlock replications due to higher ROI if successful at the time of writing:
 
 ### CodeEzy
 - Confirmed available aftermarket remote as model CE1009 (Product name: Idol Duplicator)
