@@ -4,6 +4,9 @@ description: fuel injector diagnosis and replacement
 
 # Fuel Injectors
 
+> Information on this page focuses on the I6 model due to project not involving V8 model. Information has been added where possible but is otherwise ***incomplete indefinitely***
+{: .block-note}
+
 ## Location
 
 The fuel injectors can be found running down the intake/passenger side of the engine, connected to the fuel rail which sits directly below the throttle body
