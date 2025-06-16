@@ -41,7 +41,7 @@ For the installation of both rear speakers, the following hardware will be requi
 
     - Flat configuration: For installation where the bottom edge of the speakers sit parallel to angle of rear seats, place driver side speaker brackets on the *top-right* and *bottom-left* mounting holes, and place passenger side brackets on the *top-left* and *bottom-right* mounting holes (while facing the speaker face)
 
-        > This configuration has a reasonably flat angle vs. the original speakers, but leaves a small gap in the rear shelf carpet on the rear side. This *does not* seem to affect functionality and is not very noticeable to the eye, but is worth noting regardless ins case this configuration is not desired.
+        > This configuration has a reasonably flat angle vs. the original speakers, but leaves a small gap in the rear shelf carpet on the rear side. This *does not* seem to affect functionality and is not very noticeable to the eye, but is worth noting regardless in case this configuration is not desired or results in degraded audio performance.
         {: .block-note}
 
 1. Align the speaker onto the bottom face of the spacer, noting the following points on positioning, then mark the locations on the 2 brackets on where the timber screws should go:
