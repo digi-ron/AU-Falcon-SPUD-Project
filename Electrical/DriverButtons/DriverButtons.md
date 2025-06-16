@@ -16,8 +16,8 @@ The plug for the lock and the boot release buttons are a 090 connector, original
 
 | Name | Part Number | Notes |
 | --- | --- | --- |
-| Female Connector Housing | 6098-0239 | Loom end connector |
-| Male Connector Housing | 6098-0240 | Button end connector |
+| Female Terminal Housing | 6098-0239 | Loom end connector |
+| Male Terminal Housing | 6098-0240 | Button end connector |
 | Female Terminal | 8240-4422 | for 0.5-1.25mm<sup>2</sup> wire |
 | Male Terminal | 8230-4282 | for 0.5-1.25m<sup>2</sup> wire |
 
@@ -43,7 +43,7 @@ The following assume you are looking at the loom end connector with the clip fac
 > The fuel release button plug specification and wiring is currently unknown, pending information from part manufacturer(s). More information is listed below as discovered
 {: .block-note}
 
-The fuel button appears to have an OEM connector which was previously present in XE-ED Falcons as the connector for the brake light switch. As a result of this, if your requirement is to simply retrofit the button end (male terminal connector housing), then the best known method to retrieve a connector housing would be to buy a BS61 Brake light switch made by the company Nice, and cut the plug from the assembly. Otherwise a replacement AU Falcon button, or a [retrofitted button from another series](#removing-the-button-fascias) will be required.
+The fuel button appears to have an OEM connector which was previously present in XE-ED Falcons as the connector for the brake light switch. As a result of this, if your requirement is to simply retrofit the button end (male terminal terminal housing), then the best known method to retrieve a terminal housing would be to buy a BS61 Brake light switch made by the company Nice, and cut the plug from the assembly. Otherwise a replacement AU Falcon button, or a [retrofitted button from another series](#removing-the-button-fascias) will be required.
 
 ### Removing the button fascias
 
@@ -55,7 +55,7 @@ Should you need to remove the fascia on the fuel door button, e.g. when swapping
 > Unlike the [Centre Console Buttons](../CentreConsoleButtons/CentreConsoleButtons.md), the fascias for these buttons *cannot* be removed without disassembling the button. While it does appear to be possible, there is not enough clearance in the housing to allow for the tabs holding the fascia in to come out.
 {: .block-warning}
 
-1. Locate and unclip the 6 small clips holding in the bottom plastic for the connector housing, noting:
+1. Locate and unclip the 6 small clips holding in the bottom plastic for the switch housing, noting:
     - It is easier to unclip the 3 clips on one side, and keep the part lifted away from the original 3 clips while undoing the opposite side 3 clips
     - The pins will come loose once the plastic is removed
 
