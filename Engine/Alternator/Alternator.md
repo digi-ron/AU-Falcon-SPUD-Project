@@ -24,8 +24,8 @@ While the alternators between series are all the same physical dimensions, the p
 | --- | --- | --- | --- | --- |
 | Jaylec 3-pin connector | `53-605` | 1 | Loom end connector | middle pin left vacant |
 | Jaylec 3 pin connector | `53-808` | 1 | Alternator end connector | middle pin left vacant |
-| Yazaki 2 pin female connector housing | `58X-2S-2` | 2-3 | lOOM END CONNECTOR | |
-| Yazaki 2 pin male connector housing | `58X-2P-2` | 2-3 | Alternator end connector | |
+| Yazaki 2 pin female terminal housing | `58X-2S-2` | 2-3 | lOOM END CONNECTOR | |
+| Yazaki 2 pin male terminal housing | `58X-2P-2` | 2-3 | Alternator end connector | |
 
 ### 5L V8
 
