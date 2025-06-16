@@ -19,7 +19,7 @@ The fuel filter is located under the Passenger side of the vehicle, near the cha
 For this replacement the following equipment is required:
 
 - 14mm spanner (flare nut preferred)
-- 19mm spanner
+- 19mm spanner (flare nut preferred)
 - 2x small flat head screwdrivers
 
 In order to make the replacement easier, the following equipment is recommended:
