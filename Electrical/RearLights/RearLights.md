@@ -13,7 +13,7 @@ The plug used for the tail light connector is known as a 250 Series Quick Connec
 ![Rear connector car loom end plug](./rear-plug-car-side.jpg)
 ![Rear connector light end plug](./rear-plug-light-side.jpg)
 
-> Pictures of the car loom end connector (female connector housing) and the light end connector (male connector housing) respectively
+> Pictures of the car loom end connector (female terminal housing) and the light end connector (male terminal housing) respectively
 
 ## Pinout
 
