@@ -22,8 +22,8 @@ The 2 connectors for the Steering wheel controls (other than the blade style hor
 | --- | --- | --- |
 | Connector 4F | 12047785 | Female Terminal Housing (loom end connector) |
 | Connector 4M | 12047786 | Male Terminal Housing (button end connector) |
-| Female Terminal Unsealed - 1.0-0.8mm<sup>2</sup> | 12047767 | |
-| Male Terminal Unsealed - 1.0-0.8mm<sup>2</sup> | 12047581 | |
+| Female Terminal Unsealed | 12047767 | for 1.0-0.8mm<sup>2</sup> wire |
+| Male Terminal Unsealed | 12047581 | for 1.0-0.8mm<sup>2</sup> wire|
 
 ## Pin Layout
 
