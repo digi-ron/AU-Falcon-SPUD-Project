@@ -81,7 +81,7 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 | Name | Code | Notes |
 | --- | --- | --- |
-| Male Connector Housing | 175965-2 | Loom end connector |
+| Male terminal Housing | 175965-2 | Loom end connector |
 | Right Angle Through Hole Mount PCB Socket | 175974-2 | Cluster end connector, with right angle solder mounts behind |
 
 ![Male 12 pin connector](./male-12p.png)
@@ -98,7 +98,7 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 | Name | Code | Notes |
 | --- | --- | --- |
-| Male Connector Housing | 175966-2 | Loom end connector |
+| Male Terminal Housing | 175966-2 | Loom end connector |
 | Connector Socket | 175615-2 | Cluster end connector, with right angle solder pins behind |
 
 ![Male 16 pin connector](./male-16p.png)
@@ -125,7 +125,7 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 | Name | Code | Notes |
 | --- | --- | --- |
-| Male Connector Housing | 175967-2 | Loom end connector |
+| Male Terminal Housing | 175967-2 | Loom end connector |
 | Connector Socket | 175975-2 | Cluster end connector, with right angle solder pins behind |
 
 ![Male 20 pin connector](./male-20p.png)
@@ -134,4 +134,4 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 ![Female 20 pin connector](./female-20.png)
 
-> Female connector housing image take from [RS Components](../../Credits.md#sources) product page
+> Female Terminal housing image take from [RS Components](../../Credits.md#sources) product page
