@@ -23,7 +23,7 @@ In order to ensure accurate speedometer readings without resorting to speedomete
 
 ### Getting the change in tyre size
 
-first you will need the change in diameter between the old tyre size and the new tyre size. Use the formula below for reference:
+First you will need the change in diameter between the old tyre size and the new tyre size. Use the formula below for reference:
 
 `T = ([T2] - [T1]) / [T1] * 100`
 
