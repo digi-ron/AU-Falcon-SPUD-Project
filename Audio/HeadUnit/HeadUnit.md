@@ -4,7 +4,7 @@ description: Head Unit information
 
 # Head Unit
 
-> Information on this page is incomplete due to lack of information found in research. Any information found is present, but may not assist with specifics such as plug connector housing part numbers and additional feature pinout information.
+> Information on this page is incomplete due to lack of information found in research. Any information found is present, but may not assist with specifics such as terminal housing part numbers and additional feature pinout information.
 {: .block-note}
 
 ## Security Code
@@ -23,7 +23,16 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 
 - Connector has 20 pins total, 14 pins required for functioning of aftermarket headunit
 - Pin sizes vary, with pins 3-6 and 9-20 having smaller pin sizing and pins 1-2 and 7-8 containing larger pins
-- Aftermarket loom components only appear to be manufactured by [Aerpro](../../Credits.md#sources) as of time of writing, and are seemingly custom manufactured to be fit for purpose.
+- Aftermarket loom components only appear to be manufactured by [Aerpro](../../Credits.md#sources) as of time of writing, and are seemingly custom manufactured to be fit for purpose. Part numbers listed below:
+
+> ISO is a universal standard plug which can be used to adapt to other brands (e.g. Kenwood, Sony, Pioneer, etc.)
+
+| Description | Product Code | Notes |
+| --- | --- | --- |
+| OEM to ISO loom | APP053 | Basic loom, cheapest and easiest "plug and play" solution |
+| OEM to ISO loom w/ Steering Controls | CHAU23C | for use with [Steering Wheel Media Buttons](../../Electrical/SteeringControls/SteeringControls.md#media-control-side) |
+| OEM Connector loom - Male terminal housing | AP1053 | Identical to plug on factory head unit side |
+| OEM Connector loom - Female terminal housing | 711053 | Identical to plug on loom side |
 
 > For the following information, assume you are looking at the loom end connector, with the clip facing up
 {: .block-note}
@@ -59,7 +68,7 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 
 ## Pin Wiring
 
-> For EAI Wire Colour, this is the "universal standard" colours within an aftermarket loom wiring harness. Colours in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#sources), Product code `711053`
+> For EAI Wire Colour, this is the "universal standard" colours within an aftermarket loom wiring harness. Colours in brackets are based on a rewiring loom kit from [Aerpro](../../Credits.md#sources)
 {: .block-note}
 
 > Every effort has been made to make this information accurate, however wire colours may be different depending on series
