@@ -111,8 +111,8 @@ Follow the steps below to repair or replace the Door Lock Actuator:
     
 1. Apply a moderate amount of grease to the:
     - Cog (put a little on and spin the cog back and forth to lubricate the motor)
-    - The spring (mostly near the stoppers)
-    - The pin ring
+    - Springs (mostly near the stoppers)
+    - Pin ring
 1. Reassemble the back of the housing casing and zip tie the electrical connectors back to the plastic backing, and reinstall the actuator back into the car, ensuring:
     - That the inside door handle cable is installed back to the actuator before inserting into the door completely
     - You screw all 3 bolts on the striker
