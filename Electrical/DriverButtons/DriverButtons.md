@@ -43,16 +43,26 @@ The following assume you are looking at the loom end connector with the clip fac
 > The fuel release button plug specification and wiring is currently unknown, pending information from part manufacturer(s). More information is listed below as discovered
 {: .block-note}
 
-The fuel button appears to have an OEM connector which was previously present in XE-ED Falcons as the connector for the brake light switch. As a result of this, if your requirement is to simply retrofit the button end (male terminal terminal housing), then the best known method to retrieve a terminal housing would be to buy a BS61 Brake light switch made by the company Nice, and cut the plug from the assembly. Otherwise a replacement AU Falcon button, or a [retrofitted button from another series](#removing-the-button-fascias) will be required.
+The following is known about the connectors for the fuel button, however no part number or original manufacturer has been discerned:
 
-### Removing the button fascias
+- Confirmed used in XE-ED Falcons as the Brake Light Switch connector
+  - Bosch part number `9 340 063 086` (confirmed no further information)
+  - Nice part number `BS61` (unconfirmed)
+- Confirmed used as fuel button release switch connector from EB-BFIII Falcons, but [button cap requires replacement for fitment](#removing-the-button-caps)
+- Suspected used in some Toyota models for brake light circuit cruise control functionality:
+    - Models:
+      - Corona/Avante RT142 & ST 141 (1983-1987)
+      - MR2 AW11 (1987-1989)
+    - [Tridon](../../Credits.md#sources) part number `TBS063` (confirmed product discontinued and price prohibitive)
 
-Should you need to remove the fascia on the fuel door button, e.g. when swapping from a button assembly from a BA/BF Falcon, follow the instructions below:
+### Removing The Button Caps
+
+Should you need to remove the cap on a fuel door button, e.g. when swapping from a button assembly from a EB-EL or BA/BF Falcon, follow the instructions below:
 
 > Images are taken from an already broken AU Falcon button, to prevent damage to good parts. Refer to the [parts sharing table](../../Miscellaneous/PartsSharing/PartsSharing.md#parts-sharing-table) for compatible model buttons
 {: .block-note}
 
-> Unlike the [Centre Console Buttons](../CentreConsoleButtons/CentreConsoleButtons.md), the fascias for these buttons *cannot* be removed without disassembling the button. While it does appear to be possible, there is not enough clearance in the housing to allow for the tabs holding the fascia in to come out.
+> Unlike the [Centre Console Buttons](../CentreConsoleButtons/CentreConsoleButtons.md), the caps for these buttons *cannot* be removed without disassembling the button. While it does appear to be possible, there is not enough clearance in the housing to allow for the tabs holding the tabs on the button cap to come out.
 {: .block-warning}
 
 1. Locate and unclip the 6 small clips holding in the bottom plastic for the switch housing, noting:
@@ -91,5 +101,5 @@ Should you need to remove the fascia on the fuel door button, e.g. when swapping
 1. Done
 
 
-<!-- TODO confirm with Nice/Bosch, Bosch part number 9 340 063 086, Nice part number BS61. brake switch present in XF-ED, fuel switch EB-BFIII. Also investigate: 7186-8845 7187-8845. Noted as C-170 in the workshop manual connector listing, apparently between models AU-BF at least
+<!-- TODO investigate: 7186-8845 7187-8845. Noted as C-170 in the workshop manual connector listing, apparently between models AU-BF at least
 -->
