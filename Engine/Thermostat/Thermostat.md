@@ -33,7 +33,7 @@ Replacing the thermostat in an AU Falcon is a very simple job to do. Follow the 
 
     ![Assembled thermostat](./assembled-thermostat.jpg)
 
-    > Photo of assembled thermostat
+    > Photo of assembled thermostat. This particular part is a high-flow thermostat manufactured by [Tridon](../../Credits.md#sources)
 
 1. (optional) drain radiator and overflow tank to at below where the top radiator pipe meets the radiator
 
