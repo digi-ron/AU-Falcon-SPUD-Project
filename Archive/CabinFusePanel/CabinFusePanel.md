@@ -2,12 +2,12 @@
 description: in-depth information on the continuity and functionality of the interior cabin fuse box
 ---
 
+# Cabin Fuse Panel
+
 > This information is no longer relevant, left as-is with no updates planned as of 16/06/2025. 
 > 
 > REASON: This information is no longer maintained, and has proven to be of no feasible use.
 {: .block-warning}
-
-# Cabin Fuse Panel
 
 > This is a more technical page, if you are simply looking for vehicle-specific fuse and relay information or minimum required fuses, see [HERE](../../Electrical/Fuses/Fuses.md) instead, and for general relay information, see [HERE](../../Electrical/Relays/Relays.md)
 {: .block-warning}
