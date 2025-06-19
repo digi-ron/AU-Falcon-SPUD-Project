@@ -1,41 +1,43 @@
-<div class="printHide" style="position:relative">
-    <input type="search" id="search" placeholder="Search for a page...">
-    <br />
-    <div id="searchResultsSection">
-        {% for firstItem in site.data.navigation.mainNav %}
-            {% for secondItem in firstItem.items %}
-                <a href="{{ secondItem.url | relative_url }}"><div class="searchResult">{{ secondItem.title }}</div></a>
-                {% for thirdItem in secondItem.items %}
-                    <a href="{{ thirdItem.url | relative_url }}"><div class="searchResult">{{ thirdItem.title }}</div></a>
+{% if page.hideSearch != true %}
+    <div class="printHide" style="position:relative" id="siteSearch">
+        <input type="search" id="search" placeholder="Search for a page...">
+        <br />
+        <div id="searchResultsSection">
+            {% for firstItem in site.data.navigation.mainNav %}
+                {% for secondItem in firstItem.items %}
+                    <a href="{{ secondItem.url | relative_url }}"><div class="searchResult">{{ secondItem.title }}</div></a>
+                    {% for thirdItem in secondItem.items %}
+                        <a href="{{ thirdItem.url | relative_url }}"><div class="searchResult">{{ thirdItem.title }}</div></a>
+                    {% endfor %}
                 {% endfor %}
             {% endfor %}
-        {% endfor %}
-    </div>
-    <script>
-        const searchInput = document.getElementById("search");
-        const searchResultsContainer = document.getElementById("searchResultsSection");
-        searchInput.addEventListener("blur", function() {
-        setTimeout(() => {
-            searchResultsContainer.style.display = "none";
-        }, 200);
-        })
-        searchInput.addEventListener("input", function() {
-            if (searchInput.value.length < 2) {
+        </div>
+        <script>
+            const searchInput = document.getElementById("search");
+            const searchResultsContainer = document.getElementById("searchResultsSection");
+            searchInput.addEventListener("blur", function() {
+            setTimeout(() => {
                 searchResultsContainer.style.display = "none";
-                return;
-            }
-            const searchText = searchInput.value.toLowerCase();
-            const results = searchResultsContainer.children;
-            for (let i = 0; i < results.length; i++) {
-                const currentElm = results[i];
-                if(currentElm.innerText.toLowerCase().includes(searchText)) {
-                    currentElm.style.display = "block";
-                } else {
-                    currentElm.style.display = "none";
+            }, 200);
+            })
+            searchInput.addEventListener("input", function() {
+                if (searchInput.value.length < 2) {
+                    searchResultsContainer.style.display = "none";
+                    return;
                 }
-            }
-            searchResultsContainer.style.display = "block";
-        });
-    </script>
-</div>
-<hr />
+                const searchText = searchInput.value.toLowerCase();
+                const results = searchResultsContainer.children;
+                for (let i = 0; i < results.length; i++) {
+                    const currentElm = results[i];
+                    if(currentElm.innerText.toLowerCase().includes(searchText)) {
+                        currentElm.style.display = "block";
+                    } else {
+                        currentElm.style.display = "none";
+                    }
+                }
+                searchResultsContainer.style.display = "block";
+            });
+        </script>
+    </div>
+    <hr />
+{% endif %}
