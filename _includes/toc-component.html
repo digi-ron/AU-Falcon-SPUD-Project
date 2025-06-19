@@ -1,54 +1,108 @@
-<div id="tableOfContents" class="printHide">
-    <div id="toc"></div>
-    <noscript><p class="block-warning">Enable JavaScript to use the table of contents</p></noscript>
-    <hr/>
-</div>
+{% if page.hideTOC != true %}
+    <div id="fixedbox-left" class="printHide">
+        <div id="tableOfContents">
+            <div id="toc"></div>
+            <noscript><p class="block-warning">Enable JavaScript to use the table of contents</p></noscript>
+            <hr/>
+        </div>
+    </div>
+    <style>
+        @media screen and (min-width: 900px) {
 
-<script>
-    function tocGenerator(level, heading) {
-    const items = [];
-    const output = document.createElement("li");
-    let focusElm = output;
-    for(let i = 1; i <= level; i++) {
-        if (i < level) {
-        const ul = document.createElement("ul");
-        const li = document.createElement("li");
-        ul.appendChild(li);
-        focusElm.appendChild(ul);
-        focusElm.style.listStyleType = "none";
-        focusElm = li;
+            #fixedbox-left {
+                position: fixed;
+                top: 130px;
+                bottom: 130px;
+                right: 0;
+                width: 33%;
+                overflow-y: auto;
+                overflow-x: hidden;
+                text-overflow: ellipsis;
+                padding: 5px;
+                transition: height 0.3s ease;
+            }
+
+            #tableOfContents {
+                height: auto;
+                border: 1px dotted green;
+                padding: 5px;
+            }
+
+            #tableOfContents hr {
+                display:none;
+            }
+
+            .markdown-body {
+                padding: 0;
+                max-width: 95%;
+            }
+
+            .markdown-content > *, #pageTopSection, .h1 {
+                width: 67% !important;
+                float: left;
+            }
         }
-    }
+    </style>
+    <script>
+        function tocGenerator(level, heading) {
+            const items = [];
+            const output = document.createElement("li");
+            let focusElm = output;
+            for(let i = 1; i <= level; i++) {
+                if (i < level) {
+                const ul = document.createElement("ul");
+                const li = document.createElement("li");
+                ul.appendChild(li);
+                focusElm.appendChild(ul);
+                focusElm.style.listStyleType = "none";
+                focusElm = li;
+                }
+            }
 
-    const link = document.createElement("a");
-    link.href = "#" + heading.id;
-    link.textContent = heading.textContent;
-    focusElm.appendChild(link);
+            const link = document.createElement("a");
+            link.href = "#" + heading.id;
+            link.textContent = heading.textContent;
+            focusElm.appendChild(link);
 
-    return output;
+            return output;
 
-    }
+        }
 
-    document.addEventListener("DOMContentLoaded", function() {
-    const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
+        document.addEventListener("DOMContentLoaded", function() {
+            const headings = document.querySelectorAll("h2, h3, h4, h5, h6");
 
-    if (headings.length > 0 && document.getElementById("toc")) {
-        const breakline = document.createElement("hr");
-        breakline.classList.add("printHide");
-        document.getElementById("toc").appendChild(breakline);
-        const tocTitle = document.createElement("p");
-        tocTitle.textContent = "Table of Contents";
-        tocTitle.classList.add("toc-title");
-        document.getElementById("toc").appendChild(tocTitle);
-        const toc = document.createElement("ul");
-        headings.forEach(heading => {
-            const toplevelli = document.createElement("li");
-            const level = parseInt(heading.tagName[1]);
-            const tocItem = tocGenerator(level, heading);
-            toc.appendChild(tocItem);
+            if (headings.length > 0 && document.getElementById("toc")) {
+                //generate table of contents
+
+                const tocContainer = document.getElementById("toc");
+                const breakline = document.createElement("hr");
+                breakline.classList.add("printHide");
+                tocContainer.appendChild(breakline);
+                const tocTitle = document.createElement("p");
+                tocTitle.textContent = "Table of Contents";
+                tocTitle.classList.add("toc-title");
+                tocContainer.appendChild(tocTitle);
+                const toc = document.createElement("ul");
+                headings.forEach(heading => {
+                    const toplevelli = document.createElement("li");
+                    const level = parseInt(heading.tagName[1]);
+                    const tocItem = tocGenerator(level, heading);
+                    toc.appendChild(tocItem);
+                });
+
+                tocContainer.appendChild(toc);
+
+                // set scroll animation to avoid footer overlap
+                const tocParent = document.getElementById("tableOfContents");
+                document.documentElement.addEventListener("scroll", function() {
+                    console.log("xP: " + window.scrollY);
+                    console.log("height: " + document.body.scrollHeight);
+                    if( window.scrollY - 130 <= document.body.scrollHeight - window.screen.height - 130) {
+                        console.warn("Scroll position is within the content area.");
+                    }
+                })
+
+            }
         });
-
-        document.getElementById("toc").appendChild(toc);
-    }
-    });
-</script>
+    </script>
+{% endif %}
