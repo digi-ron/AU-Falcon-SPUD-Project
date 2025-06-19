@@ -9,7 +9,7 @@ The accessory plug is a blue plug that was 1 of 2 plugs initially intended for t
 
 ![Narva plug image (from website)](./narva-plug.png)
 
-> Image taken from [Narva](../../Credits.md#sources) product page for part number 56274BL
+> Image taken from [Narva](../../Credits.md#sources) product page for part number `56274BL`
 
 ![Accessory Connector](./blue-acc-plug.jpg)
 
