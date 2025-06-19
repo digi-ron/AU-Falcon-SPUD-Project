@@ -59,7 +59,9 @@
         {% include toc-component.html %}
       {% endif %}
 
-      {{ content }}
+      <div id="body">
+        {{ content }}
+      </div>
 
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
@@ -68,8 +70,6 @@
   </body>
   <footer class="printHide">
     <hr />
-    <hr />
-    <br />
     <table class="container-lg">
       <tr>
         <td>
@@ -90,7 +90,6 @@
       </tr>
     </table>
     <hr/>
-    <br/>
     <table>
       <tr>
         <td></td>
@@ -103,7 +102,6 @@
         <td></td>
       </tr>
     </table>    
-    <br />
     <hr />
   </footer>
 </html>
