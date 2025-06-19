@@ -35,31 +35,29 @@
     </script>
   </head>
   <body>
+    <div class="container-lg px-3 my-5">
+      
+    </div>
     <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-        <p class="printHide maintitle">
-          <a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a>
-        </p>
-      {% endif %}
+      
 
-      {% if page.hidePrint != true %}
-        <div class="printHide">
-          <button style="margin: 0 auto; display:block;" id="printbutton" onclick="window.print()">🖨 print this page</button>
-          <br />
-        </div>
-      {% endif %}
+      <div id="pageTopSection">
+        {% if site.title and site.title != page.title %}
+          <p class="printHide maintitle">
+            <a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a>
+          </p>
+        {% endif %}
 
-      {% if page.hideSearch != true %}
+        {% include print-component.html %}
+
         {% include searchbox-component.html %}
-      {% endif %}
+      </div>
+
+      {% include toc-component.html %}
 
       <p class="h1">{{ page.title }}</p>
 
-      {% if page.hideTOC != true %}
-        {% include toc-component.html %}
-      {% endif %}
-
-      <div id="body">
+      <div class="markdown-content">
         {{ content }}
       </div>
 
