@@ -62,7 +62,7 @@ Follow the steps below to replace the front door speakers:
 1. Do one of the following:
     - If keeping the original loom, create or purchase an adapter with a [male housing 2 way quick connector](#plug) on one end, and the spade connectors for your speakers on the other
 
-        > Manufacturers such as [Aerpro](../../Credits.md#sources) can provide these adapters at time of writing, part number ``
+        > Manufacturers such as [Aerpro](../../Credits.md#sources) can provide these adapters at time of writing, part number `APS58`
 
     - If modifying the loom, cut and crimp the spade connectors for your speakers onto the loom. As much slack as possible should be secured to the door or the back of the speaker, to avoid interference with other components
 
