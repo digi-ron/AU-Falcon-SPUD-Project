@@ -18,3 +18,4 @@ below is a list of other notes regarding the AU Falcon, which were not important
   - VOL2: `0909464979`
 - Pre-Catalytic Converter Oxygen sensor has a 22mm nut. Specialty tools are available through automotive retailers but a well placed adjustable spanner with a 25mm max size has been proven to work.
 - [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) Lower control arms (09/99 - 04/00) hard to find at time of writing. S1 recommendation is to replace the ball joint/bush(es) rather than the arm due to supply difficulties
+- Transmission between column shift and floor shift automatics appear to have different mounting locations for shift linkages. Bell housing appears to be only big difference that would require replacing to adapt between the 2
