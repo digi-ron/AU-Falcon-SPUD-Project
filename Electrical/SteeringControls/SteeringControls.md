@@ -18,7 +18,7 @@ While there is no difference between the steering controls on AU Falcons/Fairlan
 
 The 2 connectors for the Steering wheel controls (other than the blade style horn connector) were originally manufactured by a company known as Delphi as part of the 150 Series of Connectors. While the manufacturer is now known as Aptiv, the following product codes are still relevant, and can be purchased from online marketplaces such as [AliExpress](../../Credits.md#sources)
 
-| Name | Code | Notes |
+| Name | Product Number | Notes |
 | --- | --- | --- |
 | Connector 4F | 12047785 | Female Terminal Housing (loom end connector) |
 | Connector 4M | 12047786 | Male Terminal Housing (button end connector) |
