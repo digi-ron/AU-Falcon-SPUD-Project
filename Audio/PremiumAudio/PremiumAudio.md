@@ -169,7 +169,7 @@ The following information is know about the premium audio amplifier from later m
 
 The amplifier for the later model amplifiers use an AMP Multilock .070 design with the following details:
 
-| Name | Code | Notes |
+| Name | Product Number | Notes |
 | --- | --- | --- |
 | Male Terminal Housing | 173851-1 | Loom end connector |
 | Female Terminal Housing | 174933-1 | Amplifier connector |
