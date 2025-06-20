@@ -15,7 +15,7 @@ The trailer plug is the plug that allows for the connection of either a [round 7
 
 ## Plug Information
 
-| Name | Code | Notes |
+| Name | Product Number | Notes |
 | --- | --- | --- |
 | Female Housing | 6090-1021 | Car loom end connector |
 | Male Connector | 6090-1051 | Trailer adapter end connector |
