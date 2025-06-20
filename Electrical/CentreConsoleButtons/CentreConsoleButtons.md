@@ -40,7 +40,7 @@ If you wish to replace or "upgrade" button(s) on a [Series 1](../../Miscellaneou
 
 ## Plug Information
 
-| Name | Code | Notes |
+| Name | Product Number | Notes |
 | --- | --- | --- |
 | Female Housing | 7122-1300 | Button end connector |
 | Male Connector | 7123-1300 | Loom end connector |
