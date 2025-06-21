@@ -78,6 +78,10 @@
                     "url": "/Electrical/CentreConsoleButtons/CentreConsoleButtons.html"
                 },
                 {
+                    "title": "Digital Clock",
+                    "url": "/Electrical/BaseClock/BaseClock.html"
+                },
+                {
                     "title": "Driver-Side Interior Buttons",
                     "url": "/Electrical/DriverButtons/DriverButtons.html"
                 },
