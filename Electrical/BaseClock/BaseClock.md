@@ -46,13 +46,10 @@ There are some Ford models which contain the same clock as the AU Falcon, which 
 > Most of these models are international, and as a result may cost more than AU Falcon parts. This is here as a supplement should Falcon parts become scarce
 {: .block-note}
 
-<!-- TODO remove E* falcon if the wiring is just a multilock -->
-
 | Make | Model | Years | Best-Fit model(s) | Notes |
 | --- | --- | --- | --- | --- |
 | Ford | Crown Victoria | 1998-2002 | S1-1.5 | LED Green numbering. Clock assumed removed 2003-2011 |
 | Ford | Courier | 1999-2006 | S1-1.5 | LED Green/White numbering. Model is identical to Mazda Bravo |
-| Ford | Falcon | 1994-1998 | N/a (wiring only) | Listed as available in Australia |
 | Ford | Mustang | 1994-2004 | S1-1.5 | LED Blue numbering |
 | Ford | Taurus | 1993-1995 | S1-1.5 | LED Green numbering |
 | Ford | Territory | 2004-2011 | S2-3 | LCD display with generally coloured backlight. Buttons are larger than AU Falcon clock button holes so centre dash or clock will require [modification for fitment](#series-2-3---replacing-the-cover-on-the-digital-clock) |
