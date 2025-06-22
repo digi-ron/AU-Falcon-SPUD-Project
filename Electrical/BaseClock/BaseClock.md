@@ -4,8 +4,6 @@ description: Information on the basic clock available on all low models
 
 # Digital Clock
 
-<!-- TODO pics -->
-
 Most trim levels of AU Falcon contain a small digital clock, which is a standalone digital clock which sits above the [Head unit](../../Audio/HeadUnit/HeadUnit.md) and Air Conditioner Controls. It is a small and simple clock that only requires power and trigger wires where required.
 
 ## Variations
@@ -17,21 +15,33 @@ LED:
 - Identified by coloured numbers on an otherwise blackened display and round buttons
 - Commonly found in [Non-Falcon models](#other-models)
 - Fitted to the S1 and S1.5 AU Falcons
+- 8/8 plug pins present (5 used)
+- OEM - Fudian
 
 ![Series 1 LED Clock](./s1-clock.jpg)
 > Picture of a Series 1 digital clock assembly
+
+![Series 1 LED Clock Plug](./s1-clock-rear-plug.jpg)
+> Picture of the plug on the rear of the Series 1 clock assembly
 
 LCD:
 - Uses a newer LCD style display, similar to odometers in the AUII-BFIII Falcon Instrument cluster
 - Identified by black numbers on a backlit grey display (backlight colour determines background tint from grey) and small square buttons
 - Specific clock unique to the S2 and S3 AU Falcons
+- Thinner than the S1-1.5 counterparts
+- 4/8 pins present (4 used)
+- OEM - VDO Australia
 
 ![Series 2 LCD Clock](./s2-clock.jpg)
 > Picture of a Series 3 digital clock assembly (identical to Series 2)
 
+![Series 2 LCD Clock Plug](./s2-clock-rear-plug.jpg)
+> Picture of the plug on the rear of the Series 2-3 clock assembly
+
 ## Exceptions
 
 There are 2 subsets of AU Falcon that *do not* have the digital clock installed, which are:
+
 - Some low model [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) vehicles (typically Forte/Futura, contains a small blanking plate that says "falcon")
 
     > There are conflicting reports that Series 1 AU Falcons fitted with the [low BCM](../../PCMBCM/BCM/BCM.md#model-variations) have no clock wiring present, and may require custom wiring to fit a clock behind this blanking plate
@@ -82,7 +92,6 @@ The following information assumes you are looking at the connector on the back o
 | --- | --- | --- | --- |
 | **`05`** | **`06`** | **`07`** | **`08`** |
 
-
 ### Series 1
 
 > TBD. This is reportedly the same as [Series 2-3 Wiring](#series-2-3) except for one additional trigger wire (Brown)
@@ -105,12 +114,12 @@ The following information assumes you are looking at the connector on the back o
 
 | Pin | Function | Notes |
 | --- | --- | --- |
-| 01 | N/a | blank |
-| 02 | N/a | blank |
+| 01 | N/a | no pin |
+| 02 | N/a | no pin |
 | 03 | GND | |
 | 04 | 12v + | |
-| 05 | N/a | blank |
-| 06 | N/a | blank |
+| 05 | N/a | no pin |
+| 06 | N/a | no pin |
 | 07 | Illumination (+ assumed) | |
 | 08 | Headlight trigger | |
 
@@ -141,7 +150,7 @@ If you own a Series 2-3 digital clock that has failed electrically, and due to e
 
     ![PCB-post-removal](./s2-pcb-removed-zebra.jpg)
 
-    > Picture of the removed PCB sitting inverted on the front plastic. Note the additional parts between the PCB and the PCD screen
+    > Picture of the removed PCB sitting inverted on the front plastic. Note the additional parts between the PCB and the LCD screen
 
     ![Front case inner](./s2-front-case.jpg)
 
