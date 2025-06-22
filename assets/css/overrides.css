@@ -152,6 +152,12 @@ h1 {
     color: black;
 }
 
+@media screen and (min-width: 1000px) {
+    .markdown-body {
+        max-width: 67%;
+    }
+}
+
 @media print {
     html, body, footer, table, th, td {
         background: white;
