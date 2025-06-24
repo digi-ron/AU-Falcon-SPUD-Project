@@ -1,5 +1,6 @@
 ---
 description: " - Uncategorized notes not requiring a dedicated page"
+hideTOC: true
 ---
 
 # Miscellaneous Notes
