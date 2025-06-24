@@ -1,5 +1,6 @@
 ---
 description: how to get an official Ford Verification Letter. Will work with other similar models
+hideTOC: true
 ---
 
 # Verification Letters

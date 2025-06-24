@@ -1,5 +1,6 @@
 ---
 description: PCM Relearn procedure
+hideTOC: true
 ---
 
 # PCM Relearn

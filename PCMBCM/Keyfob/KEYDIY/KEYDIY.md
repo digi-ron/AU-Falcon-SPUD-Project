@@ -1,5 +1,6 @@
 ---
 description: keyfob cloning instructions using a KEYDIY branded keyfob and programmer
+hideTOC: true
 ---
 
 # Manufacturer Specific Instructions - KEYDIY

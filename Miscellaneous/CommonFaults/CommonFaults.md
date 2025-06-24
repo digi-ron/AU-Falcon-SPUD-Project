@@ -1,5 +1,6 @@
 ---
 description: " common faults"
+hideTOC: true
 ---
 
 # Common Faults

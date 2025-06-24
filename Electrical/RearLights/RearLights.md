@@ -1,5 +1,6 @@
 ---
 description: tail light/rear light assembly plug information
+hideTOC: true
 ---
 
 # Rear Lights Connector

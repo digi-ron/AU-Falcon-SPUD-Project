@@ -1,5 +1,6 @@
 ---
 description: Keyfob cloning instructions using a CodeEzy branded universal keyfob (Smartlock only)
+hideTOC: true
 ---
 
 # Manufacturer Specific Instructions - CodeEzy

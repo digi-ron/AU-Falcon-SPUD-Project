@@ -1,5 +1,6 @@
 ---
 description: PCM (ECU equivalent) location and general information
+hideTOC: true
 ---
 
 # PCM

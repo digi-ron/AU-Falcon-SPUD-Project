@@ -1,5 +1,6 @@
 ---
 description: "- Educated guess lifespans for common maintenance components. Likely partially useful for various models of vehicle"
+hideTOC: true
 ---
 
 # Component lifespans

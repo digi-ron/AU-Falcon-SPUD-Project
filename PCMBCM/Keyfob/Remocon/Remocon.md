@@ -1,5 +1,6 @@
 ---
 description: Keyfob cloning instructions using a Remocon branded keyfob and programmer (Smartlock only)
+hideTOC: true
 ---
 
 # Manufacturer Specific Instructions - Remocon

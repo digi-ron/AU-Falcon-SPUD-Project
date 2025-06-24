@@ -1,12 +1,13 @@
 ---
 description: information on the 12V accessory plug (cigarette lighter socket). Applies to EA/EB/ED/EF/EL/AU/BA/BF Falcons and SX/SY Territory models
+hideTOC: true
 ---
 
 # 12V Accessory Power Source (Cigarette Lighter)
 
 The 12V accessory plug on the AU Falcon is located in the bottom of the centre dash inside the cabin, and while it was historically used for a Cigarette lighter (fitted as standard), the AU Falcon was the last Falcon model to come with this and ashtrays fitted, with BA/BF Falcon and SX/SY Territory models available with a "smoker's pack" option as required, which was later phased out entirely by the release of the FG/FGX Falcons and SZ Territory
 
-## Plug Type
+## Plug Type options
 
 The 12v Accessory plug in the AU Falcon uses a connector housing with 2 terminals, a Positive 6.3mm terminal, and a Ground 4.8mm terminal, in a right angle configuration. Should you wish to manufacture a loom for the 12V Accessory to other devices, there are a few possible known options available, listed below:
 

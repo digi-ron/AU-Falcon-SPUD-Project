@@ -1,5 +1,6 @@
 ---
 description: thermostat replacement instructions
+hideTOC: true
 ---
 
 # Thermostat
