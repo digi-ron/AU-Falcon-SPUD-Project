@@ -42,7 +42,7 @@ LCD:
 
 There are 2 subsets of AU Falcon that *do not* have the digital clock installed, which are:
 
-- Some low model [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) vehicles (typically Forte/Futura, contains a small blanking plate that says "falcon")
+- Some low model [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) vehicles (typically Forte/Futura, contains a small blanking plate that says "falcon" with the requisite wiring behind the centre dash)
 
     > There are conflicting reports that Series 1 AU Falcons fitted with the [low BCM](../../PCMBCM/BCM/BCM.md#model-variations) have no clock wiring present, and may require custom wiring to fit a clock behind this blanking plate
     {: .block-note}
