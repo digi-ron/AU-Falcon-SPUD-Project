@@ -7,7 +7,7 @@ description: " - Uncategorized notes not requiring a dedicated page"
 below is a list of other notes regarding the AU Falcon, which were not important or detailed enough to require a dedicated page. The list is in dot point format for brevity:
 
 - Door entry scuff plate screw identified as 10G X 16mm Metal Screws. Prone to rust, galvanized replacement recommended (avoid self-tapping screws if possible)
-- Lock/Ignition key identified as 6-cut Tibbe Key, common in Jaguar vehicles from a similar time, as well as EA-EF and BA Falcons. [Smartlock](../../PCMBCM/Keyfob/Keyfob.md#s1-smartlock) fitted models only need to be cut physically, [Smartshield](../../PCMBCM/Keyfob/Keyfob.md#s2s3-smartshield) fitted models require secure code chip generation (key unknown)
+- Lock/Ignition key identified as 6-cut Tibbe Key, common in Jaguar vehicles from a similar time, as well as EA-EF and BA Falcons. [Smartlock](../../PCMBCM/Keyfob/Keyfob.md#s1-smartlock) fitted models only need to be cut physically, [Smartshield](../../PCMBCM/Keyfob/Keyfob.md#s2s3-smartshield) fitted models require secure code chip generation (key unknown). Killswitch recommended for S1 vehicles.
 - Idle RPM with [ISC](../../Engine/ISC/ISC.md) disconnected should be about 500RPM, remainder is handled by [PCM](../../PCMBCM/PCM/PCM.md) tune settings
 - Ignition, [BCM](../../PCMBCM/BCM/BCM.md), and [PCM](../../PCMBCM/PCM/PCM.md) are linked, re-pairing for single component change not easily viable, smartlock bypass module for S1 or J3 chip for S2/3 cheapest known methods
 - Ignition leads average 4.5 KΩ resistance
