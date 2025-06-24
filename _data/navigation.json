@@ -62,6 +62,10 @@
             "title": "Electrical",
             "items": [
                 {
+                    "title": "12V Accessory Power Outlet (Cigarette Lighter)",
+                    "url": "/Electrical/12VAccessory/12VAccessory.html"
+                },
+                {
                     "title": "Accessory Plug (blue under-dash connector)",
                     "url": "/Electrical/AccessoryPlug/AccessoryPlug.html"
                 },
