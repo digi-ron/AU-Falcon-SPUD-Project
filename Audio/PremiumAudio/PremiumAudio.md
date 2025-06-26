@@ -5,7 +5,7 @@ description: "Premium Audio Information"
 # Premium Audio System
 
 > Information on this page is incomplete due to lack of resources
-{: block-note}
+{: .block-note}
 
 Some models of the AU Falcon were optioned with the Premium Audio System, which improves the audio solution of the vehicle by adding an external amplifier and a subwoofer. This is easier to find in the "Upmarket" models of the vehicle, such as the Fairmont GHIA or Fairlane, however any model could be optioned with it, assuming it was requested at the time of original purchase.
 
@@ -155,6 +155,9 @@ The following information is know about the premium audio amplifier from later m
 > The information shown here was added due to the higher quantity of cars produced with the later model of amplifier. Similar sound quality *should* be possible but *has not* been tested to confirm
 {: .block-note}
 
+> This section is currently *untested*. Additional steps may be required
+{: .block-warning}
+
 ### Specifications
 
 | Information | Notes |
@@ -163,7 +166,6 @@ The following information is know about the premium audio amplifier from later m
 | Channels | 1 |
 | Wattage | 100W Standard, 150W Max. |
 | Connection | Subwoofer only |
-| Availability | Same amplifier as BA Falcon |
 
 ### Plug type
 
