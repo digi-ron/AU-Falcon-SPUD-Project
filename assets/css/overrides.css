@@ -113,6 +113,10 @@ font-weight: bold;
     border: 1px solid #8b0000 !important;
 }
 
+.block-note, .block-warning {
+    border-radius: 5px;
+}
+
 li > blockquote {
     margin-top:10px !important;
 }
