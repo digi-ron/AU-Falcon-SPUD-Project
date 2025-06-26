@@ -7,24 +7,25 @@
         </div>
     </div>
     <style>
-        @media screen and (min-width: 900px) {
+        @media screen and (min-width: 1000px) {
 
             #fixedbox-left {
                 position: fixed;
-                top: 130px;
-                bottom: 130px;
-                right: 0;
-                width: 33%;
+                top: 135px;
+                right: 20px;
+                width: 30%;
+                max-height: calc(100vh - 270px);
                 overflow-y: auto;
                 overflow-x: hidden;
                 text-overflow: ellipsis;
                 padding: 5px;
                 transition: height 0.3s ease;
+                border: 1px dotted green;
+                border-radius: 10px;
             }
 
             #tableOfContents {
                 height: auto;
-                border: 1px dotted green;
                 padding: 5px;
             }
 
@@ -40,6 +41,16 @@
             .markdown-content > *, #pageTopSection, .h1 {
                 width: 67% !important;
                 float: left;
+            }
+
+            .toc-title {
+                position: fixed;
+                height: 50px;
+                top: 80px;
+            }
+
+            .toc-list {
+                margin-bottom: 0 !important;
             }
         }
     </style>
@@ -83,6 +94,7 @@
                 tocTitle.classList.add("toc-title");
                 tocContainer.appendChild(tocTitle);
                 const toc = document.createElement("ul");
+                toc.classList.add("toc-list");
                 headings.forEach(heading => {
                     const toplevelli = document.createElement("li");
                     const level = parseInt(heading.tagName[1]);
