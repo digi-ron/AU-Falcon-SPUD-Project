@@ -48,10 +48,16 @@ A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max
     ![Air conditioner controls bottom clips](./ac-bottom-clips.jpg)
     > Top and bottom clips (respectively) to be removed from the air conditioner controls
 
+    ![Air conditioner controls inner face](./ac-button-clips.jpg)
+    > Image of the inside of the front of the AC Controls. Note the clips holding the 2 sets of buttons into place
+
 1. Once you have access to the board, unscrew the 3 phillips head screws holding the board in place and inspect the solder connections
 
     ![Screw locations](./ac-pcb-screws.jpg)
     > Locations of the 3 phillips head screws in the front of the Air conditioner PCB
+
+    ![PCB removed](./ac-pcb-rear.jpg)
+    > Picture of the rear of the PCB
 
     ![Broken solder connections - AC Button](./broken-solder-ac.jpg)
     ![Broken solder connections - AC Max Button](./broken-solder-ac-max.jpg)
