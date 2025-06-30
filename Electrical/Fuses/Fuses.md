@@ -52,6 +52,7 @@ Please refer to the table below for a list of cabin fuses, including which fuses
 | 21 | (Unused) | ?? | Constant |
 | 22 | Power Windows | 30 (Breaker) | Constant |
 | 23 | Amplifier | 20 | Constant |
+{: .sortable-table}
 
 > Positions 22 and 23 are referring to the larger fuses at the **top** of the cabin fuse diagram, rather than the spare fuses towards the bottom
 {: .block-note}
