@@ -20,6 +20,7 @@ use the below table as a reference for wheel sizes that should fit all models of
 | 245/40R18 | 654mm | TS50 |
 | 225/50R17 | 657mm | Fairmont GHIA |
 | 225/60R16 | 677mm | Fairlane GHIA |
+{: .sortable-table}
 
 ## General Notes - How to Read Tyre Sizes
 
