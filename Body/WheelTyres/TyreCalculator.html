@@ -93,9 +93,6 @@ title: "Tyre Size Calculator"
         const width = parseInt(document.getElementById("width").value) || 0;
         const widthpadding = parseInt(document.getElementById("widthpadding").value) || 0;
 
-        const sort = document.getElementById("sort").value;
-        const sortOrder = document.getElementById("sortOrder").value;
-
         const minDiameter = wheelDiameter - padding;
         const maxDiameter = wheelDiameter + padding;
         const minWidth = width - widthpadding;
@@ -109,13 +106,13 @@ title: "Tyre Size Calculator"
             return output;
         });
 
-        results.sort((a, b) => {
-            if(sortOrder === "desc") {
-                return b[sort] - a[sort];
-            } else {
-                return a[sort] - b[sort];
-            }
-        });
+        // results.sort((a, b) => {
+        //     if(sortOrder === "desc") {
+        //         return b[sort] - a[sort];
+        //     } else {
+        //         return a[sort] - b[sort];
+        //     }
+        // });
 
         showResults(results);
     }
@@ -138,16 +135,21 @@ title: "Tyre Size Calculator"
 
         const header = table.createTHead();
         const row = header.insertRow();
-        const cell1 = row.insertCell();
+        const cell1 = document.createElement("th");
         cell1.innerText = "Tyre Code";
-        const cell2 = row.insertCell();
+        row.appendChild(cell1);
+        const cell2 = document.createElement("th");
         cell2.innerText = "Width";
-        const cell3 = row.insertCell();
+        row.appendChild(cell2);
+        const cell3 = document.createElement("th");
         cell3.innerText = "Aspect Ratio";
-        const cell4 = row.insertCell();
+        row.appendChild(cell3);
+        const cell4 = document.createElement("th");
         cell4.innerText = "Rim Radius";
-        const cell5 = row.insertCell();
+        row.appendChild(cell4);
+        const cell5 = document.createElement("th");
         cell5.innerText = "Diameter";
+        row.appendChild(cell5);
 
         const body = table.createTBody();
 
@@ -173,6 +175,7 @@ title: "Tyre Size Calculator"
             }
             cell5.innerText = arrObj[i].diameter;
         }
+        addSortAnchors()
     }
 
     function clearResults() {
@@ -181,20 +184,20 @@ title: "Tyre Size Calculator"
         });
         fieldIdList.forEach(field => {
             document.getElementById(field).value = "";
+            document.getElementById(field).removeAttribute("disabled");
         });
     }
 
     function qsPrecedence() {
         const qs = document.getElementById("quickSearch");
-        const amendedFieldsList = [...fieldIdList, "sort", "sortOrder"];
         if(qs.value.trim().length > 0) {
-            amendedFieldsList.forEach(field => {
+            fieldIdList.forEach(field => {
                 if(field !== "quickSearch") {
                     document.getElementById(field).setAttribute("disabled", true);
                 }
             })
         } else {
-            amendedFieldsList.forEach(field => {
+            fieldIdList.forEach(field => {
                 document.getElementById(field).removeAttribute("disabled");
             })
         }
@@ -260,30 +263,6 @@ title: "Tyre Size Calculator"
                 <input type="number" id="widthpadding" name="widthpadding" min="0" max="100">
             </td>
         </tr>
-        <tr>
-            <td colspan="2">
-                <label for="sort">Sort:</label>
-            </td>
-            <td colspan="2">
-                <select id="sort" name="sort">
-                    <option value="aspect">Aspect Ratio</option>
-                    <option value="diameter" selected aria-selected="true">Diameter</option>
-                    <option value="radius">Rim Radius</option>
-                    <option value="width">Width</option>
-                </select>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="sortOrder">Sort Order:</label>
-            </td>
-            <td colspan="2">
-                <select id="sortOrder" name="sortOrder" style="max-width: max-content;">
-                    <option value="asc" selected aria-selected="true">Ascending</option>
-                    <option value="desc">Descending</option>
-                </select>
-            </td>
-        </tr>
         <tr class="printHide">
             <td colspan="2" style="border-right: 0px;">
                 <input type="submit" value="Calculate" onclick="handleSubmit()">
@@ -299,5 +278,5 @@ title: "Tyre Size Calculator"
 <div class="printHide">
     <p id="resultErr" class="bad-highlight"></p>
 </div>
-<table id="resultsTable" class="full-width-table" style="page-break-inside: auto; page-break-before: avoid;"></table>
+<table id="resultsTable" class="full-width-table sortable-table" style="page-break-inside: auto; page-break-before: avoid;"></table>
 <hr/>
