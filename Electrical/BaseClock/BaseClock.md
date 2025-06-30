@@ -70,7 +70,7 @@ There are some Ford models which contain the same clock as the AU Falcon, which 
 | Mazda | Bravo | 1999-2006 | S1-1.5 | LED Green/White numbering. Model is identical to Ford Courier |
 | Mercury | Marauder | 2003-2004 | S1-1.5 | LED Green numbering. <span class="other-highlight">Rare vehicle model</span> |
 | Mercury | Grand Marquis | 1995-2005 | S1-1.5 | LED Green numbering. Analogue clock fitted 1993-1994, and assumed no clock installed 2006-2011 |
-
+{: .sortable-table}
 
 ## Plug Type
 
