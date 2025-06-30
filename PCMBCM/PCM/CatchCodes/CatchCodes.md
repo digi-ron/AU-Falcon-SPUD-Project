@@ -290,3 +290,4 @@ Below is a table with catch codes and known configurations said catch codes are 
 | `Y3HB` | | Automatic | I6 | |
 | `Y3HC` | S1 | Automatic | I6 | Utility |
 | `Y3JA` | | | I6 | |
+{: .sortable-table}
