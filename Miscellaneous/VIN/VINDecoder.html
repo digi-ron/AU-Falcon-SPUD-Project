@@ -90,10 +90,7 @@ title: Ford Falcon AU VIN Decoder
             "engineNumber": ""
         }
 
-        console.log(JSON.stringify(output));
-
         const chassisChars = vin.slice(8,10);
-        console.log(chassisChars);
         output.chassis.chars = chassisChars;
         output.chassis.name = chassisObj[chassisChars].name;
         output.chassis.description = chassisObj[chassisChars].description;
