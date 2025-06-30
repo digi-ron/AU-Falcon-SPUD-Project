@@ -14,11 +14,15 @@
         line-height: 50px;
         justify-content: center;
         border-radius: 5px;
+        display: none;
     }
 </style>
-<div id="pageTopButton" class="printHide">▲</div>
 <script>
-    const button = document.getElementById("pageTopButton");
+    const button = document.createElement("div");
+    button.id = "pageTopButton";
+    button.classList.add("printHide");
+    button.innerText = "▲";
+    button.style.display = "block";
 
     document.addEventListener("scroll", function() {
         if (window.scrollY > window.visualViewport.height) {
@@ -33,4 +37,8 @@
     button.addEventListener("click", function() {
         window.scrollTo({ top: 0, behavior: "smooth" });
     });
+
+    document.addEventListener("DOMContentLoaded", () => {
+        document.body.appendChild(button);
+    })
 </script>
