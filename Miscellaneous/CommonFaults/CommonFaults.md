@@ -34,3 +34,4 @@ While the AU Falcon is generally regarded as a quite reliable vehicle, there are
 | Thermostat Housing | All | I6 motor models | likely to leak through gap between top pipe end and housing end. Various causes known, most common being uneven mounting surfaces on thermostat installation (usually grime) |
 | VCT Solenoid | All | VCT motor models | Solenoids fail due to wearing and will no longer actuate, replacements hard to find |
 | Water Pump | All | All | While OEM water pump is known good for an average of 200,000kms, aftermarket water pumps from reputable manufacturers have been known to have issues with bearing fitment and a weak plastic pulley wheel |
+{: .sortable-table}
