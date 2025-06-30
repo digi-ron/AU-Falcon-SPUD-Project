@@ -126,7 +126,7 @@ Note that the Loom end connector is the female terminal housing and the connecto
 The following notes assume pin numbers where you are looking at the dial unit itself, with the clip cut-out facing up:
 
 | `01` | `02` | `03` |
-| -- | -- | -- |
+| --- | --- | --- |
 | **`04`** | **`05`** | **`06`** |
 
 | Pin | Function | Notes |
