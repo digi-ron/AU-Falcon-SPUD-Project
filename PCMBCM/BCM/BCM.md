@@ -61,3 +61,4 @@ There are 2 types of BCM available for the AU Falcon, the Low model and the High
 | 1.5 | High | <span class="colourCell" style="background-color:yellow;">Yellow</span> |
 | 2-3 | Low | <span class="colourCell" style="background-color:lightblue;">Blue</span> |
 | 2-3 | High | <span class="colourCell" style="background-color:pink;">Pink</span> |
+{: .sortable-table}
