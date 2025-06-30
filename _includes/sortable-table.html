@@ -1,0 +1,55 @@
+<script>
+    const defaultSortText = '↑↓';
+    const sortElm = document.createElement('span');
+    let originalLayout = [];
+    sortElm.classList.add('sort-icon');
+    sortElm.innerText = defaultSortText;
+    sortElm.style.cursor = 'pointer';
+    sortElm.style.fontWeight = 'bolder';
+    sortElm.style.marginLeft = '5px';
+
+    function sortTable(table, sortElement, index) {
+        const trElms = Array.from(table.querySelectorAll('tbody tr'));
+        table.querySelector('tbody').innerHTML = '';
+        switch (sortElement.innerText) {
+            case defaultSortText:
+                sortElement.innerText = '↑';
+                newElms = trElms.sort((a, b) => a.children[index].innerText.localeCompare(b.children[index].innerText));
+                break;
+            case '↑':
+                sortElement.innerText = '↓';
+                newElms = trElms.sort((a, b) => b.children[index].innerText.localeCompare(a.children[index].innerText));
+                break;
+            case '↓':
+                sortElement.innerText = defaultSortText;
+                table.querySelector('tbody').innerHTML = originalLayout;
+                return;
+                break;
+        }
+        newElms.forEach(elm => table.querySelector('tbody').appendChild(elm));
+    }
+
+    function addSortAnchors() {
+        const tableElms = document.querySelectorAll('.sortable-table');
+
+        tableElms.forEach((elm, index) => {
+            const headings = elm.querySelectorAll('th');
+
+            if (headings.length === 0) return;
+
+            headings.forEach((heading, index) => {
+                const sortButton = sortElm.cloneNode(true);
+                sortButton.addEventListener('click', () => {
+                    sortTable(elm, sortButton, index);
+                });
+                heading.appendChild(sortButton);
+            })
+
+            originalLayout[index] = elm.querySelector('tbody').innerHTML;
+        })
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        addSortAnchors();
+    })
+</script>
