@@ -46,6 +46,7 @@ The [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series
 | 12v Power | Yellow |
 | 12v SIG | Red |
 | GND | Black |
+{: .sortable-table}
 
 <!-- TODO add pics -->
 ## Amplifier - S2-3
