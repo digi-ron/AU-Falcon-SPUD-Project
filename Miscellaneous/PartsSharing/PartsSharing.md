@@ -74,6 +74,7 @@ Please see the table below for shared parts:
 | Wheel Centre Caps | XA-FGX | Only applies to Interceptor style "Steelie" wheels, not included from factory in some models but fits all 5x114.3 PCD steel wheels |
 | [Wheel Lug Nuts](../../Body/WheelTyres/WheelTyres.md#other-notable-information) | XD-FGX | 1/2" UNF 40mm TL |
 | Wheels | AU-FGX | Only applies to 16" or above wheels, pre-AU wheels have interfering offset |
+{: .sortable-table}
 
 ### Model Codes
 
@@ -102,3 +103,4 @@ Please see the table below for shared parts:
 | Falcon | FG | 2008-2014 |
 | Territory | SZ | 2011-2016 |
 | Falcon | FG X | 2014-2016 |
+{: .sortable-table}
