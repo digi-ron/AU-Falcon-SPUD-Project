@@ -23,3 +23,4 @@ please refer to the table below for expected lifespans of various components, al
 | Spark plugs (iridium) | 75,000km | generally worth extra cost vs. Copper |
 | Steering Rack | 150,000km | look out for popping noise when nearing full lock |
 | Thermostat | 100,000km | can fail open (temp. constantly on C using more fuel) or fail closed (quick to overheat). Can be easily extended by using coolant rather than water for the cooling system |
+{: .sortable-table}
