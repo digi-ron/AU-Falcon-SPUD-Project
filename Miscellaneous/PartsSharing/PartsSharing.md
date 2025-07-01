@@ -33,6 +33,7 @@ Please see the table below for shared parts:
 | [Brake Switch](../../Electrical/BrakeSwitch/BrakeSwitch.md) | EF-AUIII | |
 | C Pillar Plastic Trim | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | [Cam Angle Sensor](../../Engine/CAS/CAS.md) | EF-AUI | Unique VS. the AUII-III version, which in itself is unique (not used BA+) |
+| [Centre Console Buttons](../../Electrical/CentreConsoleButtons/CentreConsoleButtons.md) | EF-AUIII, SX-SYII | Fitted as centre console buttons on applicable Falcon models, and fitted as [Driver Button](../../Electrical/DriverButtons/DriverButtons.md) equivalent on applicable Territory models. Fascias are different between models and will [require replacement](../../Electrical/CentreConsoleButtons/CentreConsoleButtons.md#replacing-button-faces). Notches in mechanism end also different and may require modification for fitment |
 | [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain sub-models contain additional spring that will help with longevity. BF Falcon Keyhole for drivers door not compatible due to different key types |
 | [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter |
 | Door Rubber Seals | AU-BFIII | |
