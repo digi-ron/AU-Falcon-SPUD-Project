@@ -4,7 +4,7 @@ description: towbar trailer connector information, including instructions on how
 
 # Trailer Auxiliary plug
 
-The trailer plug is the plug that allows for the connection of either a [round 7 pin](#7-pin-round-layout-large), or more commonly, a [7](#7-pin-layout) or [12](#12-pin-layout) pin rectangular trailer connector, for use with a towbar and related accessories. The connector is known as a 090 connector, originally manufactured by [Yazaki](../../Credits.md#sources).
+The trailer plug is the plug that allows for the connection of either a [round 7 pin](#7-pin-round-layout-large), or more commonly, a [7](#7-pin-layout) or [12](#12-pin-layout) pin rectangular trailer connector, for use with a towbar and related accessories.
 
 > This plug appears is standard in all Falcons AU-BFIII (1998-2016) and all Territory models, however pinout includes additional wires in later models due to additional features
 {: .block-note}
@@ -13,7 +13,9 @@ The trailer plug is the plug that allows for the connection of either a [round 7
 
 > Trailer plug inside the boot of a S1 Sedan
 
-## Plug Information
+## Plug Type
+
+The connectors used for the trailer plug are known as 090 connectors, originally manufactured by [Yazaki](../../Credits.md#sources).
 
 | Name | Product Number | Notes |
 | --- | --- | --- |
