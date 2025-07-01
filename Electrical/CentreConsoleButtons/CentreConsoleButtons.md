@@ -7,7 +7,7 @@ description: accessory buttons (e.g. TCS, ABS, ANT.) information and pinouts
 > This does not cover buttons in the standard Series 2-3 dash, as they are tightly integrated with the newer designed climate control system.
 {: .block-note}
 
-The buttons within the centre dash area of some models of AU Falcon use connectors that are simply known as 090 Connectors, originally manufactured by [Yazaki](../../Credits.md#sources). These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
+Early and High models of AU Falcon have centre console buttons to control functions of the vehicle (depending on options fitted)
 
 ## Known models
 
@@ -38,7 +38,9 @@ If you wish to replace or "upgrade" button(s) on a [Series 1](../../Miscellaneou
 
 > A comparison between the [demister button]() from a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) Falcon Forte (top) and a [demister button]() from a wrecked Ford Fairmont (bottom)
 
-## Plug Information
+## Plug Type
+
+The centre dash buttons are simply known as 090 Connectors, originally manufactured by [Yazaki](../../Credits.md#sources). These are similar connectors to those used throughout other interior plugs within the AU Falcon Cabin in particular.
 
 | Name | Product Number | Notes |
 | --- | --- | --- |
@@ -151,7 +153,7 @@ On models where a Traction control System is present, a Traction control button 
 
 ## Replacing button faces
 
-For cases where you wish to modify buttons to have different pictures than the one that came from the factory, or in the case that you wish to use a connector with more active pins or a latching switch, you can remove the faces by gently prying 2 tabs (one each side) of the face. the faces can then be placed back in the switches with a firm press, however note that they will not go in upside-down, and there should be minimal force required to press them back into place
+For cases where you wish to modify buttons from [compatible models](../../Miscellaneous/PartsSharing/PartsSharing.md#parts-sharing-table) to have different pictures than the one that came from the factory, or in the case that you wish to use a connector with more active pins or a latching switch, you can remove the faces by gently prying 2 tabs (one each side) of the face. the faces can then be placed back in the switches with a firm press, however note that they will not go in upside-down, and there should be minimal force required to press them back into place
 
 ![Button face clips](./button-face-clips.jpg)
 
