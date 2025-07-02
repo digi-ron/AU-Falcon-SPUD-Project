@@ -9,6 +9,13 @@ If you find that your brake lights are not turning on when you expect, or you fi
 > The brakes will not fail due to a brake switch failure. If you find any symptoms with your brakes mechanically then there is a problem with the brake system itself
 {: .block-warning}
 
+## Plug Information
+
+Unfortunately, the connector used for the brake switch is a OEM connector seemingly made by Ford. Thankfully, this connector is quite common across Fords from America between 1969 and 2006. The most common of these models appears to be the Ford Mustang, which had this connector for the same functionality between 1971 and 2004. Alternatively, the blades are a standard size and could be adapted to directly if required.
+
+![eBay Brake Switch Connector](./ebay-loom-connector.jpg)
+> Image of a brake switch loom, taken from an [eBay](../../Credits.md#sources) listing
+
 ## Diagnosis
 
 Diagnosis for this part is simple. Start the vehicle and put your foot lightly on the brake pedal, in any gear. Have another person check for brake light funtionality
