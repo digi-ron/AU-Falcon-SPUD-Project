@@ -2,6 +2,7 @@
 layout: home
 hideTOC: true
 hidePrint: true
+title: AU Ford Falcon - SPUD Project
 ---
 
 <h1 style="display:none;">Home</h1>
@@ -23,6 +24,6 @@ A collation of notes and information about the AU Series Ford Falcon, collated w
 > 
 > In the spirit of not having this site reliant on other websites, there are as few links to the wider internet here as possible, other that those present on the [Credits](./Credits.md) page (also linked at the bottom of every page on this site).
 
-***ALL INFORMATION IS WIP, LAST UPDATE: <span class="other-highlight">{{site.time | date: '%d/%m/%Y'}}</span>***
+***ALL INFORMATION IS WIP, LAST SITE UPDATE: <span class="other-highlight">{{site.time | date: '%d/%m/%Y'}}</span>***
 
 {% include navigation-ul.html %}
