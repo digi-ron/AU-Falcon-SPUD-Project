@@ -40,3 +40,7 @@ defaults:
       path: "*.md"
     values:
       layout: default
+  - scope:
+      path: "Archive"
+    values:
+      hideMod: true
