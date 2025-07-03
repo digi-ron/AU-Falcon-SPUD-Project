@@ -41,9 +41,13 @@ color: #a52a2a;
 footer {
 font-style: italic;
 
-a {
-    color: white;
+    a {
+        color: white;
+    }
 }
+
+.js-only {
+    display: none;
 }
 
 table {
