@@ -106,14 +106,6 @@ title: "Tyre Size Calculator"
             return output;
         });
 
-        // results.sort((a, b) => {
-        //     if(sortOrder === "desc") {
-        //         return b[sort] - a[sort];
-        //     } else {
-        //         return a[sort] - b[sort];
-        //     }
-        // });
-
         showResults(results);
     }
 
@@ -203,80 +195,86 @@ title: "Tyre Size Calculator"
         }
     }
 </script>
-<p class="printHide maintitle">Tyre Size Calculator</p>
-<p class="printOnly maintitle">Tyre Size Calculator - Results</p>
-<blockquote class="printHide block-note">
-    All fields are optional, but nonsensical inputs will be ignored e.g. diameter padding without a diameter specified.
-    <br/>
-    The Quick Search takes precedence over other fields
-    <br />
-    <br />
-    All <span class="other-highlight">highlighted</span> fields are all values outside of the normal range for OEM wheels to improve readability, but any wheel size should be checked for fitment as required. Aspect Ratio values are not highlighted as <a href="./WheelTyres.html#general-notes---how-to-read-tyre-sizes">it is a percentage and not a fixed value</a>.
-</blockquote>
-<table class="full-width-table">
-    <tbody>
-        <tr>
-            <td colspan="2">
-                <label for="quickSearch">Quick Search</label>
-            </td>
-            <td colspan="2">
-                <input type="text" id="quickSearch" name="quickSearch" oninput="qsPrecedence()">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="rimRadius">Rim Radius (inches):</label>
-            </td>
-            <td colspan="2">
-                <input type="number" id="rimRadius" name="rimRadius" max="23" min="12">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="wheelDiameter">Rolling Diameter (mm):</label>
-            </td>
-            <td colspan="2">
-                <input type="number" id="wheelDiameter" name="wheelDiameter" min="100" max="1000">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="padding">Padding (mm):</label>
-            </td>
-            <td colspan="2">
-                <input type="number" id="paddingmm" name="paddingmm" min="0" max="999">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="width">Width:</label>
-            </td>
-            <td colspan="2">
-                <input type="number" id="width" name="width" min="0" max="400">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="widthpadding">Width Padding:</label>
-            </td>
-            <td colspan="2">
-                <input type="number" id="widthpadding" name="widthpadding" min="0" max="100">
-            </td>
-        </tr>
-        <tr class="printHide">
-            <td colspan="2" style="border-right: 0px;">
-                <input type="submit" value="Calculate" onclick="handleSubmit()">
-            </td>
-            <td colspan="2" style="border-left: 0px;">
-                <input type="button" value="Reset calculator" onclick="clearResults()">
-            </td>
-        </tr>
-    </tbody>
-</table>
 
-<h3>Results <span id="resultsAdditionalText"></span></h3>
-<div class="printHide">
-    <p id="resultErr" class="bad-highlight"></p>
+{% include noscript-warning.html %}
+{% include noscript-hider.html %}
+
+<div class="js-only">
+    <p class="printHide maintitle">Tyre Size Calculator</p>
+    <p class="printOnly maintitle">Tyre Size Calculator - Results</p>
+    <blockquote class="printHide block-note">
+        All fields are optional, but nonsensical inputs will be ignored e.g. diameter padding without a diameter specified.
+        <br/>
+        The Quick Search takes precedence over other fields
+        <br />
+        <br />
+        All <span class="other-highlight">highlighted</span> fields are all values outside of the normal range for OEM wheels to improve readability, but any wheel size should be checked for fitment as required. Aspect Ratio values are not highlighted as <a href="./WheelTyres.html#general-notes---how-to-read-tyre-sizes">it is a percentage and not a fixed value</a>.
+    </blockquote>
+    <table class="full-width-table">
+        <tbody>
+            <tr>
+                <td colspan="2">
+                    <label for="quickSearch">Quick Search</label>
+                </td>
+                <td colspan="2">
+                    <input type="text" id="quickSearch" name="quickSearch" oninput="qsPrecedence()">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="rimRadius">Rim Radius (inches):</label>
+                </td>
+                <td colspan="2">
+                    <input type="number" id="rimRadius" name="rimRadius" max="23" min="12">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="wheelDiameter">Rolling Diameter (mm):</label>
+                </td>
+                <td colspan="2">
+                    <input type="number" id="wheelDiameter" name="wheelDiameter" min="100" max="1000">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="padding">Padding (mm):</label>
+                </td>
+                <td colspan="2">
+                    <input type="number" id="paddingmm" name="paddingmm" min="0" max="999">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="width">Width:</label>
+                </td>
+                <td colspan="2">
+                    <input type="number" id="width" name="width" min="0" max="400">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="widthpadding">Width Padding:</label>
+                </td>
+                <td colspan="2">
+                    <input type="number" id="widthpadding" name="widthpadding" min="0" max="100">
+                </td>
+            </tr>
+            <tr class="printHide">
+                <td colspan="2" style="border-right: 0px;">
+                    <input type="submit" value="Calculate" onclick="handleSubmit()">
+                </td>
+                <td colspan="2" style="border-left: 0px;">
+                    <input type="button" value="Reset calculator" onclick="clearResults()">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Results <span id="resultsAdditionalText"></span></h3>
+    <div class="printHide">
+        <p id="resultErr" class="bad-highlight"></p>
+    </div>
+    <table id="resultsTable" class="full-width-table sortable-table" style="page-break-inside: auto; page-break-before: avoid;"></table>
+    <hr/>
 </div>
-<table id="resultsTable" class="full-width-table sortable-table" style="page-break-inside: auto; page-break-before: avoid;"></table>
-<hr/>

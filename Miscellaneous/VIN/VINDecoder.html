@@ -151,54 +151,60 @@ title: Ford Falcon AU VIN Decoder
         }
     }
 </script>
-<p class="printHide maintitle">VIN Information Parser</p>
-<p class="maintitle printOnly">VIN Information Parser - Results</p>
 
-<div class="printHide">
-    <center id="vinErr"></center>
+{% include noscript-warning.html %}
+{% include noscript-hider.html %}
+
+<div class="js-only">
+    <p class="printHide maintitle">VIN Information Parser</p>
+    <p class="maintitle printOnly">VIN Information Parser - Results</p>
+
+    <div class="printHide">
+        <center id="vinErr"></center>
+    </div>
+
+    <table class="full-width-table">
+        <tbody>
+            <tr>
+                <td>
+                    <label for="vinInput">VIN:</label>
+                </td>
+                <td>
+                    <input type="text" id="vinInput" placeholder="e.g. 6FPAAAJGSW1A12345">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Chassis:
+                </td>
+                <td>
+                    <span id="chassisOutput">-</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Date:
+                </td>
+                <td>
+                    <span id="dateOutput">-</span>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    Original Engine Number:
+                </td>
+                <td>
+                    <span id="engineNumber">-</span>
+                </td>
+            </tr>
+            <tr class="printHide">
+                <td style="align-content:right;">
+                    <button onclick="getVINformation(document.getElementById('vinInput').value)">Decode VIN</button>
+                </td>
+                <td style="align-content: start;">
+                    <button onclick="clearVINResults()">Clear</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 </div>
-
-<table class="full-width-table">
-    <tbody>
-        <tr>
-            <td>
-                <label for="vinInput">VIN:</label>
-            </td>
-            <td>
-                <input type="text" id="vinInput" placeholder="e.g. 6FPAAAJGSW1A12345">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Chassis:
-            </td>
-            <td>
-                <span id="chassisOutput">-</span>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Date:
-            </td>
-            <td>
-                <span id="dateOutput">-</span>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                Original Engine Number:
-            </td>
-            <td>
-                <span id="engineNumber">-</span>
-            </td>
-        </tr>
-        <tr class="printHide">
-            <td style="align-content:right;">
-                <button onclick="getVINformation(document.getElementById('vinInput').value)">Decode VIN</button>
-            </td>
-            <td style="align-content: start;">
-                <button onclick="clearVINResults()">Clear</button>
-            </td>
-        </tr>
-    </tbody>
-</table>

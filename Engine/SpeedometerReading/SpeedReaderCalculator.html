@@ -158,125 +158,129 @@ title: Speedometer Reading Calculator
 
         clearError();
     }
-
 </script>
-<p class="printHide maintitle">Speedometer Reading Calculator</p>
-<p class="printOnly maintitle">Speedometer Reading Calculator - Results</p>
-<blockquote class="printHide block-note">
-    All fields are optional, but nonsensical inputs will be ignored e.g. original tyre size without a new tyre size specified.
-</blockquote>
-<table class="full-width-table">
-    <tbody>
-        <tr>
-            <td colspan="2">
-                <label for="oldTyreSize">Original Tyre Size (XXX/XXRXX):</label>
-            </td>
-            <td colspan="2">
-                <input type="text" id="oldTyreSize" name="oldTyreSize">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="newTyreSize">New Tyre Size (XXX/XXRXX):</label>
-            </td>
-            <td colspan="2">
-                <input type="text" id="newTyreSize" name="newTyreSize">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="oldDiffRatio">Original Differential Ratio:</label>
-            </td>
-            <td colspan="2">
-                <input type="text" id="oldDiffRatio" name="oldDiffRatio">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="newDiffRatio">New Differential Ratio:</label>
-            </td>
-            <td colspan="2">
-                <input type="test" id="newDiffRatio" name="newDiffRatio">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="oldGearTeeth">Original Gear teeth</label>
-            </td>
-            <td colspan="2">
-                <input type="number" id="oldGearTeeth" name="oldGearTeeth" min="1" max="30">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <label for="newGearTeeth">New Gear teeth:</label>
-            </td>
-            <td colspan="2">
-                <input type="number" id="newGearTeeth" name="newGearTeeth" min="1" max="30">
-            </td>
-        </tr>
-        <tr class="printHide">
-            <td colspan="2" style="border-right: 0px;">
-                <input type="submit" value="Calculate" onclick="handleSubmit()">
-            </td>
-            <td colspan="2" style="border-left: 0px;">
-                <input type="button" value="Reset calculator" onclick="clearResults()">
-            </td>
-        </tr>
-    </tbody>
-</table>
 
-<h3>Results</h3>
-<div class="printHide">
-    <p id="resultErr" class="bad-highlight"></p>
+{% include noscript-warning.html %}
+{% include noscript-hider.html %}
+<div class="js-only">
+    <p class="printHide maintitle">Speedometer Reading Calculator</p>
+    <p class="printOnly maintitle">Speedometer Reading Calculator - Results</p>
+    <blockquote class="printHide block-note">
+        All fields are optional, but nonsensical inputs will be ignored e.g. original tyre size without a new tyre size specified.
+    </blockquote>
+    <table class="full-width-table">
+        <tbody>
+            <tr>
+                <td colspan="2">
+                    <label for="oldTyreSize">Original Tyre Size (XXX/XXRXX):</label>
+                </td>
+                <td colspan="2">
+                    <input type="text" id="oldTyreSize" name="oldTyreSize">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="newTyreSize">New Tyre Size (XXX/XXRXX):</label>
+                </td>
+                <td colspan="2">
+                    <input type="text" id="newTyreSize" name="newTyreSize">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="oldDiffRatio">Original Differential Ratio:</label>
+                </td>
+                <td colspan="2">
+                    <input type="text" id="oldDiffRatio" name="oldDiffRatio">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="newDiffRatio">New Differential Ratio:</label>
+                </td>
+                <td colspan="2">
+                    <input type="test" id="newDiffRatio" name="newDiffRatio">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="oldGearTeeth">Original Gear teeth</label>
+                </td>
+                <td colspan="2">
+                    <input type="number" id="oldGearTeeth" name="oldGearTeeth" min="1" max="30">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label for="newGearTeeth">New Gear teeth:</label>
+                </td>
+                <td colspan="2">
+                    <input type="number" id="newGearTeeth" name="newGearTeeth" min="1" max="30">
+                </td>
+            </tr>
+            <tr class="printHide">
+                <td colspan="2" style="border-right: 0px;">
+                    <input type="submit" value="Calculate" onclick="handleSubmit()">
+                </td>
+                <td colspan="2" style="border-left: 0px;">
+                    <input type="button" value="Reset calculator" onclick="clearResults()">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Results</h3>
+    <div class="printHide">
+        <p id="resultErr" class="bad-highlight"></p>
+    </div>
+    <table id="resultsTable" class="full-width-table" style="page-break-inside: auto; page-break-before: avoid;">
+        <tbody>
+            <tr>
+                <td>
+                    <label for="tyreSizeChangeResult">Tyre Change (%)</label>
+                </td>
+                <td>
+                    <input type="text" readonly id="tyreSizeChangeResult" name="tyreSizeChangeResult">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="diffChangeResult">Diff Change (%)</label>
+                </td>
+                <td>
+                    <input type="text" readonly id="diffChangeResult" name="diffChangeResult">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="gearTeethChangeResult">Teeth Change (%)</label>
+                </td>
+                <td>
+                    <input type="text" readonly id="gearTeethChangeResult" name="gearTeethChangeResult">
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="totalChangeResult">Total Change (%)</label>
+                </td>
+                <td>
+                    <input type="text" readonly id="totalChangeResult" name="totalChangeResult">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Readings Table</h3>
+    <table class="full-width-table" style="page-break-inside: auto; page-break-before: avoid;">
+        <thead>
+            <tr>
+                <th>Original Speed</th>
+                <th>New Reading</th>
+            </tr>
+        </thead>
+        <tbody id="readingsIterationTable">
+
+        </tbody>
+    </table>
+    <hr/>
 </div>
-<table id="resultsTable" class="full-width-table" style="page-break-inside: auto; page-break-before: avoid;">
-    <tbody>
-        <tr>
-            <td>
-                <label for="tyreSizeChangeResult">Tyre Change (%)</label>
-            </td>
-            <td>
-                <input type="text" readonly id="tyreSizeChangeResult" name="tyreSizeChangeResult">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="diffChangeResult">Diff Change (%)</label>
-            </td>
-            <td>
-                <input type="text" readonly id="diffChangeResult" name="diffChangeResult">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="gearTeethChangeResult">Teeth Change (%)</label>
-            </td>
-            <td>
-                <input type="text" readonly id="gearTeethChangeResult" name="gearTeethChangeResult">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <label for="totalChangeResult">Total Change (%)</label>
-            </td>
-            <td>
-                <input type="text" readonly id="totalChangeResult" name="totalChangeResult">
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<h3>Readings Table</h3>
-<table class="full-width-table" style="page-break-inside: auto; page-break-before: avoid;">
-    <thead>
-        <tr>
-            <th>Original Speed</th>
-            <th>New Reading</th>
-        </tr>
-    </thead>
-    <tbody id="readingsIterationTable">
-
-    </tbody>
-</table>
-<hr/>
