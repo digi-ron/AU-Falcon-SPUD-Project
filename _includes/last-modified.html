@@ -1,0 +1,5 @@
+{% if site.title and site.title != page.title and page.hideMod != true %}
+    <p style="color: lightgrey; margin-left: 10px">
+        <em>Page last updated: {{ page.last_modified_at | date: '%d/%m/%Y' }}</em>
+    </p>
+{% endif %}
