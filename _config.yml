@@ -22,6 +22,7 @@ remote_theme: pages-themes/primer@v0.6.0
 plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-last-modified-at
 
 # exclude build files
 exclude:
