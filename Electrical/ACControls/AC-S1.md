@@ -44,7 +44,7 @@ A somewhat common fault in the S1 AU Falcons is an issue where the AC and AC Max
 
 1. Remove all dials from the AC Controls and remove the white assembly from the fascia, then unclip the front plastic from the assembly. The assembly is held in with 6 small clips (3 on the top, 3 on the bottom), they are somewhat easy to break, and the faces of the AC, AC Max, and the Air Recirculation buttons will come off with the fascia on removal
 
-    > Some success has been  had by pushing the face plate of the AC controls up to unclip the first 3 clips from the top, which then makes the remaining 3 clips easier to unclip.
+    > Some success has been had by pushing the face plate of the AC controls up to unclip the first 3 clips from the top, which then makes the remaining 3 clips easier to unclip.
 
     ![Air conditioner controls top clips](./ac-top-clips.jpg)
     ![Air conditioner controls bottom clips](./ac-bottom-clips.jpg)
