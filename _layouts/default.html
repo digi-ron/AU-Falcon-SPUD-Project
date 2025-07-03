@@ -34,12 +34,13 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <div id="pageTopSection">
-        {% if site.title and site.title != page.title %}
           <p class="printHide maintitle">
-            <a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a>
+            {% if site.title and site.title != page.title %}
+              <a href="{{ "/index.html" | relative_url }}">{{ site.title }}</a>
+            {% else %}
+              <span>{{ site.title }}</span>
+            {% endif %}
           </p>
-        {% endif %}
-
         {% include print-component.html %}
 
         {% include searchbox-component.html %}
@@ -47,7 +48,9 @@
 
       {% include toc-component.html %}
 
-      <p class="h1">{{ page.title }}</p>
+      {% if site.title and site.title != page.title %}
+        <p class="h1">{{ page.title }}</p>
+      {% endif %}
 
       <div class="markdown-content">
         {{ content }}
@@ -56,6 +59,7 @@
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
+    {% include last-modified.html %}
     <p class="alternatefooter">Page printed from The AU Falcon SPUD Project, visit <span style="color:blue">{{ site.domain }}</span> for more!</p>
   </body>
   <footer class="printHide">
