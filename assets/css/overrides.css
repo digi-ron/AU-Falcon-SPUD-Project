@@ -1,25 +1,25 @@
 html, body, footer, table, td, th {
-background: #121212;
-color: white;
+    background: #121212;
+    color: white;
 }
 
 html, body, footer, h1, blockquote, hr {
-border-color: #2d3033 !important;
+    border-color: #2d3033 !important;
 }
 
 blockquote {
-background: #121212;
+    background: #121212;
 }
 
 hr {
-background: #2d3033 !important;
+    background: #2d3033 !important;
 }
 
 img {
-object-fit: contain;
-max-height: 50vh;
-min-height: 150px;
-max-width: 100%;
+    object-fit: contain;
+    max-height: 50vh;
+    min-height: 150px;
+    max-width: 100%;
 }
 
 .narrow-image {
@@ -27,20 +27,19 @@ max-width: 100%;
 }
 
 .bad-highlight {
-color: #8b0000;
+    color: #8b0000;
 }
 
 .good-highlight {
-color: #008000;
+    color: #008000;
 }
 
 .other-highlight {
-color: #a52a2a;
+    color: #a52a2a;
 }
 
 footer {
 font-style: italic;
-
     a {
         color: white;
     }
@@ -51,10 +50,10 @@ font-style: italic;
 }
 
 table {
-table-layout: fixed;
-width: 100%;
-font-style: italic;
-text-align: center;
+    table-layout: fixed;
+    width: 100%;
+    font-style: italic;
+    text-align: center;
     input {
         max-width: 100%;
         box-sizing: border-box;
@@ -62,33 +61,33 @@ text-align: center;
 }
 
 .alternatefooter, .printOnly {
-display:none;
+    display:none;
 }
 
 #paypal {
-display: flex;
-justify-content: center;
-width: 100%;
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
 
 .maintitle {
-font-weight: 600;
-text-align: center;
-font-size: 2em;
+    font-weight: 600;
+    text-align: center;
+    font-size: 2em;
 }
 
 .toc-title {
-font-size: 2em;
-font-weight: 600;
+    font-size: 2em;
+    font-weight: 600;
 }
 
 .large-table {
-white-space: nowrap;
-font-size: small;
+    white-space: nowrap;
+    font-size: small;
 }
 
 .diagram-table {
-font-weight: bold;
+    font-weight: bold;
 }
 
 .full-width-table {
