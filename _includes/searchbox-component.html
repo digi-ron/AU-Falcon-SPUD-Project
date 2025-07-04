@@ -2,14 +2,16 @@
     <div class="printHide js-only" style="position:relative" id="siteSearch">
         <input type="search" id="search" placeholder="Search for a page...">
         <br />
+        <!-- rendered differently to navigation as JS required anyways, parsing of structure is outside of what jekyll can do -->
+        <!-- TODO see if there's a way to add the description without making the search results box look crowded -->
         <div id="searchResultsSection">
-            {% for firstItem in site.data.navigation.mainNav %}
-                {% for secondItem in firstItem.items %}
-                    <a href="{{ secondItem.url | relative_url }}"><div class="searchResult">{{ secondItem.title }}</div></a>
-                    {% for thirdItem in secondItem.items %}
-                        <a href="{{ thirdItem.url | relative_url }}"><div class="searchResult">{{ thirdItem.title }}</div></a>
-                    {% endfor %}
-                {% endfor %}
+            {% for page in site.pages %}
+                {% if page.url contains '.html' %}
+                    <a href="{{ page.url | relative_url }}" class="searchResult">
+                        <span class="searchResultTitle">{{ page.title }}</span>
+                        <span style="display:none">{{ page.description }}</span>
+                    </a>
+                {% endif %}
             {% endfor %}
         </div>
         <script>
