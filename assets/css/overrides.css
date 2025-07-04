@@ -148,7 +148,6 @@ h1 {
 .searchResult {
     cursor: pointer;
     background-color: lightgrey;
-    color: black;
     width: 100%;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
     z-index: 10;
@@ -157,7 +156,12 @@ h1 {
 
 .searchResult:hover {
     background: darkgray;
+    text-decoration: none;
+}
+
+.searchResultTitle {
     color: black;
+    text-decoration: none;
 }
 
 @media screen and (min-width: 1000px) {
