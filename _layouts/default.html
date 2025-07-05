@@ -13,7 +13,9 @@
     <meta name="description" content="{{ site.vehicle }} {{page.description | default: site.description | escape }}">
     <meta name="canonical" content="{{ page.url | absolute_url }}">
     <meta name="og:url" content="{{ page.url | absolute_url }}">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';">
+    <!-- CSP override - Github index / blocks a lot, and frankly this isn't worth setting nonces or hashes for (need inline for offline download)-->
+    <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline'; style-src * 'unsafe-inline';">
+
     <!--
       double reference of style.css is to allow for file opening on releases, no fix known
       NOTE: Last link tag takes priority
