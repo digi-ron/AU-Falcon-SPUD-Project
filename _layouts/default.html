@@ -14,7 +14,7 @@
     <meta name="canonical" content="{{ page.url | absolute_url }}">
     <meta name="og:url" content="{{ page.url | absolute_url }}">
     <!-- CSP override - Github index / blocks a lot, and frankly this isn't worth setting nonces or hashes for (need inline for offline download)-->
-    <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline'; style-src * 'unsafe-inline';">
+    <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline'; style-src * 'unsafe-inline'; font-src * data:; img-src *;">
 
     <!--
       double reference of style.css is to allow for file opening on releases, no fix known
