@@ -17,7 +17,7 @@ Please see the table below for shared parts:
 ## Parts Sharing Table
 
 ### How to read this table
-- For brevity, the Interchangeable model values are all in model codes, with ranges referring to all models between, e.g. EA-AU includes EF and EL Falcons
+- For brevity, the Interchangeable model values are all in model codes, with ranges referring to all models between, e.g. EA-AU includes EF and EL Falcons. For reference, refer to [the table below](#model-codes)
 - Any mentioned parts that have their own pages within this project are linked for convenience
 
 ### Table
