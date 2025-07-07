@@ -4,9 +4,7 @@ gem "jekyll", "~> 3.9.3"
 # github pages and plugins for jekyll
 gem "github-pages", '~> 228' , group: :jekyll_plugins
 group :jekyll_plugins do
-  # gem "jekyll-feed", "~> 0.12"
   gem "jekyll-remote-theme"
-  gem "jekyll-last-modified-at"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
