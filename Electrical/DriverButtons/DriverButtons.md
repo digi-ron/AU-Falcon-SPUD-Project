@@ -101,5 +101,5 @@ Should you need to remove the cap on a fuel door button, e.g. when swapping from
 1. Done
 
 
-<!-- TODO investigate: 7186-8845 7187-8845. Noted as C-170 in the workshop manual connector listing, apparently between models AU-BF at least
+<!-- TODO find this damned connector if at all possible. Notes follow. Noted as C-170 in the workshop manual connector listing, apparently between models AU-BF at least. Known used EB-BF. May be OEM but should at least be from another international model
 -->
