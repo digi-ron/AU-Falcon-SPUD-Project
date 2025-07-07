@@ -18,7 +18,7 @@ The plugs used for the headlight switch initially appear to be a AMP MULTILOCK .
 | Male Terminal | 7114-1171 | brass insert for male housing, suited for 0.85/1.25mm<sup>2</sup> wire |
 
 ## Variations
-There seems to be a variation between the base model unit and the high model units in terms of wiring, beyond the expected low amount of difference expected from the 1 additional control.
+There is a variation between the base model unit and the high model units in terms of wiring, beyond the expected low amount of difference expected from the 1 additional control.
 
 ### Pin layout
 The following notes assume pin numbers where you are looking at the switch unit itself, with the clip cut-out facing up and the 2 pin section of the top row to the left:
@@ -37,9 +37,9 @@ The following notes assume pin numbers where you are looking at the switch unit 
 | 01 | blank | |
 | 02 | blank | |
 | 03 | blank | |
-| 04 | GND/SIG? | |
+| 04 | GND | |
 | 05 | blank | |
-| 06 | GND/SIG? | |
+| 06 | GND | |
 | 07 | Dome Light 2 | high setting |
 | 08 | Dome Light 0 | lowest setting |
 | 09 | Headlights LOW | park lights |
