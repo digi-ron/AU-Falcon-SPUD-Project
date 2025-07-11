@@ -5,6 +5,9 @@ hideTOC: true
 
 # Manufacturer Specific Instructions - KEYDIY
 
+> These are instructions specific to KEYDIY Remotes. For instructions on how to pair remotes once acquired or programmed, please see the [Keyfobs page](../Keyfob.md#programming-keyfobs)
+{: .block-note}
+
 ## CAVEATS
 
 > TL:DR; This is really not fit for purpose. At all.
