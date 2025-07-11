@@ -5,6 +5,9 @@ hideTOC: true
 
 # Manufacturer Specific Instructions - CodeEzy
 
+> These are instructions specific to CodeEzy Remotes. For instructions on how to pair remotes once acquired or programmed, please see the [Keyfobs page](../Keyfob.md#programming-keyfobs)
+{: .block-note}
+
 ## What you need
 - A CodeEzy Idol universal remote, model number CE1009
 
