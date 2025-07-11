@@ -5,6 +5,9 @@ hideTOC: true
 
 # Manufacturer Specific Instructions - Remocon
 
+> These are instructions specific to Remocon Remotes. For instructions on how to pair remotes once acquired or programmed, please see the [Keyfobs page](../Keyfob.md#programming-keyfobs)
+{: .block-note}
+
 ## CAVEATS
 - Requires a OEM remote to clone. Cannot be someone elses remote as the cloned remote would then operate both cars
 - The Remocon RMC-600, which advertises the ability to copy codes without the use of a programmer was tested to ***NOT*** work when trying to copy an OEM [Series 1](../../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) remote. It does work with already copied RMC-555 remotes, but this may present a signal degradation issue in making copy-of-copy remotes, and makes the ability to copy without the RMC-888 a moot point.
