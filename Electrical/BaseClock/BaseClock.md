@@ -74,7 +74,15 @@ There are some Ford models which contain the same clock as the AU Falcon, which 
 
 ## Plug Type
 
-The plugs for the wiring of the clock loom are MULTILOCK 040 II connectors, similar to the [Instrument Cluster](../../PCMBCM/InstrumentCluster/InstrumentCluster.md#plug-types).
+### Series 1
+
+> The plugs for the wiring of the series 1 clock loom are unknown at this time. Wiring kits do exist overseas for other models, however they are expensive to acquire new to Australia or New Zealand.
+{: .block-note}
+
+
+### Series 2-3
+
+The plugs for the wiring of the later series' clock loom are MULTILOCK 040 II connectors, similar to the [Instrument Cluster](../../PCMBCM/InstrumentCluster/InstrumentCluster.md#plug-types).
 
 | Name | Product Number | Notes |
 | --- | --- | --- |
