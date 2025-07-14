@@ -29,6 +29,7 @@ description: "Credits"
 - [KEYDIY](https://www.keydiy.com/)
 - [Magnum MFG](https://www.magnummfg.com.au/)
 - [Max Ellery](https://ellery.com.au/shop/falconfairlane-vehicle-repair-manual-99-02/)
+- [Motorcraft](https://www.ford.com/support/category/motorcraft/)
 - [MotoringBox](https://www.motoringbox.com/)
 - [mycar](https://www.mycar.com.au/)
 - [Narva](https://www.narva.com.au/)
