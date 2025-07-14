@@ -76,8 +76,15 @@ There are some Ford models which contain the same clock as the AU Falcon, which 
 
 ### Series 1
 
-> The plugs for the wiring of the series 1 clock loom are unknown at this time. Wiring kits do exist overseas for other models, however they are expensive to acquire new to Australia or New Zealand.
+> The plugs for the wiring of the series 1 clock loom have no known aftermarket part number at time of writing. Wiring kits do exist overseas for [other models](#other-models), however they are expensive to acquire new to Australia or New Zealand. Details are below for OEM plugs, however the recommended course of action for the foreseeable future is to source wreck parts locally where possible
 {: .block-note}
+
+The plugs for the wiring of the S1-1.5 AU Falcon clock looms are identified as OEM-specific plugs. The only known part numbers are listed below, sourced from [Motorcraft](../../Credits.md#sources) Parts listings
+
+| Name | Product Number(s) | Notes |
+| --- | --- | --- |
+| Female Connector Housing | 1W3Z-14S411-AB <br/> 1W3Z-14S411-AC <br/> WPT-100 <br/> WPT-1046 | Confirmed from 2016 dated parts listing |
+| Male Connector Housing | *UNKNOWN* | No known availability but assumed manufactured by Motorcraft internally and soldered to clock components only |
 
 
 ### Series 2-3
@@ -89,9 +96,6 @@ The plugs for the wiring of the later series' clock loom are MULTILOCK 040 II co
 | Male Connector Housing | 175964-2 | Loom end connector |
 | Female Connector Housing (PCB Mount) | 175973-2 | Clock end connector |
 
-> While wiring kits do exist at time of writing, they are generally supplied from the US for [that country's models](#other-models) and are expensive to both buy and ship to Australia or New Zealand.
-{: .block-note}
-
 ## Pinout
 
 The following information assumes you are looking at the connector on the back of the clock (male terminal housing) with the connector clip cutout facing up:
@@ -102,7 +106,7 @@ The following information assumes you are looking at the connector on the back o
 
 ### Series 1
 
-> TBD. This is reportedly the same as [Series 2-3 Wiring](#series-2-3) except for one additional trigger wire (Brown)
+> Not confirmed accurate at time of writing. The following information is based on a Non-AU Falcon parts listing and is yet to be confirmed
 {: .block-warning}
 
 <!-- TODO confirm this - based on mustang clock ebay listing currently -->
@@ -135,7 +139,7 @@ The following information assumes you are looking at the connector on the back o
 
 If you own a Series 2-3 digital clock that has failed electrically, and due to external factors only have access to the later Ford Territory digital clock, the existing AU Falcon clock surround can be used with the internals of the Territory electrics. Follow the instructions below to replace the clock surround:
 
-> These instructions do *not* work with Series 1 digital clocks, as they are different both electrically and structurally. However, this will work if the opposite supply issue is true, and you wish to replace Territory clock internals with that of an AU Falcon.
+> These instructions do *not* work with Series 1 digital clocks, as they are different both electrically and structurally. However, this will work if the opposite supply issue is true, and you wish to replace Territory clock internals with that of a later model AU Falcon.
 {: .block-note}
 
 1. Unclip and remove the 2 side clips on the assembly and slide the rear plastic away from under the tabs of the rest of the assembly
