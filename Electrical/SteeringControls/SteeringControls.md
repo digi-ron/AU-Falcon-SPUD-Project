@@ -85,7 +85,7 @@ The following notes assume pin numbers where you are looking at the steering whe
 {: .block-note}
 
 ## 3D Printing steering wheel control housings
-Due to the fragility of these components, there is likely to come a time where buying original parts, even through the second hand market, will become non-viable. To this end, if you have access to a 3D printer and some UV resistant filament such as ABS or ASA, you can easily print the button housings yourself, reducing the need for complete parts, or in some cases, without replacing the original button PCBs. A rudimentary 3D model can be found on GitHub, [HERE](https://github.com/digi-ron/AU-Falcon-Steering-Controls), however this model is released under an open license and can be modified using any 3D modelling software capable of importing STL files, or [Sketchup](https://www.sketchup.com/)
+Due to the fragility of these components, there is likely to come a time where buying original parts, even through the second hand market, will become non-viable. To this end, if you have access to a 3D printer and some UV resistant filament such as ABS or ASA, you can easily print the button housings yourself, reducing the need for complete parts, or in some cases, without replacing the original button PCBs. A rudimentary 3D model can be found on GitHub, [HERE](https://github.com/digi-ron/AU-Falcon-Steering-Controls), however this model is released under an open license and can be modified using any 3D modelling software capable of importing STL files
 
 > In the interest of this projects vision, the published STL files are stored on this website as a backup [HERE](./steering-controls.zip). *Last synced - 03/03/25*
 {: .block-note}
