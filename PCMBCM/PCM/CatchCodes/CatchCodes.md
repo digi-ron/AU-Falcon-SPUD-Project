@@ -114,7 +114,7 @@ Below is a table with catch codes and known configurations said catch codes are 
 | `15AC` | | | V8 | |
 | `22AA` | 2-3 | Manual | VCT | XR6 |
 | `22AB` | 2 | | I6 | |
-| `22BA` | | | I6 | |
+| `22BA` | | | I6 | XR6 |
 | `22CA` | S2-3 | Manual | V8 | 200Kw |
 | `22DA` | S2-3 | Automatic | V8 | |
 | `22EA` | | | I6 | |
