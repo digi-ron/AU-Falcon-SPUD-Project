@@ -17,7 +17,7 @@ Below is a table with catch codes and known configurations said catch codes are 
 - Some (unconfirmed) rules to discern information about the catch codes is below:
     - The first letter is related to year of manufacture, similar to the [VIN Characters for date of manufacture](../../../Miscellaneous/VIN/VIN.md#characters-11-12---manufacture-date). For this reason W\*\*\* and X\*\*\* codes are likely S1 PCMs, and 1\*\*\* and 2\*\*\* are S2/3 PCMs
     - The second and third letter may be related to specific options fitted, but no consistent pattern has been found as yet
-    - The final letter is the revision of the software on the PCM, e.g. a WABA and a WABF PCM are the same barring some bugfixes applied by [Ford](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters)
+    - The final letter is the revision of the software on the PCM, e.g. a WABA and a WABF PCM are the same barring some bugfixes applied by [Ford](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters). It is unknown what any of these bugfixes and patches would entail
 
 ## Catch Code Table
 
