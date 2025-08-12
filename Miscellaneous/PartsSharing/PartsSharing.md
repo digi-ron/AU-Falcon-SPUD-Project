@@ -54,6 +54,7 @@ Please see the table below for shared parts:
 | Lower Control Arm | AUII-BFIII | AUI Not included due to different suspension geometry |
 | Mirror Switch | EF-BFIII | |
 | [PCV](../../Engine/PCV/PCV.md) | XF-FGX, SX-SZII, XG-XHII | Locations differ between models, but are all generally fitted into the top of the rocker cover. Right angle elbow may be required if a straight through unit is installed |
+| Rear Brake Pads | EF-AUI | Also Appears to match aftermarket part numbers for VB-VS Holden Commodore |
 | Rear Door Shell | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | [Relay - Flasher](../../Electrical/Relays/Relays.md#3-way-flasher-relay) | XD-AUIII, XG-XHII, ZL-NL | predates electrically controlled indicators, requires LED specific replacement if indicator circuit wattage dramatically changed |
 | [Relays (OEM 4-Way Black)](../../Electrical/Relays/Relays.md#4-way-micro-iso-relay) | AU-FGX, SX-SZ | newer relay style than white 4 way or green 5 way relays |
