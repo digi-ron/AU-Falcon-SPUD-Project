@@ -1,5 +1,5 @@
 ---
-decription: PCM Catch code information
+description: PCM Catch code information
 hideTOC: true
 ---
 
