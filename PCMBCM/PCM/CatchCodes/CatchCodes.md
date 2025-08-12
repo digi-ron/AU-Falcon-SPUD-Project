@@ -10,7 +10,11 @@ Below is a table with catch codes and known configurations said catch codes are 
 ## Notes
 
 - The table on this page was collated from multiple sources such as [FordForums](../../../Credits.md#sources) and [Bullet Performance Racing](../../../Credits.md#sources) and is considered ***incomplete indefinitely***
-- When swapping PCMs note that there are 3 main types that are *mostly* interchangeable (assuming same engine/transmission):
+- Even with the same Catch Code, the donor vehicle should be the same in regards to the following (for drop-in compatibility):
+    - Engine (I6/I6 HP/I6 LPG/V8/V8 5.4L)
+    - Transmission (Automatic/Manual)
+    - Body (Sedan/Ute/Wagon)
+- When swapping PCMs note that there are 3 main types that are *mostly* interchangeable (assuming same engine/transmission/body):
     - S1 - All original Smartlock 1998 or early 1999 build AU Falcons
     - S1.5 - Smartshield Immobilizer with S1 sensors, generally the hardest subset of PCMs to find
     - S2-3 - Smartshield Immobilizer with S2/3 sensors, later revisions preferred but changes are iterative
