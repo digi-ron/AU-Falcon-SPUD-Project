@@ -60,10 +60,10 @@ There are some Ford models which contain the same clock as the AU Falcon, which 
 | --- | --- | --- | --- | --- |
 | Ford | Crown Victoria | 1998-2002 | S1-1.5 | LED Green numbering. Clock assumed removed 2003-2011 |
 | Ford | Courier | 1999-2006 | S1-1.5 | LED Green/White numbering. Model is identical to Mazda Bravo |
-| Ford | Falcon - FPV | 2006 | S2 | <span class="other-highlight">Rare vehicle model range</span> |
+| Ford | Falcon (FPV Models) | 2002-2007 | S2 | LCD display with generally coloured backlight. Buttons are larger than AU Falcon clock button holes so centre dash or clock will require [modification for fitment](#series-2-3---replacing-the-cover-on-the-digital-clock). <span class="other-highlight">Rare vehicle model range</span> |
 | Ford | Mustang | 1994-2004 | S1-1.5 | LED Blue numbering |
 | Ford | Taurus | 1993-1995 | S1-1.5 | LED Green numbering |
-| Ford | Territory | 2004-2011 | S2-3 | LCD display with generally coloured backlight. Buttons are larger than AU Falcon clock button holes so centre dash or clock will require [modification for fitment](#series-2-3---replacing-the-cover-on-the-digital-clock) |
+| Ford | Territory (incl. FPV F6X) | 2004-2011 | S2-3 | LCD display with generally coloured backlight. Buttons are larger than AU Falcon clock button holes so centre dash or clock will require [modification for fitment](#series-2-3---replacing-the-cover-on-the-digital-clock) |
 | Ford | Ranger | 1995-2007 | S1-1.5 | LED Green numbering. Clock assumed removed 2008-2011 |
 | Lincoln | Blackwood | 2002-2003 | S1-1.5 | LED Green numbering. <span class="other-highlight">Rare vehicle model</span> |
 | Lincoln | Navigator | 1998-2002 | S1-1.5 | LED White numbering, later models used an analogue clock instead |
@@ -138,9 +138,9 @@ The following information assumes you are looking at the connector on the back o
 
 ## Series 2-3 - Replacing the Cover on the Digital Clock
 
-If you own a Series 2-3 digital clock that has failed electrically, and due to external factors only have access to the later Ford Territory digital clock, the existing AU Falcon clock surround can be used with the internals of the Territory electrics. Follow the instructions below to replace the clock surround:
+If you own a Series 2-3 digital clock that has failed electrically, and due to external factors only have access to a later Ford Australia Model digital clock with larger buttons, the existing AU Falcon clock surround can be used with the internals of the newer electrics. Follow the instructions below to replace the clock surround:
 
-> These instructions do *not* work with Series 1 digital clocks, as they are different both electrically and structurally. However, this will work if the opposite supply issue is true, and you wish to replace Territory clock internals with that of a later model AU Falcon.
+> These instructions do *not* work with Series 1 digital clocks, as they are different both electrically and structurally. However, this will work if the opposite supply issue is true, and you wish to replace in the opposite direction i.e. replacing a later Ford Australia clocks internals with that of a later model AU Falcon.
 {: .block-note}
 
 1. Unclip and remove the 2 side clips on the assembly and slide the rear plastic away from under the tabs of the rest of the assembly
@@ -169,6 +169,6 @@ If you own a Series 2-3 digital clock that has failed electrically, and due to e
 
     > Picture of the inside of the AU front plastic housing. Note that there is no clips or screws to hold the PCB in place, barring the 2 holes where the screws were removed
 
-1. Reverse all previous steps using the AU Falcon plastic surround and the Territory electrical components
+1. Reverse all previous steps using the desired plastic surround and electrical components
 
 1. Done
