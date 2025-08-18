@@ -149,7 +149,7 @@ Any additional information on the premium audio system is listed below:
 
 <!-- TODO test BA amp? -->
 
-## Retrofit - BA-FGX Premium Audio Amplifier
+## Retrofit - BA-FG Premium Audio Amplifier
 
 The following information is know about the premium audio amplifier from later models of Ford Falcon, which if required, can be retrofitted to work with the AU:
 
