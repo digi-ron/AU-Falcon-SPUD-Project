@@ -6,6 +6,10 @@ description: fuse information and minimum viable fuses, including diagrams and p
 
 ## Diagrams
 
+> Information Sources:
+> - Ford Australia Owners Manual (Series III Falcon Forte SR manual used but assumed universal)
+{: .info-sources}
+
 ### Cabin
 
 ![Cabin fuses diagram](./cabin-fuses.jpg)
@@ -102,8 +106,6 @@ Below is a diagram and list of the minimum viable fuses and relays
 #### Diagram
 
 ![MVF/R](./minimum-viable-fuses.jpg)
-
-> Diagrams scanned and modified from a user manual for a Series III AU Falcon, slight variations may be present depending on the specific series and model
 
 #### List
 
