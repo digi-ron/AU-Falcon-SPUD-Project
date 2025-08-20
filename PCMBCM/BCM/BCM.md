@@ -26,7 +26,10 @@ The BCM of the AU Falcon, sometimes referred to as the BEM or Body Electronics M
 
 The BCM can be accessed from the passenger side of the front driver footwell:
 
-<!-- TODO add BCM location pictures -->
+![BCM Location](./bcm-dash-panel.jpg)
+![BCM Mounted Location](./bcm-mount-location.jpg)
+
+> photos of the BCM location, both from the inside of the cabin (driver seat location) and from under the dash (brake pedal location) respectively. Note that despite this model being a Forte, it [contains a high model BCM](#additional-note)
 
 1. ***DISCONNECT THE BATTERY***
 
@@ -34,6 +37,11 @@ The BCM can be accessed from the passenger side of the front driver footwell:
     {: .block-note}
 
 1. Unscrew the phillips head BCM anchor screw from the bottom section of the driver dash
+
+  ![BCM Screw location](./bcm-dash-screw.jpg)
+
+  > Photo of the screw to remove
+
 1. Pull the BCM down gently to access the plugs, and unplug all plugs by pressing in each tab
 1. remove the BCM from the dash location
 1. done
@@ -41,9 +49,6 @@ The BCM can be accessed from the passenger side of the front driver footwell:
 ## Model Variations
 
 There are 2 types of BCM available for the AU Falcon, the Low model and the High model. The high and low BCMs have different configurations depending on the series in which they were installed, making a total of 6 different BCM variations across the model. Thankfully the BCM can be easily identified by colour, using the table below:
-
-> XR models and Low models with premium features added were fitted with High model BCMs, with functionality only wired in as required for the optioned features. Note that there are mixed reports that a "premium feature" necessitating a high BCM could be as minor as power windows, coolant level sensors, or headlight on chimes, however this is unconfirmed.
-{: .block-note}
 
 <!-- style added as only used here -->
 <style>
@@ -67,3 +72,8 @@ There are 2 types of BCM available for the AU Falcon, the Low model and the High
 > - Infomedia Microcat parts catalogue 2013 (temporarily sourced from third-party)
 > - Physical inspection (2x S1, 1x S3)
 {: .info-sources}
+
+### Additional Note
+
+> XR models and Low models with premium features added were fitted with High model BCMs, with functionality only wired in as required for the optioned features. Note that a "premium feature" necessitating a high BCM could be as minor as power windows, coolant level sensors, cruise control or headlight on chimes, however this is unconfirmed. As a general rule of thumb, ***ALWAYS*** check your BCM if you intend on replacing it, so you know what colour to acquire as a replacement.
+{: .block-note}
