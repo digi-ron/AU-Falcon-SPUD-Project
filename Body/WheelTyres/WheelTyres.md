@@ -7,9 +7,6 @@ description: information on the tyre sizes and brake dust covers. also includes 
 ## Known factory tyre sizes
 use the below table as a reference for wheel sizes that should fit all models of Falcon, sorted by rolling diameter:
 
-> All sizes collected from the [mycar](../../Credits.md#sources) website. As such information may be incomplete or incorrect
-{: .block-note}
-
 | Size | Diameter | Notes |
 | --- | --- | --- |
 | 225/50R16 | 632mm | XR6/XR8 |
@@ -21,6 +18,10 @@ use the below table as a reference for wheel sizes that should fit all models of
 | 225/50R17 | 657mm | Fairmont GHIA |
 | 225/60R16 | 677mm | Fairlane GHIA |
 {: .sortable-table}
+
+> Information Sources:
+> - [mycar](../../Credits.md#sources)
+{: .info-sources}
 
 ## General Notes - How to Read Tyre Sizes
 
@@ -49,6 +50,10 @@ Success has been reported using wheels up to and including the 18x9.5 sizing, as
 
 - PCD: 5x114.3
 - Lug Nut Information: 1/2" UNF Thread with approx. 40mm TL
+
+> Information Sources:
+> - [Wheel-size.com](../../Credits.md#sources)
+{: .info-sources}
 
 ## Wheel Dust Covers
 
