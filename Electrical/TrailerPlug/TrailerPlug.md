@@ -24,6 +24,11 @@ The connectors used for the trailer plug are known as 090 connectors, originally
 | Female Pin | 8240-4422 | For use in Car loom end connector |
 | Male Pin | 8230-4282 | For use in trailer adapter end connector |
 
+> Information Sources:
+> - [RS Components Australia](../../Credits.md#sources)
+> - [Yazaki](../../Credits.md#sources)
+{: .info-sources}
+
 ## Pin Layout
 The following notes assume pin numbers where you are looking at the trailer adapter loom plug (female housing), with the clip cut-out facing up:
 
