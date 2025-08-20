@@ -67,6 +67,11 @@ On models with a service spanner in the instrument cluster, you can disable it b
 ## Plug types
 The plugs in the back of the instrument cluster are all MULTILOCK 040 II connectors, manufactured by a company called TE Connectivity. Part information varies according to which specific plug is desired.
 
+> Information Sources:
+> - [RS Components Australia](../../Credits.md#sources)
+> - Physical Inspection (confirmation)
+{: .info-sources}
+
 ### IMPORTANT
 note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are subtle differences between the 2 versions
 
