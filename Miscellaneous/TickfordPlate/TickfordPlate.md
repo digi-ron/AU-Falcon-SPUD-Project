@@ -47,6 +47,10 @@ Below is a list of known Tickford-supplied modifications, based on multiple mark
 | Sunroof | `SUNROOF` | |
 | Tickford Authorized LPG System | *[Seperate Plate Fitted](#tickford-authorized-lpg-plate)* | |
 
+> Information Sources:
+> - various car selling platforms (used for listing pictures and known features)
+{: .info-sources}
+
 ## Alternative Plates
 
 Certain options and configurations had alternative plates, listed below:

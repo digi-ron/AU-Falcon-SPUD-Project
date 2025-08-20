@@ -9,7 +9,7 @@ Below is a table with catch codes and known configurations said catch codes are 
 
 ## Notes
 
-- The table on this page was collated from multiple sources such as [FordForums](../../../Credits.md#sources) and [Bullet Performance Racing](../../../Credits.md#sources) and is considered ***incomplete indefinitely***
+- The table on this page was collated from multiple sources and is considered ***incomplete indefinitely***
 - Even with the same Catch Code, the donor vehicle should be the same in regards to the following (for drop-in compatibility):
     - Engine (I6/I6 HP/I6 LPG/V8/V8 5.4L)
     - Transmission (Automatic/Manual)
@@ -24,6 +24,11 @@ Below is a table with catch codes and known configurations said catch codes are 
     - The final letter is the revision of the software on the PCM, e.g. a WABA and a WABF PCM are the same barring some bugfixes applied by [Ford](../../../Credits.md#wall-of-shame---information-gatekeepers-and-time-wasters). It is unknown what any of these bugfixes and patches would entail
 
 ## Catch Code Table
+
+> Information Sources:
+> - [Bullet Performance Racing](../../../Credits.md#sources)
+> - [FordForums](../../../Credits.md#sources)
+{: .info-sources}
 
 > All fields that are blank are assumed unknown. This is due to [lack of resources](#notes)
 {: .block-note}

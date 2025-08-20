@@ -110,6 +110,11 @@ The recommended method for removing these coil packs is to either completely rem
 > Lack of information for V8 models due to project only involving I6
 {: .block-note}
 
+> Information Sources:
+> - Max Ellery Falcon/Fairlane 1998-2002 Automotive Repair Manual (EP.FO42)
+> - Physical inspection (known good)
+{: .info-sources}
+
 Ignition coils can be tested for resistance based on **Primary** and **Secondary** resistances, explained below.
 
 All following instructions assume you have the ignition coil pack horizontally in front of you, with the plug closest to you and the following pin/pole information:

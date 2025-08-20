@@ -49,15 +49,14 @@ The following notes assume pin numbers where you are looking at the trailer adap
 
 ## Australian Standard Pinouts
 
-> Conflicting information suggests that wiring layouts may differ based on manufacturing locations. If buying a plug similar to this from an offshore manufacturer or brand, confirm this information with any relevant manuals.
-{: .block-note}
+> Information Sources:
+> - [Narva](../../Credits.md#sources)
+> - [TAG](../../Credits.md#special-thanks---information-sharers-and-timesavers)
+{: .info-sources}
 
 ### 7 Pin layout
 
 While the AU Falcon originally came with a 12 pin flat connector, a more appropriate and cost-effective connector to be used at the time of writing is actually a 7 Pin layout. This is simply as many trailers with the 12 pin connector exceed normal towing conditions for vehicles, unless you intend on towing an older Caravan or other heavy duty trailer.
-
-> The Pinouts shown here are confirmed by [Narva](../../Credits.md#sources) and [TAG](../../Credits.md#special-thanks---information-sharers-and-timesavers), known brands in Australia.
-{: .block-note}
 
 #### Car Socket End
 
@@ -105,9 +104,6 @@ While the AU Falcon originally came with a 12 pin flat connector, a more appropr
 ### 12 Pin layout
 
 The 12 pin layout is the standard layout for the Factory trailer looms in the Ford Falcon. If you are intend on using a 12 pin layout, note that the AU Falcon only implements a partial implementation of this standard, due to certain functions, like fog lights, not being present on the host vehicle. The implementation for this plug is noted below:
-
-> The Pinouts shown here are confirmed by [Narva](../../Credits.md#sources) and [TAG](../../Credits.md#special-thanks---information-sharers-and-timesavers), known brands in Australia.
-{: .block-note}
 
 #### Car Socket End
 

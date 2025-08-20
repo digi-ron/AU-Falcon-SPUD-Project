@@ -5,8 +5,10 @@ description: " Factory Specifications"
 
 # Factory Specifications
 
-> The information contained in the tables below are simply (re)discovered factory specifications for the AU Falcon. This information was sourced from multiple locations and may not reflect your exact model, however every effort has been made to ensure completeness and accuracy. This page only contains information not covered elsewhere in this site.
-{: .block-note}
+> Information Sources:
+> - [Automobile Catalogue](../../Credits.md#sources)
+> - [Wikipedia](../../Credits.md#sources)
+{: .info-sources}
 
 ## General Information - All models
 

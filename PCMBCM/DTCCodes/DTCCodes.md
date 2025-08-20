@@ -119,3 +119,8 @@ Below is a list of codes and descriptions that can be produced by the Diagnostic
 | P1655 | Starter relay circuit issue |
 | P1705 | Transmission sensor test fail |
 | P1768 | Econ. switch circuit issue |
+
+> Information Sources:
+> - Max Ellery Falcon/Fairlane 1998-2002 Automotive Repair Manual (EP.FO42)
+> - Haynes Repair Manual - Ford Falcon/Fairlane 1998-2002 (36733)
+{: .info-sources}

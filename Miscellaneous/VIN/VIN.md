@@ -14,6 +14,14 @@ You can find the Build plate near the [Build Plate](../BuildPlate/BuildPlate.md)
 
 ## Codes and What They Mean
 
+> Information Sources:
+> - Australian Government Department of Infrastructure, Transport, Regional Development, Communications and the Arts
+> - [FordForums](../../Credits.md#sources) (technical resources and BA Falcon Workshop Manual)
+> - [FordWiki](../../Credits.md#sources)
+> - Max Ellery Falcon/Fairlane 1998-2002 Automotive Repair Manual (EP.FO42)
+> - [Magnum MFG](../../Credits.md#sources) (GVM information)
+{: .info-sources}
+
 ### Approval No.
 
 > The approval number is simply a reference number that can be checked against by authorities. There is no public database of the information linking this number to any paperwork known.
@@ -48,9 +56,6 @@ This section does not have a title printed on the plate, but has generic informa
 ### GVM kg
 
 Gross Vehicle Mass, or GVM, refers to the maximum weight a vehicle can carry when fully loaded, Including the vehicle weight, passengers, cargo, fuel and other equipment. While this number is not stamped on most models, the general consensus is that the GVM would range from 2420-2740kg.
-
-> Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through [Magnum MFG](../../Credits.md#sources) website
-{: .block-note}
 
 > This section is also present on the [Vehicle Identification Plate](../BuildPlate/BuildPlate.md#gvm-kg)
 {: .block-note}

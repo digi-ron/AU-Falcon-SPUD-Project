@@ -127,6 +127,12 @@ The Build plate has the following layout:
 
 ## Codes and What They Mean
 
+> Information Sources:
+> - [FordForums](../../Credits.md#sources) (technical resources and BA Falcon Workshop Manual)
+> - [Magnum MFG](../../Credits.md#sources)
+> - Max Ellery Falcon/Fairlane 1998-2002 Automotive Repair Manual (EP.FO42)
+{: .info-sources}
+
 ### VIN
 
 The Vehicle Indentification Number, or VIN, is printed on the build plate as redundant information. Further information can be found on the [VIN Plate Page](../VIN/VIN.md#vehicle-identification-number)
@@ -343,9 +349,6 @@ The Paint code refers to the exterior paint used throughout the vehicle. Refer t
 ### GVM kg
 
 Gross Vehicle Mass, or GVM, refers to the maximum weight a vehicle can carry when fully loaded, Including the vehicle weight, passengers, cargo, fuel and other equipment. While this number is not stamped on most models, the general consensus is that the GVM would range from 2220-2740kg
-
-> Information on this code may be incorrect due to all accessible cars for project not including values. Value range discovered through a mixture of information from the [Magnum MFG](../../Credits.md#sources) website, and internet photos of AU Falcon ute Build Plates
-{: .block-note}
 
 > This section is also present on the [Vehicle Identification Number Plate](../VIN/VIN.md#gvm-kg)
 {: .block-note}

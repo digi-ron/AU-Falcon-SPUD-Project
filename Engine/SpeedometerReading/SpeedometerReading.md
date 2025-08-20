@@ -9,8 +9,10 @@ description: calculations required for changing of speedometer reading based on 
 
 In order to ensure accurate speedometer readings without resorting to speedometer adjuster modules or [finding and using a rare pursuit cluster](../../PCMBCM/InstrumentCluster/InstrumentCluster.md#pursuit-cluster---speedometer-calibration), the following information has been gathered in order to make any calculations required to attempt changes in the Differential, transmission gear, and the wheeel size where the speedometer is still within the manufacturers reading percentages.
 
-> This information was gathered from [FordForums](../../Credits.md#sources) and [CarModder](../../Credits.md#sources) primarily, but has been reworked for manual calculation and slightly better accuracy.
-{: .block-note}
+> Information Sources:
+> - [FordForums](../../Credits.md#sources) (original information)
+> - [CarModder](../../Credits.md#sources) (reasonable accuracy interactive calculator)
+{: .info-sources}
 
 <div class="printHide">
     <h2>Speed Reading Calculator</h2>

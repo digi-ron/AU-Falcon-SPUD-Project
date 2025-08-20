@@ -6,6 +6,13 @@ description: roof rack installation methods and information
 
 Roof racks for the AU Falcon is a topic that is limited due to the lack of options available. Any information found however has been added here:
 
+> Information Sources:
+> - [Prorack](../../Credits.md#sources)
+> - [Rhino Racks](../../Credits.md#sources)
+> - [eBay](../../Credits.md#sources)
+> - Physical Inspection (1x [Sedan](#sedans), 1x [Wagon with factory rails](#station-wagons-with-factory-rails))
+{: .info-sources}
+
 ## Sedans
 
 The sedan models of AU Falcon do not have any mounting points for roof racks, and as a result the only options are door mounted clip style mounts. Thankfully these roof racks are readily available, and even better, the roof racks for BA/BF Falcon Sedans also fits the AU Falcon, extending the search further.

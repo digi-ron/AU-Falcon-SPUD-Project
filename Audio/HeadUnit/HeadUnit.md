@@ -96,3 +96,8 @@ The connector used for the head unit of the AU Falcon is specific to this model,
 | 18 | External Controls | (Brown) | Red/White |
 | 19 | Mobile Office Audio In | (Pink) | Pink |
 | 20 | Mobile Office Audio Out | (Black) | Blue |
+
+> Information Sources:
+> - [Aerpro](../../Credits.md#sources)
+> - Physical Inspection
+{: .info-sources}

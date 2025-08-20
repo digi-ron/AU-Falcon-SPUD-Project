@@ -62,3 +62,8 @@ There are 2 types of BCM available for the AU Falcon, the Low model and the High
 | 2-3 | Low | <span class="colourCell" style="background-color:lightblue;">Blue</span> |
 | 2-3 | High | <span class="colourCell" style="background-color:pink;">Pink</span> |
 {: .sortable-table}
+
+> Information Sources:
+> - Infomedia Microcat parts catalogue 2013 (temporarily sourced from third-party)
+> - Physical inspection (2x S1, 1x S3)
+{: .info-sources}

@@ -14,7 +14,7 @@ description: "Credits"
 - [Aerpro](https://aerpro.com/)
 - [AliExpress](https://www.aliexpress.com/)
 - [Auto Parts Supply](https://www.autopartssupply.com.au/)
-- [Automotive Catalogue](https://www.automobile-catalog.com)
+- [Automobile Catalogue](https://www.automobile-catalog.com)
 - [Bullet Performance Racing](https://web.archive.org/web/20231112162510/https://www.bulletperformanceracing.com.au/EEC%20Data%20Base.html#AUFalcon) (via the [Wayback Machine](#special-thanks---information-sharers-and-timesavers))
 - [Bunnings](https://www.bunnings.com.au)
 - [CarModder](https://www.carmodder.com)
@@ -40,6 +40,7 @@ description: "Credits"
 - [Seat Safe](https://www.seatsafe.com.au/)
 - [T.I Performance](https://www.tiperformance.com.au/)
 - [Tridon](https://www.tridon.com.au/)
+- [Wheel-size.com](https://www.wheel-size.com/size/ford/falcon/au-1998-2002)
 - [Yazaki](https://www.yazaki-group.com/global/)
   - <i class="other-highlight">Some connectors specified as "Sumitomo" connectors, however significance of this is unknown</i>
 

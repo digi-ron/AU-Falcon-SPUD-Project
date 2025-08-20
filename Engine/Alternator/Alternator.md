@@ -29,6 +29,11 @@ While the alternators between series are all the same physical dimensions (depen
 | Yazaki 2 pin female terminal housing | `58X-2S-2` | 2-3 | Loom End Connector | |
 | Yazaki 2 pin male terminal housing | `58X-2P-2` | 2-3 | Alternator end connector | |
 
+> Information Sources:
+> - [eBay](../../Credits.md#sources) (parts listings)
+> - [Yazaki](../../Credits.md#sources)
+{: .info-sources}
+
 ### 5L V8
 
 The V8 alternator, likely due to different engine configuration and power requirements, is inherently different to the 6cyl version. 

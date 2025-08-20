@@ -17,6 +17,11 @@ The plugs used for the headlight switch initially appear to be a AMP MULTILOCK .
 | Male Terminal | 7114-1170 | brass insert for male housing, suited for 0.3/0.5mm<sup>2</sup> wire |
 | Male Terminal | 7114-1171 | brass insert for male housing, suited for 0.85/1.25mm<sup>2</sup> wire |
 
+> Information Sources:
+> - [RS Components Australia](../../Credits.md#sources)
+> - [Yazaki](../../Credits.md#sources)
+{: .info-sources}
+
 ## Variations
 There is a variation between the base model unit and the high model units in terms of wiring, beyond the expected low amount of difference expected from the 1 additional control.
 

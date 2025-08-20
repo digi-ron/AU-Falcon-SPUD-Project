@@ -47,6 +47,11 @@ The centre dash buttons are simply known as 090 Connectors, originally manufactu
 | Female Housing | 7122-1300 | Button end connector |
 | Male Connector | 7123-1300 | Loom end connector |
 
+> Information Sources:
+> - [RS Components Australia](../../Credits.md#sources)
+> - [Yazaki](../../Credits.md#sources)
+{: .info-sources}
+
 ## Pin layout
 
 The following notes assume pin numbers where you are looking at the switch unit itself, with the clip cut-out facing up:

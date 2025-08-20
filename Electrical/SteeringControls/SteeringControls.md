@@ -16,7 +16,7 @@ While there is no difference between the steering controls on AU Falcons/Fairlan
 
 ## Plug Type
 
-The 2 connectors for the Steering wheel controls (other than the blade style horn connector) were originally manufactured by a company known as Delphi as part of the 150 Series of Connectors. While the manufacturer is now known as Aptiv, the following product codes are still relevant, and can be purchased from online marketplaces such as [AliExpress](../../Credits.md#sources)
+The 2 connectors for the Steering wheel controls (other than the blade style horn connector) were originally manufactured by a company known as Delphi as part of the 150 Series of Connectors. While the manufacturer is now known as Aptiv, the following product codes are still relevant, but can generally only be found on online marketplaces:
 
 | Name | Product Number | Notes |
 | --- | --- | --- |
@@ -24,6 +24,10 @@ The 2 connectors for the Steering wheel controls (other than the blade style hor
 | Connector 4M | 12047786 | Male Terminal Housing (button end connector) |
 | Female Terminal Unsealed | 12047767 | for 1.0-0.8mm<sup>2</sup> wire |
 | Male Terminal Unsealed | 12047581 | for 1.0-0.8mm<sup>2</sup> wire|
+
+> Information Sources:
+> - [AliExpress](../../Credits.md)
+{: .info-sources}
 
 ## Pin Layout
 
@@ -92,6 +96,11 @@ Due to the fragility of these components, there is likely to come a time where b
 
 ## Steering control wiring
 unlike most basic controls within the Falcon, the Steering controls appear to be activated by specific resistances, as the connector itself only has 4 pins between the 2 sets of 3 buttons. Each button can be activated using the following resistors and a simple momentary switch:
+
+> Information Sources:
+> - Max Ellery Falcon/Fairlane 1998-2002 Automotive Repair Manual (EP.FO42)
+> - Physical inspection (broken unit)
+{: .info-sources}
 
 ### Cruise control side
 
