@@ -48,7 +48,6 @@ The [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series
 | GND | Black |
 {: .sortable-table}
 
-<!-- TODO add pics -->
 ## Amplifier - S2-3
 
 After the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons, the subwoofer was changed to a model that only contains an amplifier for the Subwoofer, and not the rear speakers. The following information is known about these amplifiers:
@@ -63,12 +62,20 @@ After the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#
 | Wattage | Unknown, assumed 200-250W approximate |
 | Connection | Subwoofer Only |
 
+![Premium Audio Amplifier](./pas-amp-top.jpg)
+
+> A photo of a premium amplifier, originally from an AU Fairlane
+
 ### Plug Information
 
 All connections for the speakers and subwoofer in the amplifier are screw terminal style connectors or RCA connections. As such, for any re-wiring attempts, small spade terminals and RCA male plugs should be used for the wires.
 
 > There is a small loom that connects the subwoofer and speakers to the rest of the Audio Loom within the vehicle, however information on this loom is limited
 {: .block-note}
+
+![Premium Audio Amplifier plug layout](./pas-amp-plugs.jpg)
+
+> A photo of the rear of the amplifier, with factory wiring present as it was from factory. Note there is a spare RCA output behind a black dust cover, and that not all terminals are populated.
 
 ### Pinout
 
