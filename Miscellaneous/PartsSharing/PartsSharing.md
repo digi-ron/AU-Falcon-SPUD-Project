@@ -80,8 +80,6 @@ Please see the table below for shared parts:
 
 ### Model Codes
 
-> All Models are in chronological order, from oldest to newest
-
 | Model | Code | Years |
 | --- | --- | --- |
 | Falcon | XA | 1972-1973 |
