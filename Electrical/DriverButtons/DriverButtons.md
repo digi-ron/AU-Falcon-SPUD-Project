@@ -55,6 +55,12 @@ The following is known about the connectors for the fuel button, however no part
       - MR2 AW11 (1987-1989)
     - [Tridon](../../Credits.md#sources) part number `TBS063` (confirmed product discontinued and price prohibitive)
 
+> Information Sources:
+> - Bosch (contacted directly)
+> - Nice ([eBay](../../Credits.md#sources) listing used as reference)
+> - [Tridon](../../Credits.md#sources) (contacted directly)
+{: .info-sources}
+
 ### Removing The Button Caps
 
 Should you need to remove the cap on a fuel door button, e.g. when swapping from a button assembly from a EB-EL or BA/BF Falcon, follow the instructions below:
