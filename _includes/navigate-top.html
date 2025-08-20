@@ -16,11 +16,16 @@
         border-radius: 5px;
         display: none;
     }
+
+    @media print {
+        #pageTopButton {
+            display: none !important;
+        }
+    }
 </style>
 <script>
     const button = document.createElement("div");
     button.id = "pageTopButton";
-    button.classList.add("printHide");
     button.innerText = "▲";
     button.style.display = "block";
 
