@@ -73,6 +73,10 @@ There are some Ford models which contain the same clock as the AU Falcon, which 
 | Mercury | Grand Marquis | 1995-2005 | S1-1.5 | LED Green numbering. Analogue clock fitted 1993-1994, and assumed no clock installed 2006-2011 |
 {: .sortable-table}
 
+> Information Sources:
+> - [eBay](../../Credits.md#sources)
+{: .info-sources}
+
 ## Plug Type
 
 ### Series 1
@@ -80,12 +84,14 @@ There are some Ford models which contain the same clock as the AU Falcon, which 
 > The plugs for the wiring of the series 1 clock loom have no known aftermarket part number at time of writing. Wiring kits do exist overseas for [other models](#other-models), however they are expensive to acquire new to Australia or New Zealand. Details are below for OEM plugs, however the recommended course of action for the foreseeable future is to source wreck parts locally where possible
 {: .block-note}
 
-The plugs for the wiring of the S1-1.5 AU Falcon clock looms are identified as OEM-specific plugs. The only known part numbers are listed below, sourced from [Motorcraft](../../Credits.md#sources) Parts listings
-
 | Name | Product Number(s) | Notes |
 | --- | --- | --- |
 | Female Connector Housing | 1W3Z-14S411-AB <br/> 1W3Z-14S411-AC <br/> WPT-100 <br/> WPT-1046 | Confirmed from 2016 dated parts listing |
 | Male Connector Housing | *UNKNOWN* | No known availability but assumed manufactured by Motorcraft internally and soldered to clock components only |
+
+> Information Sources:
+> - [Motorcraft](../../Credits.md#sources)
+{: .info-sources}
 
 
 ### Series 2-3
@@ -96,6 +102,11 @@ The plugs for the wiring of the later series' clock loom are MULTILOCK 040 II co
 | --- | --- | --- |
 | Male Connector Housing | 175964-2 | Loom end connector |
 | Female Connector Housing (PCB Mount) | 175973-2 | Clock end connector |
+
+> Information Sources:
+> - [RS Components Australia](../../Credits.md#sources)
+> - [Motorcraft](../../Credits.md#sources) (OEM reference)
+{: .info-sources}
 
 ## Pinout
 
@@ -122,6 +133,10 @@ The following information assumes you are looking at the connector on the back o
 | 06 | | |
 | 07 | Illumination (+ assumed) | |
 | 08 | Headlight trigger | |
+
+> Information Sources:
+> - [eBay](../../Credits.md#sources)
+{: .info-sources}
 
 ### Series 2-3
 
