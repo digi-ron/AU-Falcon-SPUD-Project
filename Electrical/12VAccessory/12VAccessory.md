@@ -11,6 +11,10 @@ The 12V accessory plug on the AU Falcon is located in the bottom of the centre d
 
 The 12v Accessory plug in the AU Falcon uses a connector housing with 2 terminals, a Positive 6.3mm terminal, and a Ground 4.8mm terminal, in a right angle configuration. Should you wish to manufacture a loom for the 12V Accessory to other devices, there are a few possible known options available, listed below:
 
+### Wreck Parts
+
+The simplest and most guaranteed fit is of course to source parts from a wreck vehicle. This is however only viable while stocks of AU Falcons are available in wreckers, which is not guaranteed long-term.
+
 ### Universal Flasher Relay Connector
 
 Vehicles from the 60s and 70s primarily used a 2 pin flasher relay for the functioning of the indicator bulbs in the vehicles. Known Ford Falcon models range from the 1960 model XK Falcon through to the 1979 XC Falcon, with it being phased out in the following XD model later. If choosing this connector, note the following:
