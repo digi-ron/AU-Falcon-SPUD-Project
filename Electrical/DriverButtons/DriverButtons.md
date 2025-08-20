@@ -21,6 +21,11 @@ The plug for the lock and the boot release buttons are a 090 connector, original
 | Female Terminal | 8240-4422 | for 0.5-1.25mm<sup>2</sup> wire |
 | Male Terminal | 8230-4282 | for 0.5-1.25m<sup>2</sup> wire |
 
+> Information Sources:
+> - [RS Components Australia](../../Credits.md#sources)
+> - [Yazaki](../../Credits.md#sources)
+{: .info-sources}
+
 ### Pin Layout
 
 The following assume you are looking at the loom end connector with the clip facing up
