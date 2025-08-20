@@ -48,8 +48,11 @@ In order to disable the ABS, follow the steps according to the conditions in the
 
 <!-- TODO add pictures -->
 
+> These instructions assume you don't wish to pull the engine bay fuse panel out of the car before pulling the fuse. As a result this is in some ways a harder method, but it is also faster and requires undoing the least amount of bolts
+{: .block-note}
+
 1. Disconnect the battery
-1. Open the [Engine Cabin Fuse](../../Electrical/Fuses/Fuses.md#engine-bay)
+1. Open the [Engine Cabin Fuse Panel](../../Electrical/Fuses/Fuses.md#engine-bay)
 1. Undo the 2 clips holding the inner fuse panel in and lift the assembly from the fuse box
 
     > Be gentle when removing the inner fuse panel, as wires for each fuse in the panel are connected to the bottom.
