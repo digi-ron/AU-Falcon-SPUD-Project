@@ -79,7 +79,7 @@ All connections for the speakers and subwoofer in the amplifier are screw termin
 
 ### Pinout
 
-due to various plugs present on the rear of the Premium Audio AMplifier, the following information is divided into sections. Each section is progressing left to right, while looking at the amplifier while it is sitting flat on the screw mountable side:
+due to various plugs present on the rear of the Premium Audio Amplifier, the following information is divided into sections. Each section is progressing left to right, while looking at the amplifier while it is sitting flat on the screw mountable side:
 
 <table>
     <thead>
