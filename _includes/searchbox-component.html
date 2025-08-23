@@ -2,8 +2,7 @@
     <div class="printHide js-only" style="position:relative" id="siteSearch">
         <input type="search" id="search" placeholder="Search for a page...">
         <br />
-        <!-- rendered differently to navigation as JS required anyways, parsing of structure is outside of what jekyll can do -->
-        <!-- TODO see if there's a way to add the description without making the search results box look crowded -->
+        <!-- rendered differently to navigation as JS required anyways, parsing of JSON structure is outside of what jekyll can do -->
         <div id="searchResultsSection">
             {% for page in site.pages %}
                 {% if page.url contains '.html' %}
