@@ -71,6 +71,8 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 ### Specifics - ANT button
 
+> Factory Wiring Harness Plug Colour - Blue
+
 On models where an electric antenna is present, a ANT button can be found. This button has 4 pins accessible, but is a toggle (latching) switch.
 
 > These buttons are ideal for use for auxiliary functions while only filling the blank button locations present on lower models of Falcon.
@@ -95,6 +97,8 @@ On models where an electric antenna is present, a ANT button can be found. This 
 
 ### Specifics - Demist button
 
+> Factory Wiring Harness Plug Colour - White
+
 All models of AU falcon should be fitted with a rear demister button as standard. These are momentary switches:
 
 | Pin | Function | Notes |
@@ -115,6 +119,10 @@ All models of AU falcon should be fitted with a rear demister button as standard
 > Photo of rear end of the Demister button
 
 ### Specifics - ECON/Lock button
+
+> Factory Wiring Harness Plug Colour (ECON) - Orange
+
+> Factory Wiring Harness Plug Colour (Lock) - Green
 
 On models fitted with a column shifter (e.g. bench seat optioned utes), an ECON button is fitted to the centre dash with the same plugs as the other buttons on this page. On Higher end models (Fairmont/Fairlane/LTD), a lock button is fitted to the centre dash. Both buttons are identical barring the pattern printed to the front, has 6 accessible pins, and are momentary switches:
 
@@ -137,6 +145,8 @@ On models fitted with a column shifter (e.g. bench seat optioned utes), an ECON 
 
 ### Specifics - TCS button
 
+> Factory Wiring Harness Plug Colour - UNKNOWN
+
 On models where a Traction control System is present, a Traction control button can be found. This button has 4 accessible pins, and is a momentary switch:
 
 | Pin | Function | Notes |
@@ -155,6 +165,13 @@ On models where a Traction control System is present, a Traction control button 
 ![TCS Button rear](./tcs-rear.jpg)
 
 > Photo of rear end of TCS button
+
+### Specifics - Dimmer button
+
+> Factory Wiring Harness Plug Colour - White
+
+> Very little is known abut the Dimmer buttons, as they were only fitted to vehicles with the police pack from factory (Option 20 or OPT20). The functionality is that it disables the interior lights on demand.
+{: .block-note}
 
 ## Replacing button faces
 
