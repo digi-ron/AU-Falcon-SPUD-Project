@@ -70,7 +70,7 @@ There are 2 types of BCM available for the AU Falcon, the Low model and the High
 
 > Information Sources:
 > - Infomedia Microcat parts catalogue 2013 (temporarily sourced from third-party)
-> - Physical inspection (2x S1, 1x S3)
+> - Physical inspection (2x S1, 1x S1.5, 1x S3)
 {: .info-sources}
 
 ### Additional Note
