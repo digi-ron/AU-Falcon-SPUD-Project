@@ -34,6 +34,8 @@ The following notes assume pin numbers where you are looking at the switch unit 
 
 ####  Low unit pins
 
+<!-- TODO work out where the power is using the body harness in SPUD -->
+
 > Information incomplete due to testing outside of vehicle
 {: .block-note}
 
