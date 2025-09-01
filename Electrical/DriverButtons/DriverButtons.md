@@ -50,9 +50,13 @@ The following assume you are looking at the loom end connector with the clip fac
 
 The following is known about the connectors for the fuel button, however no part number or original manufacturer has been discerned:
 
+<!-- TODO find this damned connector if at all possible. Notes follow. Noted as C-170 in the workshop manual connector listing, apparently between models AU-BF at least. Known used EB-BF. May be OEM but should at least be from another international model
+-->
+
 - Confirmed used in XE-ED Falcons as the Brake Light Switch connector
   - Bosch part number `9 340 063 086` (confirmed no further information)
   - Nice part number `BS61` (unconfirmed)
+- Confirmed Factory Workshop Manual references it as connector `C-170`. This number continues into the BA Falcon Workshop Manual
 - Confirmed used as fuel button release switch connector from EB-BFIII Falcons, but [button cap requires replacement for fitment](#removing-the-button-caps)
 - Suspected used in some Toyota models for brake light circuit cruise control functionality:
     - Models:
@@ -64,6 +68,7 @@ The following is known about the connectors for the fuel button, however no part
 > - Bosch (contacted directly)
 > - Nice ([eBay](../../Credits.md#sources) listing used as reference)
 > - [Tridon](../../Credits.md#sources) (contacted directly)
+> - Factory Workshop Manuals (sourced through [FordForums](../../Credits.md#sources))
 {: .info-sources}
 
 ### Removing The Button Caps
@@ -73,7 +78,7 @@ Should you need to remove the cap on a fuel door button, e.g. when swapping from
 > Images are taken from an already broken AU Falcon button, to prevent damage to good parts. Refer to the [parts sharing table](../../Miscellaneous/PartsSharing/PartsSharing.md#parts-sharing-table) for compatible model buttons
 {: .block-note}
 
-> Unlike the [Centre Console Buttons](../CentreConsoleButtons/CentreConsoleButtons.md), the caps for these buttons *cannot* be removed without disassembling the button. While it does appear to be possible, there is not enough clearance in the housing to allow for the tabs holding the tabs on the button cap to come out.
+> Unlike the [Centre Console Buttons](../CentreConsoleButtons/CentreConsoleButtons.md), the caps for these buttons *cannot* be removed without disassembling the button. While it does appear to be possible, there is not enough clearance in the housing to allow for the tabs on the button cap to come out.
 {: .block-warning}
 
 1. Locate and unclip the 6 small clips holding in the bottom plastic for the switch housing, noting:
@@ -110,7 +115,3 @@ Should you need to remove the cap on a fuel door button, e.g. when swapping from
 1. Replace button face on mechanism with AU Falcon equivalent (repeat previous steps if required), then complete all previous steps in reverse to return the button to it's original condition.
 
 1. Done
-
-
-<!-- TODO find this damned connector if at all possible. Notes follow. Noted as C-170 in the workshop manual connector listing, apparently between models AU-BF at least. Known used EB-BF. May be OEM but should at least be from another international model
--->
