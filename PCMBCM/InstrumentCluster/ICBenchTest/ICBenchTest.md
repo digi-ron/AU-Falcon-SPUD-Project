@@ -10,6 +10,7 @@ If required for some reason, the Instrument cluster can be partially tested by w
 {: .block-note}
 
 > Certain pins have proven unable to test, in these cases the pins will be marked as <span class="other-highlight">UNKNOWN</span>
+{: .block-note}
 
 ## High Cluster
 
@@ -113,3 +114,82 @@ The following information assumes you are looking at the instrument cluster conn
 | 18 | Serial Rx | <span class="other-highlight">UNKNOWN</span> | |
 | 19 | Airbag Audible Alert | <span class="other-highlight">UNKNOWN</span> | Not tested (broken on unit tested) |
 | 20 | Traction Control | GND | |
+
+## Low Cluster
+
+Cluster tested: 2001 Model AU Falcon Futura cluster (Series 2)
+
+### Connector 1 - 12 way connector
+
+> 12 way connector not used, all pins are useless
+{: .block-note}
+
+### Connector 2 - 16 way connector
+
+> [Connector Information](../InstrumentCluster.md#16-way-plug---bottom-plug-behind-fuel-gauge-side-of-cluster)
+
+#### Pinout
+
+The following information assumes you are looking at the instrument cluster connector, with the flat side facing down and the clip cutout facing up:
+
+| `01` | `02` | `03` | `04` | `05` | `06` | `07` | `08` |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **`09`** | **`10`** | **`11`** | **`12`** | **`13`** | **`14`** | **`15`** | **`16`** |
+
+#### Pin Functionality
+
+| Position | Function | Activation | Notes |
+| --- | --- | --- | --- |
+| 01 | Door | GND | |
+| 02 | ABS | GND | |
+| 03 | Demister | +12v | |
+| 04 | Battery | GND | |
+| 05 | Left Indicator | +12v | |
+| 06 | High Beam | +12v | |
+| 07 | Backlight + | +12v | |
+| 08 | Brake | GND | |
+| 09 | Air Bag | GND | |
+| 10 | Backlight - | GND | |
+| 11 | Radio Output | <span class="other-highlight">UNKNOWN</span> | Requires [Head Unit](../../../Audio/HeadUnit/HeadUnit.md), out of scope |
+| 12 | Right Indicator | +12V | |
+| 13 | Handbrake | GND | |
+| 14 | Seatbelt | <span class="other-highlight">UNKNOWN</span> | GND and +12V tested but appears to need a different signal 
+| 15 | Oil | Resistance (Ω) | Set below XΩ for activation |
+| 16 | Smartshield | GND | |
+
+### Connector 3 - 20 way connector
+
+> [Connector Information](../InstrumentCluster.md#20-way-plug---plug-behind-rpm-gauge-side-of-cluster)
+
+#### Pinout
+
+The following information assumes you are looking at the instrument cluster connector, with the flat side facing down and the clip cutout facing up:
+
+| `01` | `02` | `03` | `04` | `05` | `06` | `07` | `08` | `09` | `10` |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **`11`** | **`12`** | **`13`** | **`14`** | **`15`** | **`16`** | **`17`** | **`18`** | **`19`** | **`20`** |
+
+#### Pin Functionality
+
+| Position | Function | Activation | Notes |
+| --- | --- | --- | --- |
+| 01 | Battery - | GND | |
+| 02 | Signal - | GND | |
+| 03 | Coolant Temperature | Resistance (Ω) | Set between 180-1380Ω |
+| 04 | Ignition | +12v | Max. 13.5V |
+| 05 | Oil | GND | |
+| 06 | Door Ajar | GND | |
+| 07 | Fuel Level | Resistance (Ω) | Set between 0-176Ω |
+| 08 | Radio Out | <span class="other-highlight">UNKNOWN</span> | Requires [Head Unit](../../../Audio/HeadUnit/HeadUnit.md), out of scope |
+| 09 | Overspeed | <span class="other-highlight">UNKNOWN</span> | Possibly resistance based? |
+| 10 | N/a | | |
+| 11 | Battery + | +12v | Max. 13.5V |
+| 12 | Speedometer + | +8.2V | requires secondary power supply or step down from 12V for testing |
+| 13 | Speed Out |<span class="other-highlight">UNKNOWN</span> | Not input, no test wire required |
+| 14 | Speedometer In | PWM | Voltage (V) between 0-13.5 required |
+| 15 | Tachometer In | PWM | Voltage (V) between 0-13.5 required |
+| 16 | LCD Dim | GND | |
+| 17 | Diagnostic I/O | <span class="other-highlight">UNKNOWN</span> | Likely related to [BCM](../../BCM/BCM.md) Communication |
+| 18 | Serial Rx | <span class="other-highlight">UNKNOWN</span> | |
+| 19 | Airbag Audible Alert | <span class="other-highlight">UNKNOWN</span> | Not tested (broken on unit tested) |
+| 20 | N/a | | |
