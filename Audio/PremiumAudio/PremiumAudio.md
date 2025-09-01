@@ -158,13 +158,13 @@ Any additional information on the premium audio system is listed below:
 
 ## Retrofit - BA-FG Premium Audio Amplifier
 
+> This section is currently *untested*. Additional steps may be required
+{: .block-warning}
+
 The following information is know about the premium audio amplifier from later models of Ford Falcon, which if required, can be retrofitted to work with the AU:
 
 > The information shown here was added due to the higher quantity of cars produced with the later model of amplifier. Similar sound quality *should* be possible but *has not* been tested to confirm
 {: .block-note}
-
-> This section is currently *untested*. Additional steps may be required
-{: .block-warning}
 
 ### Specifications
 
@@ -200,14 +200,59 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 | Position | Colour | Function |
 | --- | --- | --- |
 | 01 | Black | Shield (GND) |
-| 02 | N/a | Unknown |
+| 02 | N/a | |
 | 03 | Light Blue/White | Subwoofer + |
-| 04 | Green | ICC Information |
-| 05 | Red | ICC Information |
+| 04 | Green | ICC (Audio in L/R/GND?) |
+| 05 | Red | ICC (Audio in L/R/GND?) |
 | 06 | Black | GND |
 | 07 | Black | GND |
-| 08 | Yellow | ICC Information |
-| 09 | N/a | Unknown |
+| 08 | Yellow | ICC (Audio in L/R/GND?) |
+| 09 | N/a | |
 | 10 | Blue | Subwoofer - |
 | 11 | Yellow | Amplifier + |
 | 12 | Yellow | Amplifier + |
+
+## Retrofit - FGII-FGX Premium Audio Amplifier
+
+While statistically unlikely, should you find yourself with a later model FG or FGX Falcon amplifier, the recommended course of action is to avoid installation into your AU Falcon as a retrofit. This is due to there being multiple "sense" wires which were designed to be used with the later model ICCs which have been known to be impossible to emulate. Regardless, found information during the investigation as to whether this is possible is shown below, in the case it is decoded or someone wiring an amplifier into a compatible ICC needs this information and finds themselves here:
+
+### Plug Type
+
+The FGII-FGX Falcon amplifiers use a Yazaki Connector, part of their YESC Kaizen 1.5 System Connector line
+
+| Name | Product Number | Notes |
+| --- | --- | --- |
+| Male Terminal Housing | 7282-6453-60 | Amplifier connector |
+| Female Terminal Housing | 7283-6453-60 | Loom end connector |
+
+### Pin Layout
+
+The following notes assume pin numbers where you are looking at the Amplifier unit itself, with the flat edge facing down and the clip receiver facing upwards:
+
+| `01` | `02` | `03` | `04` | `05` | `06` | `07` | `08` |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **`09`** | **`10`** | **`11`** | **`12`** | **`13`** | **`14`** | **`15`** | **`16`** |
+
+### Pinout
+
+> Information incomplete due to lack of resources
+{: .block-note}
+
+| Position | Colour | Function |
+| --- | --- | --- |
+| 01 | Yellow | 12+ |
+| 02 | Yellow | 12+ |
+| 03 | | |
+| 04 | Blue | Subwoofer (+ assumed)
+| 05 | Blue/White | Subwoofer (- assumed)
+| 06 | | |
+| 07 | | |
+| 08 | Brown | ICC Communications |
+| 09 | Black | GND |
+| 10 | Black | GND |
+| 11 | White | ICC Communications |
+| 12 | | |
+| 13 | | |
+| 14 | Orange | ICC Communications |
+| 15 | | |
+| 16 | Yellow | ICC Communications |
