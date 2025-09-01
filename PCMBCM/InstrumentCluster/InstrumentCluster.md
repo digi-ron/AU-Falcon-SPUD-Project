@@ -140,3 +140,8 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 ![Female 20 pin connector](./female-20.png)
 
 > Female Terminal housing image take from [RS Components](../../Credits.md#sources) product page
+
+## Pinout
+
+> For pinout information, please refer to the [Bench Testing Page](./ICBenchTest/ICBenchTest.md). This page contains the pinouts for various tested models of the cluster (required due to length and various trim levels)
+{: .block-note}
