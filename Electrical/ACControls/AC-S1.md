@@ -129,6 +129,8 @@ The following notes assume pin numbers where you are looking at the dial unit it
 | --- | --- | --- |
 | **`04`** | **`05`** | **`06`** |
 
+#### Pinout
+
 | Pin | Function | Notes |
 | --- | --- | --- |
 | 01 | Fan trigger 1 | |
@@ -138,12 +140,26 @@ The following notes assume pin numbers where you are looking at the dial unit it
 | 05 | Fan Trigger 3 | |
 | 06 | Fan Trigger 4 | |
 
-<!-- TODO confirm and finish
+<!-- TODO test continuity and finish
 
 ### Main PCB plug
 
-There is 1 
+There is 1 plug present on the PCB for Functionality related to the functionality of the Air Conditioner, primarily the functions of the buttons and lights present on the unit. Below is all known information related to this plug:
 
+#### Plug Type
+
+> The Plug used for this connector is unknown at this time
+{: .block-note}
+
+#### Pin Layout
+
+For the following notes assume pin numbers where you are looking at the rear of the Air Conditioner Control panel, with the flat side facing down and the clip cutout facing up:
+
+| `01` | | | `02` | `03` |
+| --- | --- | --- | --- | --- |
+| **`04`** | **`05`** | **`06`** | **`07`** | **`08`** |
+
+#### Pinout
 
 | Pin | Function | Notes |
 | --- | --- | --- |
