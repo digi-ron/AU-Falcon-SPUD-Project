@@ -22,13 +22,14 @@ If required for some reason, the Instrument cluster can be partially tested by w
 > - Skills
 >   - Basic electrical skills
 >   - Soldering/Crimping
-{: .block-note}
+{: .block-error}
 
 ## Retrieving Odometer Reading from Cluster
 
 If you would like to check the reading of an odometer cluster without requiring a vehicle to connect the cluster to, use the following instructions:
 
-1. Wire the following pins of the target cluster
+1. Wire the following pins of the target cluster:
+
     | Terminal | Connect To | Notes |
     | --- | --- | --- |
     | Battery + | +12v | |
