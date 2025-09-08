@@ -25,9 +25,11 @@ When changing between instrument cluster types, the following should be put into
     > Note that changing transmission gears will change shift points in the BTR Automatic transmission
     {: .block-note} -->
 
-- The pinouts between low and high clusters are different, and require moderate rewiring to retrofit
+- The pinouts between low and high clusters are different, and will require moderate rewiring to retrofit
 
-    > Resources on rewiring not available on this site as not yet attempted
+    > Please see the following pages for further information regarding cluster pinouts:
+    > - [Instrument Cluster Bench Testing](./ICBenchTest/ICBenchTest.md)
+    > - [Instrument Cluster Pinout Logs](./ICBenchTest/PinoutTestLog.md)
     {: .block-note}
 
 - Placing high clusters in base/low models is ill-advised, due to lower model vehicles and looms having the following functions missing or modified:
