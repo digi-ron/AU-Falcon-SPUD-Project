@@ -256,7 +256,17 @@
                 },
                 {
                     "title": "Instrument Cluster",
-                    "url": "/PCMBCM/InstrumentCluster/InstrumentCluster.html"
+                    "url": "/PCMBCM/InstrumentCluster/InstrumentCluster.html",
+                    "items": [
+                        {
+                            "title": "Bench Testing the Instrument Cluster",
+                            "url": "/PCMBCM/InstrumentCluster/ICBenchTest/ICBenchTest.html"
+                        },
+                        {
+                            "title": "Instrument Cluster Pinout Logs",
+                            "url": "/PCMBCM/InstrumentCluster/ICBenchTest/PinoutTestLog.html"
+                        }
+                    ]
                 },
                 {
                     "title": "PCM (Powertrain Control Module)",
