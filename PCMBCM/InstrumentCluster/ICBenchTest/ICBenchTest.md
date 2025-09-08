@@ -4,192 +4,55 @@ description: Bench testing information for the instrument cluster
 
 # Bench Testing the Instrument Cluster
 
-If required for some reason, the Instrument cluster can be partially tested by wiring the cluster into a standard 12V DC power supply
+If required for some reason, the Instrument cluster can be partially tested by wiring the cluster into a standard 12V DC power supply, detailed below:
 
-> The wiring for this kind of testing is divided below by the specific cluster tested. Similar clusters from different series are likely to be the same but your own due diligence will be required. Clusters will be added as they are tested.
+## PRECAUTIONS
+
+> This information requires the following tools and knowledge. If you do not possess the following tools it is recommended you acquire them, and similarly if you do not possess the skillset required for this, it is recommended to learn using simpler and less valuable devices before progressing to this:
+> - Tools/supplies:
+>   - Multimeter
+>   - Resistors/Potentiometers (for adjustable inputs)
+>   - Regulated DC Power Supply (12V 5A minimum required)
+>   - PWM signal generator
+>   - switch/switch panel (for controlling)
+>   - AMP Multilock II Connectors:
+>       - [20 pin connector](../InstrumentCluster.md#20-way-plug---plug-behind-rpm-gauge-side-of-cluster)
+>       - [16 pin connector](../InstrumentCluster.md#16-way-plug---bottom-plug-behind-fuel-gauge-side-of-cluster)
+>       - [12 pin connector](../InstrumentCluster.md#12-way-plug---top-plug-behind-fuel-gauge-side-of-cluster)
+> - Skills
+>   - Basic electrical skills
+>   - Soldering/Crimping
 {: .block-note}
 
-> Certain pins have proven unable to test, in these cases the pins will be marked as <span class="other-highlight">UNKNOWN</span>
-{: .block-note}
+## Retrieving Odometer Reading from Cluster
 
-## High Cluster
+If you would like to check the reading of an odometer cluster without requiring a vehicle to connect the cluster to, use the following instructions:
 
-Cluster tested: 2000 Model AU Fairmont cluster (Series 1.5/1 Smartshield)
+1. Wire the following pins of the target cluster
+    | Terminal | Connect To | Notes |
+    | --- | --- | --- |
+    | Battery + | +12v | |
+    | Signal - | GND (-) | |
+    | Ignition + | +12v | Install inline switch for following step |
 
-### Connector 1 - 12 way connector
+    > See below on this page for where to find information on instrument cluster pinouts if you do not already have this information
+    {: .block-note}
 
-> [Connector Specifics](../InstrumentCluster.md#12-way-plug---top-plug-behind-fuel-gauge-side-of-cluster)
+1. Power the circuit and ensure that the cluster odometer screen shows a simple 4 character code (e.g. `Base` or `Fair`)
+1. Disconnect the power to the Ignition + wire of the circuit and ensure that the cluster has nothing displayed on the odometer
+1. Reconnect power to the Ignition + wire of the circuit. The odometer should flash with `888888` as the odometer reading before showing the stored reading on the cluster itself
 
-#### Pinout
+## Additional Pinout Information
 
-The following information assumes you are looking at the instrument cluster connector, with the flat side facing down and the clip cutout facing up:
+Basic information on wiring for the instrument cluster can be found in the following locations as required:
 
-| `01` | `02` | `03` | `04` | `05` | `06` |
-| --- | --- | --- | --- | --- | --- |
-| **`07`** | **`08`** | **`09`** | **`10`** | **`11`** | **`12`** |
+| Known Information | Source(s) |
+| --- | --- |
+| connector pins only | [FordForums](../../../Credits.md#sources) Technical Documents & Factory Workshop Manual |
+| Loom wire colours | [Max Ellery](../../../Credits.md#sources) Workshop Manual |
 
-#### Pin Functionality
+### Testing Logs
 
-| Position | Function | Activation | Notes |
-| --- | --- | --- | --- |
-| 01 | Auto Lamp Control | <span class="other-highlight">UNKNOWN</span> | |
-| 02 | Backlight | +12v | |
-| 03 | Backlight | GND | PWM signal required |
-| 04 | MDC Rx | <span class="other-highlight">UNKNOWN</span> | |
-| 05 | Right Rear Door Indicator | GND | |
-| 06 | Front Left Door Indicator | GND | |
-| 07 | N/a | | Unused |
-| 08 | N/a | | Unused |
-| 09 | Right Indicator | +12v | |
-| 10 | MDC Tx | <span class="other-highlight">UNKNOWN</span> | |
-| 11 | Seatbelt | <span class="other-highlight">UNKNOWN</span> | GND and +12v tested but appears to need a different signal |
-| 12 | ABS | GND | |
+As a secondary source of information, you may use collated testing logs that were tested as part of this project. Note that this information is not complete, but may serve for any information that is difficult to find or hard to understand in the [above listed locations](#additional-pinout-information)
 
-### Connector 2 - 16 way connector
-
-> [Connector Information](../InstrumentCluster.md#16-way-plug---bottom-plug-behind-fuel-gauge-side-of-cluster)
-
-#### Pinout
-
-The following information assumes you are looking at the instrument cluster connector, with the flat side facing down and the clip cutout facing up:
-
-| `01` | `02` | `03` | `04` | `05` | `06` | `07` | `08` |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **`09`** | **`10`** | **`11`** | **`12`** | **`13`** | **`14`** | **`15`** | **`16`** |
-
-#### Pin Functionality
-
-| Position | Function | Activation | Notes |
-| --- | --- | --- | --- |
-| 01 | Rear Left Door Indicator | GND | |
-| 02 | Boot Indicator | GND | |
-| 03 | Demister | +12v | |
-| 04 | Battery | GND | |
-| 05 | Left Indicator | +12v | |
-| 06 | High Beam | +12v | |
-| 07 | N/a | | |
-| 08 | Brake | GND | |
-| 09 | Air Bag | GND | |
-| 10 | N/a | | |
-| 11 | Radio Out | <span class="other-highlight">UNKNOWN</span> | Requires [Head Unit](../../../Audio/HeadUnit/HeadUnit.md), out of scope |
-| 12 | N/a | | |
-| 13 | Handbrake | GND | |
-| 14 | N/a | | |
-| 15 | Oil Gauge | Resistance (Ω) | Set between X-XΩ |
-| 16 | SmartLock Indicator | GND | |
-
-### Connector 3 - 20 way connector
-
-> [Connector Information](../InstrumentCluster.md#20-way-plug---plug-behind-rpm-gauge-side-of-cluster)
-
-#### Pinout
-
-The following information assumes you are looking at the instrument cluster connector, with the flat side facing down and the clip cutout facing up:
-
-| `01` | `02` | `03` | `04` | `05` | `06` | `07` | `08` | `09` | `10` |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **`11`** | **`12`** | **`13`** | **`14`** | **`15`** | **`16`** | **`17`** | **`18`** | **`19`** | **`20`** |
-
-#### Pin Functionality
-
-| Position | Function | Activation | Notes |
-| --- | --- | --- | --- |
-| 01 | Battery - | GND | |
-| 02 | Signal - | GND | |
-| 03 | Coolant Temperature | Resistance (Ω) | Set between 180-1380Ω |
-| 04 | Ignition | +12v | Max. 13.5V |
-| 05 | Oil Pressure | Resistance (Ω) | Set between X-XΩ |
-| 06 | Front Right Door | GND | |
-| 07 | Fuel Level | Resistance (Ω) | Set between 0-176Ω |
-| 08 | Radio Out | <span class="other-highlight">UNKNOWN</span> | Requires [Head Unit](../../../Audio/HeadUnit/HeadUnit.md), out of scope |
-| 09 | Overspeed | <span class="other-highlight">UNKNOWN</span> | Possibly resistance based? |
-| 10 | Washer fluid | GND | |
-| 11 | Battery + | +12v | Max. 13.5V |
-| 12 | Speedometer + | +8.2V | requires secondary power supply or step down from 12V for testing |
-| 13 | Speed Out |<span class="other-highlight">UNKNOWN</span> | Not input, no test wire required |
-| 14 | Speedometer In | PWM | Voltage (V) between 0-13.5 required |
-| 15 | Tachometer In | PWM | Voltage (V) between 0-13.5 required |
-| 16 | LCD Dim | <span class="other-highlight">UNKNOWN</span> | Tested with GND and +12v |
-| 17 | Diagnostic I/O | <span class="other-highlight">UNKNOWN</span> | Likely related to [BCM](../../BCM/BCM.md) Communication |
-| 18 | Serial Rx | <span class="other-highlight">UNKNOWN</span> | |
-| 19 | Airbag Audible Alert | <span class="other-highlight">UNKNOWN</span> | Not tested (broken on unit tested) |
-| 20 | Traction Control | GND | |
-
-## Low Cluster
-
-Cluster tested: 2001 Model AU Falcon Futura cluster (Series 2)
-
-### Connector 1 - 12 way connector
-
-> 12 way connector not used, all pins are useless
-{: .block-note}
-
-### Connector 2 - 16 way connector
-
-> [Connector Information](../InstrumentCluster.md#16-way-plug---bottom-plug-behind-fuel-gauge-side-of-cluster)
-
-#### Pinout
-
-The following information assumes you are looking at the instrument cluster connector, with the flat side facing down and the clip cutout facing up:
-
-| `01` | `02` | `03` | `04` | `05` | `06` | `07` | `08` |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **`09`** | **`10`** | **`11`** | **`12`** | **`13`** | **`14`** | **`15`** | **`16`** |
-
-#### Pin Functionality
-
-| Position | Function | Activation | Notes |
-| --- | --- | --- | --- |
-| 01 | Door | GND | |
-| 02 | ABS | GND | |
-| 03 | Demister | +12v | |
-| 04 | Battery | GND | |
-| 05 | Left Indicator | +12v | |
-| 06 | High Beam | +12v | |
-| 07 | Backlight + | +12v | |
-| 08 | Brake | GND | |
-| 09 | Air Bag | GND | |
-| 10 | Backlight - | GND | |
-| 11 | Radio Output | <span class="other-highlight">UNKNOWN</span> | Requires [Head Unit](../../../Audio/HeadUnit/HeadUnit.md), out of scope |
-| 12 | Right Indicator | +12V | |
-| 13 | Handbrake | GND | |
-| 14 | Seatbelt | <span class="other-highlight">UNKNOWN</span> | GND and +12V tested but appears to need a different signal 
-| 15 | Oil | Resistance (Ω) | Set below XΩ for activation |
-| 16 | Smartshield | GND | |
-
-### Connector 3 - 20 way connector
-
-> [Connector Information](../InstrumentCluster.md#20-way-plug---plug-behind-rpm-gauge-side-of-cluster)
-
-#### Pinout
-
-The following information assumes you are looking at the instrument cluster connector, with the flat side facing down and the clip cutout facing up:
-
-| `01` | `02` | `03` | `04` | `05` | `06` | `07` | `08` | `09` | `10` |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **`11`** | **`12`** | **`13`** | **`14`** | **`15`** | **`16`** | **`17`** | **`18`** | **`19`** | **`20`** |
-
-#### Pin Functionality
-
-| Position | Function | Activation | Notes |
-| --- | --- | --- | --- |
-| 01 | Battery - | GND | |
-| 02 | Signal - | GND | |
-| 03 | Coolant Temperature | Resistance (Ω) | Set between 180-1380Ω |
-| 04 | Ignition | +12v | Max. 13.5V |
-| 05 | Oil | GND | |
-| 06 | Door Ajar | GND | |
-| 07 | Fuel Level | Resistance (Ω) | Set between 0-176Ω |
-| 08 | Radio Out | <span class="other-highlight">UNKNOWN</span> | Requires [Head Unit](../../../Audio/HeadUnit/HeadUnit.md), out of scope |
-| 09 | Overspeed | <span class="other-highlight">UNKNOWN</span> | Possibly resistance based? |
-| 10 | N/a | | |
-| 11 | Battery + | +12v | Max. 13.5V |
-| 12 | Speedometer + | +8.2V | requires secondary power supply or step down from 12V for testing |
-| 13 | Speed Out |<span class="other-highlight">UNKNOWN</span> | Not input, no test wire required |
-| 14 | Speedometer In | PWM | Voltage (V) between 0-13.5 required |
-| 15 | Tachometer In | PWM | Voltage (V) between 0-13.5 required |
-| 16 | LCD Dim | GND | |
-| 17 | Diagnostic I/O | <span class="other-highlight">UNKNOWN</span> | Likely related to [BCM](../../BCM/BCM.md) Communication |
-| 18 | Serial Rx | <span class="other-highlight">UNKNOWN</span> | |
-| 19 | Airbag Audible Alert | <span class="other-highlight">UNKNOWN</span> | Not tested (broken on unit tested) |
-| 20 | N/a | | |
+[Instrument Cluster Pinout Test Logs](./PinoutTestLog.md)
