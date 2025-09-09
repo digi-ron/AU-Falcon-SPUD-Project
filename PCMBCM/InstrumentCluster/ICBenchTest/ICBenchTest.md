@@ -57,3 +57,56 @@ Basic information on wiring for the instrument cluster can be found in the follo
 As a secondary source of information, you may use collated testing logs that were tested as part of this project. Note that this information is not complete, but may serve for any information that is difficult to find or hard to understand in the [above listed locations](#additional-pinout-information)
 
 [Instrument Cluster Pinout Test Logs](./PinoutTestLog.md)
+
+## Dial Reading - PWM Inputs
+
+Speedometer, tachometer and other analogue dials on the Instrument cluster can be tested using the information below as required:
+
+For the following tables, an inexpensive Pulse Width Modulation (PWM) signal generator from an online marketplace such as [AliExpress](../../Credits.md#sources) can be used for emulating real-world values. If testing this using a PWM signal generator, it must be tuned to a square wave signal.
+
+### Speedometer
+
+#### 220km/h Speedometers
+
+| Hz signal | km/h |
+| --- | --- |
+| 104 | 60 |
+| 173.5 | 100 |
+| 191 | 110 |
+| 260.5 | 150 |
+| 382 | 220 (Max. Speed) |
+
+#### 240km/h Speedometers
+
+| Hz signal | km/h |
+| --- | --- |
+| 95.5 | 60 |
+| 159 | 100 |
+| 175 | 110 |
+| 239 | 150 |
+| 350 | 220 |
+| 382 | 240 (Max. Speed) |
+
+<!-- TODO confirm cop cluster is the same -->
+<!-- TODO this seems to have something else going on, it won't register with just square wave -->
+<!-- ### Tachometer (RPM)
+
+#### I6 Engine
+
+| Hz | RPM (Approx.) |
+| --- | --- |
+| 50 | 1000 |
+| 150 | 3000 |
+| 250 | 5000 |
+| 275 | 5500 (rev. limiter) |
+| 350 | 7000 (Max. reading) |
+
+#### V8 Engine
+
+| Hz | RPM (Approx.) |
+| --- | --- |
+| 67 | 1000 |
+| 200 | 3000 |
+| 333 | 5000 |
+| 367 | 5500 (rev. limiter) |
+| 467 | 7000 (Max. reading) | -->
