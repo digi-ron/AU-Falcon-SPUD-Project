@@ -147,3 +147,15 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 > For pinout information, please refer to the [Bench Testing Page](./ICBenchTest/ICBenchTest.md). This page contains the pinouts for various tested models of the cluster (required due to length and various trim levels)
 {: .block-note}
+
+## Disassembly
+
+> For disassembly instructions for the instrument cluster, please refer to the [Disassembly Page](./ClusterDisassembly/ClusterDisassembly.md). This page contains a teardown of the instrument cluster, and while it doesn't show how to fix specific components, it may be useful to gain access
+{: .block-note}
+
+## Miscellaneous Notes
+
+- The Instrument cluster contains the odometer reading for the vehicle it is installed in. For this reason, swapping out the cluster requires the replacement cluster to have comparable odometer reading. ALternatively, you could have the cluster reprogrammed, or have the EEPROM (which stores the information) swapped between a working and non-working cluster, however very few third parties perform this service themselves, and VDO, the OEM for the clusters, is unlikely to assist
+
+    > There is misinformation in various internet locations suggesting that only the Series 1 clusters store the odometer reading in the cluster. This can be proven incorrect by following the odometer reading instructions detailed [in the Bench Testing Page](./ICBenchTest/ICBenchTest.md#retrieving-odometer-reading-from-cluster)
+    {: .block-note}
