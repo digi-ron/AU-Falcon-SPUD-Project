@@ -115,8 +115,19 @@ The following information assumes you are looking at the instrument cluster conn
 | 19 | Airbag Audible Alert | <span class="other-highlight">UNKNOWN</span> | Not tested (broken on unit tested) |
 | 20 | Traction Control | GND (-) | |
 
+## XR / Mid Cluster
+
+> XR / Mid Cluster not yet tested, no plans to add due to limited resources
+{: .block-note}
+
 ## Low Cluster
 
+> Low Cluster not yet fully tested, to be added when complete
+{: .block-note}
+
+<!-- TODO you have no joke 3 1/2 low clusters, test one dammit -->
+
+<!-- 
 Cluster tested: 2001 Model AU Falcon Futura cluster (Series 2)
 
 ### Connector 1 - 12 way connector
@@ -192,4 +203,4 @@ The following information assumes you are looking at the instrument cluster conn
 | 17 | Diagnostic I/O | <span class="other-highlight">UNKNOWN</span> | Likely related to [BCM](../../BCM/BCM.md) Communication |
 | 18 | Serial Rx | <span class="other-highlight">UNKNOWN</span> | |
 | 19 | Airbag Audible Alert | <span class="other-highlight">UNKNOWN</span> | Not tested (broken on unit tested) |
-| 20 | N/a | | |
+| 20 | N/a | | | -->
