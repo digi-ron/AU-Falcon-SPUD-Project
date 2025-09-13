@@ -43,7 +43,7 @@ The BCM can be accessed from the passenger side of the front driver footwell:
   > Photo of the screw to remove
 
 1. Pull the BCM down gently to access the plugs, and unplug all plugs by pressing in each tab
-1. remove the BCM from the dash location
+1. remove the BCM from the dash location, noting that some of the wiring loom is held into place on the back of the plastic housing and will need to be removed using trim tools
 1. done
 
 ## Model Variations

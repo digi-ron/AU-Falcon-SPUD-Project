@@ -4,9 +4,9 @@ description: in-depth information on the continuity and functionality of the int
 
 # Cabin Fuse Panel
 
-> This information is no longer relevant, left as-is with no updates planned as of 16/06/2025. 
+> This information is no longer relevant, left as-is with no updates planned as of 10/09/2025. 
 > 
-> REASON: This information is no longer maintained, and has proven to be of no feasible use.
+> REASON: This information is no longer maintained, and has proven to be of little feasible use.
 {: .block-warning}
 
 > This is a more technical page, if you are simply looking for vehicle-specific fuse and relay information or minimum required fuses, see [HERE](../../Electrical/Fuses/Fuses.md) instead, and for general relay information, see [HERE](../../Electrical/Relays/Relays.md)
@@ -15,7 +15,7 @@ description: in-depth information on the continuity and functionality of the int
 > This page is a half complete mess from an idea that went as well as a lead balloon. The only reason this page still exists is due to the time it took to create, and the hope that someone can make sense of anything discovered in here. Every attempt has been made to make the notes here legible, but this is not guaranteed.
 {: .block-note}
 
-the cabin fuse box has 11 individual electrical plugs that comprise it's wiring, and as such the wiring has been divided as below per plug.
+the cabin fuse box has 9 individual electrical plugs (11 sections) that comprise it's wiring, and as such the wiring has been divided as below per *section*.
 
 > All diagrams assume that you are facing either the front or the back of the cabin fuse panel, with the relays at the top.
 {: .block-note}
@@ -250,17 +250,17 @@ This relay is a 3 way flasher relay, for the following assume the following layo
 
 ## Connector Plugs (Rear)
 
-These plugs are identifiable according to the annotated image below
+These plug sections are identifiable according to the annotated image below
 
 ![annotated rear connectors](./fuse-panel-rear-annotated.jpg)
 
 ### plug 1 - 1-way connector
 
-this plug contains a single pin, noted as 1-1, which has continuity with F21-2
+this plug section contains a single pin, noted as 1-1, which has continuity with F21-2
 
 ### plug 2 - 6-way connector
 
-For the following assume the following plug layout:
+For the following assume the following plug section layout:
 
 | **`2-1`** | | | **`2-2`** |
 | --- | --- | --- | --- |
@@ -279,7 +279,7 @@ These pins have continuity with the following:
 
 ### plug 3 - 4-way connector
 
-For the following assume the following plug layout:
+For the following assume the following plug section layout:
 
 | **`3-1`** | | **`3-2`** |
 | --- | --- | --- |
@@ -296,18 +296,18 @@ These pins have continuity with the following:
 
 ### plug 4 - 1-way connector
 
-This plug has a single pin, noted as 4-1, which has continuity to Pin [R4-1](#relay-4---pwin-relay)
+This plug section has a single pin, noted as 4-1, which has continuity to Pin [R4-1](#relay-4---pwin-relay)
 
 ### plug 5 - blank
 
-This plug does not have any connectors in the Forte models
+This plug section does not have any connectors in the Forte models
 
 > This may be different in other models, information limited as project only involved Forte cabin fuse boxes
 {: .block-note}
 
 ### plug 6 - 6-way connector
 
-For the following assume the following plug layout:
+For the following assume the following plug section layout:
 
 | **`6-1`** | | | **`6-2`** |
 | --- | --- | --- | --- |
@@ -325,7 +325,7 @@ These pins have continuity with the following:
 | 6-6 | [Circuit 4](#circuit-4---ac--flsh) |
 
 ### plug 7 - 6-way connector
-for the following assume the following plug layout:
+for the following assume the following plug section layout:
 
 | **`7-1`** | **`7-2`** | **`7-3`** |
 | --- | --- | --- |
@@ -344,7 +344,7 @@ These pins have continuity with the following:
 
 ### plug 8 - 2-way connector
 
-for the following assume the following plug layout:
+for the following assume the following plug section layout:
 
 <table class="diagram-table">
     <tr>
@@ -362,7 +362,7 @@ These pins have continuity with the following:
 
 ### plug 9 - 7-way connector
 
-Plug 9 is unique as it has 2 different pin sizes within the plug housing. There are 3 pins on the top row and 4 on the bottom, as below:
+plug section 9 is unique as it has 2 different pin sizes within the plug housing. There are 3 pins on the top row and 4 on the bottom, as below:
 
 <table style="text-align:center">
     <tr>
@@ -392,7 +392,7 @@ These pins have continuity with the following:
 
 ### plug 10 - 10-way connector
 
-for the following assume the following plug layout:
+for the following assume the following plug section layout:
 
 | **`10-1`** | | | | **`10-2`** | **`10-3`** | **`10-4`** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -415,7 +415,7 @@ These pins have continuity with the following:
 
 ### plug 11 - 7-way connector
 
-for the following assume the following plug layout:
+for the following assume the following plug section layout:
 
 | **`11-1`** | **`11-2`** | | | **`11-3`** | |
 | --- | --- | --- | --- | --- | --- |
@@ -473,6 +473,35 @@ These pins have continuity with the following:
 | 13-4 | [Circuit 4](#circuit-4---ac--flsh) |
 | 13-5 | [Circuit 4](#circuit-4---ac--flsh) |
 | 13-6 | [R3-1](#relay-3---def-relay) |
+
+
+### Physical Plug Identification
+
+The 9 physical plugs that comprise the fuse panel and body wiring is identified as [Sumitomo](../../Credits.md#sources) HD Series Connectors. Unlike most other connectors from Sumitomo, they don't appear to have a modern [Yazaki](../../Credits.md#sources) branded equivalent, making them very hard to acquire. Table of part numbers is as follows:
+
+| Product Code | Description | Notes |
+| --- | --- | --- |
+| 8230-4282 | Male Terminal | 090 size
+| 8240-4422 | Female Terminal | 090 size |
+| 6098-0258 | 18-way Male Terminal Housing | 18 x 090 Male Terminals, green/grey plugs |
+| 6098-0257 | 18-way Female Terminal Housing | 18 x 090 Female Terminals, green/grey plugs |
+| 6098-0252 | 12-way Male Terminal Housing | 12 x 090 Male Terminals, blue plug |
+| 6098-0251 | 12-way Female Terminal Housing | 12 x 090 Female Terminals, blue plug |
+| 6098-0250 | 10-way Male Terminal Housing | 10 x 090 Male Terminals, grey plug |
+| 6098-0249 | 10-way Female Terminal Housing | 10 x 090 Female Terminals, grey plug |
+| 6098-0248 | 8-way Male Terminal Housing | 8 x 090 Male Terminals, green plug |
+| 6098-0247 | 8-way Female Terminal Housing | 8 x 090 Female Terminals, green plug |
+| 8230-4040 | Male Terminal | 250 size |
+| 8240-4140 | Female Terminal | 250 size |
+| 6098-0224 | 2-way Male Terminal Housing | 2 x 250 Male Terminals, brown plug |
+| 6098-0226 | 2-way Female Terminal Housing | 2 x 250 Female Terminals, brown plug |
+| 8232-4238 | Male Terminal | 305 size |
+| 8242-4068 | Female Terminal | 305 size |
+| 6950-1030 | 7-way Male Terminal Housing | 5 x 250 Male Terminals & 2 x 305 Male Terminals, brown plug |
+| 6950-0366 | 7-way Female Terminal Housing | 5 x 250 Female Terminals & 2 x 305 Female Terminals, brown plug |
+| 6098-0208 | 3-way Male Terminal Housing | 3 x 305 Male Terminals |
+| 6098-0210 | 3-way Female Terminal Housing | 3 x 305 Female Terminals |
+
 
 ## Additional Circuits
 

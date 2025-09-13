@@ -42,7 +42,7 @@ description: "Credits"
 - [Tridon](https://www.tridon.com.au/)
 - [Wheel-size.com](https://www.wheel-size.com/size/ford/falcon/au-1998-2002)
 - [Yazaki](https://www.yazaki-group.com/global/)
-  - <i class="other-highlight">Some connectors specified as "Sumitomo" connectors, however significance of this is unknown</i>
+  - <i class="other-highlight">Some connectors specified as "Sumitomo" connectors, which was likely the OEM for electrical plugs for the AU Falcon, however they have become non-viable to purchase</i>
 
 ## Special Thanks - Information sharers and timesavers
 {: .good-highlight}

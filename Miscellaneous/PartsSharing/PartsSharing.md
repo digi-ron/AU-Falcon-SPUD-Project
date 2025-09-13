@@ -48,9 +48,11 @@ Please see the table below for shared parts:
 | [Fuel Injectors](../../Engine/FuelInjectors/FuelInjectors.md) | EA-FGX, SX-SZII, XG-XHII | cc rating is vastly different after ED-AU, 215-220cc rating standard for AU, Tune/ECU/J3 Chip likely required. Also shares injectors with some Jeep models 2004-2008 |
 | [Fuel Pressure Regulator](../../Engine/FuelPressureRegulator/FuelPressureRegulator.md) | AU-FGX | AU uses a 3 bar regulator, but 4 is standard in later models, Tune/ECU/J3 Chip likely required |
 | [Ignition Coil Pack](../../Engine/IgnitionCoil/IgnitionCoil.md) | EF-AUI | only compatible with S1 AU Falcons |
+| Glovebox light switch mechanism | EA-FGX, SX-SZII | |
 | Ignition Leads | EF-AUI | only compatible with S1 AU Falcons |
 | Interior Map Lights | AU-BFIII | Light inner assembly also the same as SX-SY Territory models, however fascia is different |
 | [Interior Mirror](../../Body/InteriorMirror/InteriorMirror.md) | AU-FGX, SX-SZII | AUI Mirrors have grub screw mounting rather than clip, but all are interchangeable |
+| Keys | EA-BAII, SX, XG-XHII | Physically identical, however AUII onward vehicles contain chip for additional security. Also interchangeable with similar time-period Jaguar keys |
 | Lower Control Arm | AUII-BFIII | AUI Not included due to different suspension geometry |
 | Mirror Switch | EF-BFIII | |
 | [PCV](../../Engine/PCV/PCV.md) | XF-FGX, SX-SZII, XG-XHII | Locations differ between models, but are all generally fitted into the top of the rocker cover. Right angle elbow may be required if a straight through unit is installed |
