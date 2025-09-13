@@ -73,7 +73,7 @@ If required, the instrument cluster can be disassembled using the instructions b
 
     ![Cluster Rear Bulb Locations](./cluster-rear-bulbs.jpg)
 
-    > Picture of the locations of the bulbs in the back of the cluster. note that the locations of these bulbs may be different depending ont he cluster variation, and that removal of the odometer backlight bulbs is ***NOT*** required
+    > Picture of the locations of the bulbs in the back of the cluster. note that the locations of these bulbs may be different depending on the cluster variation, and that removal of the odometer backlight bulbs is ***NOT*** required
 
 1. Finally, gently lift the board from the assembly
 
