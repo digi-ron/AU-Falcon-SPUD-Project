@@ -65,7 +65,7 @@ As a secondary source of information, you may use collated testing logs that wer
 
 Speedometer, tachometer and other analogue dials on the Instrument cluster can be tested using the information below as required:
 
-For the following tables, an inexpensive Pulse Width Modulation (PWM) signal generator from an online marketplace such as [AliExpress](../../Credits.md#sources) can be used for emulating real-world values. If testing this using a PWM signal generator, it must be tuned to a square wave signal.
+For the following tables, an inexpensive Pulse Width Modulation (PWM) signal generator from an online marketplace such as [AliExpress](../../../Credits.md#sources) can be used for emulating real-world values. If testing this using a PWM signal generator, it must be tuned to a square wave signal.
 
 ### Speedometer
 
