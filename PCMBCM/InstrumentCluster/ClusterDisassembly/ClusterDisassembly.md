@@ -1,3 +1,8 @@
+---
+description: Insturment Cluster Disassembly
+hideTOC: true
+---
+
 # Disassembling the Instrument Cluster
 
 If required, the instrument cluster can be disassembled using the instructions below, allowing for repairs if required:

@@ -1,3 +1,8 @@
+---
+description: Passenger airbag removal instructions
+hideTOC: true
+---
+
 # Passenger Airbag
 
 The passenger airbag can be removed and replaced using the instructions below if required:
