@@ -12,7 +12,9 @@ description: a running log of tested instrument cluster pinouts, using wrecker-s
 
 ## High Cluster
 
-Cluster tested: 2000 Model AU Fairmont cluster (Series 1.5/1 Smartshield)
+Clusters tested:
+- 2000 Model AU Fairmont cluster (Series 1.5/1 Smartshield)
+- 2001 Model AU Fairmont cluster (Series 2)
 
 ### Connector 1 - 12 way connector
 
