@@ -6,6 +6,9 @@ description: Bench testing information for the instrument cluster
 
 If required for some reason, the Instrument cluster can be partially tested by wiring the cluster into a standard 12V DC power supply, detailed below:
 
+> This information is partial, and more will be added as discovered
+{: .block-note}
+
 ## PRECAUTIONS
 
 > This information requires the following tools and knowledge. If you do not possess the following tools it is recommended you acquire them, and similarly if you do not possess the skillset required for this, it is recommended to learn using simpler and less valuable devices before progressing to this:
@@ -41,7 +44,7 @@ If you would like to check the reading of an odometer cluster without requiring 
 
 1. Power the circuit and ensure that the cluster odometer screen shows a simple 4 character code (e.g. `Base` or `Fair`)
 1. Disconnect the power to the Ignition + wire of the circuit and ensure that the cluster has nothing displayed on the odometer
-1. Reconnect power to the Ignition + wire of the circuit. The odometer should flash with `888888` as the odometer reading before showing the stored reading on the cluster itself
+1. Reconnect power to the Ignition + wire of the circuit. The odometer may flash with `888888` as the odometer reading before showing the stored reading on the cluster itself, but it will show it within 5 seconds.
 
 ## Additional Pinout Information
 
