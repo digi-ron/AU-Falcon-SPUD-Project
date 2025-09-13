@@ -263,6 +263,10 @@
                     "url": "/PCMBCM/InstrumentCluster/InstrumentCluster.html",
                     "items": [
                         {
+                            "title": "Cluster Disassembly",
+                            "url": "/PCMBCM/InstrumentCluster/ClusterDisassembly/ClusterDisassembly.html"
+                        },
+                        {
                             "title": "Bench Testing the Instrument Cluster",
                             "url": "/PCMBCM/InstrumentCluster/ICBenchTest/ICBenchTest.html"
                         },
