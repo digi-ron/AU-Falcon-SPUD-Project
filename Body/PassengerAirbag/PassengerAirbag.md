@@ -36,14 +36,14 @@ The passenger airbag can be removed and replaced using the instructions below if
 
     > Picture of the secondary connector on the airbag. Note that you can simply push the tab down and pull the plug from the assembly
 
-1. (Optional, depending on if the small wiring loom is present on the assembly) The smaller, yellow connector on the driver side of the cylindrical section of the metal housing can be removed also, allowing for the removal of the short harness between the metal body and the airbag itself. Simply pull the small yellow connector out of the airbag itself, and push the connector disconnected in the previous step towards the passenger side to release it from the tab on the metal body
+1. (Optional, depending on if the small wiring loom is present on the replacement assembly) The smaller, yellow connector on the driver side of the cylindrical section of the metal housing can be removed also, allowing for the removal of the short harness between the metal body and the airbag itself. Simply pull the small yellow connector out of the airbag itself, and push the connector disconnected in the previous step towards the passenger side to release it from the tab on the metal body
 
     ![Airbag Primary Connector](./airbag-primary-connector.jpg)
     ![Airbag Primary Connector - Plug on Assembly](./airbag-primary-connector-insert.jpg)
 
     > Pictures of the Loom Connector and the Airbag connector respectively
 
-1. (Optional, depending on if the airbag cover colour matches the original dash) Flip over the Airbag assembly and remove the second and second-last nuts on the rear. Note that these nuts are some form of triangular security nut, but due to the low torque applied a shifter or vice grip pliers can be used to loosen the nut to the point where it can be removed by hand. Once removed the same can be done to the replacement airbag in reverse to install.
+1. (Optional, depending on if the replacement airbag cover colour matches the original dash) Flip over the Airbag assembly and remove the second and second-last nuts on the rear to allow for the removal of the airbag cover. Note that these nuts are some form of triangular security nut, but due to the low torque applied an adjustable shifter or vice grip pliers can be used to loosen the nut to the point where it can be removed by hand. Once removed the same can be done to the replacement airbag in reverse to install.
 
     ![Airbag Rear Nuts](./airbag-lash-nuts.jpg)
 
