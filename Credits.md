@@ -24,7 +24,7 @@ description: "Credits"
 - [Ford Heritage Vault](https://fordheritagevault.com)
 - [FordMods](https://www.fordmods.com/)
 - [FordWiki](https://www.fordwiki.co.uk/)
-- [Haynes Manuals](https://haynes.com/en-au/ford/falcon/1998-2002-petrol)
+- [Haynes Manuals](https://au.haynes.com/)
 - [Kenwood](https://www.kenwood.com/au/)
 - [KEYDIY](https://www.keydiy.com/)
 - [Magnum MFG](https://www.magnummfg.com.au/)
