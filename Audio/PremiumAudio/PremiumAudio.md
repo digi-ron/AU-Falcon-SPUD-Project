@@ -154,16 +154,11 @@ Any additional information on the premium audio system is listed below:
     - Hole needs to be cut in sedan rear-shelf. While the steel has the hole present, the carpet cover does not and will need to be modified.
 - There is partial information to suggest some [Series 3](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-3) AU Falcons may have come with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed definitively however, and as such information is provided [below](#retrofit---ba-fgx-premium-audio-amplifier) accordingly.
 
-<!-- TODO test BA amp? -->
-
 ## Retrofit - BA-FG Premium Audio Amplifier
-
-> This section is currently *untested*. Additional steps may be required
-{: .block-warning}
 
 The following information is know about the premium audio amplifier from later models of Ford Falcon, which if required, can be retrofitted to work with the AU:
 
-> The information shown here was added due to the higher quantity of cars produced with the later model of amplifier. Similar sound quality *should* be possible but *has not* been tested to confirm
+> The information shown here was added due to the higher quantity of cars produced with the later model of amplifier, which at time of writing has resulted in a lower unit cost. Similar sound quality *should* be possible but *has not* been compared with an AU Falcon Factory Amplifier to confirm
 {: .block-note}
 
 ### Specifications
@@ -199,18 +194,23 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 
 | Position | Colour | Function |
 | --- | --- | --- |
-| 01 | Black | Shield (GND) |
+| 01 | Black | Audio In - |
 | 02 | N/a | |
 | 03 | Light Blue/White | Subwoofer + |
-| 04 | Green | ICC (Audio in L/R/GND?) |
-| 05 | Red | ICC (Audio in L/R/GND?) |
+| 04 | Green | ICC Diag (not required) |
+| 05 | Red | ACC 12v+ |
 | 06 | Black | GND |
 | 07 | Black | GND |
-| 08 | Yellow | ICC (Audio in L/R/GND?) |
+| 08 | Yellow | Audio In + |
 | 09 | N/a | |
 | 10 | Blue | Subwoofer - |
 | 11 | Yellow | Amplifier + |
 | 12 | Yellow | Amplifier + |
+
+> Information Sources:
+> - [Haynes Manuals](../../Credits.md#sources) BA-BF Falcon Wiring Diagram
+> - Physical Inspection/testing
+{: .info-sources}
 
 ## Retrofit - FGII-FGX Premium Audio Amplifier
 
@@ -256,3 +256,7 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 | 14 | Orange | ICC Communications |
 | 15 | | |
 | 16 | Yellow | ICC Communications |
+
+> Information Sources:
+> - [Haynes Manuals](../../Credits.md#sources) FGX Falcon Wiring Diagram
+{: .info-sources}
