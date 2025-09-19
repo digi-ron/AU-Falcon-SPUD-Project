@@ -154,6 +154,8 @@ Any additional information on the premium audio system is listed below:
     - Hole needs to be cut in sedan rear-shelf. While the steel has the hole present, the carpet cover does not and will need to be modified.
 - There is partial information to suggest some [Series 3](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-3) AU Falcons may have come with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed definitively however, and as such information is provided [below](#retrofit---ba-fgx-premium-audio-amplifier) accordingly.
 
+<!-- TODO complete and add instructions on wiring in your own premium audio -->
+
 ## Retrofit - BA-FG Premium Audio Amplifier
 
 The following information is know about the premium audio amplifier from later models of Ford Falcon, which if required, can be retrofitted to work with the AU:
@@ -191,7 +193,7 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 
 ### Pinout
 
-> Information incomplete due to lack of resources
+> Audio In will need to already be converted to the right frequency range to work correctly. Use a low-pass filter from a split output from the rear shelf speakers, or your headunits subwoofer output, as required
 {: .block-note}
 
 | Position | Colour | Function |
