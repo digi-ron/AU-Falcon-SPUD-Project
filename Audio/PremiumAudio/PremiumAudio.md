@@ -193,7 +193,7 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 
 ### Pinout
 
-> Audio In will need to already be converted to the right frequency range to work correctly. Use a low-pass filter from a split output from the rear shelf speakers, or your headunits subwoofer output, as required
+> Audio In will need to already be converted to the right frequency range to work correctly. Use a low-pass filter from a split output from the rear shelf speakers, or your aftermarket headunits subwoofer output, as required
 {: .block-note}
 
 | Position | Colour | Function |
