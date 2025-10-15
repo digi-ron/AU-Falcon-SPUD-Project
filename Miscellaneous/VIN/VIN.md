@@ -6,7 +6,7 @@ description: how to read and decode the VIN number and engine number
 
 ## Location
 
-You can find the Build plate near the [Build Plate](../BuildPlate/BuildPlate.md), on the passenger side rear of the inside of the engine bay.
+You can find the VIN plate near the [Build Plate](../BuildPlate/BuildPlate.md), on the passenger side rear of the inside of the engine bay.
 
 ![Vehicle Identification Plate Location](../../Common/compliance-plates-location.jpg)
 
