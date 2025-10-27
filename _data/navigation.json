@@ -9,7 +9,13 @@
                 },
                 {
                     "title": "Premium Audio System",
-                    "url": "/Audio/PremiumAudio/PremiumAudio.html"
+                    "url": "/Audio/PremiumAudio/PremiumAudio.html",
+                    "items": [
+                        {
+                            "title": "PAS Custom Installation Guides",
+                            "url": "/Audio/PremiumAudio/PremiumAudioCustomInstallation/PremiumAudioCustomInstallation.html"
+                        }
+                    ]
                 },
                 {
                     "title": "Speakers",

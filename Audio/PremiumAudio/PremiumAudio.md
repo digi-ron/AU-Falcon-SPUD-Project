@@ -264,3 +264,7 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 > Information Sources:
 > - [Haynes Manuals](../../Credits.md#sources) FGX Falcon Wiring Diagram
 {: .info-sources}
+
+## Installation Configurations
+
+For some common tested configurations that can be used for fitting premium audio features into a low model AU Falcon, please see the [Premium Audio Custom Installation](./PremiumAudioCustomInstallation/PremiumAudioCustomInstallation.md) page.
