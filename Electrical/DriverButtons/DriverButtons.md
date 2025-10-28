@@ -50,7 +50,11 @@ The following assume you are looking at the loom end connector with the clip fac
 
 The following is known about the connectors for the fuel button, however no part number or original manufacturer has been discerned:
 
-<!-- TODO find this damned connector if at all possible. Notes follow. Noted as C-170 in the workshop manual connector listing, apparently between models AU-BF at least. Known used EB-BF. May be OEM but should at least be from another international model
+<!-- TODO find this damned connector if at all possible. Notes follow.
+- Noted as C-170 in the workshop manual connector listing
+- apparently between models AU-BF at least. Known used EB-BF
+- May be OEM but should at least be from another international model
+- Possibly Yazaki 7118-3020 (male terminal housing) and Yazaki 7119-3020 (female terminal housing) but they can't be bought anymore
 -->
 
 - Confirmed used in XE-ED Falcons as the Brake Light Switch connector
