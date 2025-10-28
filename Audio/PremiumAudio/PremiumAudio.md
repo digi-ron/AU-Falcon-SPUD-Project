@@ -70,8 +70,21 @@ After the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#
 
 All connections for the speakers and subwoofer in the amplifier are screw terminal style connectors or RCA connections. As such, for any re-wiring attempts, small spade terminals and RCA male plugs should be used for the wires.
 
-> There is a small loom that connects the subwoofer and speakers to the rest of the Audio Loom within the vehicle, however information on this loom is limited
+There is a small loom that connects the subwoofer and speakers to the rest of the Audio Loom within the vehicle, which uses the connectors below:
+
+> The 2 connector sets used are from different series of connector, with the larger of the 2 able to be found through [Yazaki](../../Credits.md#sources), and the other limited to a single series of [Sumitomo](../../Credits.md#sources) Connector. The reason for the smaller connector not having a Yazaki equivalent is unknown.
 {: .block-note}
+
+| Name | Product Number | Notes |
+| --- | --- | --- |
+| Male Terminal Housing | 7122-6040 (Yazaki) | PWR/Amp. In Amplifier Loom Connector |
+| Female Terminal Housing | 7123-6040 (Yazaki) | PWR/Amp. In Body Loom Connector |
+| Male Terminal | 7114-2870 (Yazaki) | PWR/Amp. In Amplifier End Terminal |
+| Female Terminal | 7116-2870 (Yazaki) | PWR/Amp. In Body End Terminal |
+| Male Terminal Housing | 6090-1041 (Sumitomo) | ACC/Sub. Out Amplifier Loom Connector |
+| Female Terminal Housing | 6090-1011 (Sumitomo) | ACC/Sub. Out Body Loom Connector |
+| Male Terminal | 8230-4282 (Sumitomo) | ACC/Sub. Out Amplifier End Terminal |
+| Female Terminal | 8240-4422 (Sumitomo) | ACC/Sub. Out Body End Terminal |
 
 ![Premium Audio Amplifier plug layout](./pas-amp-plugs.jpg)
 
@@ -153,8 +166,6 @@ Any additional information on the premium audio system is listed below:
       - Audio loom replacement from optioned vehicle
     - Hole needs to be cut in sedan rear-shelf. While the steel has the hole present, the carpet cover does not and will need to be modified.
 - There is partial information to suggest some [Series 3](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-3) AU Falcons may have come with the amplifier used in the BA Falcons with the same option installed. This information cannot be confirmed definitively however, and as such information is provided [below](#retrofit---ba-fgx-premium-audio-amplifier) accordingly.
-
-<!-- TODO complete and add instructions on wiring in your own premium audio -->
 
 ## Retrofit - BA-FG Premium Audio Amplifier
 
