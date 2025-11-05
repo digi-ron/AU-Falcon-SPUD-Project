@@ -45,7 +45,7 @@ Please see the table below for shared parts:
 | [Fuel Door Button](../../Electrical/DriverButtons/DriverButtons.md#fuel-button) | EB-BFIII | Non-AU buttons require [button cap replacement](../../Electrical/DriverButtons/DriverButtons.md#removing-the-button-fascias). Fasciass from alternate models not easily compatible with AU Falcon dash. Territory Models fitted with buttons more akin to AU [Centre Console Buttons](../../Electrical/CentreConsoleButtons/CentreConsoleButtons.md#plug-information) |
 | Fuel Door Release Mechanism/Emergency release cable | AU-BF, SX-SYII | |
 | [Fuel Filter](../../Engine/FuelFilter/FuelFilter.md) | EB-BF | |
-| [Fuel Injectors](../../Engine/FuelInjectors/FuelInjectors.md) | EA-FGX, SX-SZII, XG-XHII | cc rating is vastly different after ED-AU, 215-220cc rating standard for AU, Tune/ECU/J3 Chip likely required. Also shares injectors with some Jeep models 2004-2008 |
+| [Fuel Injectors](../../Engine/FuelInjectors/FuelInjectors.md) | EA-FGX, SX-SZII, XG-XHII | AU-BF recommended, 215-220cc known standard volume, Tune/ECU/J3 Chip likely required for different volumes. Injectors compatible with Jeep/Dodge vehicles using the Chrysler PowerTech 3.7L EKG V6 drop-in compatible |
 | [Fuel Pressure Regulator](../../Engine/FuelPressureRegulator/FuelPressureRegulator.md) | AU-FGX | AU uses a 3 bar regulator, but 4 is standard in later models, Tune/ECU/J3 Chip likely required |
 | [Ignition Coil Pack](../../Engine/IgnitionCoil/IgnitionCoil.md) | EF-AUI | only compatible with S1 AU Falcons |
 | Glovebox light switch mechanism | EA-FGX, SX-SZII | |
