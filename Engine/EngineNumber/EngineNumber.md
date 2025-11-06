@@ -25,7 +25,7 @@ The Engine number is located on a piece of cast metal, on the driver side of the
 > Engine number location within the engine bay
 
 ![Engine Number pre-clean](./engine-number-orig.jpg)
-> Engine number close-up, before cleaning. Other models may have more or less rust/dust/grime depending on condition. For reference this is a 1998 built Series 1, so this *should* be representative of a worse example.
+> Engine number close-up, before cleaning. Other models may have more or less rust/dust/grime depending on condition. For reference this is a 1998 built Series 1, which spent most of its time on dirt roads in a mid humidity environment, so this *should* be representative of a worse example.
 
 ![Engine Number post-clean](./engine-number-cleaned.jpg)
 > Engine number, after cleaning with degreaser and a workshop rag
