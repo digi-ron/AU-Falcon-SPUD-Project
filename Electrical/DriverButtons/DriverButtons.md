@@ -52,9 +52,10 @@ The following is known about the connectors for the fuel button, however no part
 
 <!-- TODO find this damned connector if at all possible. Notes follow.
 - Noted as C-170 in the workshop manual connector listing
-- apparently between models AU-BF at least. Known used EB-BF
+- apparently between models AU-BF at least. Known used EB-BF for buttons, and XF-ED for brake switch
 - May be OEM but should at least be from another international model
 - Possibly Yazaki 7118-3020 (male terminal housing) and Yazaki 7119-3020 (female terminal housing) but they can't be bought anymore
+- shared connector with sun load sensor (high models) and power antenna (if fitted)
 -->
 
 - Confirmed used in XE-ED Falcons as the Brake Light Switch connector
