@@ -180,3 +180,46 @@ For cases where you wish to modify buttons from [compatible models](../../Miscel
 ![Button face clips](./button-face-clips.jpg)
 
 > Photo of rear of the face plates that can be swapped between switches
+
+## Series 1 Low Model Fascia
+
+> These instructions only apply to low model Series 1-1.5 Falcons (e.g. Forte/Futura/S/XR)
+{: .block-note}
+
+In the low model early falcons, there is a panel on the driver side of the centre console which contains provisions for 3 factory buttons, hidden behind a fascia that generally only has one hole in it for the [rear demister](#specifics---demist-button).
+
+### Fitting buttons from High model vehicles
+
+Simply fitting the buttons from a high model into a low model S1 vehicle can be a challenge due to the different locating notch locations in the high model buttons, which becomes an issue due to the relatively more common nature of different types of buttons to be found in high model vehicles. In order to remedy this, either the notches in the centre console plastic or the plastic below the notch in the high model button must be cut off. Cutting the notches in the centre console plastic is recommended due to the ease of removal and the negligible difference this makes to fitment.
+
+![Centre console plastic notch](./fascia-notch.jpg)
+![Centre console plastic notch removed](./fascia-notch-removed.jpg)
+
+> Images of plastic notches in the centre console of a S1 Forte, before and after removal respectively.
+
+![Centre Button Fascia](./fascia-panel-buttons-fitted.jpg)
+
+> A set of 1 Forte button (top) and 2 Fairlane buttons fitted to a S1 Forte Centre plastic
+
+### 3D Printing a 3 Button Fascia
+
+Should you wish to add 2 additional factory buttons, without the need to drill additional holes in the existing fascia, you can use the rudimentary 3D model found on GitHub, [HERE](https://github.com/digi-ron/AU-Falcon-S1-CentrePanel-3Hole). This model is released under an open license and can be modified using any 3D modelling software capable of importing STL files.
+
+> This model is a modified scan of an original fascia. The following tools and settings were used, however due to the relative inexperience of the author and the relatively low-quality equipment used, this is a functional, but possibly not "showroom ready", model. It is provided nevertheless, with the intention that someone with sufficient skill may be able to improve on this:
+>
+> - Revopoint Inspire (3D scanner)
+> - AESUB Blue vanishing spray (3D scanning spray)
+> - Blender (Modelling software):
+>   - Model modified with additional material for rigidity, and with larger clips and outer edge to prevent vibration
+> - Ender 3 V1 (3D printer):
+>   - Material used: ASA
+>   - Supports: yes
+>   - Notes: Printed vertically for decreased printing lines, printer modified for high temperature printing material.
+> - Fitting note: Installation should be done with the driver side clips first, then by pushing the passenger side clips in after. Due to intentionally tight fitment, a small screwdriver or trim removal tool may be required for removal.
+
+> In the interest of this projects vision, the published STL file is stored on this website as a backup [HERE](.//centrepanel.stl). *Last synced - 14/11/25*
+{: .block-note}
+
+![3D printed fascia](./3d-print-cover.jpg)
+
+> Picture of a printed fascia using the materials and tools listed above. This is representative of the models state as of 14/11/25
