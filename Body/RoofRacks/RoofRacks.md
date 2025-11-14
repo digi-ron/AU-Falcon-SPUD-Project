@@ -4,7 +4,7 @@ description: roof rack installation methods and information
 
 # Roof Racks
 
-Roof racks for the AU Falcon is a topic that is limited due to the lack of options available. Any information found however has been added here:
+Roof racks for the AU Falcon is a topic that is limited due to the lack of options available. Any information found however has been added here.
 
 > Information Sources:
 > - [Prorack](../../Credits.md#sources)
@@ -57,3 +57,25 @@ Much like the [Sedans](#sedans) and most standard [Station Wagons](#station-wago
 ![Prorack AU Falcon Single Roof Rack](./prorack-ute-example.png)
 
 > Product image of a package product from [Prorack](../../Credits.md#sources) which contains a `S16Half` roof bar and `K156` fitting kit
+
+## Factory roof rack information
+
+Due to the niche and rare nature of the factory parts, very little information remains on the ford supplied factory roof racks. The following are notes using 2 wrecker sourced pairs, one for a [wagon body with factory rails](#station-wagons-with-factory-rails) sourced from a BA Falcon, and one for a [wagon body without factory rails](#station-wagons-without-factory-rails), from an AU Falcon.
+
+## Key barrel replacement
+
+### Part number
+
+The key barrel in the factory roof racks are of the same style as Prorack or yakima racks of the same time period. Known part numbers are listed below, however universal fit parts are easy to come by if required:
+
+| Part Number | Manufacturer | Notes |
+| --- | --- | --- |
+| `SP014` | [Prorack](../../Credits.md#sources) | Appears to use different style key |
+| `KB048` | [Prorack](../../Credits.md#sources) / [Whispbar](../../Credits.md#sources) | Exact match, common on models from the same time period. [Whispbar](../../Credits.md#sources) listed as compatible however information limited as the brand has been discontinued and merged with [Yakima](../../Credits.md#sources) at the time of writing |
+| `RLK-LOCK-4` | [Rhino Rack](../../Credits.md#sources) | Exact match. Pack contains 4 barrels and 2 keys |
+
+### Additional Notes
+
+- There are no discernible markings to indicate an original manufacturer. The [key barrel](#key-barrel-replacement) used suggests a Prorack/Yakima style lock, but this is *unconfirmed*.
+
+<!-- TODO make a 3D model for the covers if you can -->
