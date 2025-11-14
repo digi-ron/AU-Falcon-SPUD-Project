@@ -41,6 +41,7 @@ description: "Credits"
 - [T.I Performance](https://www.tiperformance.com.au/)
 - [Tridon](https://www.tridon.com.au/)
 - [Wheel-size.com](https://www.wheel-size.com/size/ford/falcon/au-1998-2002)
+- [Whispbar](https://whispbar.com.au/) (now part of [Yakima](https://yakima.com.au/collections/roof-racks) roof rack line)
 - [Yazaki](https://www.yazaki-group.com/global/)
   - <i class="other-highlight">Some connectors specified as "Sumitomo" connectors, which was likely the OEM for electrical plugs for the AU Falcon, however they have become non-viable to purchase</i>
 
