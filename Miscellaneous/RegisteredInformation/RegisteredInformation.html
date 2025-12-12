@@ -1,0 +1,114 @@
+---
+layout: default
+hideTOC: true
+hideMod: true
+description: Ford Falcon AU Census Information Table
+title: Registered AU Falcon Information
+---
+<!--standard HTML format not required as this is a partial render within the layouts/default.html file-->
+<!--file not generated using markdown as too complex: required more HTML tags than markdown syntax to make functional-->
+
+{% include noscript-warning.html %}
+
+<script type="application/json" id="rawInformation">
+    {% include data.gov.au.json %}
+</script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", () => {
+        const registeredInformation = JSON.parse(document.getElementById("rawInformation").textContent);
+        var parsedInformation = {};
+
+        registeredInformation.result.records.forEach(carEntry => {
+            //init packages if not already there
+            parsedInformation[carEntry.model] ??= {};
+            parsedInformation[carEntry.model][carEntry.year_of_manufacture] ??= 0;
+
+            var modelNumber = parseInt(carEntry.no_vehicles);
+            switch (carEntry.year_of_manufacture) {
+                case "1998":
+                    modelNumber = parseInt(modelNumber * 0.25);
+                case "2002":
+                    modelNumber = parseInt(modelNumber * 0.75);
+            }
+            parsedInformation[carEntry.model][carEntry.year_of_manufacture] += modelNumber;
+        });
+
+        const targetTable = document.getElementById("resultsTable-body");
+        const totalTable = document.getElementById("totalsTable-body");
+
+        Object.keys(parsedInformation).forEach(topKey => {
+            var variantTotal = 0;
+
+            Object.keys(parsedInformation[topKey]).forEach(yearKey => {
+                const rowItem = document.createElement("tr");
+                const modelCell = document.createElement("td");
+                modelCell.innerText = topKey;
+                const yearCell = document.createElement("td");
+                yearCell.innerText = yearKey;
+                const amountCell = document.createElement("td");
+                amountCell.innerText = parsedInformation[topKey][yearKey];
+
+                variantTotal += parsedInformation[topKey][yearKey];
+
+                rowItem.appendChild(modelCell);
+                rowItem.appendChild(yearCell);
+                rowItem.appendChild(amountCell);
+                targetTable.appendChild(rowItem);
+
+            });
+
+            const totalRow = document.createElement("tr");
+            const modelCell = document.createElement("td");
+            modelCell.innerHTML = "<b>" + topKey + "</b>";
+            const numberCell = document.createElement("td");
+            numberCell.innerHTML = "<b>" + variantTotal + "</b>";
+            totalRow.appendChild(modelCell);
+            totalRow.appendChild(numberCell);
+            totalTable.appendChild(totalRow);
+        });
+    });
+</script>
+
+<div class="js-only">
+
+    <h2>Notes</h2>
+    <p>Due to the limited details included in the publicly available information, note the following when reading through this data:</p>
+    <ul>
+        <li>This information was last checked 10/12/2025</li>
+        <li>Due to overlapping manufacture months of the EF and BA model Falcons, numbers for 1998 and 2002 models are likely inaccurate. In an attempt for accuracy, these numbers are calculated based on the months of the year, e.g. 1998 numbers are calculated to 25% as the AU was only sold from September to December that year (1/4 of the months)</li>
+        <li>This list is inaccurate for discerning specific trim models of Falcon e.g. S, SR, Forte, XR*. This is due to them all sharing the Falcon model name. Fairmont, Fairlane, LTD, and Futura are exempt from this issue.</li>
+        <li>These tables ignore per-state information as it was deemed not relevant, despite the source of this information containing such information</li>
+        <li>This doesn't necessarily denote how many of each model are <i>left</i>, but rather how many are actively registered to be driven on Australian roads</li>
+        <li>This information doesn't cover New Zealand registered vehicles, as their publicly available information, while more detailed, is in a larger and difficult to query format</li>
+    </ul>
+
+    <blockquote class="printHide block-note">
+        The information below is presented based on information gathered from the <a href="https://data.gov.au">data.gov.au</a> vehicle census data
+    </blockquote>
+
+    <h2>Totals</h2>
+    <table id="totalsTable">
+        <thead>
+            <tr>
+                <th>Model</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody id="totalsTable-body">
+        </tbody>
+    </table>
+
+    <h2>Per Model</h2>
+    <table id="resultsTable">
+        <thead>
+            <tr id="resultsTable-headerRow">
+                <th>Model</th>
+                <th>Year</th>
+                <th>Registered</th>
+            </tr>
+        </thead>
+        <tbody id="resultsTable-body">
+        </tbody>
+    </table>
+</div>
