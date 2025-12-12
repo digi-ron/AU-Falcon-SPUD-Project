@@ -1,0 +1,2343 @@
+{
+    "help": "https://data.gov.au/data/api/3/action/help_show?name=datastore_search_sql",
+    "success": true,
+    "result": {
+        "sql": "SELECT * FROM \"82874d26-1361-4e38-9277-aec011f46b42\" WHERE make LIKE 'FORD' AND year_of_manufacture IN ('1998', '1999', '2000', '2001', '2002') AND no_vehicles NOT LIKE '0' AND model IN ('FALCON', 'FUTURA', 'FAIRMONT', 'FAIRLANE', 'LTD', 'TE50', 'TL50', 'TS50')",
+        "records": [
+            {
+                "_id": 7278,
+                "_full_text": "'1998':4 '98':7 'fairlane':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "98"
+            },
+            {
+                "_id": 7279,
+                "_full_text": "'10':7 '1998':4 'fairmont':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "10"
+            },
+            {
+                "_id": 7280,
+                "_full_text": "'1145':7 '1998':4 'falcon':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1145"
+            },
+            {
+                "_id": 7282,
+                "_full_text": "'1998':4 '6':7 'ford':5 'futura':6 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "6"
+            },
+            {
+                "_id": 7284,
+                "_full_text": "'13':7 '1998':4 'ford':5 'ltd':6 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "13"
+            },
+            {
+                "_id": 7591,
+                "_full_text": "'1999':4 '39':7 'fairlane':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "39"
+            },
+            {
+                "_id": 7592,
+                "_full_text": "'11':7 '1999':4 'fairmont':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "11"
+            },
+            {
+                "_id": 7593,
+                "_full_text": "'1516':7 '1999':4 'falcon':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1516"
+            },
+            {
+                "_id": 7595,
+                "_full_text": "'1999':4 '8':7 'ford':5 'futura':6 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "8"
+            },
+            {
+                "_id": 7598,
+                "_full_text": "'1999':4 '5':7 'ford':5 'ltd':6 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "5"
+            },
+            {
+                "_id": 7933,
+                "_full_text": "'16':7 '2000':4 'fairlane':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "16"
+            },
+            {
+                "_id": 7934,
+                "_full_text": "'19':7 '2000':4 'fairmont':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "19"
+            },
+            {
+                "_id": 7935,
+                "_full_text": "'1721':7 '2000':4 'falcon':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1721"
+            },
+            {
+                "_id": 7938,
+                "_full_text": "'2000':4 '5':7 'ford':5 'futura':6 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "5"
+            },
+            {
+                "_id": 7941,
+                "_full_text": "'2000':4 '8':7 'ford':5 'ltd':6 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "8"
+            },
+            {
+                "_id": 8278,
+                "_full_text": "'133':7 '2001':4 'fairlane':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "133"
+            },
+            {
+                "_id": 8279,
+                "_full_text": "'119':7 '2001':4 'fairmont':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "119"
+            },
+            {
+                "_id": 8280,
+                "_full_text": "'1196':7 '2001':4 'falcon':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1196"
+            },
+            {
+                "_id": 8282,
+                "_full_text": "'133':7 '2001':4 'ford':5 'futura':6 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "133"
+            },
+            {
+                "_id": 8285,
+                "_full_text": "'11':7 '2001':4 'ford':5 'ltd':6 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "11"
+            },
+            {
+                "_id": 8661,
+                "_full_text": "'136':7 '2002':4 'fairlane':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "136"
+            },
+            {
+                "_id": 8662,
+                "_full_text": "'2002':4 '2072':7 'falcon':6 'ford':5 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "2072"
+            },
+            {
+                "_id": 8666,
+                "_full_text": "'14':7 '2002':4 'ford':5 'ltd':6 'nsw':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "14"
+            },
+            {
+                "_id": 26569,
+                "_full_text": "'1998':4 '216':7 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "216"
+            },
+            {
+                "_id": 26570,
+                "_full_text": "'1998':4 '277':7 'fairmont':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "277"
+            },
+            {
+                "_id": 26571,
+                "_full_text": "'1192':7 '1998':4 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1192"
+            },
+            {
+                "_id": 26573,
+                "_full_text": "'1998':4 '277':7 'ford':5 'futura':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "277"
+            },
+            {
+                "_id": 26575,
+                "_full_text": "'16':7 '1998':4 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "16"
+            },
+            {
+                "_id": 26880,
+                "_full_text": "'1999':4 '324':7 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "324"
+            },
+            {
+                "_id": 26881,
+                "_full_text": "'1999':4 '419':7 'fairmont':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "419"
+            },
+            {
+                "_id": 26882,
+                "_full_text": "'1704':7 '1999':4 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1704"
+            },
+            {
+                "_id": 26884,
+                "_full_text": "'1999':4 '260':7 'ford':5 'futura':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "260"
+            },
+            {
+                "_id": 26887,
+                "_full_text": "'1999':4 '33':7 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "33"
+            },
+            {
+                "_id": 27216,
+                "_full_text": "'2000':4 '257':7 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "257"
+            },
+            {
+                "_id": 27217,
+                "_full_text": "'2000':4 '493':7 'fairmont':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "493"
+            },
+            {
+                "_id": 27218,
+                "_full_text": "'2000':4 '2034':7 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "2034"
+            },
+            {
+                "_id": 27220,
+                "_full_text": "'2000':4 '284':7 'ford':5 'futura':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "284"
+            },
+            {
+                "_id": 27223,
+                "_full_text": "'2000':4 '38':7 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "38"
+            },
+            {
+                "_id": 27559,
+                "_full_text": "'2001':4 '303':7 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "303"
+            },
+            {
+                "_id": 27560,
+                "_full_text": "'2001':4 '462':7 'fairmont':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "462"
+            },
+            {
+                "_id": 27561,
+                "_full_text": "'2001':4 '2274':7 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "2274"
+            },
+            {
+                "_id": 27565,
+                "_full_text": "'2001':4 '289':7 'ford':5 'futura':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "289"
+            },
+            {
+                "_id": 27569,
+                "_full_text": "'2001':4 '28':7 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "28"
+            },
+            {
+                "_id": 93915,
+                "_full_text": "'16':7 '1998':4 'fairlane':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "16"
+            },
+            {
+                "_id": 93916,
+                "_full_text": "'1998':4 '20':7 'fairmont':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "20"
+            },
+            {
+                "_id": 93917,
+                "_full_text": "'145':7 '1998':4 'falcon':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "145"
+            },
+            {
+                "_id": 93919,
+                "_full_text": "'10':7 '1998':4 'ford':5 'futura':6 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "10"
+            },
+            {
+                "_id": 94113,
+                "_full_text": "'1999':4 '44':7 'fairlane':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "44"
+            },
+            {
+                "_id": 94114,
+                "_full_text": "'1999':4 '9':7 'fairmont':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "9"
+            },
+            {
+                "_id": 94115,
+                "_full_text": "'190':7 '1999':4 'falcon':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "190"
+            },
+            {
+                "_id": 94334,
+                "_full_text": "'14':7 '2000':4 'fairlane':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "14"
+            },
+            {
+                "_id": 94335,
+                "_full_text": "'14':7 '2000':4 'fairmont':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "14"
+            },
+            {
+                "_id": 94336,
+                "_full_text": "'2000':4 '220':7 'falcon':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "220"
+            },
+            {
+                "_id": 94341,
+                "_full_text": "'2000':4 '3':7 'ford':5 'ltd':6 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 94563,
+                "_full_text": "'18':7 '2001':4 'fairlane':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "18"
+            },
+            {
+                "_id": 94564,
+                "_full_text": "'20':7 '2001':4 'fairmont':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "20"
+            },
+            {
+                "_id": 94565,
+                "_full_text": "'155':7 '2001':4 'falcon':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "155"
+            },
+            {
+                "_id": 94567,
+                "_full_text": "'2001':4 '9':7 'ford':5 'futura':6 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "9"
+            },
+            {
+                "_id": 127340,
+                "_full_text": "'1998':5 '233':8 'commercial':2 'falcon':7 'ford':6 'light':1 'qld':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "233"
+            },
+            {
+                "_id": 127400,
+                "_full_text": "'1999':5 '409':8 'commercial':2 'falcon':7 'ford':6 'light':1 'qld':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "409"
+            },
+            {
+                "_id": 127454,
+                "_full_text": "'2000':5 '738':8 'commercial':2 'falcon':7 'ford':6 'light':1 'qld':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "738"
+            },
+            {
+                "_id": 127506,
+                "_full_text": "'1017':8 '2001':5 'commercial':2 'falcon':7 'ford':6 'light':1 'qld':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1017"
+            },
+            {
+                "_id": 127550,
+                "_full_text": "'1388':8 '2002':5 'commercial':2 'falcon':7 'ford':6 'light':1 'qld':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1388"
+            },
+            {
+                "_id": 130954,
+                "_full_text": "'142':8 '1998':5 'commercial':2 'falcon':7 'ford':6 'light':1 'sa':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "142"
+            },
+            {
+                "_id": 131001,
+                "_full_text": "'1999':5 '275':8 'commercial':2 'falcon':7 'ford':6 'light':1 'sa':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "275"
+            },
+            {
+                "_id": 131042,
+                "_full_text": "'2000':5 '371':8 'commercial':2 'falcon':7 'ford':6 'light':1 'sa':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "371"
+            },
+            {
+                "_id": 131086,
+                "_full_text": "'2001':5 '465':8 'commercial':2 'falcon':7 'ford':6 'light':1 'sa':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "465"
+            },
+            {
+                "_id": 131124,
+                "_full_text": "'2002':5 '643':8 'commercial':2 'falcon':7 'ford':6 'light':1 'sa':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "643"
+            },
+            {
+                "_id": 133966,
+                "_full_text": "'189':8 '1998':5 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'wa':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "189"
+            },
+            {
+                "_id": 134020,
+                "_full_text": "'1999':5 '253':8 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'wa':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "253"
+            },
+            {
+                "_id": 134068,
+                "_full_text": "'2000':5 '406':8 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'wa':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "406"
+            },
+            {
+                "_id": 134120,
+                "_full_text": "'2001':5 '493':8 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'wa':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "493"
+            },
+            {
+                "_id": 134170,
+                "_full_text": "'2002':5 '648':8 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'wa':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "648"
+            },
+            {
+                "_id": 136657,
+                "_full_text": "'1998':5 '75':8 'commercial':2 'falcon':7 'ford':6 'light':1 'tas':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "75"
+            },
+            {
+                "_id": 136700,
+                "_full_text": "'125':8 '1999':5 'commercial':2 'falcon':7 'ford':6 'light':1 'tas':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "125"
+            },
+            {
+                "_id": 136743,
+                "_full_text": "'2000':5 '202':8 'commercial':2 'falcon':7 'ford':6 'light':1 'tas':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "202"
+            },
+            {
+                "_id": 136793,
+                "_full_text": "'2001':5 '220':8 'commercial':2 'falcon':7 'ford':6 'light':1 'tas':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "220"
+            },
+            {
+                "_id": 136832,
+                "_full_text": "'2002':5 '255':8 'commercial':2 'falcon':7 'ford':6 'light':1 'tas':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "255"
+            },
+            {
+                "_id": 191119,
+                "_full_text": "'1998':7 '3':10 'carrying':4 'fairlane':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'vehicles':5 'vic':6",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 191120,
+                "_full_text": "'1998':7 '5':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'vehicles':5 'vic':6",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "5"
+            },
+            {
+                "_id": 191164,
+                "_full_text": "'1999':7 '9':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'vehicles':5 'vic':6",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "9"
+            },
+            {
+                "_id": 191165,
+                "_full_text": "'1999':7 '3':10 'carrying':4 'ford':8 'freight':3 'ltd':9 'non':2 'non-freight-carrying':1 'vehicles':5 'vic':6",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 191220,
+                "_full_text": "'2000':7 '7':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'vehicles':5 'vic':6",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "7"
+            },
+            {
+                "_id": 191274,
+                "_full_text": "'2001':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'vehicles':5 'vic':6",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 193508,
+                "_full_text": "'1999':7 '4':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'qld':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 193548,
+                "_full_text": "'2000':7 '4':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'qld':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 193620,
+                "_full_text": "'2002':7 '3':10 'carrying':4 'fairlane':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'qld':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 193621,
+                "_full_text": "'2002':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'qld':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 195216,
+                "_full_text": "'1998':7 '3':10 'carrying':4 'fairmont':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'sa':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 195236,
+                "_full_text": "'1999':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'sa':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 195249,
+                "_full_text": "'2000':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'sa':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 195285,
+                "_full_text": "'2002':7 '3':10 'carrying':4 'fairlane':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'sa':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 196487,
+                "_full_text": "'1998':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'vehicles':5 'wa':6",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 196515,
+                "_full_text": "'1999':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'vehicles':5 'wa':6",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 196538,
+                "_full_text": "'2000':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'vehicles':5 'wa':6",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 197887,
+                "_full_text": "'2000':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'tas':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 47404,
+                "_full_text": "'110':7 '1998':4 'fairlane':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "110"
+            },
+            {
+                "_id": 47405,
+                "_full_text": "'1998':4 '74':7 'fairmont':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "74"
+            },
+            {
+                "_id": 47406,
+                "_full_text": "'1998':4 '794':7 'falcon':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "794"
+            },
+            {
+                "_id": 47409,
+                "_full_text": "'13':7 '1998':4 'ford':5 'ltd':6 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "13"
+            },
+            {
+                "_id": 47688,
+                "_full_text": "'168':7 '1999':4 'fairlane':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "168"
+            },
+            {
+                "_id": 47689,
+                "_full_text": "'1999':4 '20':7 'fairmont':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "20"
+            },
+            {
+                "_id": 47690,
+                "_full_text": "'1999':4 '865':7 'falcon':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "865"
+            },
+            {
+                "_id": 47695,
+                "_full_text": "'10':7 '1999':4 'ford':5 'ltd':6 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "10"
+            },
+            {
+                "_id": 47971,
+                "_full_text": "'120':7 '2000':4 'fairlane':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "120"
+            },
+            {
+                "_id": 47972,
+                "_full_text": "'18':7 '2000':4 'fairmont':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "18"
+            },
+            {
+                "_id": 47973,
+                "_full_text": "'1132':7 '2000':4 'falcon':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1132"
+            },
+            {
+                "_id": 47978,
+                "_full_text": "'2000':4 '21':7 'ford':5 'ltd':6 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "21"
+            },
+            {
+                "_id": 48255,
+                "_full_text": "'115':7 '2001':4 'fairlane':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "115"
+            },
+            {
+                "_id": 48256,
+                "_full_text": "'2001':4 '81':7 'fairmont':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "81"
+            },
+            {
+                "_id": 48257,
+                "_full_text": "'2001':4 '923':7 'falcon':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "923"
+            },
+            {
+                "_id": 48258,
+                "_full_text": "'2001':4 '50':7 'ford':5 'futura':6 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "50"
+            },
+            {
+                "_id": 48262,
+                "_full_text": "'10':7 '2001':4 'ford':5 'ltd':6 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "10"
+            },
+            {
+                "_id": 48567,
+                "_full_text": "'133':7 '2002':4 'fairlane':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "133"
+            },
+            {
+                "_id": 48568,
+                "_full_text": "'1766':7 '2002':4 'falcon':6 'ford':5 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1766"
+            },
+            {
+                "_id": 48572,
+                "_full_text": "'2002':4 '3':7 'ford':5 'ltd':6 'passenger':1 'qld':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 65420,
+                "_full_text": "'1998':4 '53':7 'fairlane':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "53"
+            },
+            {
+                "_id": 65421,
+                "_full_text": "'1998':4 '92':7 'fairmont':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "92"
+            },
+            {
+                "_id": 65422,
+                "_full_text": "'1998':4 '464':7 'falcon':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "464"
+            },
+            {
+                "_id": 65424,
+                "_full_text": "'1998':4 '92':7 'ford':5 'futura':6 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "92"
+            },
+            {
+                "_id": 65426,
+                "_full_text": "'1998':4 '4':7 'ford':5 'ltd':6 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 65677,
+                "_full_text": "'116':7 '1999':4 'fairlane':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "116"
+            },
+            {
+                "_id": 65678,
+                "_full_text": "'1999':4 '98':7 'fairmont':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "98"
+            },
+            {
+                "_id": 65679,
+                "_full_text": "'1999':4 '496':7 'falcon':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "496"
+            },
+            {
+                "_id": 65681,
+                "_full_text": "'1999':4 '81':7 'ford':5 'futura':6 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "81"
+            },
+            {
+                "_id": 65684,
+                "_full_text": "'1999':4 '5':7 'ford':5 'ltd':6 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "5"
+            },
+            {
+                "_id": 65944,
+                "_full_text": "'2000':4 '51':7 'fairlane':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "51"
+            },
+            {
+                "_id": 65945,
+                "_full_text": "'118':7 '2000':4 'fairmont':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "118"
+            },
+            {
+                "_id": 65946,
+                "_full_text": "'2000':4 '676':7 'falcon':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "676"
+            },
+            {
+                "_id": 65948,
+                "_full_text": "'103':7 '2000':4 'ford':5 'futura':6 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "103"
+            },
+            {
+                "_id": 65951,
+                "_full_text": "'2000':4 '4':7 'ford':5 'ltd':6 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 66227,
+                "_full_text": "'2001':4 '87':7 'fairlane':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "87"
+            },
+            {
+                "_id": 66228,
+                "_full_text": "'2001':4 '78':7 'fairmont':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "78"
+            },
+            {
+                "_id": 66229,
+                "_full_text": "'2001':4 '674':7 'falcon':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "674"
+            },
+            {
+                "_id": 66230,
+                "_full_text": "'2001':4 '82':7 'ford':5 'futura':6 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "82"
+            },
+            {
+                "_id": 66517,
+                "_full_text": "'2002':4 '74':7 'fairlane':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "74"
+            },
+            {
+                "_id": 66518,
+                "_full_text": "'1360':7 '2002':4 'falcon':6 'ford':5 'passenger':1 'sa':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "SA",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1360"
+            },
+            {
+                "_id": 94810,
+                "_full_text": "'17':7 '2002':4 'fairlane':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "17"
+            },
+            {
+                "_id": 94811,
+                "_full_text": "'2002':4 '302':7 'falcon':6 'ford':5 'passenger':1 'tas':3 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Tas",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "302"
+            },
+            {
+                "_id": 102144,
+                "_full_text": "'1998':4 '9':7 'falcon':6 'ford':5 'nt':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "9"
+            },
+            {
+                "_id": 102216,
+                "_full_text": "'1999':4 '3':7 'fairmont':6 'ford':5 'nt':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 102217,
+                "_full_text": "'11':7 '1999':4 'falcon':6 'ford':5 'nt':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "11"
+            },
+            {
+                "_id": 102309,
+                "_full_text": "'2000':4 '4':7 'fairlane':6 'ford':5 'nt':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 102310,
+                "_full_text": "'15':7 '2000':4 'falcon':6 'ford':5 'nt':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "15"
+            },
+            {
+                "_id": 102313,
+                "_full_text": "'2000':4 '3':7 'ford':5 'futura':6 'nt':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 102412,
+                "_full_text": "'12':7 '2001':4 'falcon':6 'ford':5 'nt':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "12"
+            },
+            {
+                "_id": 102513,
+                "_full_text": "'2002':4 '3':7 'fairlane':6 'ford':5 'nt':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 102514,
+                "_full_text": "'2002':4 '38':7 'falcon':6 'ford':5 'nt':3 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "38"
+            },
+            {
+                "_id": 118333,
+                "_full_text": "'1998':5 '264':8 'commercial':2 'falcon':7 'ford':6 'light':1 'nsw':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "264"
+            },
+            {
+                "_id": 118397,
+                "_full_text": "'1999':5 '542':8 'commercial':2 'falcon':7 'ford':6 'light':1 'nsw':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "542"
+            },
+            {
+                "_id": 118462,
+                "_full_text": "'2000':5 '951':8 'commercial':2 'falcon':7 'ford':6 'light':1 'nsw':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "951"
+            },
+            {
+                "_id": 118527,
+                "_full_text": "'1220':8 '2001':5 'commercial':2 'falcon':7 'ford':6 'light':1 'nsw':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1220"
+            },
+            {
+                "_id": 118585,
+                "_full_text": "'1601':8 '2002':5 'commercial':2 'falcon':7 'ford':6 'light':1 'nsw':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1601"
+            },
+            {
+                "_id": 122586,
+                "_full_text": "'1998':5 '510':8 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'vic':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "510"
+            },
+            {
+                "_id": 122645,
+                "_full_text": "'1037':8 '1999':5 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'vic':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1037"
+            },
+            {
+                "_id": 122706,
+                "_full_text": "'1593':8 '2000':5 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'vic':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "1593"
+            },
+            {
+                "_id": 122766,
+                "_full_text": "'2001':5 '2447':8 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'vic':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "2447"
+            },
+            {
+                "_id": 122826,
+                "_full_text": "'2002':5 '2712':8 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3 'vic':4",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "2712"
+            },
+            {
+                "_id": 188899,
+                "_full_text": "'1998':7 '3':10 'carrying':4 'fairlane':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'nsw':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 188900,
+                "_full_text": "'1998':7 '4':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'nsw':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 188931,
+                "_full_text": "'1999':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'nsw':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 188972,
+                "_full_text": "'2000':7 '4':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'nsw':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 189058,
+                "_full_text": "'2002':7 '3':10 'carrying':4 'falcon':9 'ford':8 'freight':3 'non':2 'non-freight-carrying':1 'nsw':6 'vehicles':5",
+                "vehicle_type": "Non-freight-carrying vehicles",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 199509,
+                "_full_text": "'1999':3 '4':6 'campervans':1 'falcon':5 'ford':4 'nsw':2",
+                "vehicle_type": "Campervans",
+                "state_abb": "NSW",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 199560,
+                "_full_text": "'2000':3 '6':6 'campervans':1 'falcon':5 'ford':4 'nsw':2",
+                "vehicle_type": "Campervans",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "6"
+            },
+            {
+                "_id": 199607,
+                "_full_text": "'2001':3 '3':6 'campervans':1 'falcon':5 'ford':4 'nsw':2",
+                "vehicle_type": "Campervans",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 201410,
+                "_full_text": "'1999':3 '4':6 'campervans':1 'falcon':5 'ford':4 'vic':2",
+                "vehicle_type": "Campervans",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 201454,
+                "_full_text": "'2000':3 '7':6 'campervans':1 'falcon':5 'ford':4 'vic':2",
+                "vehicle_type": "Campervans",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "7"
+            },
+            {
+                "_id": 201500,
+                "_full_text": "'2001':3 '3':6 'campervans':1 'falcon':5 'ford':4 'vic':2",
+                "vehicle_type": "Campervans",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 203319,
+                "_full_text": "'2000':3 '4':6 'campervans':1 'falcon':5 'ford':4 'qld':2",
+                "vehicle_type": "Campervans",
+                "state_abb": "Qld",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 206143,
+                "_full_text": "'1998':3 '3':6 'campervans':1 'falcon':5 'ford':4 'tas':2",
+                "vehicle_type": "Campervans",
+                "state_abb": "Tas",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 207227,
+                "_full_text": "'2000':4 '3':7 'buses':2 'ford':5 'light':1 'ltd':6 'nsw':3",
+                "vehicle_type": "Light buses",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 207235,
+                "_full_text": "'2001':4 '3':7 'buses':2 'falcon':6 'ford':5 'light':1 'nsw':3",
+                "vehicle_type": "Light buses",
+                "state_abb": "NSW",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 207581,
+                "_full_text": "'1999':4 '3':7 'buses':2 'fairlane':6 'ford':5 'light':1 'vic':3",
+                "vehicle_type": "Light buses",
+                "state_abb": "Vic",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 208619,
+                "_full_text": "'1999':4 '3':7 'buses':2 'ford':5 'light':1 'ltd':6 'wa':3",
+                "vehicle_type": "Light buses",
+                "state_abb": "WA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 208637,
+                "_full_text": "'2001':4 '3':7 'buses':2 'ford':5 'light':1 'ltd':6 'wa':3",
+                "vehicle_type": "Light buses",
+                "state_abb": "WA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 27921,
+                "_full_text": "'2002':4 '276':7 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "276"
+            },
+            {
+                "_id": 27922,
+                "_full_text": "'11':7 '2002':4 'fairmont':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "11"
+            },
+            {
+                "_id": 27923,
+                "_full_text": "'2002':4 '4043':7 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "4043"
+            },
+            {
+                "_id": 27925,
+                "_full_text": "'12':7 '2002':4 'ford':5 'futura':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "12"
+            },
+            {
+                "_id": 27929,
+                "_full_text": "'2002':4 '25':7 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'vic':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "Vic",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "25"
+            },
+            {
+                "_id": 80912,
+                "_full_text": "'1998':4 '78':7 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "78"
+            },
+            {
+                "_id": 80913,
+                "_full_text": "'1998':4 '65':7 'fairmont':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "65"
+            },
+            {
+                "_id": 80914,
+                "_full_text": "'1998':4 '358':7 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "358"
+            },
+            {
+                "_id": 80916,
+                "_full_text": "'1998':4 '40':7 'ford':5 'futura':6 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "40"
+            },
+            {
+                "_id": 80918,
+                "_full_text": "'18':7 '1998':4 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "18"
+            },
+            {
+                "_id": 81161,
+                "_full_text": "'135':7 '1999':4 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "135"
+            },
+            {
+                "_id": 81162,
+                "_full_text": "'101':7 '1999':4 'fairmont':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "101"
+            },
+            {
+                "_id": 81163,
+                "_full_text": "'1999':4 '275':7 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "275"
+            },
+            {
+                "_id": 81165,
+                "_full_text": "'1999':4 '39':7 'ford':5 'futura':6 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "39"
+            },
+            {
+                "_id": 81168,
+                "_full_text": "'13':7 '1999':4 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "13"
+            },
+            {
+                "_id": 81424,
+                "_full_text": "'2000':4 '70':7 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "70"
+            },
+            {
+                "_id": 81425,
+                "_full_text": "'115':7 '2000':4 'fairmont':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "115"
+            },
+            {
+                "_id": 81426,
+                "_full_text": "'2000':4 '398':7 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "398"
+            },
+            {
+                "_id": 81429,
+                "_full_text": "'2000':4 '66':7 'ford':5 'futura':6 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "66"
+            },
+            {
+                "_id": 81432,
+                "_full_text": "'13':7 '2000':4 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "13"
+            },
+            {
+                "_id": 81702,
+                "_full_text": "'2001':4 '69':7 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "69"
+            },
+            {
+                "_id": 81703,
+                "_full_text": "'2001':4 '72':7 'fairmont':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "72"
+            },
+            {
+                "_id": 81704,
+                "_full_text": "'2001':4 '500':7 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "500"
+            },
+            {
+                "_id": 81707,
+                "_full_text": "'2001':4 '51':7 'ford':5 'futura':6 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "51"
+            },
+            {
+                "_id": 81710,
+                "_full_text": "'2001':4 '6':7 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "6"
+            },
+            {
+                "_id": 81987,
+                "_full_text": "'2002':4 '94':7 'fairlane':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "94"
+            },
+            {
+                "_id": 81988,
+                "_full_text": "'2002':4 '946':7 'falcon':6 'ford':5 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "946"
+            },
+            {
+                "_id": 81993,
+                "_full_text": "'2002':4 '4':7 'ford':5 'ltd':6 'passenger':1 'vehicles':2 'wa':3",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "WA",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "LTD",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 108882,
+                "_full_text": "'1998':4 '5':7 'act':3 'fairlane':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "5"
+            },
+            {
+                "_id": 108883,
+                "_full_text": "'1998':4 '3':7 'act':3 'fairmont':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 108884,
+                "_full_text": "'1998':4 '69':7 'act':3 'falcon':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "69"
+            },
+            {
+                "_id": 108886,
+                "_full_text": "'1998':4 '3':7 'act':3 'ford':5 'futura':6 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "3"
+            },
+            {
+                "_id": 109022,
+                "_full_text": "'1999':4 '8':7 'act':3 'fairlane':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "8"
+            },
+            {
+                "_id": 109023,
+                "_full_text": "'1999':4 '4':7 'act':3 'fairmont':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "4"
+            },
+            {
+                "_id": 109024,
+                "_full_text": "'1999':4 '74':7 'act':3 'falcon':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "74"
+            },
+            {
+                "_id": 109175,
+                "_full_text": "'2000':4 '7':7 'act':3 'fairlane':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "7"
+            },
+            {
+                "_id": 109176,
+                "_full_text": "'2000':4 '6':7 'act':3 'fairmont':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "6"
+            },
+            {
+                "_id": 109177,
+                "_full_text": "'2000':4 '89':7 'act':3 'falcon':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "89"
+            },
+            {
+                "_id": 109348,
+                "_full_text": "'12':7 '2001':4 'act':3 'fairlane':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "12"
+            },
+            {
+                "_id": 109349,
+                "_full_text": "'2001':4 '7':7 'act':3 'fairmont':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FAIRMONT",
+                "no_vehicles": "7"
+            },
+            {
+                "_id": 109350,
+                "_full_text": "'2001':4 '56':7 'act':3 'falcon':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "56"
+            },
+            {
+                "_id": 109352,
+                "_full_text": "'2001':4 '9':7 'act':3 'ford':5 'futura':6 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FUTURA",
+                "no_vehicles": "9"
+            },
+            {
+                "_id": 109552,
+                "_full_text": "'2002':4 '7':7 'act':3 'fairlane':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FAIRLANE",
+                "no_vehicles": "7"
+            },
+            {
+                "_id": 109553,
+                "_full_text": "'127':7 '2002':4 'act':3 'falcon':6 'ford':5 'passenger':1 'vehicles':2",
+                "vehicle_type": "Passenger vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "127"
+            },
+            {
+                "_id": 138248,
+                "_full_text": "'1998':5 '6':8 'commercial':2 'falcon':7 'ford':6 'light':1 'nt':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "6"
+            },
+            {
+                "_id": 138267,
+                "_full_text": "'12':8 '1999':5 'commercial':2 'falcon':7 'ford':6 'light':1 'nt':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "12"
+            },
+            {
+                "_id": 138288,
+                "_full_text": "'14':8 '2000':5 'commercial':2 'falcon':7 'ford':6 'light':1 'nt':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "14"
+            },
+            {
+                "_id": 138310,
+                "_full_text": "'2001':5 '31':8 'commercial':2 'falcon':7 'ford':6 'light':1 'nt':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "31"
+            },
+            {
+                "_id": 138334,
+                "_full_text": "'2002':5 '32':8 'commercial':2 'falcon':7 'ford':6 'light':1 'nt':4 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "NT",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "32"
+            },
+            {
+                "_id": 139585,
+                "_full_text": "'15':8 '1998':5 'act':4 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "1998",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "15"
+            },
+            {
+                "_id": 139609,
+                "_full_text": "'1999':5 '27':8 'act':4 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "1999",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "27"
+            },
+            {
+                "_id": 139632,
+                "_full_text": "'2000':5 '50':8 'act':4 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2000",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "50"
+            },
+            {
+                "_id": 139660,
+                "_full_text": "'2001':5 '47':8 'act':4 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2001",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "47"
+            },
+            {
+                "_id": 139685,
+                "_full_text": "'2002':5 '85':8 'act':4 'commercial':2 'falcon':7 'ford':6 'light':1 'vehicles':3",
+                "vehicle_type": "Light commercial vehicles",
+                "state_abb": "ACT",
+                "year_of_manufacture": "2002",
+                "make": "FORD",
+                "model": "FALCON",
+                "no_vehicles": "85"
+            }
+        ],
+        "fields": [
+            {
+                "id": "_id",
+                "type": "int4"
+            },
+            {
+                "id": "_full_text",
+                "type": "tsvector"
+            },
+            {
+                "id": "vehicle_type",
+                "type": "text"
+            },
+            {
+                "id": "state_abb",
+                "type": "text"
+            },
+            {
+                "id": "year_of_manufacture",
+                "type": "text"
+            },
+            {
+                "id": "make",
+                "type": "text"
+            },
+            {
+                "id": "model",
+                "type": "text"
+            },
+            {
+                "id": "no_vehicles",
+                "type": "text"
+            }
+        ]
+    }
+}
