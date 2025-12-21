@@ -192,6 +192,10 @@
             "title": "Miscellaneous",
             "items": [
                 {
+                    "title": "Census Information - Known Registered Vehicles (AUS Only)",
+                    "url": "/Miscellaneous/RegisteredInformation/RegisteredInformation.html"
+                },
+                {
                     "title": "Common Faults",
                     "url": "/Miscellaneous/CommonFaults/CommonFaults.html"
                 },
