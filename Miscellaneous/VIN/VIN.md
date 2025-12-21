@@ -77,7 +77,7 @@ This section shows you the month and year that the car was assembled, in the for
 
 ### Vehicle Identification Number
 
-The Vehicle Identification Number is the most uniquely identifying number on the vehicle, as is required for registration and compliance reasons. The VIN can be decoded to determine some basic characteristics of the vehicle, and in some cases can be used to ensure that the VIN supplied in a sale or registration situation matches what should be associated with the car.
+The Vehicle Identification Number is the most uniquely identifying number on the vehicle, and is required for registration and compliance reasons. The VIN can be decoded to determine some basic characteristics of the vehicle, and in some cases can be used to ensure that the VIN supplied in a sale or registration situation matches what should be associated with the car.
 
 <div class="printHide">
     <hr/>
