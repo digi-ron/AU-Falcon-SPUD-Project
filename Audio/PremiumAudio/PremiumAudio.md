@@ -30,23 +30,74 @@ The following information is known about the factory Subwoofer:
 > Information on these amplifiers is incomplete due to lack of resources
 {: .block-note}
 
-The [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons contained an amplifier which was used to power both the subwoofer and the rear speakers. The only known information on these amplifiers is the wiring colours:
+The [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons contained an amplifier which was used to power both the subwoofer and the rear speakers. Only the pinout is known:
 
 > All polarities are assumed due to lack of available information
 {: .block-note}
 
-| Pin Purpose | Colour |
-| --- | --- |
-| Driver Rear Speaker - | Red/Green |
-| Driver Rear Speaker + | Pink/Blue |
-| Subwoofer - | Blue/Green |
-| Subwoofer + | Blue/White |
-| Passenger Rear Speaker - | Pink/Green |
-| Passenger Rear Speaker + | Green/Orange |
-| 12v Power | Yellow |
-| 12v SIG | Red |
-| GND | Black |
-{: .sortable-table}
+### Section 1 - Screw Terminal Rear Speakers
+
+This section contains the connections to the rear speakers, which, in the Series 1 models, were driven by the amplifier (when the premium amplifier is installed):
+
+<table>
+    <thead>
+        <th>01</th>
+        <th>02</th>
+        <th>03</th>
+        <th>04</th>
+    </thead>
+</table>
+
+| Pin | Purpose | Notes |
+| --- | --- | --- |
+| 01 | Driver Rear Speaker + |  |
+| 02 | Driver Rear Speaker - | |
+| 03 | Passenger Rear Speaker + | |
+| 04 | Passenger Rear Speaker - | |
+
+### Section 2 - Subwoofer
+
+This section is used to drive the factory subwoofee (Where installed)
+
+<table>
+    <thead>
+        <th>01</th>
+        <th>02</th>
+        <th>03</th>
+        <th>04</th>
+    </thead>
+</table>
+
+| Pin | Purpose | Notes |
+| --- | --- | --- |
+| 01 | Subwoofer - | |
+| 02 | UNKNOWN | Assumed unused |
+| 03 | UNKNOWN | Assumed unused |
+| 04 | Subwoofer + | |
+
+### Section 3 - Fuse
+
+The fuse section of the amplifier contains a Standard sized 20A fuse
+
+### Section 4 - Screw Terminal Power
+
+This section delivers the requisite power to the amplifier. Rather than having an ACC wire like the [Series 2-3 counterparts](#section-04---screw-terminal-power), the Series 1 amplifiers only contained a positive and negative terminal, suggesting switched power was managed closer to the cabin fuse panel.
+
+> The 2 centre locations for screw terminals are completely missing, other than the plastic shroud, in this section. Reason unknown.
+
+<table>
+    <thead>
+        <th>01</th>
+        <th>--</th>
+        <th>--</th>
+        <th>04</th>
+    </thead>
+</table>
+
+| Pin | Purpose | Notes |
+| --- | --- | --- |
+| 01 | 12v+ | |
+| 04 | GND | |
 
 ## Amplifier - S2-3
 
@@ -126,8 +177,8 @@ The next section of the amplifier contains terminals for the audio output of the
 | Pin | Purpose | Notes |
 | --- | --- | --- |
 | 01 | Subwoofer - | |
-| 02 | Speaker - | assumed, unused |
-| 03 | Speaker + | assumed, unused |
+| 02 | UNKNOWN | assumed unused |
+| 03 | UNKNOWN | assumed unused |
 | 04 | Subwoofer + | |
 
 #### Section 03 - Fuse
