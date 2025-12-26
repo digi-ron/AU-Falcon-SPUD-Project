@@ -59,6 +59,55 @@ Pursuit clusters are not only sought after as they are, in theory, one of the ra
 1. Press and hold the instrument cluster button for about 7 seconds to exit calibration mode
 1. Done
 
+<!-- TODO confirm functionality, on S1 and 2 (JIC). Also try to decode the last few screens if possible? -->
+<!-- ### Series 1 Cluster Diagnostic ("Digital") Mode
+
+The AU Falcon Series 1 have inherited a digital mode from the EL/EF Falcon that precedes it. This shows diagnostic data such as raw input values. To enter this mode, use the following instructions:
+
+1. With the vehicle off, hold the instrument cluster odometer stalk in
+1. After 10 seconds of holding the stalk, release the stalk and switch the ignition key to the "On" position (second click from off)
+1. Press the odometer stalk 3 times in quick succession (less than 1 second between pressed). On the third press hold the stalk in until the seatbelt warning light disappears from the dash
+1. Once the stalk is released, if successful, the odometer display should go blank and display `Ford` after some time (usually about 10 seconds)
+
+    > The timeframe for this varies slightly, likely due to part variation
+    {: .block-note}
+
+1. Press the odometer stalk button to cycle through the different screens as needed
+1. Done
+
+#### Diagnostic screens
+
+Below are the known screens available in AU Falcons diagnostic mode
+
+> This information is incomplete, as some values are not known
+{: .block-note}
+
+| Screen Number | Top Value | Bottom Value |
+| --- | --- | --- |
+| 1 | Fuel (L) | Fuel sender resistance (Ohms) |
+| 2 | None | Coolant Temperature (Celsius) |
+| 3 | Engine RPM | Vehicle Speed |
+| 4 | Oil pressure (Bar) | Battery Voltage |
+| 5 | Fuel Consumption | Fuel Consumption |
+| 6 | Fuel usage (current trip) | Trip meter KMs |
+| 7 | Fuel tank level (buffered) | Fuel sender resistance (buffered) |
+| 8 | Transmission gear position | None |
+| 9 | *UNKNOWN* | *UNKNOWN* |
+| 10 | *UNKNOWN* | *UNKNOWN* |
+| 11 | *UNKNOWN* | *UNKNOWN* |
+| 12 | *UNKOWN* | *UNKNOWN* |
+| 13 | *UNKOWN* | *UNKNOWN* |
+| 14 | *UNKOWN* | *UNKNOWN* |
+| 15 | *UNKOWN* | *UNKNOWN* |
+| 16 | *UNKOWN* | *UNKNOWN* |
+| 17 | (illuminates all sections) | (illuminates all sections) |
+| 18 | Blank (test all sections off) | Blank (test all sections off) |
+
+> Information Sources:
+> - [FordMods](../../Credits.md#sources) Technical documents
+> - Physical Inspection
+{: .info-sources} -->
+
 ### Service spanner (where fitted)
 
 On models with a service spanner in the instrument cluster, you can disable it by following the steps below:
