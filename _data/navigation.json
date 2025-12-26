@@ -192,10 +192,6 @@
             "title": "Miscellaneous",
             "items": [
                 {
-                    "title": "Census Information - Known Registered Vehicles (AUS Only)",
-                    "url": "/Miscellaneous/RegisteredInformation/RegisteredInformation.html"
-                },
-                {
                     "title": "Common Faults",
                     "url": "/Miscellaneous/CommonFaults/CommonFaults.html"
                 },
@@ -228,6 +224,10 @@
                             "url": "/Miscellaneous/VIN/VINDecoder.html"
                         }
                     ]
+                },
+                {
+                    "title": "Registered Vehicle Statistics (AUS/NZ Only)",
+                    "url": "/Miscellaneous/RegisteredInformation/RegisteredInformation.html"
                 },
                 {
                     "title": "Series Information",
