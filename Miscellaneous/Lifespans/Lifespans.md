@@ -8,6 +8,8 @@ hideTOC: true
 > This list can't possibly be completely accurate due to environmental conditions of each cars life. Estimates are based on cross-referencing of various sources, and you should **ALWAYS** verify if a part needs to be replaced before replacing if at all possible.
 {: .block-note}
 
+> This list complements the [factory maintenance schedules](../FactoryMaintenance/FactoryMaintenance.md) table, which is more rooted in factory specification when the AU Falcon was new
+
 please refer to the table below for expected lifespans of various components, along with notes regarding failure and lifespan:
 
 | Part Name | lifespan | Notes |
