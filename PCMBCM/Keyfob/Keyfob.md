@@ -34,6 +34,10 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 > The S2/3 Ute remotes are missing the boot button (bottom right)
 {: .block-note}
 
+## Similarities
+
+Between both Smartlock and Smartshield enabled security systems, both have a maximum of 4 remotes that can be programmed to it. 
+
 ## Programming Keyfobs
 
 > The following steps must be started within 10 seconds of closing the door
