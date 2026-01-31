@@ -154,6 +154,8 @@ These characters define the year and month respectively that the car was manufac
 ---
 
 - W - 1998
+  - Jul - M
+  - Aug - P
   - Sep - B
   - Oct - R
   - Nov - A
