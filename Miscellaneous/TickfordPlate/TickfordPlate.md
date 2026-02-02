@@ -59,6 +59,9 @@ Certain options and configurations had alternative plates, listed below:
 
 T-Series models of the AU Falcon (TE50/TS50/TL50) did not appear to have Tickford option plates. Instead they were fitted with a Build number plate, which contains a build number vertically on the left side, and a Tickford "Winged T" logo, the Model number (TE50/TS50/TL50) and the VIN Number on the right side. The Tickford build number plate, if present, can be found in the [same location as the TVE Plate](#tickford-vehicle-engineering-plate).
 
+> Very early examples of the TE50/TS50/TL50 have been known to have P## instead of ### (where each # is a number between 0-9) and signify a Preproduction build. Information on this is sparce but it is assumed that these were sold to Ford Australia staff or partners originally, and are considered incredibly rare in original condition
+{: .block-note}
+
 ### Tickford Dual-Fuel LPG Option Plate
 
 Another similar-but-different Tickford-issued Options Plate was the Factory Dual-Fuel LPG system. This system is remarkably rare and as such, so is the Option Plate. If fitted, the plate will be present on the passenger side of the engine bay, next to the Air Conditioner line, and should contain the following, in the following approximate layout:
