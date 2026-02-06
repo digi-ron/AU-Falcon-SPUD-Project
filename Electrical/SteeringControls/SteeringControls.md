@@ -55,7 +55,7 @@ The following notes assume pin numbers where you are looking at the steering whe
 {: .block-note}
 
 1. ***DISCONNECT THE BATTERY*** and leave for at least 1hr (ideally overnight)
-1. Remove the plastic caps on the sides of the rear plastic section of the steering wheel and remove the tamper bolts
+1. Remove the plastic caps on the sides of the rear plastic section of the steering wheel and remove the 2 T30 5-point tamper bolts
 
     ![Driver side tamper bolt](./driver-tamper-bolt.jpg)
     ![Passenger side tamper bolt](./passenger-tamper-bolt.jpg)
