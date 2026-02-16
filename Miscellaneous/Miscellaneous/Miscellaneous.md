@@ -20,3 +20,8 @@ below is a list of other notes regarding the AU Falcon, which were not important
 - Pre-Catalytic Converter Oxygen sensor has a 22mm nut. Specialty tools are available through automotive retailers but a well placed adjustable spanner with a 25mm max size has been proven to work.
 - [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) Lower control arms (09/99 - 04/00) hard to find at time of writing. S1 recommendation is to replace the ball joint/bush(es) rather than the arm due to supply difficulties
 - Transmission between column shift and floor shift automatics appear to have different mounting locations for shift linkages. Bell housing appears to be only big difference that would require replacing to adapt between the 2
+- 4-Speed automatic transmission (BTR) maximum speeds are as follows (according to the user manual):
+  - 1: 75km/h
+  - 2: 115km/h
+  - 3: 160km/h
+  - 4: Max. Speed
