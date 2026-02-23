@@ -55,6 +55,8 @@ description: "Credits"
   > Confirmed the [well-known serial number decoding rumour](./Audio/HeadUnit/HeadUnit.md#security-code) for the OEM head units to be false by explaining the method with which they retrieve codes using their paid service
 - [BTA](https://btatowbars.com/) / [TBA](https://www.towbarsaustralia.com.au/)
   > BTA Towbars & Hitches for manufacturing a sub $1,000 hitch receiver towbar for a 27 year old Sedan, and Towbars Australia for supplying it at a bit of a discount while still having good customer service
+- [Bosch](https://www.bosch.com.au) & [Tridon](https://www.tridon.com.au/)
+  > Neither company could assist with finding the driver fuel release button plug specifications, but they both *responded* and it certainly wasn't from lack of looking, which is better than most companies
 - [Hayman Reese](https://haymanreese.com.au/)
   > Was more than happy to send through a manual for a towbar I was considering from a wreckers, even though they stood to gain nothing but good karma from it
 - [TJM](https://www.tjm.com.au/)
@@ -62,16 +64,11 @@ description: "Credits"
 - [Wayback Machine by Internet Archive](https://web.archive.org/)
   > For existing, as many pages with important information would be lost to time otherwise
 
-<!--
-- [Bosch](https://www.bosch.com.au) & [Tridon](https://www.tridon.com.au/)
-  > Neither company could assist with finding the driver fuel release button plug manufacturer, but they both *responded* and it certainly wasn't from lack of looking, which is better than most companies
- -->
-
 ## Wall of Shame - Information gatekeepers and time wasters
 {: .bad-highlight}
 
 - [Ford Australia Customer Support](mailto:foacust1@ford.com)
-  > Sent an email 08/10/24 asking for keyfob information
+  > Sent an email 08/10/24 asking for [Smartlock/Smartshield information](./PCMBCM/Keyfob/Keyfob.md)
   > 
   > No response by 28/10/24 so followed up
   > 
@@ -102,7 +99,7 @@ I started my ownership of AUs in 2018, upgrading from a very tired 1995 Ford Fes
 
 The more I looked into more obscure repairs and mods to Falcons, the more I realized that the few sites (mostly forums) that ever had information on these models were basically dead (links to nowhere, 2010 posts with no good info left, one site that kept redirecting to scam ads). After all those sites, a couple of Facebook groups, and 3 workshop manuals, I still had questions on some stuff not covered anywhere, and I was running out of options that wouldn't risk my daily driver.
 
-Wanting to learn without the risk of losing my main set of wheels, I got a Series 1 Forte Sedan from a mate for cheap. The car looked rough, ran rough, and had a rough history from at least one bad owner, and she'd been sitting out in the weather doing nothing for months at a time, but she ran.
+Wanting to learn without the risk of losing my main set of wheels, I got a Series 1 Forte Sedan in "Amaretto Gold" (once upon a time). The paint was shot, the interior was jerry-rigged, the tyres were cracking, the history was largely unknown for it's 220,000-ish km life, and it ran rough and cold with a 4-digit idle: but it did run, and the price from a mate matched the condition.
 
 April 11th 2024, The SPUD Project was born.
 
