@@ -2,7 +2,7 @@
 
 Depending on the configuration of your AU Falcons current audio system, certain different parts may be required. As a result, a section has been made for a couple of common configurations:
 
-> No listed configuration allows for the use of the Premium Audio headunit or the premium audio body loom, due to a lack of resources and the unlikely scenario where a premium headunit was fitted to factory without the wiring provisioned to install an amplifier and subwoofer "plug-and-play".
+> No listed configuration allows for the use of the Premium Audio headunit or the premium audio body loom, due to a [lack of resources](../../../Disclaimer.md#secondary-disclaimer---lack-of-resources) and the unlikely scenario where a premium headunit was fitted to factory without the wiring provisioned to install an amplifier and subwoofer "plug-and-play".
 >
 > In addition, all configurations listed here are at least partially made from factory parts. There is sufficient information in this page to create a complete custom solution, but this was deemed out of scope.
 {: .block-note}

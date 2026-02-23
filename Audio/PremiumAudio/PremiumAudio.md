@@ -4,7 +4,7 @@ description: "Premium Audio Information"
 
 # Premium Audio System
 
-> Information on this page is incomplete due to lack of resources
+> Information on this page is incomplete due to [lack of resources](../../Disclaimer.md#secondary-disclaimer---lack-of-resources)
 {: .block-note}
 
 Some models of the AU Falcon were optioned with the Premium Audio System, which improves the audio solution of the vehicle by adding an external amplifier and a subwoofer. This is easier to find in the "Upmarket" models of the vehicle, such as the Fairmont GHIA or Fairlane, however any model could be optioned with it, assuming it was requested at the time of original purchase.
@@ -27,7 +27,7 @@ The following information is known about the factory Subwoofer:
 
 ## Amplifier - S1
 
-> Information on these amplifiers is incomplete due to lack of resources
+> Information on these amplifiers is incomplete due to [lack of resources](../../Disclaimer.md#secondary-disclaimer---lack-of-resources)
 {: .block-note}
 
 The [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) AU Falcons contained an amplifier which was used to power both the subwoofer and the rear speakers. Only the pinout is known:
@@ -301,7 +301,7 @@ The following notes assume pin numbers where you are looking at the Amplifier un
 
 ### Pinout
 
-> Information incomplete due to lack of resources
+> Information incomplete due to [lack of resources](../../Disclaimer.md#secondary-disclaimer---lack-of-resources)
 {: .block-note}
 
 | Position | Colour | Function |

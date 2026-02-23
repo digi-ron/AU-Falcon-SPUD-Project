@@ -6,7 +6,7 @@ description: " - How to read the Tickford Vehicle Engineering (TVE) Plates"
 
 ## Important Note
 
-> This page contains all collated information on the TVE plates, but contains very little first-hand information on them. This is due to the primary vehicle used for this project not being fitted with any of the following:
+> This page contains all collated information on the TVE plates, but contains very little first-hand information on them. This is due to the [primary vehicle used for this project](../../Disclaimer.md#secondary-disclaimer---lack-of-resources) not being fitted with any of the following:
 > 
 > - [Tickford Modifications](#tickford-vehicle-engineering-plate)
 > - [Dual-Fuel LPG](#tickford-dual-fuel-lpg-option-plate)

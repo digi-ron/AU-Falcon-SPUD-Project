@@ -5,7 +5,7 @@ hideTOC: true
 
 # Engine Number
 
-> Information on the V8s are unavailable due to lack of resources. Information researched suggests it should be located above the starter motor, similar to the I6 model, but no further information is known
+> Information on the V8s are unavailable due to [lack of resources](../../Disclaimer.md#secondary-disclaimer---lack-of-resources). Information researched suggests it should be located above the starter motor, similar to the I6 model, but no further information is known
 {: .block-note}
 
 To ensure that you have the matching engine to the original chassis, you can check the number stamped into the engine block to determine if it matches the Body stamped VIN Number and the [VIN Plate](../../Miscellaneous/VIN/VIN.md#characters-1-3---6fp).

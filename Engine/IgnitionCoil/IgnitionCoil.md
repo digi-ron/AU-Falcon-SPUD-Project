@@ -36,7 +36,7 @@ The V8 Models use 2 ignition coil packs, one for each 4 cylinder bank of the V8 
 
 ## Replacement
 
-> Following section does not include V8 model installation, due to lack of resources. Information gathered suggests that the coil packs are easily visible from the top of the engine however.
+> Following section does not include V8 model installation, due to [lack of resources](../../Disclaimer.md#secondary-disclaimer---lack-of-resources). Information gathered suggests that the coil packs are easily visible from the top of the engine however.
 {: .block-note}
 
 The Ignition coil pack in the AU Falcon Intech models is situated somewhat inconveniently below the intake manifold, however with the right tools, you can remove the coil pack without doing anything to the intake manifold, and without getting under the car, however in order to do this, a long socket extension and a telescopic magnetic stick or similar implement is highly recommended.

@@ -11,7 +11,7 @@ The steering wheel controls for the AU falcon are one of the most fragile parts 
 
 ## IMPORTANT NOTE
 
-While there is no difference between the steering controls on AU Falcons/Fairlanes and between Series 1-3 vehicles, Automatic transmission T-series models (TS50, TE50, TL50) included Electronic Sports Shift (ESS) buttons towards the top of the steering wheel. The connections for these replaced the [Media buttons](#media-control-side) and cannot be easily adapted to lower models. No further information is known due to lack of resources.
+While there is no difference between the steering controls on AU Falcons/Fairlanes and between Series 1-3 vehicles, Automatic transmission T-series models (TS50, TE50, TL50) included Electronic Sports Shift (ESS) buttons towards the top of the steering wheel. The connections for these replaced the [Media buttons](#media-control-side) and cannot be easily adapted to lower models. No further information is known due to [lack of resources](../../Disclaimer.md#secondary-disclaimer---lack-of-resources).
 {: .block-note}
 
 ## Plug Type

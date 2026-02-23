@@ -6,7 +6,7 @@ description: Series specifics information
 
 The AU Falcon can be divided up by series, which can be useful when dealing with the particulars of your specific vehicle. Details on the Series' are listed below:
 
-> The information here is only a rough guide and does not explain every single difference between the models due to lack of resources. Manufacture dates may not be entirely accurate due to series overlap.
+> The information here is only a rough guide and does not explain every single difference between the models due to [lack of resources](../../Disclaimer.md#secondary-disclaimer---lack-of-resources). Manufacture dates may not be entirely accurate due to series overlap.
 {: .block-note}
 
 ## Series 1
