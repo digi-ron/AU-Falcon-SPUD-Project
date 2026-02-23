@@ -25,7 +25,7 @@ You can find the VIN plate near the [Build Plate](../BuildPlate/BuildPlate.md), 
 ### Approval No.
 
 > The approval number is simply a reference number that can be checked against by authorities. There is no public database of the information linking this number to any paperwork known.
-{: . block-note}
+{: .block-note}
 
 ### Category
 
