@@ -217,7 +217,7 @@ Should you wish to add 2 additional factory buttons, without the need to drill a
 >   - Notes: Printed vertically for decreased printing lines, printer modified for high temperature printing material.
 > - Fitting note: Installation should be done with the driver side clips first, then by pushing the passenger side clips in after. Due to intentionally tight fitment, a small screwdriver or trim removal tool may be required for removal.
 
-> In the interest of this projects vision, the published STL file is stored on this website as a backup [HERE](.//centrepanel.stl). *Last synced - 14/11/25*
+> In the interest of this projects vision, the published STL file is stored on this website as a backup [HERE](./centrepanel.stl). *Last synced - 14/11/25*
 {: .block-note}
 
 ![3D printed fascia](./3d-print-cover.jpg)
