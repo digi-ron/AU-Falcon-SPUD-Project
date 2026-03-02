@@ -215,11 +215,11 @@ Should you wish to add 2 additional factory buttons, without the need to drill a
 >   - Material used: ASA
 >   - Supports: yes
 >   - Notes: Printed vertically for decreased printing lines, printer modified for high temperature printing material.
-> - Fitting note: Installation should be done with the driver side clips first, then by pushing the passenger side clips in after. Due to intentionally tight fitment, a small screwdriver or trim removal tool may be required for removal.
+> - Fitting note: Installation should be done with the driver side clips first, then by pushing the passenger side clips in after. Fitment once installed should be similar to factory parts, however note that there is additional space for the button holes, to allow for printing tolerances
 
-> In the interest of this projects vision, the published STL file is stored on this website as a backup [HERE](./centrepanel.stl). *Last synced - 14/11/25*
+> In the interest of this projects vision, the published STL file is stored on this website as a backup [HERE](./centrepanel.stl). *Last synced - 02/03/26*
 {: .block-note}
 
 ![3D printed fascia](./3d-print-cover.jpg)
 
-> Picture of a printed fascia using the materials and tools listed above. This is representative of the models state as of 14/11/25
+> Picture of a printed fascia using the materials and tools listed above. This is representative of the models state as of 14/11/25, which has been improved
