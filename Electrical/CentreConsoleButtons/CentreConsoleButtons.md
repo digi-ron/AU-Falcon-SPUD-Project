@@ -222,4 +222,4 @@ Should you wish to add 2 additional factory buttons, without the need to drill a
 
 ![3D printed fascia](./3d-print-cover.jpg)
 
-> Picture of a printed fascia using the materials and tools listed above. This is representative of the models state as of 14/11/25, which has been improved
+> Picture of a printed fascia using the materials and tools listed above. This is representative of the models state as of 14/11/25, which has been improved since
