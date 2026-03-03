@@ -32,7 +32,7 @@ If you wish to replace or "upgrade" button(s) on a [Series 1](../../Miscellaneou
 
 - [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) low trim models are fitted with grey buttons, whereas the high trim models are fitted with black buttons instead. This appears to be irrespective of the series of donor high trim model vehicle.
 
-- Only one function appears to have the prerequisite wiring available in the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) low trim model vehicles, which is the [ECON button](#specifics---econlock-button). The plug is plugged into the back of the plastic fascia around the 3 button holes on the centre dash.
+- Only one function appears to have the prerequisite wiring available in the [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) low trim model vehicles, which is the [ECON button](#specifics---econlock-button). The plug is plugged into the back of the plastic fascia around the 3 button holes on the centre dash, and is originally intended for automatic models with a column shifter. ([Transmission Code](../../Miscellaneous/BuildPlate/BuildPlate.md#transmission) `H`)
 
 ![Demister Button Comparison](./demist-comparison.jpg)
 
@@ -205,11 +205,11 @@ Simply fitting the buttons from a high model into a low model S1 vehicle can be 
 
 Should you wish to add 2 additional factory buttons, without the need to drill additional holes in the existing fascia, you can use the rudimentary 3D model found on GitHub, [HERE](https://github.com/digi-ron/AU-Falcon-S1-CentrePanel-3Hole). This model is released under an open license and can be modified using any 3D modelling software capable of importing STL files.
 
-> This model is a modified scan of an original fascia. The following tools and settings were used, however due to the relative inexperience of the author and the relatively low-quality equipment used, this is a functional, but possibly not "showroom ready", model. It is provided nevertheless, with the intention that someone with sufficient skill may be able to improve on this:
+> This model is a modified scan of an original fascia. The following tools and settings were used, however due to the relative inexperience of the author and the relatively low-quality equipment used, this is a functional, but possibly not "showroom ready", model.:
 >
-> - Revopoint Inspire (3D scanner)
+> - [Revopoint](../../Credits.md#software--hardware) Inspire (3D scanner)
 > - AESUB Blue vanishing spray (3D scanning spray)
-> - Blender (Modelling software):
+> - [Blender](../../Credits.md#software--hardware) (Modelling software):
 >   - Model modified with additional material for rigidity, and with larger clips and outer edge to prevent vibration
 > - Ender 3 V1 (3D printer):
 >   - Material used: ASA
