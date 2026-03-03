@@ -26,6 +26,8 @@
     {% for item in site.data.navigation.archivedNav %}
         <li>
             <i class="other-highlight">{{ item.title }}</i>
+            <br/>
+            <i style="font-size:smaller">*Archived items no longer have a use within the website, but are kept for posterity</i>
             <ul>
                 {% for subitem in item.items %}
                     <li>
