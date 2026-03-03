@@ -27,7 +27,6 @@ description: "Credits"
 - [Haynes Manuals](https://au.haynes.com/)
 - [Kenwood](https://www.kenwood.com/au/)
 - [KEYDIY](https://www.keydiy.com/)
-- [LibreCAD](https://librecad.org/)
 - [Magnum MFG](https://www.magnummfg.com.au/)
 - [Max Ellery](https://ellery.com.au/shop/falconfairlane-vehicle-repair-manual-99-02/)
 - [Motorcraft](https://www.ford.com/support/category/motorcraft/)
@@ -41,11 +40,29 @@ description: "Credits"
 - [Seat Safe](https://www.seatsafe.com.au/)
 - [T.I Performance](https://www.tiperformance.com.au/)
 - [Tridon](https://www.tridon.com.au/)
-- [Trimble Sketchup Make](https://sketchup.trimble.com/en) (2017 Free build)
 - [Wheel-size.com](https://www.wheel-size.com/size/ford/falcon/au-1998-2002)
 - [Whispbar](https://whispbar.com.au/) (now part of [Yakima](https://yakima.com.au/collections/roof-racks) roof rack line)
 - [Yazaki](https://www.yazaki-group.com/global/)
   - <i class="other-highlight">Some connectors specified as "Sumitomo" connectors, which was likely the OEM for electrical plugs for the AU Falcon, however they have become non-viable to purchase</i>
+
+## Software & Hardware
+
+> Software and hardware used for some of the more specialty materials present on the website
+{: .block-note}
+
+- [Blender](https://www.blender.org/)
+  > Used for complex modelling purposes, modifications of scanned items would have been impossible without it
+- [LibreCAD](https://librecad.org/)
+  > Used for wiring diagrams
+- [Microsoft 3D Builder](https://www.microsoft.com/store/productId/9WZDNCRFJ3T6)
+  > Used as modelling verification tool, ensuring manifold objects and providing model simplification as needed
+- [Revopoint](https://global.revopoint3d.com/en-au)
+  - Inspire V1 scanner
+    > Factory part replication, used as a base for modification to create rare or aftermarket parts
+  - Revo Scan 5
+    > Used as crucial first step to create usable model from scans
+- [Trimble Sketchup Make](https://sketchup.trimble.com/en) (2017 Free build)
+  > Used for simple modelling purposes due to familiarity. 2017 build used as free desktop application was discontinued in favour of undesirable new versions
 
 ## Special Thanks - Information sharers and timesavers
 {: .good-highlight}
