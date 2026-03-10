@@ -36,7 +36,8 @@ Should you block out a Series 1 centre ashtray, you can use the scanned and modi
 >   - Recommended Material: ASA/ABS
 >   - Supports: yes
 >   - Notes: Printed horizontally for decreased printing lines, printer modified for high temperature printing material.
-> - Fitting note: The clip on the top of the assembly is purposely taller to allow for tighter fitmet, as it will not be frequently removed in theory. Note this may cause strain on the small metal clip on the centre dash if this is removed and reinstalled regularly as a result.
+> - Fitting note: The clip on the top of the assembly is purposely taller to allow for tighter fitment, as it will not be frequently removed in theory. Note this may cause strain on the small metal clip on the centre dash if this is removed and reinstalled regularly as a result.
+> - Additional: gauge holes could be modified into the model, but note that for a 52mm gauge, the centre dash would need material removed (at the top of the ashtray hole) to to accommodate, as the space that the ashtray goes into is not tall enough by itself
 
 > In the interest of this projects vision, the published STL file is stored on this website as a backup [HERE](./ashtray.stl). *Last synced - 03/03/26*
 {: .block-note}
