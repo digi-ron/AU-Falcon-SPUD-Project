@@ -372,4 +372,4 @@ e.g. for a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md
 
 e.g. for a [Series 2](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-2) Supercab, this would read `AUII UTE`
 
-e.g. for a Series 3 SR Wagon, this would read `AUIII WGN`
+e.g. for a [Series 3](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-3) SR Wagon, this would read `AUIII WGN`
