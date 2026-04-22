@@ -14,7 +14,6 @@ While the AU Falcon is generally regarded as a quite reliable vehicle, there are
 | Antilock Braking System (ABS) | All | All | Sensor and module failure can cause ABS to become "hyperactive", sending excess pressure to the brake master cylinder and causing premature failure and stripped paint in area below brake master cylinder |
 | [Air Conditioner Controls](../../Electrical/ACControls/AC-S1.md) | S1 | All | issues known of [solder joints cracking behind AC/AC Max buttons](../../Electrical/ACControls/AC-S1.md#repairing-solder-connections-on-the-ac-and-ac-max-buttons) and easily broken plastic dials |
 | [Alternator](../../Engine/Alternator/Alternator.md) | All | I6 motor models | Prone to oil and power steering fluid ingress |
-| Ball Joints | All | All | prone to wearing out, however simple to replace using a bearing tool |
 | Brake Master Cylinder | All | All | tends to leak from behind, stripping the paint on the Brake Booster and surrounding painted area. Less common on S1 vehicles due to different Brake Master Cylinder used |
 | Climate Control | All | High Models (Fairmont/Fairlane/LTD/TL50) | Ribbon cable separation and display failure common due to time |
 | Exhaust Rear Resonator | All | Wagon | Rust common around entry and exit welds of rear resonator. Known reliable repair is to replace with straight pipe section |
