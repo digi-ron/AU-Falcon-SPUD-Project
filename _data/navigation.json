@@ -108,6 +108,10 @@
                     "url": "/Electrical/DriverButtons/DriverButtons.html"
                 },
                 {
+                    "title": "External Mirror Control",
+                    "url": "/Electrical/ExternalMirrorControl/ExternalMirrorControl.html"
+                },
+                {
                     "title": "Fuses & Relays",
                     "url": "/Electrical/Fuses/Fuses.html"
                 },
