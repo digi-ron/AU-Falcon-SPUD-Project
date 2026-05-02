@@ -36,7 +36,9 @@ these remotes are far closer to what would become the standard for the BA/BF mod
 
 ## Similarities
 
-Between both Smartlock and Smartshield enabled security systems, both have a maximum of 4 remotes that can be programmed to it. 
+Both Smartlock and Smartshield enabled keyfobs have the following similarities:
+- Maximum 4 paired remotes at any given time
+- any buttons pressed while the car is running will be ***ignored***
 
 ## Programming Keyfobs
 
