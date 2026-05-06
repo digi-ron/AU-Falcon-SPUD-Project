@@ -22,12 +22,16 @@ While the alternators between series are all the same physical dimensions (depen
 
 <!-- TODO add information on adapting the wiring to the new plug -->
 
+> Plug connectors for Series 1 removed as they were proven inaccurate. Accurate details will be added once confirmed!
+{: .block-warning}
+
 | Plug | Product # | Series | Location | Notes |
 | --- | --- | --- | --- | --- |
-| Jaylec 3-pin connector | `53-605` | 1 | Loom end connector | middle pin left vacant |
-| Jaylec 3 pin connector | `53-808` | 1 | Alternator end connector | middle pin left vacant |
 | Yazaki 2 pin female terminal housing | `58X-2S-2` | 2-3 | Loom End Connector | |
 | Yazaki 2 pin male terminal housing | `58X-2P-2` | 2-3 | Alternator end connector | |
+
+<!-- | Jaylec 3-pin connector | `53-605` | 1 | Loom end connector | middle pin left vacant |
+| Jaylec 3 pin connector | `53-808` | 1 | Alternator end connector | middle pin left vacant | -->
 
 > Information Sources:
 > - [eBay](../../Credits.md#sources) (parts listings)
