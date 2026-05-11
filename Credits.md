@@ -7,7 +7,7 @@ description: "Credits"
 
 ## Sources
 
-> No information other than product images were directly copy-pasted from any of the following locations. Instead, they were used to compliment information in other places, or to serve as a base for a variation of steps for some procedures
+> No information other than product images were directly copy-pasted from any of the following locations. Instead, they were used to compliment information in other places, or to serve as a base for a variation of steps for some procedures. If you are an owner of anything copied and would like to request any of the product photos be removed, please use the contact form at the bottom of this (or any) page
 {: .block-note}
 
 - [A1 Auto Parts](https://www.a1auto-parts.com.au/)
@@ -38,7 +38,7 @@ description: "Credits"
 - [Rhino Racks](https://dealer.rhinorack.com/en-au/)
 - [RS Components Australia](https://au.rs-online.com/)
 - [Seat Safe](https://www.seatsafe.com.au/)
-- [T.I Performance](https://www.tiperformance.com.au/)
+- [T.I. Performance](https://www.tiperformance.com.au/)
 - [Tridon](https://www.tridon.com.au/)
 - [Wheel-size.com](https://www.wheel-size.com/size/ford/falcon/au-1998-2002)
 - [Whispbar](https://whispbar.com.au/) (now part of [Yakima](https://yakima.com.au/collections/roof-racks) roof rack line)
