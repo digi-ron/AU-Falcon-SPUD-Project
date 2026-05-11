@@ -35,7 +35,7 @@ The AU Falcon can be divided up by series, which can be useful when dealing with
 - Darker interior colours
 - Improved suspension and brake components, more akin to the later B-Series Falcon
 - Changes in sensors from the previous series'
-- [PCM](../../PCMBCM/PCM/PCM.md) slightly upgraded, allowing for easier installation of piggyback tuning chips, such as the J3 chip by [T.I Performance](../../Credits.md#sources)
+- [PCM](../../PCMBCM/PCM/PCM.md) slightly upgraded, allowing for easier installation of piggyback tuning chips, such as the J3 chip by [T.I. Performance](../../Credits.md#sources)
 
 ## Series 3
 
