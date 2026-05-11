@@ -7,7 +7,7 @@ title: AU Ford Falcon - SPUD Project
 
 <h1 style="display:none;">Home</h1>
 
-A collation of notes and information about the AU Series Ford Falcon, collated while working on a Falcon Forte, nicknamed "[SPUD](./Disclaimer.md#spud)".
+A collation of notes and information about the AU Series Ford Falcon, made while working on a Falcon nicknamed "[SPUD](./Disclaimer.md#spud)".
 
 ![Side by side comparison: spud (left, Kipfler) VS. SPUD (right)](./side-by-side.jpg){: .narrow-image}
 
