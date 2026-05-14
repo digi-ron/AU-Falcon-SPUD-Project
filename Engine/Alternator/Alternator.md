@@ -1,10 +1,10 @@
 ---
-description: alternator information
+description: Alternator Information
 ---
 
 # Alternator
 
-## Types
+## Alternator Types
 
 The AU Falcon has 3 types of alternators depending on factors such as series and engine option:
 
@@ -14,29 +14,7 @@ The base model AU Falcon alternator can be identified 2 main mounting bracket ho
 
 ![I6 alternator](./I6-alternator.png)
 
-> Image taken from [T.I Performance](../../Credits.md#sources) product listing page
-
-#### SPECIAL NOTE - Series 1 VS. Series 2-3
-
-While the alternators between series are all the same physical dimensions (depending on engine), the plug used changed as a part of the Series 1-2 facelift the model underwent, which was ultimately kept through the BA Falcon series as well. An adapter loom can be made if required as this plug is only used for signalling the [Instrument Cluster](../../PCMBCM/InstrumentCluster/InstrumentCluster.md).
-
-<!-- TODO add information on adapting the wiring to the new plug -->
-
-> Plug connectors for Series 1 removed as they were proven inaccurate. Accurate details will be added once confirmed!
-{: .block-warning}
-
-| Plug | Product # | Series | Location | Notes |
-| --- | --- | --- | --- | --- |
-| Yazaki 2 pin female terminal housing | `58X-2S-2` | 2-3 | Loom End Connector | |
-| Yazaki 2 pin male terminal housing | `58X-2P-2` | 2-3 | Alternator end connector | |
-
-<!-- | Jaylec 3-pin connector | `53-605` | 1 | Loom end connector | middle pin left vacant |
-| Jaylec 3 pin connector | `53-808` | 1 | Alternator end connector | middle pin left vacant | -->
-
-> Information Sources:
-> - [eBay](../../Credits.md#sources) (parts listings)
-> - [Yazaki](../../Credits.md#sources)
-{: .info-sources}
+> Image taken from [T.I. Performance](../../Credits.md#sources) product listing page
 
 ### 5L V8
 
@@ -45,6 +23,32 @@ The V8 alternator, likely due to different engine configuration and power requir
 ![V8 Alternator](./V8-alternator.png)
 
 > Image taken from [Repco](../../Credits.md#sources) product listing page
+
+## Plug Type
+
+<!-- TODO add information on adapting the wiring to the new plug? -->
+
+> Plug connectors for Series 1 removed as they were proven inaccurate. Accurate details will be added once confirmed!
+{: .block-warning}
+
+| Plug | Product # | Series | Engine | Location | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Yazaki 2 pin female terminal housing | `58X-2S-2` | 2-3 | I6 | Loom End Connector | |
+| Yazaki 2 pin male terminal housing | `58X-2P-2` | 2-3 | I6 | Alternator End connector | |
+| Jaylec 3-pin connector | `53-605` | All | V8 | Loom end connector | <span class="bad-highlight">UNCONFIRMED: [Lack of resources](../../Disclaimer.md#secondary-disclaimer---lack-of-resources)</span> |
+| JAS 3-pin to 2-pin alternator adapter | `E38-2050` | All | V8 | Adapter Loom | <span class="bad-highlight">UNCONFIRMED: [Lack of resources](../../Disclaimer.md#secondary-disclaimer---lack-of-resources)</span>. Adapter itself is not known to be useful for V8 models, however this appears to be the only known way to get the Alternator End Connector for these models |
+| <span class="bad-highlight">UNKNOWN</span> | | All | V8 | Alternator end connector | Information sparce on this connector, unlikely that it can even be sourced |
+
+<!--
+| Jaylec 3 pin connector | `53-808` | 1 | I6 | Alternator end connector | middle pin left vacant |
+| AMP 3P Male Terminal Housing | `174359-2` | 1 | I6 | Alternator end connector | |
+| AMP 3P Female Terminal Housing | `174357-2` | 1 | I6 | Loom end connector | |
+-->
+
+> Information Sources:
+> - [eBay](../../Credits.md#sources) (parts listings)
+> - [Yazaki](../../Credits.md#sources)
+{: .info-sources}
 
 ## Diagnosis
 
