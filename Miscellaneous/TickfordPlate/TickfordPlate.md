@@ -26,11 +26,11 @@ Some models of AU Falcon were modified by Tickford in some way. In these cases, 
 
 ![Tickford Plate Example](./tickford-plate-removed.jpg)
 
-> Picture of a removed TVE plate, which had the Momo steering wheel and Sunroof [options](#list-of-available-modifications) installed
+> Picture of a removed TVE plate, which had the Momo steering wheel and Sunroof [options](#list-of-available-options) installed
 
-### List of Available Modifications
+### List of Available Options
 
-Below is a list of known Tickford-supplied modifications, based on multiple marketing brochures from the period.
+Below is a list of known Tickford-supplied options, based on multiple marketing brochures from the period.
 
 > As this information was pulled from multiple sources, accuracy cannot be guaranteed and information is likely incomplete. Every effort has been made to ensure as much accuracy as possible
 {: .block-note}
