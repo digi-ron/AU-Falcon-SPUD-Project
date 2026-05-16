@@ -4,7 +4,7 @@ description: accessory buttons (e.g. TCS, ABS, ANT.) information and pinouts
 
 # Centre Console Buttons
 
-> This does not cover buttons in the standard Series 2-3 dash, as they are tightly integrated with the newer designed climate control system.
+> This does not cover the buttons in the standard Series 2-3 dash, as they are tightly integrated with the newer designed climate control system.
 {: .block-note}
 
 Early and High models of AU Falcon have centre console buttons to control functions of the vehicle (depending on options fitted)
@@ -170,8 +170,17 @@ On models where a Traction control System is present, a Traction control button 
 
 > Factory Wiring Harness Plug Colour - White
 
-> Very little is known abut the Dimmer buttons, as they were only fitted to vehicles with the police pack from factory (Option 20 or OPT20). The functionality is that it disables the interior lights on demand.
+> Very little is known abut the Dimmer buttons, as they were only fitted to vehicles with the police pack from factory (Option 20 or OPT20). The functionality is that it disables the interior lights on demand. This should be a latching switch with which is normally on rather than normally off, but this is unconfirmed
 {: .block-note}
+
+### Specifics - LPG button
+
+> The LPG buttons were only fitted to dual-fuel vehicles, specifically when factory fitted. The functionality of this switch is unknown
+{: .block-note}
+
+### Specifics - Fog Light button
+
+> The fog light buttons were likely only installed on T-series models (TE50/TS50/TL50), as they are the only variant of AU Falcon with optional factory fog lights. As a result, these are incredibly rare. This should be a latching switch similar to the [antenna buttons](#specifics---ant-button) however this is unconfirmed
 
 ## Replacing button faces
 
