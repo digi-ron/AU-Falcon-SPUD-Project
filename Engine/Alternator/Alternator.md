@@ -40,7 +40,6 @@ The V8 alternator, likely due to different engine configuration and power requir
 | <span class="bad-highlight">UNKNOWN</span> | | All | V8 | Alternator end connector | Information sparce on this connector, unlikely that it can even be sourced |
 
 <!--
-| Jaylec 3 pin connector | `53-808` | 1 | I6 | Alternator end connector | middle pin left vacant |
 | AMP 3P Male Terminal Housing | `174359-2` | 1 | I6 | Alternator end connector | |
 | AMP 3P Female Terminal Housing | `174357-2` | 1 | I6 | Loom end connector | |
 -->
