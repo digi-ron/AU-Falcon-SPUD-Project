@@ -53,7 +53,7 @@ Follow the steps below to repair or replace the Door Lock Actuator:
 1. If present, gently peel off the sound deadening foam on the inside of the door card, then reach into the hole towards the top of the door and unclip the plastic from the steel rod connecting the actuator to the outside door handle. This can be done by rotating the clip
 1. If you are working on the driver door, unclip the additional steel rod connecting the actuator to the door lock stalk the same way as the previous step
 1. Unplug the electrical connector to the lock actuator. Note that the plug is actually clipped into the door, and can be unclipped from the door to make unplugging easier
-1. Unscrew the 3 bolts holding in the lock actuator to the striker part of the door. Note this is either a phillips head bolt, or a Torx head bolt, depending on the series of Falcon it is
+1. Unscrew the 3 bolts holding in the lock actuator to the striker part of the door. Note this is either a phillips head bolt, or a Torx T30 head bolt, depending on the series of Falcon it is
 
     ![striker bolts](./striker-screws.jpg)
 
