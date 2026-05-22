@@ -27,8 +27,9 @@ Please see the table below for shared parts:
 | A Pillar Plastic Trim | AU-BFIII | All physically fit however care should be taken regarding tweeter mounting areas from higher models |
 | Air box | EF-AUIII | piping from BA-BFIII Falcon also compatible, but air box itself does not bolt to body correctly |
 | Alloy Wheel Centre Cap | EF-FG, SX-SYII | Approx. 65mm diameter x 15mm height, does not include specialty alloys |
-| [Alternator](../../Engine/Alternator/Alternator.md#special-note---series-1-vs-series-2-3) (2-pin) | AUII-BAII, SX | newer models employed a 3-pin connector which was different to the AU |
-| B Pillar Plastic Trim (Upper/Lower) | AU-BFIII | All physically fit however adjustable seatbelt height not present on AUI Falcon |
+| [Alternator](../../Engine/Alternator/Alternator.md#4l-i6) (2-pin) | AUII-BAII, SX | AUI and newer models employed a 3-pin connector which was different to the AUII-AUIII |
+| [Alternator Connectors](../../Engine/Alternator/Alternator.md#plug-type) (3-pin) | AUI, BF-FGX, SY-SZII | Connectors shared between models but centre pin not wired on AUI models. Alternator should physically fit but has not been tested to date |
+| B Pillar Plastic Trim (Upper/Lower) | AU-BFIII | All physically fit however adjustable seatbelt height not present on some AUI models |
 | [Boot Button](../../Electrical/DriverButtons/DriverButtons.md#lock--boot-buttons) | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
 | [Brake Switch](../../Electrical/BrakeSwitch/BrakeSwitch.md) | EF-AUIII | |
 | C Pillar Plastic Trim | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
@@ -37,7 +38,7 @@ Please see the table below for shared parts:
 | [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain sub-models contain additional spring that will help with longevity. BF Falcon Keyhole for drivers door not compatible due to different key types |
 | [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter |
 | Door Rubber Seals | AU-BFIII | |
-| Engine Oil Cap | EB-FGX | |
+| Engine Oil Cap | EB-FGX | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Exhaust Hangers | EA-FGX | |
 | Exhaust Header | EA-AUIII | |
 | Exhaust assembly (Cat Back) | EA-AUIII | Live axle Sedans and Wagons only, Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
@@ -47,9 +48,10 @@ Please see the table below for shared parts:
 | [Fuel Filter](../../Engine/FuelFilter/FuelFilter.md) | EB-BF | |
 | [Fuel Injectors](../../Engine/FuelInjectors/FuelInjectors.md) | EA-FGX, SX-SZII, XG-XHII | AU-BF recommended, 215-220cc known standard volume, Tune/ECU/J3 Chip likely required for different volumes. Injectors compatible with Jeep/Dodge vehicles using the Chrysler PowerTech 3.7L EKG V6 drop-in compatible |
 | [Fuel Pressure Regulator](../../Engine/FuelPressureRegulator/FuelPressureRegulator.md) | AU-FGX | AU uses a 3 bar regulator, but 4 is standard in later models, Tune/ECU/J3 Chip likely required |
+| Glovebox light switch | EA-FGX, SX-SZII | |
 | [Ignition Coil Pack](../../Engine/IgnitionCoil/IgnitionCoil.md) | EF-AUI | only compatible with S1 AU Falcons |
-| Glovebox light switch mechanism | EA-FGX, SX-SZII | |
 | Ignition Leads | EF-AUI | only compatible with S1 AU Falcons |
+| Interior Dome Light Cover | AU-BFIII | |
 | Interior Map Lights | AU-BFIII | Light inner assembly also the same as SX-SY Territory models, however fascia is different |
 | [Interior Mirror](../../Body/InteriorMirror/InteriorMirror.md) | AU-FGX, SX-SZII | AUI Mirrors have grub screw mounting rather than clip, but all are interchangeable |
 | Keys | EA-BAII, SX, XG-XHII | Physically identical, however AUII onward vehicles contain chip for additional security. Also interchangeable with similar time-period Jaguar keys |
