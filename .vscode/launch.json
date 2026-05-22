@@ -7,6 +7,13 @@
             "request": "launch",
             "command": "bundle exec jekyll serve --open-url",
             "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Verify Integrity",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/_scripts/site-integrity.ps1",
+            "cwd": "${workspaceFolder}"
         }
     ]
 }
