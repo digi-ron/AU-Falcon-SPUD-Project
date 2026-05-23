@@ -6,3 +6,4 @@ vendor
 /__wip
 wip-*
 _site-integrity-output
+.vscode/settings.json
