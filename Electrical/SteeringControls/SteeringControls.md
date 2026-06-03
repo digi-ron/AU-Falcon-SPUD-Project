@@ -89,7 +89,16 @@ The following notes assume pin numbers where you are looking at the steering whe
 {: .block-note}
 
 ## 3D Printing steering wheel control housings
-Due to the fragility of these components, there is likely to come a time where buying original parts, even through the second hand market, will become non-viable. To this end, if you have access to a 3D printer and some UV resistant filament such as ABS or ASA, you can easily print the button housings yourself, reducing the need for complete parts, or in some cases, without replacing the original button PCBs. A rudimentary 3D model can be found on GitHub, [HERE](https://github.com/digi-ron/AU-Falcon-Steering-Controls), however this model is released under an open license and can be modified using any 3D modelling software capable of importing STL files.
+Due to the fragility of these components, there is likely to come a time where buying original parts, even through the second hand market, will become non-viable. To reduce the need for complete parts to a requirement for the original PCB(s) for people only interested in the functionality of the buttons, A rudimentary 3D model can be found on GitHub, [HERE](https://github.com/digi-ron/AU-Falcon-Steering-Controls), however this model is released under an open license and can be modified using any 3D modelling software capable of importing STL files.
+
+> This model is made completely from scratch, as [SPUD](../../Disclaimer.md#spud) had no casing left to scan or replicate. As many measurements as possible have been taken along with multiple test fits, however due to the relative inexperience of the author and the relatively low-quality equipment used, this is a functional, but not "showroom ready", model.:
+>
+> - [Trimble Sketchup Make 2017](../../Credits.md#software--hardware) (modelling software)
+> - [Ender 3 V1](../../Credits.md#software--hardware) (3D printer):
+>   - Material used: ASA
+>   - Supports: yes
+>   - Notes: Files last printed and fitted July 3rd 2024. produced item has yet to fail as of June 2026. Single screw useful for secure fitment but not required, as it should friction-fit reasonably tightly
+{: .block-note}
 
 > In the interest of this projects vision, the published STL files are stored on this website as a backup [HERE](./steering-controls.zip). *Last synced - 03/06/26*
 {: .block-note}
