@@ -55,7 +55,7 @@ description: "Credits"
 - [LibreCAD](https://librecad.org/)
   > Used for wiring diagrams
 - [Microsoft 3D Builder](https://www.microsoft.com/store/productId/9WZDNCRFJ3T6)
-  > Used as modelling verification tool, ensuring manifold objects and providing model simplification as needed
+  > Used as modelling verification and one-click simplification tool, ensuring manifold objects and small model file sizes as needed
 - [Revopoint](https://global.revopoint3d.com/en-au)
   - Inspire V1 scanner
     > Factory part replication, used as a base for modification to create rare or aftermarket parts
@@ -63,6 +63,11 @@ description: "Credits"
     > Used as crucial first step to create usable model from scans
 - [Trimble Sketchup Make](https://sketchup.trimble.com/en) (2017 Free build)
   > Used for simple modelling purposes due to familiarity. 2017 build used as free desktop application was discontinued in favour of undesirable new versions
+- [Creality](https://www.creality.com/)
+  - Ender 3 V1
+    > Moderately modified for use with ASA plastic. Used for the earlier models, but ultimately replaced due to repair costs.
+  - Ender 3 V3 KE
+    > Used for some of the newer models. Although this is a newer printer, theoretically this still represents a relative lowest common denominator in 3D printing, meaning that the models tested using this printer should work on almost any other FDM printer without issue.
 
 ## Special Thanks - Information sharers and timesavers
 {: .good-highlight}
