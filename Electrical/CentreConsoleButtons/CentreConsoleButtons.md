@@ -220,7 +220,7 @@ Should you wish to add 2 additional factory buttons, without the need to drill a
 > - AESUB Blue vanishing spray (3D scanning spray)
 > - [Blender](../../Credits.md#software--hardware) (Modelling software):
 >   - Model modified with additional material for rigidity, and with larger clips and outer edge to prevent vibration
-> - Ender 3 V1 (3D printer):
+> - [Ender 3 V1](../../Credits.md#software--hardware) (3D printer):
 >   - Material used: ASA
 >   - Supports: yes
 >   - Notes: Printed vertically for decreased printing lines, printer modified for high temperature printing material.
