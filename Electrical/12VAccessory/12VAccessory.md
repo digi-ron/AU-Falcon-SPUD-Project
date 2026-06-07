@@ -63,3 +63,70 @@ The most straightforward solution to the 12V Accessory connection is to simply c
 
 ![Terminal Set](./generic-terminal-set.png)
 > A picture from an [AliExpress](../../Credits.md#sources) listing for a set of 2.8/4.8/6.3mm crimp terminal connectors
+
+## Removal
+
+> These removal instructions should be universal, however have not been tested on a Series 2/3 Low Model Dash. These instructions use a dash fascia from a Series 1.5 High Model Dash, and assume that any replacement is either from another factory dash, or will be modified to suit, as the clear plastic sleeve on the connector itself is *not* removable through non-destructive means
+{: .block-note}
+
+Despite popular belief, the 12V accessory plug *can* be removed, however it *cannot* be removed without damaging the centre dash fascia. Use the following instructions for the lowest destruction level possible while retaining the 12V accessory plug intact.
+
+1. Locate a small blob of melted plastic at the rear of the [Ashtray](../../Body/CentreDashAshtray/CentreDashAshtray.md) holder
+
+    ![Location of the plastic blob](./fascia-blob.jpg)
+
+    > A picture of the location of the plastic blob. Locations will vary somewhat per fascia
+
+1. Using a drill and a 6-8mm drill bit, drill through the blob until you have at least cleared the first layer of plastic
+
+    > Less damage to the original part may be achieved through only drilling through the first layer of the 2 layers of plastic melted together at that point, however this places both pieces of plastic at greater risk of breaking in later steps.
+    {: .block-note}
+
+    ![Rear of the fascia, post hole-drilling](./fascia-drilled.jpg)
+
+    > A picture of the fascia, after being drilled with a 6mm drill bit
+
+1. At the rear of the 12V plug, separate the glue holding the assembly together by prying the 2 pieces of plastic apart using a small pry tool, pick or screwdriver
+
+    ![Glue seam location on the rear of the connector](./rear-connector-glue-location.jpg)
+
+    > A picture of the glue location
+
+    ![Glue marks post-removal](./rear-connector-glue-location-marks.jpg)
+
+    > A picture of the glue spread on the rear of the fascia, post-removal
+
+1. Gently pry the 2 plastic layers apart using fine pry tools or a small flat-head screwdriver. Be firm bu careful around the drilled hole and the rear of the 12V connector as there may still be residual glue or melted plastic holding the pieces together
+
+    ![Rear fascia post removal](./rear-plastic-removed.jpg)
+
+    > A picture of the rear of the fascia, post-removal
+
+1. Remove the 12V connector by pushing the assembly through the front of the fascia. Prying with a small tool will be required, first to force the lower tab through the keyed location on the bottom of the fascia, and then to either:
+    - Rotate the connector do the top tab is in line with the key in the fascia hole and force it through, OR;
+    - Simply force the tab through the top of the keyed hole, which should have less resistance now that the bottom tab is pushed through
+
+    ![Fascia keyed hole, post-removal](./fascia-keyed-hole.jpg)
+
+    > A picture of the keyed hole in the fascia, post-removal
+
+    1[Connector assembly tabs](./oem-12v-assembly-tabs.jpg)
+
+    > A picture of the 2 tabs which must be forced through the fascia
+
+1. Replace with your new assembly as needed, or modify for any 12V Connector or similar equivalent assembly.
+
+    > For notes to assist with modification, refer to the [Modification Tolerances](#modification-tolerances) section
+
+1. Done
+
+## Modification Tolerances
+
+In aide of replacing the 12V connector with something of similar but modern utility, such as a hard wire 12V USB adapter, please note the following measurements:
+
+| Location | Measurement (approx.) |
+| --- | --- |
+| Fascia hole diameter (excluding key) | 25mm |
+| Fascia hole key depth | 2mm |
+| Fascia indent width | 32mm |
+| Original assembly depth | 56mm |
