@@ -47,14 +47,13 @@ $outError = Get-Content -Path "wgetOut.txt" -Raw
 #kill server
 taskkill /F /PID $webPID /T | Out-Null
 
-#cleanup
-Set-Location -Path $originalDir
-Remove-Item -Path $outDir -Recurse -Force
-
-if($null -eq $outError -or $outError.Trim() -ne "") {
+if($null -ne $outError -and $outError.Trim() -ne "") {
     Write-Error "wget crawl failed. Check your links and try again: `n$outError"
     exit 20
 } else {
     Write-Host "SUCCESS"
+    #cleanup
+    Set-Location -Path $originalDir
+    Remove-Item -Path $outDir -Recurse -Force
     exit 0
 }
