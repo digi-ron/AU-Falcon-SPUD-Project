@@ -69,11 +69,17 @@ The following notes assume pin numbers where you are looking at the switch unit 
 > Other buttons apart from those listed below are available, but these are not included due to limited resources
 {: .block-note}
 
-### Specifics - ANT button
+### Specifics - ANT/DIM buttons
 
-> Factory Wiring Harness Plug Colour - Blue
+> Factory Wiring Harness Plug Colour (Antenna) - Blue
+> 
+> Factory Wiring Harness Plug Colour (Dimmer) - White
 
-On models where an electric antenna is present, a ANT button can be found. This button has 4 pins accessible, but is a toggle (latching) switch.
+On models where an electric antenna is present, a ANT button can be found.
+
+Similarly, on models where a blackout/dimmer circuit is present, a DIM button can be found
+
+in both cases, these buttons have 4 pins accessible, but is a toggle (latching) switch.
 
 > These buttons are ideal for use for auxiliary functions while only filling the blank button locations present on lower models of Falcon.
 {: .block-note}
@@ -94,6 +100,10 @@ On models where an electric antenna is present, a ANT button can be found. This 
 ![ANT button rear](./ant-rear.jpg)
 
 > Photo of rear end of ANT button
+
+#### Special note - Dimmer button
+
+The dimmer button tested appeared to create a higher resistance when the circuit was closed than the Antenna button, suggesting that antenna switches may not be interchangeable for OPT20 dimmer circuits specifically. This information is incomplete however as the resistance could just as easily be caused by poor connections inside a 28 year old housing with an unknown history.
 
 ### Specifics - Demist button
 
@@ -166,13 +176,6 @@ On models where a Traction control System is present, a Traction control button 
 
 > Photo of rear end of TCS button
 
-### Specifics - Dimmer button
-
-> Factory Wiring Harness Plug Colour - White
-
-> Very little is known abut the Dimmer buttons, as they were only fitted to vehicles with the police pack from factory (Option 20 or OPT20). The functionality is that it disables the interior lights on demand. This should be a latching switch with which is normally on rather than normally off, but this is unconfirmed
-{: .block-note}
-
 ### Specifics - LPG button
 
 > The LPG buttons were only fitted to dual-fuel vehicles, specifically when factory fitted. The functionality of this switch is unknown
@@ -180,15 +183,24 @@ On models where a Traction control System is present, a Traction control button 
 
 ### Specifics - Fog Light button
 
-> The fog light buttons were likely only installed on T-series models (TE50/TS50/TL50), as they are the only variant of AU Falcon with optional factory fog lights. As a result, these are incredibly rare. This should be a latching switch similar to the [antenna buttons](#specifics---ant-button) however this is unconfirmed
+> The fog light buttons were likely only installed on T-series models (TE50/TS50/TL50), as they are the only variant of AU Falcon with optional factory fog lights. As a result, these are incredibly rare. This should be a latching switch similar to the [antenna or dimmer buttons](#specifics---antdim-buttons) however this is unconfirmed
 
 ## Replacing button faces
 
-For cases where you wish to modify buttons from [compatible models](../../Miscellaneous/PartsSharing/PartsSharing.md#parts-sharing-table) to have different pictures than the one that came from the factory, or in the case that you wish to use a connector with more active pins or a latching switch, you can remove the faces by gently prying 2 tabs (one each side) of the face. the faces can then be placed back in the switches with a firm press, however note that they will not go in upside-down, and there should be minimal force required to press them back into place
+For cases where you wish to modify buttons from [compatible models](../../Miscellaneous/PartsSharing/PartsSharing.md#parts-sharing-table) to have different pictures than the one that came from the factory, or in the case that you wish to use a connector with more active pins or a latching switch, you can remove the faces by gently prying 2 tabs (one each side) of the face. the faces can then be placed back in the switches with a firm press, however note that they will not go in upside-down, and there should be minimal force required to press them back into place. Note that removal of the tab *without* the additional supporting plastic is easier to remove first as a general rule of thumb
 
 ![Button face clips](./button-face-clips.jpg)
 
 > Photo of rear of the face plates that can be swapped between switches
+
+## Additional Note - BA-BF & SX-SY Territory buttons
+
+Below are notes on tested buttons from later models of Falcon and Territory, which have compatible housings with the AU Falcon. It is currently in a table format as the pinouts are shared with known AU Falcon buttons
+
+| Button | Type | Pinout |
+| --- | --- | --- |
+| Fog Light Button | Latching | Same as [AU ECON/Lock buttons](#specifics---econlock-button) |
+| Fuel Door Button | Momentary | Same as [AU ECON/Lock buttons](#specifics---econlock-button) |
 
 ## Series 1 Low Model Fascia
 
