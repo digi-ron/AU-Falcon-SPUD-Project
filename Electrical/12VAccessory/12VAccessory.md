@@ -77,7 +77,7 @@ Despite popular belief, the 12V accessory plug *can* be removed, however it *can
 
     > A picture of the location of the plastic blob. Locations will vary somewhat per fascia
 
-1. Using a drill and a 6-8mm drill bit, drill through the blob until you have at least cleared the first layer of plastic
+1. Using a drill and a 6-8mm drill bit, drill through the blob until you have cleared both layers of plastic from the rear housing and the centre fascia
 
     > Less damage to the original part may be achieved through only drilling through the first layer of the 2 layers of plastic melted together at that point, however this places both pieces of plastic at greater risk of breaking in later steps.
     {: .block-note}
@@ -96,14 +96,14 @@ Despite popular belief, the 12V accessory plug *can* be removed, however it *can
 
     > A picture of the glue spread on the rear of the fascia, post-removal
 
-1. Gently pry the 2 plastic layers apart using fine pry tools or a small flat-head screwdriver. Be firm bu careful around the drilled hole and the rear of the 12V connector as there may still be residual glue or melted plastic holding the pieces together
+1. Gently pry the 2 plastic layers apart using fine pry tools or a small flat-head screwdriver. Be firm but careful around the drilled hole and the rear of the 12V connector as there may still be residual glue or melted plastic holding the pieces together
 
     ![Rear fascia post removal](./rear-plastic-removed.jpg)
 
     > A picture of the rear of the fascia, post-removal
 
 1. Remove the 12V connector by pushing the assembly through the front of the fascia. Prying with a small tool will be required, first to force the lower tab through the keyed location on the bottom of the fascia, and then to either:
-    - Rotate the connector do the top tab is in line with the key in the fascia hole and force it through, OR;
+    - Rotate the connector 180n degrees so the top tab is in line with the key in the fascia hole and force it through, OR;
     - Simply force the tab through the top of the keyed hole, which should have less resistance now that the bottom tab is pushed through
 
     ![Fascia keyed hole, post-removal](./fascia-keyed-hole.jpg)
