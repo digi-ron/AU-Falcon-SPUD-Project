@@ -197,10 +197,10 @@ For cases where you wish to modify buttons from [compatible models](../../Miscel
 
 Below are notes on tested buttons from later models of Falcon and Territory, which have compatible housings with the AU Falcon. It is currently in a table format as the pinouts are shared with known AU Falcon buttons
 
-| Button | Type | Pinout |
-| --- | --- | --- |
-| Fog Light Button | Latching | Same as [AU ECON/Lock buttons](#specifics---econlock-button) |
-| Fuel Door Button | Momentary | Same as [AU ECON/Lock buttons](#specifics---econlock-button) |
+| Button | Tested vehicle model(s) | Type | Pinout |
+| --- | --- | --- | --- |
+| Fog Light Button | SY Territory | Latching | Same as [AU ECON/Lock buttons](#specifics---econlock-button) |
+| Fuel Door Button | SY Territory | Momentary | Same as [AU ECON/Lock buttons](#specifics---econlock-button) |
 
 ## Series 1 Low Model Fascia
 
