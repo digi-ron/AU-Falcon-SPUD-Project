@@ -86,7 +86,7 @@ description: "Credits"
 - [TJM](https://www.tjm.com.au/)
   > Customer support was super responsive and sent me through all the info they had on a nudge bar they probably haven't thought about for the best part of 20 years, within 24hrs
 - [Wayback Machine by Internet Archive](https://web.archive.org/)
-  > For existing, as many pages with important information would be lost to time otherwise
+  > For existing, as many pages with important information that this site has benefitted from would be lost to time otherwise
 
 ## Wall of Shame - Information gatekeepers and time wasters
 {: .bad-highlight}
