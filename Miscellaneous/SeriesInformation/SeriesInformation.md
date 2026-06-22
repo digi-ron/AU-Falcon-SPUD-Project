@@ -34,7 +34,8 @@ The AU Falcon can be divided up by series, which can be useful when dealing with
 - Indicator lenses changed to clear instead of original orange colour (some trims only)
 - Improved suspension and brake components, more akin to the later B-Series Falcon (e.g. dual-piston brake calipers)
 - Changes in sensors from the previous series'
-- [PCM](../../PCMBCM/PCM/PCM.md) slightly upgraded, allowing for easier installation of piggyback tuning chips, such as the J3 chip by [T.I. Performance](../../Credits.md#sources)
+- [PCM](../../PCMBCM/PCM/PCM.md) slightly upgraded, allowing for different sensor configuration present. Also slightly easier to connect piggyback tuning chips and diagnostic tools to the J3 port due to a connection required for functionality already being bridged.
+<!-- TODO create a dedicated J3 tuning page? -->
 
 ## Series 3
 
