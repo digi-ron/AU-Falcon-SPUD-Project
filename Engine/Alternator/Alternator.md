@@ -10,11 +10,52 @@ The AU Falcon has 3 types of alternators depending on factors such as series and
 
 ### 4L I6
 
-The base model AU Falcon alternator can be identified 2 main mounting bracket holes, and is situated directly below the power steering reservoir. This last point is unfortunate as the stock power steering high pressure line is prone to o-ring failure that renders the alternator faulty due to power steering fluid making it into the alternator casing. Alternators for these models are split into 2 types ([See Below](#special-note---series-1-vs-series-2-3)), with the 3 pin variant specific to the AUI Falcon and the 2 pin variant only compatible with AU-BAII vehicles, due to an additional pin added to later models.
+The base model AU Falcon alternator can be identified 2 main mounting bracket holes, and is situated directly below the power steering reservoir. This is unfortunate as the stock power steering high pressure line is prone to o-ring failure over time, which renders the alternator faulty due to power steering fluid making it into the alternator casing.
 
 ![I6 alternator](./I6-alternator.png)
 
 > Image taken from [T.I. Performance](../../Credits.md#sources) product listing page
+
+<!-- TODO confirm this information -->
+<!-- #### Pinout - Series 1
+
+For the following, assume you are looking at the alternator end connector, with the clip holder facing up
+
+<table>
+    <thead>
+        <th>01</th>
+        <th>02</th>
+        <th>03</th>
+    </thead>
+</table>
+
+| Position | Colour | Function |
+| --- | --- | --- |
+| 01 | Yellow/White | Sense, used for regulation |
+| 02 | N/a | Not used |
+| 03 | Red/Grey | Warning Lamp (for instrument cluster) |
+
+#### Pinout - Series 2-3
+
+For the following, assume you are looking at the alternator end connector, with the clip holder facing up
+
+<table>
+    <thead>
+        <th>01</th>
+        <th>02</th>
+    </thead>
+</table>
+
+| Position | Colour | Function |
+| --- | --- | --- |
+| 01 | Yellow/White | Sense, used for regulation |
+| 02 | Red/Grey | Warning Lamp (for instrument cluster) | 
+
+#### Additional notes - Series inter-compatibility
+
+AU Series 1 vehicles share a connector with the BF/FG/FGX Falcons and SY/SZ Territory models, however the latter model alternators have additional "smart charge" features that would be lost on the AU and may cause unforeseen issues. The more widely accepted solution is to simply make a short adapter loom using the above pinouts ([1](#pinout---series-1), [2-3](#pinout---series-2-3)), the below [plug types](#plug-type) and an AUII-BA/SX Alternator.
+
+AU Series 2-3 vehicles share a connector with the BA Falcon and SX Territory models, and require no modification. -->
 
 ### 5L V8
 
@@ -28,7 +69,7 @@ The V8 alternator, likely due to different engine configuration and power requir
 
 <!-- TODO add information on adapting the wiring to the new plug? -->
 
-> Plug connectors for Series 1 removed as they were proven inaccurate. Accurate details will be added once confirmed!
+> Plug connectors for Series 1 I6 models removed as they were proven inaccurate. Accurate details will be added once confirmed!
 {: .block-warning}
 
 | Plug | Product # | Series | Engine | Location | Notes |
