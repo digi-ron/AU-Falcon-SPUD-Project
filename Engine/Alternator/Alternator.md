@@ -40,8 +40,8 @@ The V8 alternator, likely due to different engine configuration and power requir
 | <span class="bad-highlight">UNKNOWN</span> | | All | V8 | Alternator end connector | Information sparce on this connector, unlikely that it can even be sourced |
 
 <!--
-| AMP 3P Male Terminal Housing | `174359-2` | 1 | I6 | Alternator end connector | |
-| AMP 3P Female Terminal Housing | `174357-2` | 1 | I6 | Loom end connector | |
+| AMP 3P Male Terminal Housing | `184192-1` | 1 | I6 | Alternator end connector | Difficult to source |
+| AMP 3P Female Terminal Housing | `184032-1` | 1 | I6 | Loom end connector | |
 -->
 
 > Information Sources:
