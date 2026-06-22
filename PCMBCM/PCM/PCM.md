@@ -9,7 +9,7 @@ The PCM, or Powertrain Control Module, can be seen as the brains of the AU Falco
 
 ## Location
 
-If you ever need access to the PCM in your AU Falcon, it can be found either bolted or riveted to the very bottom of the A Pillar area of the passenger side of the cabin. This can be useful if you intend on adding a performance chip (such as a J3 chip from [T.I. Performance](../../Credits.md#sources))
+If you ever need access to the PCM in your AU Falcon, it can be found either bolted or riveted to the very bottom of the A Pillar area of the passenger side of the cabin.
 
 > Later models of AU Falcon PCMs are secured using large rivets, which will need to be drilled out or grinded off. When reinstalling, new rivets or tek screws are commonly used viable replacements.
 {: .block-note}
