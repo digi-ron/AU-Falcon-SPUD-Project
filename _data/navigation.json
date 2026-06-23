@@ -41,6 +41,10 @@
                     "url": "/Body/CentreDashAshtray/CentreDashAshtray.html"
                 },
                 {
+                    "title": "C-Pillar External Trim (Wagon body only)",
+                    "url": "/Body/WagonCTrim/WagonCTrim.html"
+                },
+                {
                     "title": "Door Lock Actuators",
                     "url": "/Body/DoorLockActuators/DoorLockActuators.html"
                 },
