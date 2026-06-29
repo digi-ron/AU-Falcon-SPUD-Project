@@ -122,7 +122,10 @@ Diagnosis of a bad alternator can be easily checked using a multimeter. Follow t
 To replace the Alternator, follow the steps below:
 1. **DISCONNECT THE BATTERY**
 1. [Remove the thermo fans](../../Engine/ThermoFan/ThermoFan.md)
-1. Reaching behind the power steering reservoir to the alternator rear, undo the 10mm nut holding the main electrical connection from the alternator to the rest of the vehicle wiring loom, and unplug
+1. Reaching behind the power steering reservoir to the alternator rear, undo the 10mm nut holding the main electrical connection from the alternator to the rest of the vehicle wiring loom
+1. Disconnect the alternator plug, which is:
+    - S1 - on the top driver side of the alternator, facing upwards
+    - S2-3 - on the bottom middle of the alternator, facing downwards
 1. Also on the back of the alternator, undo the 12mm nut holding the positive ring terminal for the alternator and remove.
 1. Note the configuration that the serpentine belt is currently in (if sticker denoting configuration is not still present on inside of hood lid)
     
