@@ -28,7 +28,8 @@ Please see the table below for shared parts:
 | Air box | EF-AUIII | piping from BA-BFIII Falcon also compatible, but air box itself does not bolt to body correctly |
 | Alloy Wheel Centre Cap | EF-FG, SX-SYII | Approx. 65mm diameter x 15mm height, does not include specialty alloys |
 | [Alternator](../../Engine/Alternator/Alternator.md#4l-i6) (2-pin) | AUII-BAII, SX | AUI and newer models employed a 3-pin connector which was different to the AUII-AUIII |
-| [Alternator Connectors](../../Engine/Alternator/Alternator.md#plug-type) (3-pin) | AUI, BF-FGX, SY-SZII | Connectors shared between models but centre pin not wired on AUI models. Alternator should physically fit but has not been tested to date |
+| [Alternator Connectors](../../Engine/Alternator/Alternator.md#plug-type) (2-pin) | AUII-BAII, SX | |
+| [Alternator Connectors](../../Engine/Alternator/Alternator.md#plug-type) (3-pin) | AUI, BF-FGX, SY-SZII | Connectors shared between models but centre pin not wired on AUI models. Alternator from later models not drop-in compatible due to [additional features](../../Engine/Alternator/Alternator.md#additional-note---series-inter-compatibility-i6) |
 | B Pillar Plastic Trim (Upper/Lower) | AU-BFIII | All physically fit however adjustable seatbelt height not present on some AUI models |
 | [Boot Button](../../Electrical/DriverButtons/DriverButtons.md#lock--boot-buttons) | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
 | [Brake Switch](../../Electrical/BrakeSwitch/BrakeSwitch.md) | EF-AUIII | |
@@ -46,7 +47,7 @@ Please see the table below for shared parts:
 | [Fuel Door Button](../../Electrical/DriverButtons/DriverButtons.md#fuel-button) | EB-BFIII | Non-AU buttons require [button cap replacement](../../Electrical/DriverButtons/DriverButtons.md#removing-the-button-fascias). Fascias from alternate models not easily compatible with AU Falcon dash. Territory Models fitted with buttons more akin to AU [Centre Console Buttons](../../Electrical/CentreConsoleButtons/CentreConsoleButtons.md#plug-information) |
 | Fuel Door Release Mechanism/Emergency release cable | AU-BF, SX-SYII | |
 | [Fuel Filter](../../Engine/FuelFilter/FuelFilter.md) | EB-BF | |
-| [Fuel Injectors](../../Engine/FuelInjectors/FuelInjectors.md) | EA-FGX, SX-SZII, XG-XHII | AU-BF recommended, 215-220cc known standard volume, Tune/ECU/J3 Chip likely required for different volumes. Injectors compatible with Jeep/Dodge vehicles using the Chrysler PowerTech 3.7L EKG V6 drop-in compatible |
+| [Fuel Injectors](../../Engine/FuelInjectors/FuelInjectors.md) | EA-FGX, SX-SZII, XG-XHII | AU-BF recommended, 215-220cc known standard volume, Tune/ECU/J3 Chip likely required for different volumes. Injectors compatible with Jeep/Dodge vehicles using the Chrysler PowerTech 3.7L EKG V6 has a different spray pattern but are proven compatible |
 | [Fuel Pressure Regulator](../../Engine/FuelPressureRegulator/FuelPressureRegulator.md) | AU-FGX | AU uses a 3 bar regulator, but 4 is standard in later models, Tune/ECU/J3 Chip likely required |
 | Glovebox light switch | EA-FGX, SX-SZII | |
 | [Ignition Coil Pack](../../Engine/IgnitionCoil/IgnitionCoil.md) | EF-AUI | only compatible with S1 AU Falcons |
