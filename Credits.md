@@ -40,6 +40,7 @@ description: "Credits"
 - [RS Components Australia](https://au.rs-online.com/)
 - [Seat Safe](https://www.seatsafe.com.au/)
 - [T.I. Performance](https://www.tiperformance.com.au/)
+- [TE Connectivity](https://www.te.com/en/home.html)
 - [Tridon](https://www.tridon.com.au/)
 - [Wheel-size.com](https://www.wheel-size.com/size/ford/falcon/au-1998-2002)
 - [Whispbar](https://whispbar.com.au/) (now part of [Yakima](https://yakima.com.au/collections/roof-racks) roof rack line)
