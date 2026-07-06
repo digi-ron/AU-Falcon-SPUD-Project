@@ -6,7 +6,7 @@ description: Speaker installation and wiring information. Partially applies to B
 
 ## Sizes
 
-The size of most speakers across the AU Falcon range are 5x7" oval speakers, which is a non-standard size. Note that 6x9" speakers can be used in both locations with some modifications, however additional holes will need to be drilled to allow for them, and special care must be taken for the front door speakers depth, as they can foul the window mechanism.
+The size of most speakers across the AU Falcon range are 5x7" oval speakers, which is a non-standard size. Note that 6x9" speakers can be used in both locations with some modifications, however additional holes will need to be drilled to allow for them, and special care must be taken for the front door speakers depth, as they can foul the window mechanism. Alternatively 6" round speakers can be fitted using off the shelf adapters from online marketplaces such as [eBay](../../Credits.md#sources)
 
 > Popular replacements for these speakers are the [Kenwood](../../Credits.md#aftermarket-components-information) KFC-PS5796C, as they require no amp and are a drop-in replacement, barring the plug (explained in installation steps)
 {: .block-note}
