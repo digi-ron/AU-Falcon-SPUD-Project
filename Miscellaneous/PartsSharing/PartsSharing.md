@@ -33,11 +33,11 @@ Please see the table below for shared parts:
 | B Pillar Plastic Trim (Upper/Lower) | AU-BFIII | All physically fit however adjustable seatbelt height not present on some AUI models |
 | [Boot Button](../../Electrical/DriverButtons/DriverButtons.md#lock--boot-buttons) | AU-BFIII | button uses same electrical plug but fascia is different and needs to be replaced with AU Falcon parts |
 | [Brake Switch](../../Electrical/BrakeSwitch/BrakeSwitch.md) | EF-AUIII | |
-| C Pillar Plastic Trim | AU-BFIII | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
+| C Pillar Plastic Trim | AU-BFIII | Wagon and Sedan body only. Sedan trims are the same dimensions but require modification as only AU models have the seatbelts for the rear seats coming out of the trim |
 | [Cam Angle Sensor](../../Engine/CAS/CAS.md) | EF-AUI | Unique VS. the AUII-III version, which in itself is unique (not used BA+) |
 | [Centre Console Buttons](../../Electrical/CentreConsoleButtons/CentreConsoleButtons.md) | EF-AUIII, SX-SYII, XG-XHII | Fitted as centre console buttons on applicable Falcon models, and fitted as [Driver Button](../../Electrical/DriverButtons/DriverButtons.md) equivalent on applicable Territory models. Fascias are different between models and will [require replacement](../../Electrical/CentreConsoleButtons/CentreConsoleButtons.md#replacing-button-faces). Notches in mechanism end also different and may require modification for fitment depending on destination. Older Falcons only have partial availability, usually demister and economy buttons |
 | [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain sub-models contain additional spring that will help with longevity. BF Falcon Keyhole for drivers door not compatible due to different key types |
-| [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter |
+| [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter. Repair kits also compatible with 1999-2002 Ford Laser & Mazda 323 models |
 | Door Rubber Seals | AU-BFIII | |
 | Engine Oil Cap | EB-FGX | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Exhaust Hangers | EA-FGX | |
@@ -72,8 +72,9 @@ Please see the table below for shared parts:
 | [Spark Plugs](../../Engine/SparkPlugs/SparkPlugs.md) | EA-AUIII, XG-XHII | |
 | [Speakers (Front)](../../Audio/Speakers/Speakers.md) | AU-BFIII | |
 | [Speakers (Rear)](../../Audio/Speakers/Speakers.md) | AU-BFIII | Where fitted, Note various speakers used on different variants but should all match per model e.g. AU Station Wagon = BF Station Wagon |
-| Starter Motor | EA-BFIII, XG-XHII, SX-SZII | |
-| Towbar | AU-FGX | Utes and Wagon body styles only, Body from both vehicles must match e.g. Wagon and Wagon, Ute and Ute |
+| Starter Motor | XE-BFIII, XG-XHII, SX-SZII | |
+| Tail Lights | AU-BFIII | Ute and Wagon body styles only, Body from both vehicles must match e.g. Wagon and Wagon, Ute and Ute |
+| Towbar | AU-FGX | Ute and Wagon body styles only, Body from both vehicles must match e.g. Wagon and Wagon, Ute and Ute |
 | [Trailer Plug](../../Electrical/TrailerPlug/TrailerPlug.md) | AU-BFIII, SX-SZ | Harness only applicable for basic trailer lighting (tails, brakes, indicators, reverse lamps), more complex plug required for functionality such as reversing sensors (where fitted) |
 | Upper Control Arm | AU-BFIII | |
 | Weathershields (Front) | AU-BFIII | Aftermarket or OEM inclusive |
