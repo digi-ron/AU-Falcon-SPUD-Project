@@ -1,8 +1,10 @@
 source "https://rubygems.org"
-# jekyll gem set to 3.9.3 due to version conflict with github-pages
-gem "jekyll", "~> 3.9.3"
+# Update process:
+# 1. Update the version of github-pages in this file to the latest version.
+# 2. Run `bundle install and follow the bouncing ball(s)
+gem "jekyll", "~> 3.10.0"
 # github pages and plugins for jekyll
-gem "github-pages", '~> 228' , group: :jekyll_plugins
+gem "github-pages", '~> 232' , group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-remote-theme"
 end
