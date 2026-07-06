@@ -110,7 +110,7 @@ Despite popular belief, the 12V accessory plug *can* be removed, however it *can
 
     > A picture of the keyed hole in the fascia, post-removal
 
-    1[Connector assembly tabs](./oem-12v-assembly-tabs.jpg)
+    ![Connector assembly tabs](./oem-12v-assembly-tabs.jpg)
 
     > A picture of the 2 tabs which must be forced through the fascia
 
