@@ -39,7 +39,7 @@ This code refers to the type of vehicle this has been classified as under the re
   - `LE` - 3 wheeled motorbike
 - M - Passenger Vehicles
   - `MA` - Passenger vehicle not covered by `MB` or `MC`
-  - `MB` - Forward-control passenger vehicle with less than 9 passengers (e.g. Toytoa HiAce)
+  - `MB` - Forward-control passenger vehicle with less than 9 passengers (e.g. Toyota HiAce)
   - `MC` - Off-road passenger vehicle
   - `MD` - Omnibus (not exceeding 5t)
   - `ME` - Omnibus (exceeding 5t)
