@@ -4,7 +4,7 @@ description: Station wagon exterior C-Pillar trim information and 3D printable m
 ---
 # Station Wagon Exterior C-Pillar Trim
 
-> This section is not related to [SPUD](../../Disclaimer.md#spud) as it is a Sedan body type, but this has been created using another car, a Series 3 Forte SR Wagon, owned also by the author of this project
+> This section is not related to [SPUD](../../Disclaimer.md#spud) as it is a Sedan body type, but this has been created using an associated vehicle, [The Red Roach](../../Disclaimer.md#associated-vehicles)
 
 While a very minor part of a particular body type of the Ford Falcon, the exterior C-Pillar trim for the Wagon body can fall or be knocked off quite easily with age. By extension, these pieces can be broken easily as they are made of plastic and are not secured using any screws or clips (only 2 locating pins and adhesive foam)
 
