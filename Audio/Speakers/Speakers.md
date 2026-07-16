@@ -156,8 +156,7 @@ Follow these steps below to replace the rear shelf speakers (Sedan only):
 
 ### Rear Speakers - Wagon
 
-> The vehicle used for pictures of this procedure are of a BFII XT Falcon Wagon, which was being disassembled at an opportune time. This should however match the AU Falcon Wagons.
-{: .block-note}
+> This section is not related to [SPUD](../../Disclaimer.md#spud) as it is a Sedan body type, but this has been created using an associated vehicle, [Roadkill](../../Disclaimer.md#associated-vehicles). Despite being a later model, these instructions should work without issue on AU Falcon Wagons
 
 Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
 1. Remove the rear seat base by unclipping the 2 plastic clips under the seat and lifting the cushion out of the vehicle
