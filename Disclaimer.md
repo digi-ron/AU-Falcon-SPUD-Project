@@ -32,3 +32,12 @@ below is comprehensive information on "SPUD", the AU Falcon used primarily for t
 * Cruise Control
 * High [BCM](./PCMBCM/BCM/BCM.md#model-variations)
 * Series 2/3 taillights
+
+### Associated Vehicles
+
+As the project has progressed, other cars have been used as reference points for certain procedures where opportune. The other vehicles used are listed below:
+
+| Codename | Model | Specifics |
+| --- | --- | --- |
+| ***"The Red Roach"*** | AUIII SR Forte Falcon Wagon | Same engine and transmission to SPUD, paint code `VF` - "Venom Red". Used infrequently due to consistent road-use, for wagon specific and Series 3 specific information |
+| ***"Roadkill"*** | BFII XT Falcon Wagon | Petrol Barra motor and same BTR Automatic transmission as SPUD. Paint code `O9` - "Lightning Strike Silver". Partially disassembled and repurposed due to written-off status. Used for information regarding wagon similarities, parts sharing, and procedures specific to wagons |
