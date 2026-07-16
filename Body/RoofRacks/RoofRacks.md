@@ -35,6 +35,9 @@ Station wagons not fitted with OEM rails are limited to a similar range of clip-
 
 ## Station Wagons (With factory rails)
 
+> This section only covers models with Gutter Mount style roof racks. Conflicting information on another factory-fitted style of roof rack exist, but has not been found/tested to date
+{: .block-note}
+
 Certain models of AU Falcon Wagon were fitted with the same roof rails as their later BA-BFIII counterparts, and similarly to these later models use a gutter mount system. While these rails are relatively rare on the AU Falcons, they are confirmed on at least 1 AUIII and one AUI vehicle to date.
 
 Due to the fact that these variants can use standard gutter mount roof racks, you can fit any adjustable length racks. Popular vehicle models where cheap roof racks are available at the time of writing include:
