@@ -208,6 +208,8 @@ Follow these steps below to replace the rear C-Pillar speakers (Wagon only):
         ![Driver side rear hatch](./wagon-compartment-door.jpg)
         > Picture of the emergency jack and wheel tool compartment
 
+1. Remove the cloth panel itself from the inside of the boot
+
 1. Remove the 4 screws holding in the speakers and remove
 
     ![Wagon Speaker Screws](./wagon-rear-speaker.jpg)
