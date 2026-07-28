@@ -103,7 +103,7 @@ Despite popular belief, the 12V accessory plug *can* be removed, however it *can
     > A picture of the rear of the fascia, post-removal
 
 1. Remove the 12V connector by pushing the assembly through the front of the fascia. Prying with a small tool will be required, first to force the lower tab through the keyed location on the bottom of the fascia, and then to either:
-    - Rotate the connector 180n degrees so the top tab is in line with the key in the fascia hole and force it through, OR;
+    - Rotate the connector 180 degrees so the top tab is in line with the key in the fascia hole and force it through, OR;
     - Simply force the tab through the top of the keyed hole, which should have less resistance now that the bottom tab is pushed through
 
     ![Fascia keyed hole, post-removal](./fascia-keyed-hole.jpg)
