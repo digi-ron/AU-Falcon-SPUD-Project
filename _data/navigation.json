@@ -57,6 +57,10 @@
                     "url": "/Body/PassengerAirbag/PassengerAirbag.html"
                 },
                 {
+                    "title": "Rear Bumper (Wagon body only)",
+                    "url": "/Body/WagonRearBumper/WagonRearBumper.html"
+                },
+                {
                     "title": "Roof Racks",
                     "url": "/Body/RoofRacks/RoofRacks.html"
                 },
