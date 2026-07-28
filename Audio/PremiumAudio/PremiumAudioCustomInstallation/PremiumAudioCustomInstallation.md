@@ -23,7 +23,7 @@ This configuration contains all factory AU Falcon parts wherever viable and poss
 
 ### Parts
 
-- 1x AU Falcon [Series 2-3 Amplifier](../PremiumAudio.md#amplifier---s2-3) Amplifier
+- 1x AU Falcon [Series 2-3 Amplifier](../PremiumAudio.md#amplifier---s2-3)
 - 1x AU Falcon Factory Subwoofer
 - AU Falcon Subwoofer hardware:
     - 4x bolts
@@ -250,7 +250,7 @@ This configuration is a copy of the [AU Purity Configuration](#configuration-1--
     > Looms and adapters can be supplied from companies such as [Aerpro](../../../Credits.md#sources)
     {: .block-note}
 
-- 1x AU Falcon [Series 2-3 Amplifier](../PremiumAudio.md#amplifier---s2-3) Amplifier
+- 1x AU Falcon [Series 2-3 Amplifier](../PremiumAudio.md#amplifier---s2-3)
 - 1x AU Falcon Factory Subwoofer
 - AU Falcon Subwoofer hardware:
     - 4x bolts
