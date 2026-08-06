@@ -39,6 +39,7 @@ Please see the table below for shared parts:
 | [Door Handle (Outer)](../../Body/ExteriorDoorHandles/ExteriorDoorHandles.md#replacement) | AU-BFIII | certain sub-models contain additional spring that will help with longevity. BF Falcon Keyhole for drivers door not compatible due to different key types |
 | [Door Lock Actuator](../../Body/DoorLockActuators/DoorLockActuators.md) | AU-BFIII, SX-SZII | AU has different plug to other models, but can be used with OEM adapter. Repair kits also compatible with 1999-2002 Ford Laser & Mazda 323 models |
 | Door Rubber Seals | AU-BFIII | |
+| [Door Scuff Plates](../../Body/DoorScuffPlates/DoorScuffPlates.md) | AU-BFIII | requires minor modification to AU Falcon door |
 | Engine Oil Cap | EB-FGX | Body from both vehicles must match e.g. Wagon and Wagon, Sedan and Sedan |
 | Exhaust Hangers | EA-FGX | |
 | Exhaust Header | EA-AUIII | |
