@@ -110,6 +110,10 @@ description: "Credits"
   >
   > ---
   >
+  > Further inquiries have just been flat-out ignored, possibly as the email I was sending from was blacklisted
+  >
+  > --- 
+  >
   > Actually useless for ***ANYTHING***
   >
   > ---
