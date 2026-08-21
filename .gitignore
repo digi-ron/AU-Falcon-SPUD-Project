@@ -4,6 +4,6 @@ _site
 .jekyll-metadata
 vendor
 /__wip
-wip-*
+wip*
 _site-integrity-output
 .vscode/settings.json
