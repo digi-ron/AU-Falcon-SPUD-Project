@@ -204,11 +204,12 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 ## Miscellaneous Notes
 
-- The Instrument cluster contains the odometer reading for the vehicle it is installed in. For this reason, swapping out the cluster requires the replacement cluster to have a comparable odometer reading. ALternatively, you could have the cluster reprogrammed, or have the EEPROM (which stores the information) swapped between a working and non-working cluster, however very few third parties perform this service themselves, and VDO, the OEM for the clusters, is unlikely to assist
+- The Instrument cluster contains the odometer reading for the vehicle it is installed in. For this reason, swapping out the cluster requires the replacement cluster to have a comparable odometer reading. Alternatively, you could have the cluster reprogrammed, or have the EEPROM (which stores the information) swapped between a working and non-working cluster, however very few third parties perform this service themselves, and VDO, the OEM for the clusters, is unlikely to assist
 
     > There is misinformation in various internet locations suggesting that only the Series 1 clusters store the odometer reading in the cluster. This can be proven incorrect by following the odometer reading instructions detailed [in the Bench Testing Page](./ICBenchTest/ICBenchTest.md#retrieving-odometer-reading-from-cluster)
     {: .block-note}
 
-- Investigation was done in regards to setting custom odometer values for legitimate purposes (part replacement) but was ultimately abandoned for legal reasons (bad actors could use instructions to commit fraud). Notes on investigation below:
-  - IC is a Microwire `93C46` in a 16-bit configuration. Capacity 128 bytes
+- Investigation was done in regards to setting custom odometer values for legitimate purposes e.g. part replacement, but was ultimately abandoned for legal reasons (bad actors could use instructions to commit fraud). Notes on partial investigation are below:
+  - IC is a Microwire `93C46` in a 16-bit configuration. Capacity 128 bytes, and read/write seems to be possible in-circuit.
   - Contents not able to be deciphered simply from HEX to ASCII conversion or similar. Known types of decoding produced unpredictable results, and dumps were incompatible between trim levels e.g. low cluster dumps would cause high clusters to become non-functional
+  - Suspect that the cluster cannot store even odometer readings. Cutting power to a cluster while a even value was displayed caused the reading to "round" to the next odd number once power was returned.
