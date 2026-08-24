@@ -45,7 +45,7 @@ The following assume you are looking at the loom end connector with the clip fac
 
 ## Fuel Button
 
-> The fuel release button plug specification and wiring is currently unknown, pending information from part manufacturer(s). More information is listed below as discovered
+> The fuel release button plug specification and wiring is currently unknown. All known information is listed below as discovered
 {: .block-note}
 
 The following is known about the connectors for the fuel button, however no part number or original manufacturer has been discerned:
