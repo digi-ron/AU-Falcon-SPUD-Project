@@ -107,8 +107,8 @@ The following information assumes you are looking at the instrument cluster conn
 | 11 | Battery + | +12v | Max. 13.5V |
 | 12 | Speedometer + | +8.2V | requires secondary power supply or step down from 12V for testing |
 | 13 | Speed Out |<span class="other-highlight">UNKNOWN</span> | Not input, no test wire required |
-| 14 | Speedometer In | PWM | Voltage (V) between 0-13.5 required |
-| 15 | Tachometer In | PWM | Voltage (V) between 0-13.5 required |
+| 14 | Speedometer In | PWM | 12v PWM |
+| 15 | Tachometer In | PWM | 12v PWM |
 | 16 | LCD Dim | <span class="other-highlight">UNKNOWN</span> | Tested with GND (-) and +12v |
 | 17 | Diagnostic I/O | <span class="other-highlight">UNKNOWN</span> | Likely related to [BCM](../../BCM/BCM.md) Communication |
 | 18 | Serial Rx | <span class="other-highlight">UNKNOWN</span> | |
@@ -125,9 +125,6 @@ The following information assumes you are looking at the instrument cluster conn
 > Low Cluster not yet fully tested, to be added when complete
 {: .block-note}
 
-<!-- TODO you have no joke 3 1/2 low clusters, test one dammit -->
-
-<!-- 
 Cluster tested: 2001 Model AU Falcon Futura cluster (Series 2)
 
 ### Connector 1 - 12 way connector
@@ -186,13 +183,13 @@ The following information assumes you are looking at the instrument cluster conn
 | --- | --- | --- | --- |
 | 01 | Battery - | GND (-) | |
 | 02 | Signal - | GND (-) | |
-| 03 | Coolant Temperature | Resistance (Ω) | Set between 180-1380Ω |
+| 03 | Coolant | Resistance (Ω) | Set between 180-1380Ω |
 | 04 | Ignition | +12v | Max. 13.5V |
 | 05 | Oil | GND (-) | |
 | 06 | Door Ajar | GND (-) | |
 | 07 | Fuel Level | Resistance (Ω) | Set between 0-176Ω |
-| 08 | Radio Out | <span class="other-highlight">UNKNOWN</span> | Requires [Head Unit](../../../Audio/HeadUnit/HeadUnit.md), out of scope |
-| 09 | Overspeed | <span class="other-highlight">UNKNOWN</span> | Possibly resistance based? |
+| 08 | N/a | | |
+| 09 | N/a | | |
 | 10 | N/a | | |
 | 11 | Battery + | +12v | Max. 13.5V |
 | 12 | Speedometer + | +8.2V | requires secondary power supply or step down from 12V for testing |
