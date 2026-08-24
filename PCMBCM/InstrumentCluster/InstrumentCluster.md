@@ -37,6 +37,7 @@ When changing between instrument cluster types, the following should be put into
     - Low Coolant - May not be present
     - Gear selection display (where fitted) - not present
     - Door open display - Simplified - light for any door open present, but no wiring for individual doors
+    - Distance To Empty (DTE) display - high models have this displayed in the MDC, which is not present in the low dash
 
 ### Pursuit Cluster - Speedometer Calibration
 Pursuit clusters are not only sought after as they are, in theory, one of the rarest types of speedometer available for the AU Falcon, they are also useful for on-the-fly speedometer calibration, allowing for much more flexibility with wheel sizes and differential ratios.
@@ -95,11 +96,11 @@ Below are the known screens available in AU Falcons diagnostic mode
 | 9 | *UNKNOWN* | *UNKNOWN* |
 | 10 | *UNKNOWN* | *UNKNOWN* |
 | 11 | *UNKNOWN* | *UNKNOWN* |
-| 12 | *UNKOWN* | *UNKNOWN* |
-| 13 | *UNKOWN* | *UNKNOWN* |
-| 14 | *UNKOWN* | *UNKNOWN* |
-| 15 | *UNKOWN* | *UNKNOWN* |
-| 16 | *UNKOWN* | *UNKNOWN* |
+| 12 | *UNKNOWN* | *UNKNOWN* |
+| 13 | *UNKNOWN* | *UNKNOWN* |
+| 14 | *UNKNOWN* | *UNKNOWN* |
+| 15 | *UNKNOWN* | *UNKNOWN* |
+| 16 | *UNKNOWN* | *UNKNOWN* |
 | 17 | (illuminates all sections) | (illuminates all sections) |
 | 18 | Blank (test all sections off) | Blank (test all sections off) |
 
@@ -206,10 +207,10 @@ note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are sub
 
 - The Instrument cluster contains the odometer reading for the vehicle it is installed in. For this reason, swapping out the cluster requires the replacement cluster to have a comparable odometer reading. Alternatively, you could have the cluster reprogrammed, or have the EEPROM (which stores the information) swapped between a working and non-working cluster, however very few third parties perform this service themselves, and VDO, the OEM for the clusters, is unlikely to assist
 
-    > There is misinformation in various internet locations suggesting that only the Series 1 clusters store the odometer reading in the cluster. This can be proven incorrect by following the odometer reading instructions detailed [in the Bench Testing Page](./ICBenchTest/ICBenchTest.md#retrieving-odometer-reading-from-cluster)
+    > There is misinformation in various internet locations suggesting that only the Series 1 clusters store the odometer reading in the cluster. This can be proven incorrect by following the odometer reading instructions detailed [in the Bench Testing Page](./ICBenchTest/ICBenchTest.md#retrieving-odometer-reading-from-cluster). The IC present is shared through to the BFIII Falcon instrument clusters and may have the same functionality, however this is out of scope for this project.
     {: .block-note}
 
 - Investigation was done in regards to setting custom odometer values for legitimate purposes e.g. part replacement, but was ultimately abandoned for legal reasons (bad actors could use instructions to commit fraud). Notes on partial investigation are below:
   - IC is a Microwire `93C46` in a 16-bit configuration. Capacity 128 bytes, and read/write seems to be possible in-circuit.
   - Contents not able to be deciphered simply from HEX to ASCII conversion or similar. Known types of decoding produced unpredictable results, and dumps were incompatible between trim levels e.g. low cluster dumps would cause high clusters to become non-functional
-  - Suspect that the cluster cannot store even odometer readings. Cutting power to a cluster while a even value was displayed caused the reading to "round" to the next odd number once power was returned.
+  - Suspect that the cluster cannot store even odometer readings. Cutting power to a cluster while a even value was displayed caused no noticeable change in chip dumps.
