@@ -117,7 +117,7 @@ The following information assumes you are looking at the instrument cluster conn
 
 ## XR / Mid Cluster
 
-> XR / Mid Cluster not yet tested, no plans to add due to limited resources
+> XR / Mid Cluster not yet tested, no plans to add due to [limited resources](../../../Disclaimer.md#secondary-disclaimer---lack-of-resources)
 {: .block-note}
 
 ## Low Cluster
