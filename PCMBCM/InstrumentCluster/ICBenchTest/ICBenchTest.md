@@ -15,7 +15,7 @@ If required for some reason, the Instrument cluster can be partially tested by w
 > - Tools/supplies:
 >   - Multimeter
 >   - Resistors/Potentiometers (for adjustable inputs)
->   - Regulated DC Power Supply (12V 5A minimum required)
+>   - Regulated DC Power Supply (12V 1A recommended)
 >   - PWM signal generator
 >   - switch/switch panel (for controlling)
 >   - AMP Multilock II Connectors:
@@ -91,8 +91,7 @@ For the following tables, an inexpensive Pulse Width Modulation (PWM) signal gen
 | 382 | 240 (Max. Speed) |
 
 <!-- TODO confirm cop cluster is the same -->
-<!-- TODO this seems to have something else going on, it won't register with just square wave -->
-<!-- ### Tachometer (RPM)
+### Tachometer (RPM)
 
 #### I6 Engine
 
@@ -112,4 +111,4 @@ For the following tables, an inexpensive Pulse Width Modulation (PWM) signal gen
 | 200 | 3000 |
 | 333 | 5000 |
 | 367 | 5500 (rev. limiter) |
-| 467 | 7000 (Max. reading) | -->
+| 467 | 7000 (Max. reading) |
