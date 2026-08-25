@@ -135,6 +135,6 @@ April 11th 2024, The SPUD Project was born.
 
 I have no mechanical background, I'm a web/software developer by trade and the only reason I can use tools is due to my Dad being an ex-engineer. I'm happy to jump into research rabbit-holes, and the cars I've helped with and worked on have mostly been AU-FGX Falcons. This was originally just going to be for my reference but I figured others might benefit, so hopefully there's some good info here for all those interested. I know it looks a bit weird in search results but that's just because I wanted the hosting costs to be $0 (needed to save money somewhere)
 
-If you like what you see and you want to buy me a beer, I added a donate button to the bottom of the site, it's appreciated but by no means required, because I don't believe in holding this information at ransom. I also have a feedback form in the same space below if you find anything that needs correction or want to get in touch about something I might know.
+If you like what you see and you want to buy me a beer, I added a donate button to the bottom of the site, I haven't added any other way to make money from the site nor have I held anything at ransom on personal beliefs, so anything is appreciated, as even a virtual gold-coin donation would exceed a month of ad revenue anyways. I also have a feedback form in the same space below if you find anything that needs correction or want to get in touch about something I might know.
 
 <center>Enjoy :)</center>
