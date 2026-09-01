@@ -42,6 +42,7 @@ Below is a list of known Tickford-supplied options, based on multiple marketing 
 | Body styling kit with front and rear skirts, rocker mouldings and full wing spoiler | `BODYKIT` | Tickford-specific body kit, generally only used on the XR variants |
 | Momo steering wheel | `MOMO STEERING WHEEL` | Includes both the coloured Leather steering wheels and the wood-accented "Luxury" steering wheel |
 | Momo steering wheel and Momo T-Bar shifter | `MOMO STEERING WHEEL & 'T'BAR` | Includes both the coloured Leather steering wheels and the wood-accented "Luxury" steering wheel |
+| Momo steering wheel and manual Momo gear knob | `MOMO STEERING WHEEL & GEAR KNOB` | Includes both the coloured Leather steering wheels and the wood-accented "Luxury" steering wheel |
 | Premium Brakes | `PREMIUM BRAKE PACKAGE` | Approx. 330mm diameter Brembo brake upgrade fitted to Series 2-3 AU Falcons. Different to the brakes fitted to the T-Series models, which have no plate abbreviation due to these models [not having the Modification Plate](#tickford-build-number-plate) |
 | Sport Suspension | *unknown* | only present on plate if non-XR as Sport Suspension was standard on XR trim |
 | Sunroof | `SUNROOF` | |
@@ -57,7 +58,7 @@ Certain options and configurations had alternative plates, listed below:
 
 ### Tickford Build Number Plate
 
-T-Series models of the AU Falcon (TE50/TS50/TL50) did not appear to have Tickford option plates. Instead they were fitted with a Build number plate, which contains a build number vertically on the left side, and a Tickford "Winged T" logo, the Model number (TE50/TS50/TL50) and the VIN Number on the right side. The Tickford build number plate, if present, can be found in the [same location as the TVE Plate](#tickford-vehicle-engineering-plate).
+T-Series models of the AU Falcon (TE50/TS50/TL50) did not have Tickford option plates. Instead they were fitted with a Build number plate, which contains a build number vertically on the left side, and a Tickford "Winged T" logo, the Model number (TE50/TS50/TL50) and the VIN Number on the right side. The Tickford build number plate, if present, can be found in the [same location as the TVE Plate](#tickford-vehicle-engineering-plate).
 
 > Very early examples of the TE50/TS50/TL50 have been known to have P## instead of ### (where each # is a number between 0-9) and signify a Preproduction build. Information on this is sparce but it is assumed that these were sold to Ford Australia staff or partners originally, and are considered incredibly rare in original condition
 {: .block-note}
