@@ -36,7 +36,7 @@ If you wish to replace or "upgrade" button(s) on a [Series 1](../../Miscellaneou
 
 ![Demister Button Comparison](./demist-comparison.jpg)
 
-> A comparison between the [demister button]() from a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) Falcon Forte (top) and a [demister button]() from a wrecked Ford Fairmont (bottom)
+> A comparison between the demister button from a [Series 1](../../Miscellaneous/SeriesInformation/SeriesInformation.md#series-1) Falcon Forte (top) and a demister button from a wrecked Ford Fairmont (bottom)
 
 ## Plug Type
 
@@ -132,7 +132,7 @@ All models of AU falcon should be fitted with a rear demister button as standard
 
 > Factory Wiring Harness Plug Colour (ECON) - Orange
 
-> Factory Wiring Harness Plug Colour (Lock) - Green
+> Factory Wiring Harness Plug Colour (Lock) - Orange
 
 On models fitted with a column shifter (e.g. bench seat optioned utes), an ECON button is fitted to the centre dash with the same plugs as the other buttons on this page. On Higher end models (Fairmont/Fairlane/LTD), a lock button is fitted to the centre dash. Both buttons are identical barring the pattern printed to the front, has 6 accessible pins, and are momentary switches:
 
@@ -155,7 +155,7 @@ On models fitted with a column shifter (e.g. bench seat optioned utes), an ECON 
 
 ### Specifics - TCS button
 
-> Factory Wiring Harness Plug Colour - UNKNOWN
+> Factory Wiring Harness Plug Colour - Green
 
 On models where a Traction control System is present, a Traction control button can be found. This button has 4 accessible pins, and is a momentary switch:
 
