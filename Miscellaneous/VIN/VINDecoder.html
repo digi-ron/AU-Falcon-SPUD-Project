@@ -14,6 +14,8 @@ title: Ford Falcon AU VIN Decoder
 </style>
 <script>
     const vinValidationRegex = /[6][F][P][A]{3}[J][G]((SW)|(LW)|(WA)|(CM))[WXY12][BRAGCKDELYSTJUMP][0-9]{5}/i;
+    const extendedvinValidationRegex = /[6][F][P][A]{3}[J][G](.){3}[BRAGCKDELYSTJUMP][0-9]{5}/i;
+    var extendedVINLastErr = "";
 
     const chassisObj = {
         "SW": {
@@ -65,9 +67,11 @@ title: Ford Falcon AU VIN Decoder
             setErrorLevel(-1);
             return;
         }
+        clearVINResults();
         if (!RegExp(vinValidationRegex).test(vin)) {
-            console.error("Invalid VIN");
-            setErrorLevel(1);
+            console.warn("Invalid AU Falcon VIN, dropping to fallback function");
+            handleExtendedVINInformation(vin);
+            //setErrorLevel(1);
             return;
         }
 
@@ -109,6 +113,30 @@ title: Ford Falcon AU VIN Decoder
         setErrorLevel(0);
     }
 
+    function handleExtendedVINInformation(vin) {
+        vin = vin.toUpperCase();
+        if (!extendedvinValidationRegex.test(vin)) {
+            setErrorLevel(1);
+            return;
+        }
+        const chassisChars = vin.slice(8,10);
+        if (chassisChars === "AT") {
+            extendedVINLastErr = "Possible VIN for another model: Ford Territory";
+            setErrorLevel(2);
+            return;
+        }
+        const dateChar = vin.slice(10, 11);
+        if (dateChar <= "W" && dateChar >= "G") {
+            extendedVINLastErr = "Possible VIN for previous model: E-Series Falcon";
+            setErrorLevel(2);
+            return;
+        } else if (dateChar >= "2" && dateChar <= "G") {
+            extendedVINLastErr = "Possible VIN for newer model: B-Series or F-Series Falcon";
+            setErrorLevel(2);
+            return;
+        }
+    }
+
     function setFieldValues(inputObj) {
         document.getElementById("chassisOutput").innerHTML = `${inputObj.chassis.chars} - ${inputObj.chassis.name} <i>(${inputObj.chassis.description})</i>`;
 
@@ -118,7 +146,6 @@ title: Ford Falcon AU VIN Decoder
     }
 
     function clearVINResults() {
-        document.getElementById("vinInput").value = "";
         document.getElementById("chassisOutput").innerText = "-";
         document.getElementById("dateOutput").innerText = "-";
         document.getElementById("engineNumber").innerText = "-";
@@ -126,11 +153,20 @@ title: Ford Falcon AU VIN Decoder
         document.getElementById("vinErr").classList = "";
     }
 
+    function clearFieldValues() {
+        document.getElementById("vinInput").value = "";
+        clearVINResults();
+    }
+
     //enter 0 for success, 1 for error, -1 for blank
     function setErrorLevel(errorLevel) {
         const targetElm = document.getElementById("vinErr");
 
         switch (errorLevel) {
+            case -1:
+                targetElm.innerText = "VIN is empty";
+                targetElm.classList = "other-highlight";
+                break;
             case 0:
                 targetElm.innerText = "Valid VIN";
                 targetElm.classList = "good-highlight";
@@ -139,9 +175,9 @@ title: Ford Falcon AU VIN Decoder
                 targetElm.innerText = "Invalid VIN";
                 targetElm.classList = "bad-highlight";
                 break;
-            case -1:
-                targetElm.innerText = "VIN is empty";
-                targetElm.classList = "other-highlight";
+            case 2:
+                targetElm.innerText = extendedVINLastErr;
+                targetElm.classList = "bad-highlight";
                 break;
             default:
                 console.error("Invalid error level");
@@ -160,7 +196,7 @@ title: Ford Falcon AU VIN Decoder
 
     <div class="printHide">
         <blockquote class="printHide block-note">
-            This calculator is based on the notes collated on the <a href="./VIN.html">VIN</a> page, please refer there for information on manually discerning VIN specifics.
+            This calculator is based on the notes collated on the <a href="./VIN.html">VIN</a> page, please refer there for information on manually discerning VIN specifics. Older and newer VINs are not fully supported, and this tool can only discern between pre/post AU models and Territory models, with no further granularity.
         </blockquote>
         <br/>
         <center id="vinErr"></center>
@@ -206,7 +242,7 @@ title: Ford Falcon AU VIN Decoder
                     <button onclick="getVINformation(document.getElementById('vinInput').value)">Decode VIN</button>
                 </td>
                 <td style="align-content: start;">
-                    <button onclick="clearVINResults()">Clear</button>
+                    <button onclick="clearFieldValues()">Clear</button>
                 </td>
             </tr>
         </tbody>
