@@ -124,8 +124,8 @@ The plugs in the back of the instrument cluster are all MULTILOCK 040 II connect
 > - Physical Inspection (confirmation)
 {: .info-sources}
 
-### IMPORTANT
-note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are subtle differences between the 2 versions
+> note that the plugs are MULTILOCK 040 II and not MULTILOCK 040, as there are subtle differences between the 2 versions
+{: .block-note}
 
 ---
 
