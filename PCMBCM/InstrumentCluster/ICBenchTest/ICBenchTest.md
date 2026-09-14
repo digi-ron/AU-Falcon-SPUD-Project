@@ -90,7 +90,6 @@ For the following tables, an inexpensive Pulse Width Modulation (PWM) signal gen
 | 350 | 220 |
 | 382 | 240 (Max. Speed) |
 
-<!-- TODO confirm cop cluster is the same -->
 ### Tachometer (RPM)
 
 #### I6 Engine
