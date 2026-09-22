@@ -128,6 +128,6 @@ For the following tables, an inexpensive Pulse Width Modulation (PWM) signal gen
 | 467 | 7000 (Max. reading) |
 
 > Information Sources:
-> - Factory Workshop Manual (sourced through [FordForums](../../Credits.md#sources))
+> - Factory Workshop Manual (sourced through [FordForums](../../../Credits.md#sources))
 > - Physical Inspection x3
 {: .info-sources}
