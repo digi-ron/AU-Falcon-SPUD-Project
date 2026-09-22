@@ -18,13 +18,6 @@ The clusters themselves come in various trims, which have differences ranging fr
 
 When changing between instrument cluster types, the following should be put into consideration:
 
-<!-- TODO do this then report back, conflicting reports available
-
-- If you are swapping a 220km/h to a 240km/h instrument cluster, regardless of low/high wiring, the speedometer will be off by about 9.09%. Transmission cogs or an aftermarket speedometer adjuster should be used in most cases, except for Police clusters which are [able to be calibrated to this percentage](#pursuit-cluster---speedometer-calibration)
-
-    > Note that changing transmission gears will change shift points in the BTR Automatic transmission
-    {: .block-note} -->
-
 - The pinouts between low and high clusters are different, and will require moderate rewiring to retrofit
 
     > Please see the following pages for further information regarding cluster pinouts:
@@ -210,7 +203,13 @@ The plugs in the back of the instrument cluster are all MULTILOCK 040 II connect
     > There is misinformation in various internet locations suggesting that only the Series 1 clusters store the odometer reading in the cluster. This can be proven incorrect by following the odometer reading instructions detailed [in the Bench Testing Page](./ICBenchTest/ICBenchTest.md#retrieving-odometer-reading-from-cluster). The IC present is shared through to the BFIII Falcon instrument clusters and may have the same functionality, however this is out of scope for this project.
     {: .block-note}
 
-- Investigation was done in regards to setting custom odometer values for legitimate purposes e.g. part replacement, but was ultimately abandoned for legal reasons (bad actors could use instructions to commit fraud). Notes on partial investigation are below:
+- Investigation was done in regards to modifying instrument clusters or enabling part replacement, but was abandoned. Partial investigation notes below:
   - IC is a Microwire `93C46` in a 16-bit configuration. Capacity 128 bytes, and read/write seems to be possible in-circuit.
-  - Contents not able to be deciphered simply from HEX to ASCII conversion or similar. Known types of decoding produced unpredictable results, and dumps were incompatible between trim levels e.g. low cluster dumps would cause high clusters to become non-functional
+  - Dumps are incompatible between trim levels e.g. low cluster dumps would cause high clusters to become non-functional and vice-versa.
   - Suspect that the cluster cannot store even odometer readings. Cutting power to a cluster while a even value was displayed caused no noticeable change in chip dumps.
+  - [Pursuit Mode](#pursuit-cluster---speedometer-calibration) can be activated on non-pursuit clusters by changing addresses `0x04`-`0x05` to `FA FA` instead of `FF FF`. This was discovered using a pursuit cluster dump, and was fully tested on one Low cluster and bench tested on one High cluster, with the same results.
+
+> No further information can be shared relating to the instrument cluster IC either on this website or through contacting the author. Please read the below statement:
+> 
+> *"During the research for this section, I encountered information relating to odometer operation. Because of legal issues surrounding odometer tampering, I stopped investigating this further. The information above is all the publishable information and is presented as findings rather than instructions. I am unable to answer questions, provide support, or share **any** additional information, regardless of my opinions on the matter or your use case ~ [Ronnie](../../Credits.md#about-the-author-and-spud-project-lore)"*
+{: .block-warning}
