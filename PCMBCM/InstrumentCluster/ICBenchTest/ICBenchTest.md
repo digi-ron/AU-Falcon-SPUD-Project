@@ -81,14 +81,29 @@ For the following tables, an inexpensive Pulse Width Modulation (PWM) signal gen
 
 #### 240km/h Speedometers
 
-| Hz signal | km/h |
+> This was tested using a 240 km/h [Pursuit Cluster](../InstrumentCluster.md#pursuit-cluster---speedometer-calibration), and as a result may be inaccurate vs "typical" 240km/h clusters
+{: .block-note}
+
+<!-- TODO keep in case other clusters are the same -->
+<!-- | Hz signal | km/h |
 | --- | --- |
 | 95.5 | 60 |
 | 159 | 100 |
 | 175 | 110 |
 | 239 | 150 |
 | 350 | 220 |
-| 382 | 240 (Max. Speed) |
+| 382 | 240 (Max. Speed) | -->
+
+| Hz signal | km/h |
+| --- | --- |
+| 110 | 60 |
+| 181 | 100 |
+| 200 | 110 |
+| 217 | 120 |
+| 271 | 150 |
+| 359 | 200 |
+| 413 | 230 |
+| 431 | 240 (Max. Speed) |
 
 ### Tachometer (RPM)
 
@@ -111,3 +126,8 @@ For the following tables, an inexpensive Pulse Width Modulation (PWM) signal gen
 | 333 | 5000 |
 | 367 | 5500 (rev. limiter) |
 | 467 | 7000 (Max. reading) |
+
+> Information Sources:
+> - Factory Workshop Manual (sourced through [FordForums](../../Credits.md#sources))
+> - Physical Inspection x3
+{: .info-sources}
