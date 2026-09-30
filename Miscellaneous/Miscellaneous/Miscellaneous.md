@@ -10,6 +10,7 @@ below is a list of other notes regarding the AU Falcon, which were not important
 - Lock/Ignition key identified as 6-cut Tibbe Key. [Smartlock](../../PCMBCM/Keyfob/Keyfob.md#s1-smartlock) fitted models only need to be cut physically, [Smartshield](../../PCMBCM/Keyfob/Keyfob.md#s2s3-smartshield) fitted models require secure code chip generation (key unknown). Killswitch recommended for S1 vehicles.
 - Idle RPM with [ISC](../../Engine/ISC/ISC.md) disconnected should be about 500RPM, remainder is handled by [PCM](../../PCMBCM/PCM/PCM.md) tune settings
 - Ignition, [BCM](../../PCMBCM/BCM/BCM.md), and [PCM](../../PCMBCM/PCM/PCM.md) are linked, re-pairing for single component change not easily viable, Smartlock bypass module for S1 or J3 chip for S2/3 cheapest known methods
+- Head Unit Steering Wheel Control modules supplied by [Aerpro](../../Credits.md#sources) appears to be modified or resold Connects2 Universal Analogue Stalk. Original design unknown but current model, the `UNI-SWC.3`, shows compatibility with AUII-III vehicles
 - Ignition leads average 4.5 KΩ resistance
 - Old vehicles (300k+ highway, 200k+ neglected) proven working well using 15W40 weight oil, reduces lifter tick, oil consumption, and in some cases, oil leaks. Mineral tested (Woolworths Essentials specifically) due to low cost
 - Original Ford factory manual exists in multiple government libraries as of time of writing, ISBNs below. Copying appears cost prohibitive, watermarked version of sections 2-20 available on [FordForums](../../Credits.md#sources) at time of writing:
