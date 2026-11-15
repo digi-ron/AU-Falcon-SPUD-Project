@@ -63,6 +63,7 @@ The following is known about the connectors for the fuel button, however no part
   - Nice part number `BS61` (unconfirmed)
 - Confirmed Factory Workshop Manual references it as connector `C-170`. This number continues into the BA Falcon Workshop Manual
 - Confirmed used as fuel button release switch connector from EB-BFIII Falcons, but [button cap requires replacement for fitment](#removing-the-button-caps)
+- EB-EL falcon door lock button uses the same connector, at odds with the later models
 - Suspected used in some Toyota models for brake light circuit cruise control functionality:
     - Models:
       - Corona/Avante RT142 & ST 141 (1983-1987)
@@ -78,7 +79,7 @@ The following is known about the connectors for the fuel button, however no part
 
 ### Removing The Button Caps
 
-Should you need to remove the cap on a fuel door button, e.g. when swapping from a button assembly from a EB-EL or BA/BF Falcon, follow the instructions below:
+Should you need to remove the cap on a fuel door button, e.g. when swapping from a button between AU and B-Series models, follow the instructions below:
 
 > Images are taken from an already broken AU Falcon button, to prevent damage to good parts. Refer to the [parts sharing table](../../Miscellaneous/PartsSharing/PartsSharing.md#parts-sharing-table) for compatible model buttons
 {: .block-note}
